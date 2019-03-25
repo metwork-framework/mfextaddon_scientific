@@ -1,0 +1,5 @@
+/adm
+/layers/layer*/*/build
+/layers/download_archive
+/layers/layer*/*_extra_python_packages/src
+/layers/layer*/*_extra_python_packages/tempolayer*
