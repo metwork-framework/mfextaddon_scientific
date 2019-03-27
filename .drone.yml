@@ -78,6 +78,15 @@ pipeline:
     when:
       event: pull_request
       branch: integration
+  bootstrap_integration_pr_release:
+    image: metwork/mfcom-${OS_VERSION}-buildimage:${DRONE_BRANCH}
+    environment:
+      - TARGET_DIR=${DRONE_BRANCH##release_}
+      - DEP_DIR=${DRONE_BRANCH##release_}
+    <<: *bootstrap_common
+    when:
+      event: pull_request
+      branch: [ release_* ]
 
   bootstrap:
     image: metwork/mfcom-${OS_VERSION}-buildimage:${DRONE_BRANCH}
@@ -118,7 +127,9 @@ pipeline:
     environment:
       - TARGET_DIR=${DRONE_BRANCH##release_}
     when:
-      event: push
+
+      event: [ push, pull_request ]
+
       branch: [ master, experimental*, release_* ]
   build_tag:
     <<: *build_common

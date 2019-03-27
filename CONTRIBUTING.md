@@ -5,6 +5,33 @@
 **WARNING: work in progress**
 
 
+## Branching model
+
+### The `integration` branch
+
+Because building and testing whole metwork-framework is a long and difficult task, we use a specific branch `integration` to
+merge pull-requests. Every change is made by a pull-request on this branch and every change must be reviewed by a team member
+to be accepted.
+
+We use a [mergify bot](https://mergify.io/) to merge pull-requests, so merging rules are clear and described in the `.mergify.yml` file in the repository.
+
+### The `master` branch
+
+Nobody (including administrators) can't commit to the `master` branch. So pull-requests are not accepted in the `master` branch. The only way to commit code in this branch is to pass through the `integration` branch.
+
+When the whole framework is "stable", a team member will copy the `integration` branch on the `master` branch with a specific non-interactive script (we are thinking of a way to automatize this).
+
+So the `master` branch is always "behind" the `integration` branch. But only for a few hours or (at worse) days.
+
+### Released branches
+
+FIXME
+
+### Which branch do i use ?
+
+FIXME
+
+
 
 
 
