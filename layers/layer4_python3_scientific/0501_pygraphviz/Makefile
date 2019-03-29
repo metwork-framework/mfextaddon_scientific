@@ -1,2 +1,2 @@
 include ../../../adm/root.mk
-include ../../layer_wrapper.mk
+include $(MFEXT_HOME)/share/layer_wrapper.mk

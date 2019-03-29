@@ -31,4 +31,3 @@ SQLAlchemy==1.2.14
 subprocess32==3.5.2
 toolz==0.9.0
 https://downloads.sourceforge.net/project/matplotlib/matplotlib-toolkits/basemap-1.0.7/basemap-1.0.7.tar.gz#egg=basemap
--e git+https://github.com/metwork-framework/mapserverapi_python.git@b04bbb6e6d7c6994f17f3e0e8b605e3600b45305#egg=mapserverapi
