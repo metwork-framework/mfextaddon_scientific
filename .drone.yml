@@ -35,10 +35,13 @@ build_common: &build_common
     - mkdir -p /opt/metwork-mfext-$${TARGET_DIR}
     - mkdir -p /pub/metwork/continuous_integration/buildlogs/${DRONE_BRANCH}/mfextaddon_scientific/${OS_VERSION}/${DRONE_BUILD_NUMBER}
     - make >/pub/metwork/continuous_integration/buildlogs/${DRONE_BRANCH}/mfextaddon_scientific/${OS_VERSION}/${DRONE_BUILD_NUMBER}/make.log 2>&1
-
     - make test >>/pub/metwork/continuous_integration/buildlogs/${DRONE_BRANCH}/mfextaddon_scientific/${OS_VERSION}/${DRONE_BUILD_NUMBER}/make.log 2>&1
     - make RELEASE_BUILD=${DRONE_BUILD_NUMBER} rpm >>/pub/metwork/continuous_integration/buildlogs/${DRONE_BRANCH}/mfextaddon_scientific/${OS_VERSION}/${DRONE_BUILD_NUMBER}/make.log 2>&1
     - mv /opt/metwork-mfext-$${TARGET_DIR}/*.rpm .
+  volumes:
+    - /pub:/pub
+    - /private:/private
+    - /buildcache:/buildcache
 
 
 publish_ci_common: &publish_ci_common
