@@ -15,4 +15,4 @@ LICENSE=BSD
 
 all:: $(PREFIX)/lib/python$(PYTHON2_SHORT_VERSION)/site-packages/pygraphviz-1.5-py$(PYTHON2_SHORT_VERSION).egg-info
 $(PREFIX)/lib/python$(PYTHON2_SHORT_VERSION)/site-packages/pygraphviz-1.5-py$(PYTHON2_SHORT_VERSION).egg-info:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXTRACFLAGS="-I$(PREFIX)/../scientific/include" EXTRALDFLAGS="-L$(PREFIX)/../scientific/lib" download uncompress python2build python2install
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXTRACFLAGS="-I$(PREFIX)/../scientific/include" EXTRALDFLAGS="-L$(PREFIX)/../scientific/lib" EXTRAPKGCONFIGPATH="$(PREFIX)/../scientific/lib/pkgconfig" download uncompress python2build python2install
