@@ -29,4 +29,3 @@ click-plugins>=1.0
 pandas
 scikit-learn
 graphviz
--e git+https://github.com/metwork-framework/mapserverapi_python.git#egg=mapserverapi_python
