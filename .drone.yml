@@ -69,7 +69,8 @@ integration_tests_common: &integration_tests_common
     - echo -e "baseurl=http://metwork-framework.org/pub/metwork/continuous_integration/rpms/${DRONE_BRANCH}/${OS_VERSION}/" >> /etc/yum.repos.d/metwork.repo
     - echo -e "gpgcheck=0\n\enabled=1\n\metadata_expire=0\n" >>/etc/yum.repos.d/metwork.repo
     - yum -y localinstall metwork-mfext*.rpm
-    - /opt/metwork-mfext-${DRONE_BRANCH}/bin/mfext_wrapper ./run_integration_tests.sh
+    - yum -y install metwork-mfext-minimal
+    - /opt/metwork-mfext/bin/mfext_wrapper ./run_integration_tests.sh
 
 
 
