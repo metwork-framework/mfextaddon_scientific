@@ -56,6 +56,7 @@ echo "export MODULE_LOWERCASE := $(echo ${MODULE} | tr '[:upper:]' '[:lower:]')"
 echo "export METWORK_LAYERS_PATH := ${MFEXT_HOME}/opt:${MFEXT_HOME}" >>adm/root.mk
 echo "export MFEXT_HOME := ${MFEXT_HOME}" >>adm/root.mk
 echo "export MFEXT_ADDON := 1" >>adm/root.mk
+echo "export MFEXT_ADDON_NAME := scientific" >>adm/root.mk
 echo "export MFEXT_VERSION := ${MFEXT_VERSION}" >>adm/root.mk
 echo "export MODULE_HOME := ${MODULE_HOME}" >>adm/root.mk
 echo "export MODULE_VERSION := ${MFEXT_VERSION}" >>adm/root.mk
