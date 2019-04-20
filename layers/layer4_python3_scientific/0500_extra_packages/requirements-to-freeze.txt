@@ -29,3 +29,5 @@ click-plugins>=1.0
 pandas
 scikit-learn
 graphviz
+cfgrib
+xarray
