@@ -16,6 +16,7 @@ lxml==4.2.5
 matplotlib==2.2.2
 munch==2.3.2
 netCDF4==1.4.2
+palettable==3.1.1
 pandas==0.23.4
 Pillow==5.1.0
 pngquant==1.0.6
@@ -26,6 +27,7 @@ python-dateutil==2.7.3
 pytz==2018.4
 scikit-learn==0.20.1
 scipy==1.1.0
+seaborn==0.9.0
 Shapely==1.6.4.post2
 SQLAlchemy==1.2.14
 subprocess32==3.5.2

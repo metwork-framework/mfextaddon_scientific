@@ -31,3 +31,5 @@ scikit-learn
 graphviz
 cfgrib
 xarray
+palettable
+seaborn

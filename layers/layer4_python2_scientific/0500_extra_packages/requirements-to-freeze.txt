@@ -31,3 +31,5 @@ munch
 pandas
 scikit-learn
 graphviz
+palettable
+seaborn
