@@ -5,19 +5,21 @@ GDAL<2.3
 h5py
 netCDF4
 Pillow
-matplotlib
+#matplotlib=2.2.4 does not build for some reason
+matplotlib==2.2.2
 pngquant
 pyshp
 shapely
-scipy
+#We keep scipy<1.2.0 for python2 issue
+scipy<1.2.0
 dask
 toolz
 #geos is python3 only
 lxml
 pycurl
-pyproj
+#We must keep pyproj <=1.9.6 for cython issue with pip 9.0.3 (see https://github.com/pyproj4/pyproj/issues/177)
+pyproj<2.0.0
 SQLAlchemy
-https://downloads.sourceforge.net/project/matplotlib/matplotlib-toolkits/basemap-1.0.7/basemap-1.0.7.tar.gz#egg=basemap
 cdsapi
 #Fiona
 #Dependencies for Fiona which is built separately
