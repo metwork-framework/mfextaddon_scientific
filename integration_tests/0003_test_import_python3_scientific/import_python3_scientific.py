@@ -16,7 +16,6 @@ import lxml
 import pycurl
 import pyproj
 import sqlalchemy #SQLAlchemy
-import mpl_toolkits.basemap #basemap
 import cdsapi
 import pandas
 import sklearn
