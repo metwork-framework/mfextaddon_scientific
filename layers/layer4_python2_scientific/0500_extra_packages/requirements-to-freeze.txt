@@ -31,7 +31,9 @@ enum34
 munch
 #End Fiona dependencies
 pandas
-scikit-learn
+#We remove scikit-learn from python2_scientific (complicated issue
+#between 0.20.x version, numpy 1.16.4 and atlas on centos7)
+#scikit-learn
 graphviz
 palettable
 seaborn
