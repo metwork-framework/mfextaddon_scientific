@@ -18,7 +18,6 @@ import pyproj
 import sqlalchemy #SQLAlchemy
 import cdsapi
 import pandas
-import sklearn
 import graphviz
 import pygraphviz
 import eccodes
