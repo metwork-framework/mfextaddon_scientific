@@ -1,6 +1,6 @@
 ## What is MFEXT Scientific Addon?
 
-This module provide additional sets of tools and libraries of the :doc:`MetWork MFEXT <mfext:index>` module, for scientific developpement.
+This module provides additional sets of tools and libraries of the :doc:`MetWork MFEXT <mfext:index>` module, for scientific development.
 
 It doesn't contain any services, it is just a bunch of files and directories.
 
