@@ -54,7 +54,6 @@ $ which ncatted
 # execute ncatted through the mfext wrapper
 # (please replace {MFEXT_HOME} by the real mfext home !)
 $ {MFEXT_HOME}/bin/mfext_wrapper which ncatted
-/opt/metwork[...]/bin/python
 /opt/metwork-mfext-[...]/opt/scientific/bin/ncatted
 # => this is the MetWork ncatted command included in the MetWork scientific layer
 
