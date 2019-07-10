@@ -5,14 +5,3 @@
 /layers/layer*/*_extra_packages/tempolayer*
 /layers/layer*/*_extra_python_packages/src
 /layers/layer*/*_extra_python_packages/tempolayer*
-doc/_build
-doc/layer_*.md
-doc/api
-doc/layer_root.rst
-doc/layer_python2_scientific.rst
-doc/layer_python3_scientific.rst
-doc/layer_scientific.rst
-doc/mfextaddon_scientific_intro.rst
-doc/CHANGELOG*.md
-doc/CHANGELOG*.rst
-doc/changelogs.rst
