@@ -8,6 +8,7 @@
 
 
 ### Bug Fixes
+- fix building issues with proxy
 - remove scikit-learn from python2_scientific (complicated issue with numpy and atlas on centos7)
 
 
