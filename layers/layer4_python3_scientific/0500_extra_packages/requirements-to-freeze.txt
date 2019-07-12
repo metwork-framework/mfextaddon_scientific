@@ -37,3 +37,4 @@ xarray
 palettable
 seaborn
 cartopy
+eccodes-python
