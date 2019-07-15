@@ -37,3 +37,4 @@ pandas
 graphviz
 palettable
 seaborn
+MetPy
