@@ -5,10 +5,10 @@ include $(MFEXT_HOME)/share/package.mk
 # So we build it separately (not with pip install on 0500_extra_packages)
 # with temporary scl if gcc < 4.8
 export NAME=Fiona
-export VERSION=1.8.3
+export VERSION=1.8.6
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=33e8f7cf5943693353a27470dff3d540
+export CHECKSUM=f28d611a1da771e87bab9accf6587e87
 DESCRIPTION=\
 FIONA is OGR s neat and nimble API for Python programmers
 WEBSITE=https://github.com/Toblerity/Fiona

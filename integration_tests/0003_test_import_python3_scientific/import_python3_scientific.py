@@ -1,11 +1,11 @@
 import Cython
-import gdal #GDAL
+import gdal
 import h5py
 import netCDF4
-import PIL #Pillow
+import PIL
 import matplotlib
 import pngquant
-import shapefile #pyshp
+import shapefile
 import shapely
 import numpy
 import scipy
@@ -15,13 +15,15 @@ import geos
 import lxml
 import pycurl
 import pyproj
-import sqlalchemy #SQLAlchemy
+import sqlalchemy
 import cdsapi
 import pandas
 import sklearn
 import graphviz
 import pygraphviz
 import eccodes
-import fiona #Fiona
+import fiona
 import palettable
 import seaborn
+import metpy
+import cf_units

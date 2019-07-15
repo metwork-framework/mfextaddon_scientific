@@ -38,3 +38,4 @@ palettable
 seaborn
 cartopy
 eccodes-python
+MetPy
