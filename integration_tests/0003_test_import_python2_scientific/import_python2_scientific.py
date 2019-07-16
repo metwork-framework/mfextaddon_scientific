@@ -26,3 +26,4 @@ import palettable
 import seaborn
 import metpy
 import cf_units
+import Magics
