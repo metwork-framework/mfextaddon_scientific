@@ -38,3 +38,4 @@ graphviz
 palettable
 seaborn
 MetPy
+Magics
