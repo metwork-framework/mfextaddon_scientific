@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 ### New Features
+- upgrade Magics to 4.0 and build python2/3 api with pypi
 - update Fiona and cf-units
 - add MetPy
 - upgrade eccodes and use python3 binding from pypi
