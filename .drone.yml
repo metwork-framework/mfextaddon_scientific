@@ -75,7 +75,6 @@ integration_tests_common: &integration_tests_common
     - echo -e "baseurl=http://metwork-framework.org/pub/metwork/continuous_integration/rpms/$${DEP_BRANCH}/${OS_VERSION}/" >> /etc/yum.repos.d/metwork.repo
     - echo -e "gpgcheck=0\n\enabled=1\n\metadata_expire=0\n" >>/etc/yum.repos.d/metwork.repo
     - yum -y localinstall metwork-mfext*.rpm
-    - yum -y install metwork-mfext-minimal
     - /opt/metwork-mfext/bin/mfext_wrapper ./run_integration_tests.sh
 
 
@@ -178,7 +177,9 @@ pipeline:
 
   integration_tests_integration:
     <<: *integration_tests_common
-    image: centos:${OS_VERSION}
+    
+    image: metwork/mfxxx-${OS_VERSION}-testimage:integration
+    
     environment:
       - DEP_BRANCH=integration
     when:
@@ -188,7 +189,9 @@ pipeline:
       branch: [ integration, ci_*, pci_* ]
   integration_tests:
     <<: *integration_tests_common
-    image: centos:${OS_VERSION}
+    
+    image: metwork/mfxxx-${OS_VERSION}-testimage:${DRONE_BRANCH}
+    
     environment:
       - DEP_BRANCH=${DRONE_BRANCH}
     when:
