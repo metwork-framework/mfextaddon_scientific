@@ -124,3 +124,28 @@ alias mfext="source {MFEXT_HOME}/share/interactive_profile"
 ```
 
 in `.bash_profile` file and use this `mfext` alias when you want to quickly load the "mfext environment".
+
+
+## How to configure the metwork yum repository ?
+
+In order to configure the Metwork yum repository, refer to :doc:`MFEXT documentation <mfext:configure_metwork_repo>`
+
+## How install/upgrade/remove mfextaddon_scientific (with internet access) ?
+To install, run one or more of the following commands, depending on the `layer` you need:
+
+```bash
+# To install some scientific libraries
+yum install metwork-mfext-layer-scientific
+yum install metwork-mfext-layer-python3_scientific
+yum install metwork-mfext-layer-python2_scientific
+```
+
+To upgrade, use `yum upgrade` command and to remove, use `yum remove` command.
+
+.. seealso::
+    :doc:`mfext:install_a_metwork_package`
+
+    
+<!--
+Intentional comment to prevent m2r from generating bad rst statements when the file ends with a block .. xxx ::
+-->    
