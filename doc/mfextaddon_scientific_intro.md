@@ -1,4 +1,4 @@
-## What is MFEXT Scientific Addon?
+# What is MFEXT Scientific Addon?
 
 This module provides additional sets of tools and libraries of the :doc:`MetWork MFEXT <mfext:index>` module, for scientific development.
 
@@ -19,9 +19,9 @@ the documentation about layers or the :ref:`genindex`, or by using the search bo
 
 _ _ _
 
-## Usage
+# Usage
 
-### General
+## General
 
 After installation, there is no service to initialize or to start.
 
@@ -64,7 +64,7 @@ ncatted version 4.7.6
 
 ```
 
-### Usage (for the whole shell session)
+## Usage (for the whole shell session)
 
 If you are tired to use `mfext_wrapper` repeatedly, you can load the "mfext environment" for the whole shell session.
 
@@ -104,7 +104,7 @@ ncatted version 4.7.6
 .. note:: 
    | If you want to do that but in a non-interactive shell, you should use `source {MFEXT_HOME}/share/profile` instead.
 
-### Usage (automatically for one user)
+## Usage (automatically for one user)
 
 If you want to have a system user with "always loaded" metwork environment, you can add:
 
@@ -126,11 +126,11 @@ alias mfext="source {MFEXT_HOME}/share/interactive_profile"
 in `.bash_profile` file and use this `mfext` alias when you want to quickly load the "mfext environment".
 
 
-## How to configure the metwork yum repository ?
+# How to configure the metwork yum repository ?
 
 In order to configure the Metwork yum repository, refer to :doc:`MFEXT documentation <mfext:configure_metwork_repo>`
 
-## How install/upgrade/remove mfextaddon_scientific (with internet access) ?
+# How install/upgrade/remove mfextaddon_scientific (with internet access) ?
 To install, run one or more of the following commands, depending on the `layer` you need:
 
 ```bash
