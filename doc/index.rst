@@ -12,10 +12,7 @@ MFEXT Scientific Addon documentation
    layer_scientific
    layer_python2_scientific
    layer_python3_scientific
-   todo
    changelogs
-
-.. todo:: add documentation on how to install this addon (from 'generic' documentation or not ?)
 
 Indices and tables
 ==================
