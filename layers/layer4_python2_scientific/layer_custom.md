@@ -2,6 +2,6 @@
 
 {% block overview %}
 
-The `python3_scientific` layer is a set of **Python 3** libraries and tools devoted to scientific development.
+The `python2_scientific` layer is a set of **Python 2** libraries and tools devoted to scientific development.
 
 {% endblock %}
