@@ -8,7 +8,6 @@ MFEXT Scientific Addon documentation
    :maxdepth: 3
 
    mfextaddon_scientific_intro
-   layer_root
    layer_scientific
    layer_python2_scientific
    layer_python3_scientific
