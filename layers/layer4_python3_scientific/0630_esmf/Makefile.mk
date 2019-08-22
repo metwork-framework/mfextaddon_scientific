@@ -2,10 +2,12 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=esmf
-export VERSION=7_1_0r
+export VERSION=7_0_2
+#This version is not compatible with python3
+#7_1_0r may be compatible, but needs gfortran >= 4.5, not available on CentOS6
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=9e455bc36a0aaa9b87e0bdedc78a47f5
+export CHECKSUM=d2cb6e775833befc65ec9d623b18508f
 DESCRIPTION=\
 Earth System Modeling Framework (ESMF) Python Interface (ESMPy)
 WEBSITE=http://www.earthsystemmodeling.org
@@ -23,22 +25,9 @@ export ESMF_NETCDF=split
 export ESMF_NETCDF_INCLUDE=$(PREFIX)/../scientific_core/include
 export ESMF_NETCDF_LIBPATH=$(PREFIX)/../scientific_core/lib
 
-#We need gfortran >= 4.5 to build
-GFORTRAN_VERSION = `gfortran --version | head -1 | cut -d" " -f4 | cut -d"." -f1-2`
-DEVTOOLSET = 7
 
-ifeq ($(shell expr $(GFORTRAN_VERSION) \< "4.5" ), 1)
-
-all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-700-py$(PYTHON3_SHORT_VERSION).egg-info
-$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-700-py$(PYTHON3_SHORT_VERSION).egg-info:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX)                     EXPLICIT_NAME="$(EXPLICIT_NAME)" download uncompress
-	scl enable devtoolset-$(DEVTOOLSET) 'cd build/$(EXPLICIT_NAME)/src/addon/ESMPy && python setup.py build --ESMFMKFILE=$(ESMF_INSTALL_LIBDIR)/esmf.mk && python setup.py install --prefix=$(PREFIX)'
-
-else
-
-all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-700-py$(PYTHON3_SHORT_VERSION).egg-info
-$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-700-py$(PYTHON3_SHORT_VERSION).egg-info:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX)                     EXPLICIT_NAME="$(EXPLICIT_NAME)" download uncompress
-	cd build/$(EXPLICIT_NAME)/src/addon/ESMPy && python setup.py build --ESMFMKFILE=$(ESMF_INSTALL_LIBDIR)/esmf.mk && python setup.py install --prefix=$(PREFIX)
-
-endif
+all::
+#all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-700-py$(PYTHON3_SHORT_VERSION).egg-info
+#$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-700-py$(PYTHON3_SHORT_VERSION).egg-info:
+#	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX)                     EXPLICIT_NAME="$(EXPLICIT_NAME)" download uncompress
+#	cd build/$(EXPLICIT_NAME)/src/addon/ESMPy && python setup.py build --ESMFMKFILE=$(ESMF_INSTALL_LIBDIR)/esmf.mk && python setup.py install --prefix=$(PREFIX)
