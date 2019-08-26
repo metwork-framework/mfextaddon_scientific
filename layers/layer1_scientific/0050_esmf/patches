@@ -1,0 +1,2 @@
+#Patch to build with netcdf C and netcdf Fortran on 2 different directories
+esmf-build-with-netcdff-not-with-netcdfc.patch
