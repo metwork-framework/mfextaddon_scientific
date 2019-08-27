@@ -1,0 +1,12 @@
+diff -up esmf/build/common.mk.orig esmf/build/common.mk
+--- esmf/build/common.mk.orig	2019-08-26 10:35:34.187968490 +0200
++++ esmf/build/common.mk	2019-08-26 10:35:49.852968474 +0200
+@@ -1282,7 +1282,7 @@ ESMF_F90LINKLIBS          += $(ESMF_NETC
+ ESMF_F90LINKRPATHSTHIRD   += $(addprefix $(ESMF_F90RPATHPREFIX),$(subst -L,,$(filter -L%,$(ESMF_NETCDF_LIBS))))
+ endif
+ ifdef ESMF_NETCDF_LIBPATH
+-ifdef $(ESMF_NETCDF_FPATH)
++ifdef ESMF_NETCDF_FPATH
+ ifneq ($(ESMF_NETCDF_CPATH),$(ESMF_NETCDF_FPATH))
+ ESMF_CXXLINKPATHSTHIRD    += -L$(ESMF_NETCDF_FLIBPATH)
+ ESMF_F90LINKPATHSTHIRD    += -L$(ESMF_NETCDF_FLIBPATH)
