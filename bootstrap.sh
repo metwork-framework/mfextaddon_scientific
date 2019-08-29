@@ -10,13 +10,6 @@ function usage() {
    echo "usage: ./bootstrap.sh MFEXT_HOME"
 }
 
-if test "${METWORK_PROFILE_LOADED:-0}" = "1"; then
-    echo "ERROR: metwork environnement is already loaded"
-    echo "=> use a terminal without metwork environnement loaded"
-    echo "   to launch this script"
-    exit 1
-fi
-
 if test "${1:-}" = "--help"; then
     usage
     exit 0
@@ -44,7 +37,7 @@ if ! test -d adm; then mkdir adm; fi
 rm -f adm/root.mk
 touch adm/root.mk
 
-ROOT_PATH=${MFEXT_HOME}/bin:${PATH:-}
+ROOT_PATH=${MFEXT_HOME}/bin:${MFEXT_HOME}/opt/core/bin:${PATH:-}
 
 echo "Making adm/root.mk..."
 rm -f adm/root.mk adm/envtpl
