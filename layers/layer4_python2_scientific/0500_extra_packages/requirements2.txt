@@ -12,6 +12,7 @@ cycler==0.10.0
 Cython==0.29.12
 dask==1.2.2
 decorator==4.4.0
+ecmwf-api-client==1.5.4
 enum34==1.1.6
 funcsigs==1.0.2
 GDAL==2.2.4

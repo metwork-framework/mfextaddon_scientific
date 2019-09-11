@@ -39,3 +39,4 @@ palettable
 seaborn
 MetPy
 Magics
+ecmwf-api-client

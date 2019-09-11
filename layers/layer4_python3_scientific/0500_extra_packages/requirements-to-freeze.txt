@@ -40,3 +40,4 @@ cartopy
 eccodes-python
 MetPy
 Magics
+ecmwf-api-client
