@@ -4,3 +4,5 @@ pango@centos6,centos7
 libgomp@centos6,centos7
 atlas@centos6,centos7
 libquadmath@centos7
+libgomp.so.1()(64bit)@generic
+libquadmath.so.0()(64bit)@generic
