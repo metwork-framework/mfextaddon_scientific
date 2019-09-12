@@ -23,12 +23,12 @@ MFEXT_HOME=$(get_abs_filename "$1")
 export MFEXT_HOME
 MFEXT_VERSION=$(cat "${MFEXT_HOME}/config/version")
 export MFEXT_VERSION
-MODULE_VERSION=$("${MFEXT_HOME}/bin/guess_version.sh")
-export MODULE_VERSION
-export MODULE_HOME=${MFEXT_HOME}
+MFMODULE_VERSION=$("${MFEXT_HOME}/bin/guess_version.sh")
+export MFMODULE_VERSION
+export MFMODULE_HOME=${MFEXT_HOME}
 
-export MODULE=MFEXT
-export MODULE_LOWERCASE=mfext
+export MFMODULE=MFEXT
+export MFMODULE_LOWERCASE=mfext
 export MFEXTADDON=1
 SRC_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 export SRC_DIR
@@ -44,15 +44,15 @@ rm -f adm/root.mk adm/envtpl
 touch adm/root.mk
 ln -s "${MFEXT_HOME}/bin/envtpl" adm/envtpl
 
-echo "export MODULE := ${MODULE}" >>adm/root.mk
-echo "export MODULE_LOWERCASE := $(echo ${MODULE} | tr '[:upper:]' '[:lower:]')" >>adm/root.mk
+echo "export MFMODULE := ${MFMODULE}" >>adm/root.mk
+echo "export MFMODULE_LOWERCASE := $(echo ${MFMODULE} | tr '[:upper:]' '[:lower:]')" >>adm/root.mk
 echo "export LAYERAPI2_LAYERS_PATH := ${MFEXT_HOME}/opt:${MFEXT_HOME}" >>adm/root.mk
 echo "export MFEXT_HOME := ${MFEXT_HOME}" >>adm/root.mk
 echo "export MFEXT_ADDON := 1" >>adm/root.mk
 echo "export MFEXT_ADDON_NAME := scientific" >>adm/root.mk
 echo "export MFEXT_VERSION := ${MFEXT_VERSION}" >>adm/root.mk
-echo "export MODULE_HOME := ${MODULE_HOME}" >>adm/root.mk
-echo "export MODULE_VERSION := ${MFEXT_VERSION}" >>adm/root.mk
+echo "export MFMODULE_HOME := ${MFMODULE_HOME}" >>adm/root.mk
+echo "export MFMODULE_VERSION := ${MFEXT_VERSION}" >>adm/root.mk
 echo "export SRC_DIR := ${SRC_DIR}" >>adm/root.mk
 echo "ifeq (\$(FORCED_PATHS),)" >>adm/root.mk
 echo "  export PATH := ${ROOT_PATH}" >>adm/root.mk
