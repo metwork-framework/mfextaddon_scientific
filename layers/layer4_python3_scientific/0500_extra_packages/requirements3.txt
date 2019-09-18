@@ -10,6 +10,7 @@ cycler==0.10.0
 dask==2.1.0
 decorator==4.4.0
 eccodes-python==0.9.2
+ecmwf-api-client==1.5.4
 Flask==1.1.1
 GDAL==2.2.4
 geos==0.2.2

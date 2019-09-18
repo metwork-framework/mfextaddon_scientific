@@ -7,10 +7,9 @@ MFEXT Scientific Addon documentation
    :name: mfextaddon_scientifictoc
    :maxdepth: 3
 
-   mfextaddon_scientific_intro
-   layer_scientific
-   layer_python2_scientific
-   layer_python3_scientific
+   README
+   layers
+   components
    changelogs
 
 Indices and tables
