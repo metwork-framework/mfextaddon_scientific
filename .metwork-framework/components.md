@@ -13,7 +13,7 @@
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.9-51 | scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.6 | python2_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.6 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.1.0 | scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.1.2 | scientific |
 | [MetPy](http://github.com/Unidata/MetPy) | 0.10.2 | python2_scientific |
 | [MetPy](http://github.com/Unidata/MetPy) | 0.10.2 | python3_scientific |
 | [Pillow](http://python-pillow.org) | 6.1.0 | python2_scientific |
