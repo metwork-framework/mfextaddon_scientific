@@ -6,6 +6,7 @@
 /layers/layer*/*_extra_python_packages/src
 /layers/layer*/*_extra_python_packages/tempolayer*
 /layers/layer*/cache
+
 doc/_build
 doc/layer_*.md
 doc/api
