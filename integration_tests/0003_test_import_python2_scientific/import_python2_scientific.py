@@ -29,3 +29,7 @@ import cf_units
 import Magics
 import ESMF
 import ecmwfapi
+import satpy
+import pyorbital
+import pycoast
+import pydecorate
