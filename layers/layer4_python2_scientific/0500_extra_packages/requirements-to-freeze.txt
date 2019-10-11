@@ -41,3 +41,6 @@ MetPy
 Magics
 ecmwf-api-client
 satpy
+pyorbital
+pycoast
+pydecorate

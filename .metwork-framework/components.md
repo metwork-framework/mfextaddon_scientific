@@ -25,6 +25,8 @@
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python2_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python3_scientific |
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.15.4 | python3_scientific |
+| [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python2_scientific |
+| [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python2_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [attrs](https://www.attrs.org/) | 19.1.0 | python2_scientific |
@@ -112,14 +114,20 @@
 | [pngquant](http://www.pngquant.org/) | 2.12.0 | scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python2_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python3_scientific |
+| [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python2_scientific |
+| [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.43.0.3 | python2_scientific |
 | [pycurl](http://pycurl.io/) | 7.43.0.3 | python3_scientific |
+| [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python2_scientific |
+| [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python2_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python3_scientific |
 | [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python2_scientific |
 | [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python3_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python2_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python3_scientific |
+| [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python2_scientific |
+| [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python3_scientific |
 | [pyproj](https://github.com/jswhit/pyproj) | 1.9.6 | python2_scientific |
 | [pyproj](https://github.com/jswhit/pyproj) | 1.9.6 | python3_scientific |
 | [pyresample](https://pypi.org/project/pyresample) | 1.13.2 | python2_scientific |
@@ -151,4 +159,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(150 components)*
+*(158 components)*
