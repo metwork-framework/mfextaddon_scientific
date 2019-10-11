@@ -40,3 +40,4 @@ seaborn
 MetPy
 Magics
 ecmwf-api-client
+satpy
