@@ -33,7 +33,8 @@ pandas
 scikit-learn
 graphviz
 cfgrib
-xarray
+#xarry != 1.13.0 for satpy
+xarray != 0.13.0
 palettable
 seaborn
 cartopy
@@ -41,3 +42,7 @@ eccodes-python
 MetPy
 Magics
 ecmwf-api-client
+satpy
+pyorbital
+pycoast
+pydecorate
