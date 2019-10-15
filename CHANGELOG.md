@@ -4,6 +4,8 @@
 ## [Unreleased]
 
 ### New Features
+- add python packages pyorbital, pycoast and pydecorate
+- add satpy python component and dependencies
 - upgrade Magics from 4.1.0 to 4.1.2
 - add python2/3 ecmwfapi module
 - embed pango and dependencies fribidi, freetype, fontconfig and harfbuzz
