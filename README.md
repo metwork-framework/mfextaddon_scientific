@@ -253,6 +253,10 @@ $ python
 
 
 
+## Cheatsheet
+
+A cheatsheet for this module is available [here](.metwork-framework/cheatsheet.md)
+
 ## Reference documentation
 
 - (for **master (development)** version), see [this dedicated site](http://metwork-framework.org/pub/metwork/continuous_integration/docs/master/mfextaddon_scientific/) for reference documentation.
