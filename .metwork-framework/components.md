@@ -16,7 +16,7 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.1.2 | scientific |
 | [MetPy](http://github.com/Unidata/MetPy) | 0.10.2 | python2_scientific |
 | [MetPy](http://github.com/Unidata/MetPy) | 0.10.2 | python3_scientific |
-| [Pillow](http://python-pillow.org) | 6.1.0 | python2_scientific |
+| [Pillow](http://python-pillow.org) | 6.2.0 | python2_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python3_scientific |
