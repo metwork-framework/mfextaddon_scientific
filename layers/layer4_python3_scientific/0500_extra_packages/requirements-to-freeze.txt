@@ -46,3 +46,4 @@ satpy
 pyorbital
 pycoast
 pydecorate
+metview
