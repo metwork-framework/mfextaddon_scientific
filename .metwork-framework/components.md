@@ -73,6 +73,7 @@
 | [freetype](https://www.freetype.org/) | 2.10.1 | scientific |
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
+| [gdbm](https://www.gnu.org.ua/software/gdbm/) | 1.18.1 | scientific |
 | [geos](https://github.com/grst/geos) | 0.2.2 | python3_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python2_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
@@ -161,4 +162,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(160 components)*
+*(161 components)*
