@@ -11,11 +11,12 @@
 | [GDAL](http://www.gdal.org) | 2.2.4 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 2.2.4 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.9-51 | scientific |
-| [Magics](https://github.com/ecmwf/magics-python) | 1.0.6 | python2_scientific |
-| [Magics](https://github.com/ecmwf/magics-python) | 1.0.6 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.1.2 | scientific |
+| [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python2_scientific |
+| [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python3_scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.2.0 | scientific |
 | [MetPy](http://github.com/Unidata/MetPy) | 0.10.2 | python2_scientific |
 | [MetPy](http://github.com/Unidata/MetPy) | 0.10.2 | python3_scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.7.2.1 | scientific |
 | [Pillow](http://python-pillow.org) | 6.2.0 | python2_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
@@ -57,9 +58,9 @@
 | [dask](https://github.com/dask/dask/) | 2.1.0 | python3_scientific |
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python2_scientific |
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python3_scientific |
-| [eccodes-python](https://github.com/ecmwf/eccodes-python) | 0.9.2 | python3_scientific |
-| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.13.0 | python2_scientific |
-| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.13.0 | scientific |
+| [eccodes-python](https://github.com/ecmwf/eccodes-python) | 0.9.3 | python3_scientific |
+| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | python2_scientific |
+| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python2_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
 | [enum34](https://bitbucket.org/stoneleaf/enum34) | 1.1.6 | python2_scientific |
@@ -72,6 +73,7 @@
 | [freetype](https://www.freetype.org/) | 2.10.1 | scientific |
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
+| [gdbm](https://www.gnu.org.ua/software/gdbm/) | 1.18.1 | scientific |
 | [geos](https://github.com/grst/geos) | 0.2.2 | python3_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python2_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
@@ -91,6 +93,7 @@
 | [lxml](http://lxml.de/) | 4.3.4 | python3_scientific |
 | [matplotlib](http://matplotlib.org) | 2.2.2 | python2_scientific |
 | [matplotlib](https://matplotlib.org) | 3.1.1 | python3_scientific |
+| [metview](https://github.com/ecmwf/metview-python) | 1.3.1 | python3_scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python2_scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python3_scientific |
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python2_scientific |
@@ -159,4 +162,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(158 components)*
+*(161 components)*
