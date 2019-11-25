@@ -33,3 +33,4 @@ import satpy
 import pyorbital
 import pycoast
 import pydecorate
+import cdo
