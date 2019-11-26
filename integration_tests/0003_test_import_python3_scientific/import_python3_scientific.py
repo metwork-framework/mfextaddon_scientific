@@ -35,3 +35,4 @@ import pyorbital
 import pycoast
 import pydecorate
 import metview
+import cdo
