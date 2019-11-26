@@ -35,7 +35,9 @@
 | [backports.tempfile](https://github.com/pjdelport/backports.tempfile) | 1.0 | python2_scientific |
 | [backports.weakref](https://github.com/pjdelport/backports.weakref) | 1.0.post1 | python2_scientific |
 | [boost](https://www.boost.org/) | 1_67_0 | scientific |
-| [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.8.2 | scientific |
+| [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python2_scientific |
+| [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python3_scientific |
+| [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.9.8 | scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python2_scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python3_scientific |
 | [certifi](https://certifi.io/) | 2019.3.9 | python2_scientific |
@@ -162,4 +164,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(161 components)*
+*(163 components)*

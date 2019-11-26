@@ -3,6 +3,7 @@ asciitree==0.3.3
 attrs==19.1.0
 backports.tempfile==1.0
 backports.weakref==1.0.post1
+cdo==1.5.3
 cdsapi==0.1.4
 certifi==2019.3.9
 cftime==1.0.3.4

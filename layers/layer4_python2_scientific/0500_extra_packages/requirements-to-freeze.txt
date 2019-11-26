@@ -44,3 +44,4 @@ satpy
 pyorbital
 pycoast
 pydecorate
+cdo
