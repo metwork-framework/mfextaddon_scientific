@@ -8,8 +8,8 @@
 | [Fiona](https://github.com/Toblerity/Fiona) | 1.8.6 | python2_scientific |
 | [Fiona](https://github.com/Toblerity/Fiona) | 1.8.6 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
-| [GDAL](http://www.gdal.org) | 2.2.4 | python2_scientific |
-| [GDAL](http://www.gdal.org) | 2.2.4 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 2.4.3 | python2_scientific |
+| [GDAL](http://www.gdal.org) | 2.4.3 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.9-51 | scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python2_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python3_scientific |

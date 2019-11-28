@@ -17,7 +17,6 @@ eccodes-python==0.9.3
 ecmwf-api-client==1.5.4
 fasteners==0.15
 Flask==1.1.1
-GDAL==2.2.4
 geos==0.2.2
 graphviz==0.11.1
 h5py==2.9.0
