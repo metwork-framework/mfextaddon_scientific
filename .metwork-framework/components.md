@@ -5,8 +5,8 @@
 | [Click](https://palletsprojects.com/p/click/) | 7.0 | python2_scientific |
 | [Cython](http://cython.org/) | 0.29.12 | python2_scientific |
 | [Cython](http://cython.org/) | 0.29.12 | python3_scientific |
-| [Fiona](https://github.com/Toblerity/Fiona) | 1.8.6 | python2_scientific |
-| [Fiona](https://github.com/Toblerity/Fiona) | 1.8.6 | python3_scientific |
+| [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |
+| [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python3_scientific |
