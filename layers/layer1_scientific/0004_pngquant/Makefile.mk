@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=pngquant
-export VERSION=2.12.0
+export VERSION=2.12.5
 export EXTENSION=tar.gz
-export CHECKTYPE=SHA1
-export CHECKSUM=f57ce0112e86ac966c55270ccf5971deff241d4f
+export CHECKTYPE=MD5
+export CHECKSUM=e2a02de064d6887d563fa12ceb1eb775
 DESCRIPTION=\
 PNGQUANT is a command-line utility and a library for lossy compression of PNG images
 WEBSITE=http://www.pngquant.org/

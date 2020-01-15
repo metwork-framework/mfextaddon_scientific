@@ -116,7 +116,7 @@
 | [pathlib](https://pathlib.readthedocs.org/) | 1.0.1 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python3_scientific |
-| [pngquant](http://www.pngquant.org/) | 2.12.0 | scientific |
+| [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python2_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python2_scientific |
