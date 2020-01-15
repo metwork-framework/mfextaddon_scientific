@@ -103,7 +103,7 @@
 | [nco](http://nco.sourceforge.net) | 4.8.1 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python2_scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python3_scientific |
-| [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.4.5 | scientific |
+| [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python2_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
@@ -116,7 +116,7 @@
 | [pathlib](https://pathlib.readthedocs.org/) | 1.0.1 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python3_scientific |
-| [pngquant](http://www.pngquant.org/) | 2.12.0 | scientific |
+| [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python2_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python2_scientific |
