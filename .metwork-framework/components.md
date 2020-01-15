@@ -14,7 +14,6 @@
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python2_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.9.8 | scientific |
-| [Click](https://palletsprojects.com/p/click/) | 7.0 | python2_scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python2_scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python3_scientific |
 | [certifi](https://certifi.io/) | 2019.3.9 | python2_scientific |
@@ -26,6 +25,7 @@
 | [cftime](https://pypi.org/project/cftime) | 1.0.3.4 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python2_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
+| [Click](https://palletsprojects.com/p/click/) | 7.0 | python2_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python2_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python2_scientific |
@@ -57,9 +57,9 @@
 | [freetype](https://www.freetype.org/) | 2.10.1 | scientific |
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
-| [gdbm](https://www.gnu.org.ua/software/gdbm/) | 1.18.1 | scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python3_scientific |
+| [gdbm](https://www.gnu.org.ua/software/gdbm/) | 1.18.1 | scientific |
 | [geos](https://github.com/grst/geos) | 0.2.2 | python3_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python2_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
@@ -92,9 +92,9 @@
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python2_scientific |
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python3_scientific |
 | [nco](http://nco.sourceforge.net) | 4.8.1 | scientific |
+| [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python2_scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python3_scientific |
-| [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python2_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
@@ -158,9 +158,9 @@
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python2_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.26 | scientific |
+| [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.15.4 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.11.3 | python2_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.12.3 | python3_scientific |
-| [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.15.4 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
