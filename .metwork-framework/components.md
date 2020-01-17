@@ -67,7 +67,7 @@
 | [h5py](http://www.h5py.org) | 2.9.0 | python2_scientific |
 | [h5py](http://www.h5py.org) | 2.9.0 | python3_scientific |
 | [harfbuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz/) | 2.6.1 | scientific |
-| [ImageMagick6](http://www.imagemagick.org) | 6.9.9-51 | scientific |
+| [ImageMagick6](http://www.imagemagick.org) | 6.9.10-86 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python2_scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python2_scientific |
