@@ -18,3 +18,4 @@ doc/mfextaddon_scientific_intro.rst
 doc/CHANGELOG*.md
 doc/CHANGELOG*.rst
 doc/changelogs.rst 
+__pycache__
