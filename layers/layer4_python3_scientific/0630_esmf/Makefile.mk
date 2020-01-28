@@ -22,22 +22,7 @@ export ESMF_INSTALL_BINDIR=$(ESMF_INSTALL_PREFIX)/bin
 export ESMF_INSTALL_DOCDIR=$(ESMF_INSTALL_PREFIX)/doc
 export ESMF_NETCDF=nc-config
 
-#We need gfortran >= 4.5 to build
-GFORTRAN_VERSION = `gfortran --version | head -1 | cut -d" " -f4 | cut -d"." -f1-2`
-DEVTOOLSET = 7
-
-ifeq ($(shell expr $(GFORTRAN_VERSION) \< "4.5" ), 1)
-
-all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-$(VERSION2)-py$(PYTHON3_SHORT_VERSION).egg-info
-$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-$(VERSION2)-py$(PYTHON3_SHORT_VERSION).egg-info:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" download uncompress
-	scl enable devtoolset-$(DEVTOOLSET) 'cd build/$(EXPLICIT_NAME)/src/addon/ESMPy && python setup.py build --ESMFMKFILE=$(ESMF_INSTALL_LIBDIR)/esmf.mk && python setup.py install --prefix=$(PREFIX)'
-
-else
-
 all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-$(VERSION2)-py$(PYTHON3_SHORT_VERSION).egg-info
 $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/ESMPy-$(VERSION2)-py$(PYTHON3_SHORT_VERSION).egg-info:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" download uncompress
 	cd build/$(EXPLICIT_NAME)/src/addon/ESMPy && python setup.py build --ESMFMKFILE=$(ESMF_INSTALL_LIBDIR)/esmf.mk && python setup.py install --prefix=$(PREFIX)
-
-endif

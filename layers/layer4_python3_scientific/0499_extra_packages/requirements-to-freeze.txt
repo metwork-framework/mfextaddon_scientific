@@ -47,3 +47,5 @@ pycoast
 pydecorate
 metview
 cdo
+GDAL
+Fiona
