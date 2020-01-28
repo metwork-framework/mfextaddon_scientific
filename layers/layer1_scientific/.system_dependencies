@@ -1,5 +1,5 @@
 libgfortran@centos6,centos7
-libgfortran4@centos6,centos7
+libgfortran5@centos6,centos7
 libgomp@centos6,centos7
 atlas@centos6,centos7
 libquadmath@centos7
