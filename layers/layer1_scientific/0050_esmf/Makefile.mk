@@ -21,20 +21,6 @@ export ESMF_INSTALL_BINDIR=$(ESMF_INSTALL_PREFIX)/bin
 export ESMF_INSTALL_DOCDIR=$(ESMF_INSTALL_PREFIX)/doc
 export ESMF_NETCDF=nc-config
 
-#We need gfortran >= 4.5 to build
-GFORTRAN_VERSION = `gfortran --version | head -1 | cut -d" " -f4 | cut -d"." -f1-2`
-DEVTOOLSET = 7
-
-ifeq ($(shell expr $(GFORTRAN_VERSION) \< "4.5" ), 1)
-
-all:: $(ESMF_INSTALL_LIBDIR)/libesmf.so
-$(ESMF_INSTALL_LIBDIR)/libesmf.so:
-	scl enable devtoolset-$(DEVTOOLSET) '$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME=$(EXPLICIT_NAME) EXTRALDFLAGS="-L$(PREFIX)/lib -L$(PREFIX)/../scientific_core/lib" download uncompress build install'
-
-else
-
 all:: $(ESMF_INSTALL_LIBDIR)/libesmf.so
 $(ESMF_INSTALL_LIBDIR)/libesmf.so:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME=$(EXPLICIT_NAME) EXTRALDFLAGS="-L$(PREFIX)/lib -L$(PREFIX)/../scientific_core/lib" download uncompress build install
-
-endif
