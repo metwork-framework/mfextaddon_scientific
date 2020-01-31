@@ -2,11 +2,11 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=esmf
-export VERSION=7_1_0r
+export VERSION=8_0_0
 export VERSION2=7.1.0.dev
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=9e455bc36a0aaa9b87e0bdedc78a47f5
+export CHECKSUM=5cdb3814141068ef15420e7c2d2a158a
 DESCRIPTION=\
 Earth System Modeling Framework (ESMF) Python Interface (ESMPy)
 WEBSITE=http://www.earthsystemmodeling.org
