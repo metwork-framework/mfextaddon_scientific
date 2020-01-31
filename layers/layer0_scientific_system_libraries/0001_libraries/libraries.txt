@@ -12,5 +12,5 @@
 /usr/lib64/atlas/libptf77blas.so.3.0
 /usr/lib64/libgfortran.so.3
 /usr/lib64/libgfortran.so.3.0.0
-/usr/lib64/libgfortran.so.4
-/usr/lib64/libgfortran.so.4.0.0
+/usr/lib64/libgfortran.so.5
+/usr/lib64/libgfortran.so.5.0.0
