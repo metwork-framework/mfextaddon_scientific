@@ -16,20 +16,6 @@ Magics is the latest generation of the ECMWF's meteorological plotting software.
 WEBSITE=https://www.ecmwf.int/en/computing/software
 LICENSE=Apache 2.0 : http://www.apache.org/licenses/LICENSE-2.0
 
-#We need C++14 features to build
-GCC_VERSION = `gcc --version | head -1 | cut -d" " -f3 | cut -d"." -f1-2`
-DEVTOOLSET = 7
-
-ifeq ($(shell expr $(GCC_VERSION) \< "4.9" ), 1)
-
-all:: $(PREFIX)/bin/magmlx
-$(PREFIX)/bin/magmlx:
-	scl enable devtoolset-$(DEVTOOLSET) '$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" OPTIONS="-DENABLE_PYTHON=OFF -DENABLE_FORTRAN=OFF -DENABLE_METVIEW_NO_QT=ON -DNETCDF_PATH=$(SCIENTIFIC_ROOT) -DPROJ4_PATH=$(SCIENTIFIC_ROOT)" download uncompress configure_cmake3 build_cmake install_cmake'
-
-else
-
 all:: $(PREFIX)/bin/magmlx
 $(PREFIX)/bin/magmlx:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" OPTIONS="-DENABLE_PYTHON=OFF -DENABLE_FORTRAN=OFF -DENABLE_METVIEW_NO_QT=ON -DNETCDF_PATH=$(SCIENTIFIC_ROOT) -DPROJ4_PATH=$(SCIENTIFIC_ROOT)" download uncompress configure_cmake3 build_cmake install_cmake
-
-endif

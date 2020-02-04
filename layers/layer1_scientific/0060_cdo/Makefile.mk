@@ -13,20 +13,6 @@ operators available.
 WEBSITE=https://code.mpimet.mpg.de/projects/cdo/
 LICENSE=GNU General Public License
 
-#We need C++11 features to build
-GCC_VERSION = `gcc --version | head -1 | cut -d" " -f3 | cut -d"." -f1-2`
-DEVTOOLSET = 7
-
-ifeq ($(shell expr $(GCC_VERSION) \< "4.8" ), 1)
-
-all:: $(PREFIX)/bin/cdo
-$(PREFIX)/bin/cdo:
-	scl enable devtoolset-$(DEVTOOLSET) '$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXTRALDFLAGS="-L$(PREFIX)/../scientific_core/lib" EXTRACFLAGS="-I$(PREFIX)/../scientific_core/include" OPTIONS="--with-eccodes=$(PREFIX) --with-magics=$(PREFIX) --with-netcdf=$(PREFIX)/../scientific_core --with-hdf5=$(PREFIX)/../scientific_core --with-proj=$(PREFIX)/../scientific_core --with-curl=$(PREFIX)/../core --with-libxml2=$(PREFIX)/../core --with-udunits2=$(PREFIX) --enable-cdi-lib  --enable-static=no" download uncompress configure build install'
-
-else
-
 all:: $(PREFIX)/bin/cdo
 $(PREFIX)/bin/cdo:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXTRALDFLAGS="-L$(PREFIX)/../scientific_core/lib" EXTRACFLAGS="-I$(PREFIX)/../scientific_core/include" OPTIONS="--with-eccodes=$(PREFIX) --with-magics=$(PREFIX) --with-netcdf=$(PREFIX)/../scientific_core --with-hdf5=$(PREFIX)/../scientific_core --with-proj=$(PREFIX)/../scientific_core --with-curl=$(PREFIX)/../core --with-libxml2=$(PREFIX)/../core --with-udunits2=$(PREFIX) --enable-cdi-lib  --enable-static=no" download uncompress configure build install
-
-endif

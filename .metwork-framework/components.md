@@ -45,9 +45,9 @@
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python2_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
 | [enum34](https://bitbucket.org/stoneleaf/enum34) | 1.1.6 | python2_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 7_1_0r | python2_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 7_1_0r | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 7_1_0r | scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8_0_0 | python2_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8_0_0 | python3_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8_0_0 | scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python2_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |

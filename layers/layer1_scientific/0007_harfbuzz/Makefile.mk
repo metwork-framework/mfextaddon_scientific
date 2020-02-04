@@ -14,20 +14,6 @@ LICENSE=Old MIT
 
 #ICU support would need libicu >= 4.4
 
-#We need C++11 to build (not natively available on CentOS6)
-GCC_VERSION = `gcc --version | head -1 | cut -d" " -f3 | cut -d"." -f1-2`
-DEVTOOLSET = 7
-
-ifeq ($(shell expr $(GCC_VERSION) \< "4.8" ), 1)
-
-all::$(PREFIX)/lib/libharfbuzz.so
-$(PREFIX)/lib/libharfbuzz.so:
-	scl enable devtoolset-$(DEVTOOLSET) '$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="--with-icu=no --with-cairo=yes" download uncompress configure build install'
-	
-else
-
 all::$(PREFIX)/lib/libharfbuzz.so
 $(PREFIX)/lib/libharfbuzz.so:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="--with-icu=no --with-cairo=yes" download uncompress configure build install
-
-endif

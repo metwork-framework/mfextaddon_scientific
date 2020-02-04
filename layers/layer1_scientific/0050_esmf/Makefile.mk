@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=esmf
-export VERSION=7_1_0r
+export VERSION=8_0_0
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=9e455bc36a0aaa9b87e0bdedc78a47f5
+export CHECKSUM=5cdb3814141068ef15420e7c2d2a158a
 DESCRIPTION=\
 The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications. Such applications may include a few or dozens of components representing atmospheric, oceanic, terrestrial, or other physical domains, and their constituent processes (dynamical, chemical, biological, etc.).
 WEBSITE=http://www.earthsystemmodeling.org
@@ -21,20 +21,6 @@ export ESMF_INSTALL_BINDIR=$(ESMF_INSTALL_PREFIX)/bin
 export ESMF_INSTALL_DOCDIR=$(ESMF_INSTALL_PREFIX)/doc
 export ESMF_NETCDF=nc-config
 
-#We need gfortran >= 4.5 to build
-GFORTRAN_VERSION = `gfortran --version | head -1 | cut -d" " -f4 | cut -d"." -f1-2`
-DEVTOOLSET = 7
-
-ifeq ($(shell expr $(GFORTRAN_VERSION) \< "4.5" ), 1)
-
-all:: $(ESMF_INSTALL_LIBDIR)/libesmf.so
-$(ESMF_INSTALL_LIBDIR)/libesmf.so:
-	scl enable devtoolset-$(DEVTOOLSET) '$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME=$(EXPLICIT_NAME) EXTRALDFLAGS="-L$(PREFIX)/lib -L$(PREFIX)/../scientific_core/lib" download uncompress build install'
-
-else
-
 all:: $(ESMF_INSTALL_LIBDIR)/libesmf.so
 $(ESMF_INSTALL_LIBDIR)/libesmf.so:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME=$(EXPLICIT_NAME) EXTRALDFLAGS="-L$(PREFIX)/lib -L$(PREFIX)/../scientific_core/lib" download uncompress build install
-
-endif
