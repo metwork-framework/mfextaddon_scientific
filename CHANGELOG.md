@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 ### New Features
+- remove fontconfig and freetype (moved to mfext)
 - upgrade esmf from 7_1_0r to 8_0_0 (there was a compilation error with gcc-8)
 - build all mfextaddon_scientific with devtoolset-8 (gcc-8)
 - upgrade ImageMagick from 6.9.9-51 to 6.9.10-86
