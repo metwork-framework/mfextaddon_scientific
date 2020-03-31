@@ -23,8 +23,9 @@ for layer in `ls`; do
             echo
             echo "=== System extra dependencies layer ${layer} ==="
             echo
-            DEPS1=$(external_dependencies.sh |awk -F '/' '{print $NF}' |xargs)
-            DEPS2=$(external_dependencies_not_found.sh |xargs)
+            current_layer=`cat .layerapi2_label`
+            DEPS1=$(layer_wrapper --layers=${current_layer} -- external_dependencies.sh |awk -F '/' '{print $NF}' |xargs)
+            DEPS2=$(layer_wrapper --layers=${current_layer} -- external_dependencies_not_found.sh |xargs)
             DEPS=$(echo $DEPS1 $DEPS2)
             for DEP in ${DEPS}; do
                 FOUND=0
