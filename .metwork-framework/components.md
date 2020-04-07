@@ -103,8 +103,8 @@
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python3_scientific |
 | [pango](https://pango.gnome.org/) | 1.42.4 | scientific |
 | [pathlib](https://pathlib.readthedocs.org/) | 1.0.1 | python2_scientific |
-| [Pillow](http://python-pillow.org) | 6.2.0 | python2_scientific |
-| [Pillow](http://python-pillow.org) | 6.2.0 | python3_scientific |
+| [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
+| [Pillow](http://python-pillow.org) | 6.2.2 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
