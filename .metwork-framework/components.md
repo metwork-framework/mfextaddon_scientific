@@ -53,8 +53,6 @@
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
-| [fontconfig](https://www.freedesktop.org/wiki/Software/fontconfig/) | 2.13.92 | scientific |
-| [freetype](https://www.freetype.org/) | 2.10.1 | scientific |
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
@@ -105,8 +103,8 @@
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python3_scientific |
 | [pango](https://pango.gnome.org/) | 1.42.4 | scientific |
 | [pathlib](https://pathlib.readthedocs.org/) | 1.0.1 | python2_scientific |
-| [Pillow](http://python-pillow.org) | 6.2.0 | python2_scientific |
-| [Pillow](http://python-pillow.org) | 6.2.0 | python3_scientific |
+| [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
+| [Pillow](http://python-pillow.org) | 6.2.2 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
@@ -164,4 +162,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(163 components)*
+*(161 components)*
