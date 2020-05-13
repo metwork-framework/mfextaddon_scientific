@@ -1,6 +1,5 @@
 #there is a bug related to Cython in cftime 1.0.3
 cftime!=1.0.3
-Cython
 h5py
 netCDF4
 Pillow
