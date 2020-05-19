@@ -97,6 +97,7 @@
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python3_scientific |
+| [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.2.0.34 | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python2_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python3_scientific |
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python2_scientific |
@@ -162,4 +163,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(161 components)*
+*(162 components)*

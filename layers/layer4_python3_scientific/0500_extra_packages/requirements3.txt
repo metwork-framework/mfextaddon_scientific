@@ -1,0 +1,2 @@
+certifi==2019.3.9
+opencv-contrib-python-headless==4.2.0.34
