@@ -31,7 +31,7 @@ build_common: &build_common
     - if test "${OS_VERSION}" = "centos6"; then export METWORK_BUILD_OS=generic; else export METWORK_BUILD_OS=${OS_VERSION}; fi
 
 
-    - yum install -y metwork-mfext-layer-python2-${DRONE_BRANCH}
+    - yum install -y metwork-mfext-layer-python2-${DRONE_BRANCH##release_}
 
     - if test -d /buildcache; then export BUILDCACHE=/buildcache; fi
     - mkdir -p /opt/metwork-mfext-$${TARGET_DIR}
@@ -85,7 +85,6 @@ integration_tests_common: &integration_tests_common
     - for rpm in metwork-mfext*.rpm; do rpm -qp --requires ./$rpm | grep metwork | grep -v "=" >> liste_dep; done
     - cat liste_dep | sort -u > liste_dep2
     - yum -y install `cat liste_dep2`
-
     - rm /etc/yum.repos.d/metwork.repo
     - yum clean all
     - yum -y localinstall metwork-mfext*.rpm
