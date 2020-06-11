@@ -4,8 +4,6 @@
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python2_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
-| [attrs](https://www.attrs.org/) | 19.1.0 | python2_scientific |
-| [attrs](https://www.attrs.org/) | 19.1.0 | python3_scientific |
 | [backports.tempfile](https://github.com/pjdelport/backports.tempfile) | 1.0 | python2_scientific |
 | [backports.weakref](https://github.com/pjdelport/backports.weakref) | 1.0.post1 | python2_scientific |
 | [boost](https://www.boost.org/) | 1_67_0 | scientific |
@@ -163,4 +161,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(162 components)*
+*(160 components)*
