@@ -4,8 +4,6 @@
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python2_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
-| [attrs](https://www.attrs.org/) | 19.1.0 | python2_scientific |
-| [attrs](https://www.attrs.org/) | 19.1.0 | python3_scientific |
 | [backports.tempfile](https://github.com/pjdelport/backports.tempfile) | 1.0 | python2_scientific |
 | [backports.weakref](https://github.com/pjdelport/backports.weakref) | 1.0.post1 | python2_scientific |
 | [boost](https://www.boost.org/) | 1_67_0 | scientific |
@@ -45,9 +43,9 @@
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python2_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
 | [enum34](https://bitbucket.org/stoneleaf/enum34) | 1.1.6 | python2_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8_0_0 | python2_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8_0_0 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8_0_0 | scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | python2_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | python3_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python2_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |
@@ -163,4 +161,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(162 components)*
+*(160 components)*

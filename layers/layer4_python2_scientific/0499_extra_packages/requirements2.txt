@@ -1,6 +1,5 @@
 aggdraw==1.3.11
 asciitree==0.3.3
-attrs==19.1.0
 backports.tempfile==1.0
 backports.weakref==1.0.post1
 cdo==1.5.3
