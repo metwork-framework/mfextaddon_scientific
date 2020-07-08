@@ -111,6 +111,9 @@
 | [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python2_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python3_scientific |
+| [protobuf](https://developers.google.com/protocol-buffers/) | 3.12.2 | python2_scientific |
+| [protobuf](https://developers.google.com/protocol-buffers/) | 3.12.2 | python3_scientific |
+| [protobuf](https://developers.google.com/protocol-buffers) | 3.12.2 | scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python2_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.43.0.3 | python2_scientific |
@@ -161,4 +164,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(160 components)*
+*(163 components)*
