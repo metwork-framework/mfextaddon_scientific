@@ -39,6 +39,7 @@ Pillow==6.2.2
 Pint==0.9
 pngquant==1.0.6
 pooch==0.5.2
+protobuf==3.12.2
 pycoast==1.2.3
 pycurl==7.43.0.3
 pydecorate==0.2.1
