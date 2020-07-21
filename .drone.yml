@@ -85,6 +85,7 @@ integration_tests_common: &integration_tests_common
     - for rpm in metwork-mfext*.rpm; do rpm -qp --requires ./$rpm | grep metwork | grep -v "=" >> liste_dep; done
     - cat liste_dep | sort -u > liste_dep2
     - yum -y install `cat liste_dep2`
+
     - rm /etc/yum.repos.d/metwork.repo
     - yum clean all
     - yum -y localinstall metwork-mfext*.rpm
