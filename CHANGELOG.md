@@ -4,6 +4,8 @@
 ## [Unreleased]
 
 ### New Features
+- add protobuf (protoc binary, C++ libraries and python2/3 packages)
+- add protobuf (protoc binary, C++ libraries and python2/3 packages)
 - upgrade ESMF from 8.0.0 to 8.0.1 and remove patch
 - add opencv-contrib-python-headless
 - upgrade Pillow from 6.2.0 to 6.2.2 to fix security alerts
