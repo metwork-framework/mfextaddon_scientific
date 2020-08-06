@@ -20,4 +20,3 @@ doc/CHANGELOG*.rst
 doc/changelogs.rst 
 /__pycache__
 _docs_build
-
