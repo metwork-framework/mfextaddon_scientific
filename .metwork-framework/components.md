@@ -8,7 +8,7 @@
 | [backports.weakref](https://github.com/pjdelport/backports.weakref) | 1.0.post1 | python2_scientific |
 | [boost](https://www.boost.org/) | 1_67_0 | scientific |
 | [Cartopy](https://scitools.org.uk/cartopy) | 0.13.1 | python2_scientific |
-| [Cartopy](http://scitools.org.uk/cartopy/docs/latest/) | 0.17.0 | python3_scientific |
+| [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.18.0 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python2_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.9.8 | scientific |
@@ -56,6 +56,7 @@
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python3_scientific |
 | [gdbm](https://www.gnu.org.ua/software/gdbm/) | 1.18.1 | scientific |
+| [geopandas](http://geopandas.org) | 0.8.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.2 | python3_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python2_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
@@ -129,13 +130,14 @@
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python2_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python3_scientific |
 | [pyproj](https://github.com/jswhit/pyproj) | 1.9.6 | python2_scientific |
-| [pyproj](https://github.com/jswhit/pyproj) | 1.9.6 | python3_scientific |
+| [pyproj](https://github.com/pyproj4/pyproj) | 2.4.2 | python3_scientific |
 | [pyresample](https://pypi.org/project/pyresample) | 1.13.2 | python2_scientific |
 | [pyresample](https://pypi.org/project/pyresample) | 1.13.2 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python2_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python3_scientific |
 | [python-dateutil](https://dateutil.readthedocs.io) | 2.8.0 | python2_scientific |
 | [pytz](http://pythonhosted.org/pytz) | 2019.1 | python2_scientific |
+| [rasterio](https://github.com/mapbox/rasterio) | 1.1.5 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.17.1 | python2_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.17.1 | python3_scientific |
 | [scandir](https://github.com/benhoyt/scandir) | 1.10.0 | python2_scientific |
@@ -164,4 +166,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(163 components)*
+*(165 components)*
