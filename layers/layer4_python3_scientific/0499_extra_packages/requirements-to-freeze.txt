@@ -16,9 +16,8 @@ toolz
 geos
 lxml
 pycurl
-#pyproj>=2.0.0 requires proj4>=6.1.0 but we must keep proj4==5.2.0
-#because of cartopy issue : https://github.com/SciTools/cartopy/issues/1288
-pyproj==1.9.6
+#pyproj 2.4.2 is in phase with Proj 6.2.1
+pyproj==2.4.2
 SQLAlchemy
 cdsapi
 #Fiona
@@ -47,5 +46,7 @@ pycoast
 pydecorate
 metview
 cdo
-GDAL
+GDAL==3.0.2
 Fiona
+geopandas
+rasterio
