@@ -29,6 +29,7 @@ Magics==1.0.11
 matplotlib==2.2.2
 MetPy==0.10.2
 monotonic==1.5
+msgpack==1.0.0
 munch==2.3.2
 netCDF4==1.5.1.2
 numcodecs==0.6.3

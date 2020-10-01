@@ -50,3 +50,4 @@ GDAL==3.0.2
 Fiona
 geopandas
 rasterio
+msgpack
