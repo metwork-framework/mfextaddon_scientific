@@ -86,6 +86,8 @@
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.7.2.1 | scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python2_scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python3_scientific |
+| [msgpack](https://msgpack.org/) | 1.0.0 | python2_scientific |
+| [msgpack](https://msgpack.org/) | 1.0.0 | python3_scientific |
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python2_scientific |
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python3_scientific |
 | [nco](http://nco.sourceforge.net) | 4.8.1 | scientific |
@@ -166,4 +168,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(165 components)*
+*(167 components)*
