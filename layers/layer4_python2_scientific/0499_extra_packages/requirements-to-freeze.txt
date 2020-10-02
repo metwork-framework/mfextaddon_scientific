@@ -45,3 +45,4 @@ pydecorate
 cdo
 GDAL
 Fiona
+msgpack
