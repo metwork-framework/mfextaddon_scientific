@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 ### New Features
+- add msgpack python module (#140)
 - add rasterio and geopandas
 - upgrade pyproj to 2.4.2 and Cartopy to 0.18
 - update Pillow from 6.2.2 to 7.2.0 for security reasons (only python3 because Pillow 7 is not python2 compliant)
