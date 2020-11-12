@@ -45,3 +45,9 @@ pydecorate
 cdo
 GDAL
 Fiona
+<<<<<<< HEAD
+=======
+msgpack
+#cloudpickle for dask[dataframe]
+cloudpickle
+>>>>>>> 52a51a0... fix: add cloudpickle dependency for dask[dataframe] (#146)

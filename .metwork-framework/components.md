@@ -26,6 +26,8 @@
 | [Click](https://palletsprojects.com/p/click/) | 7.0 | python2_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python2_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python3_scientific |
+| [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 0.2.1 | python2_scientific |
+| [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 0.2.1 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python2_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
 | [contextlib2](http://contextlib2.readthedocs.org) | 0.5.5 | python2_scientific |
@@ -166,4 +168,8 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
+<<<<<<< HEAD
 *(165 components)*
+=======
+*(169 components)*
+>>>>>>> 52a51a0... fix: add cloudpickle dependency for dask[dataframe] (#146)

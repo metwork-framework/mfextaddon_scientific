@@ -50,3 +50,9 @@ GDAL==3.0.2
 Fiona
 geopandas
 rasterio
+<<<<<<< HEAD
+=======
+msgpack
+#cloudpickle for dask[dataframe]
+cloudpickle
+>>>>>>> 52a51a0... fix: add cloudpickle dependency for dask[dataframe] (#146)
