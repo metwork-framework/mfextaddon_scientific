@@ -45,3 +45,5 @@ pydecorate
 cdo
 GDAL
 Fiona
+#cloudpickle for dask[dataframe]
+cloudpickle
