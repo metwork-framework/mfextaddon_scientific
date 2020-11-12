@@ -46,3 +46,5 @@ cdo
 GDAL
 Fiona
 msgpack
+#cloudpickle for dask[dataframe]
+cloudpickle

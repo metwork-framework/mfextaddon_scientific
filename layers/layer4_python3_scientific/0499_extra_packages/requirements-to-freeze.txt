@@ -51,3 +51,5 @@ Fiona
 geopandas
 rasterio
 msgpack
+#cloudpickle for dask[dataframe]
+cloudpickle

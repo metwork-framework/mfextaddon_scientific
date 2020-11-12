@@ -8,6 +8,7 @@ cfgrib==0.9.7.1
 cftime==1.0.3.4
 click-plugins==1.1.1
 cligj==0.5.0
+cloudpickle==0.2.1
 configobj==5.0.6
 cycler==0.10.0
 dask==2.1.0
