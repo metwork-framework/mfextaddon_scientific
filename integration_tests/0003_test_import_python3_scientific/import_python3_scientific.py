@@ -27,6 +27,7 @@ import fiona
 import palettable
 import seaborn
 import metpy
+import metpy.plots
 import cf_units
 import Magics
 import ESMF

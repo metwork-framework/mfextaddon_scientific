@@ -82,8 +82,8 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.2.0 | scientific |
 | [matplotlib](http://matplotlib.org) | 2.2.2 | python2_scientific |
 | [matplotlib](https://matplotlib.org) | 3.1.1 | python3_scientific |
-| [MetPy](http://github.com/Unidata/MetPy) | 0.10.2 | python2_scientific |
-| [MetPy](http://github.com/Unidata/MetPy) | 0.10.2 | python3_scientific |
+| [MetPy](http://github.com/Unidata/MetPy) | 0.11.1 | python2_scientific |
+| [MetPy](http://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.3.1 | python3_scientific |
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.7.2.1 | scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python2_scientific |
