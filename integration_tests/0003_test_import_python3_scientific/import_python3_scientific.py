@@ -10,6 +10,7 @@ import shapely
 import numpy
 import scipy
 import dask
+import dask.dataframe
 import toolz
 import geos
 import lxml
