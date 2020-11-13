@@ -1,5 +1,6 @@
 | Name | Version | Layer |
 | --- | --- | --- |
+| [affine](https://github.com/sgillies/affine) | 2.3.0 | python3_scientific |
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python2_scientific |
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python2_scientific |
@@ -82,8 +83,8 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.2.0 | scientific |
 | [matplotlib](http://matplotlib.org) | 2.2.2 | python2_scientific |
 | [matplotlib](https://matplotlib.org) | 3.1.1 | python3_scientific |
-| [MetPy](http://github.com/Unidata/MetPy) | 0.11.1 | python2_scientific |
-| [MetPy](http://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
+| [MetPy](https://github.com/Unidata/MetPy) | 0.11.1 | python2_scientific |
+| [MetPy](https://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.3.1 | python3_scientific |
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.7.2.1 | scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python2_scientific |
@@ -106,11 +107,10 @@
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python2_scientific |
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python3_scientific |
 | [pango](https://pango.gnome.org/) | 1.42.4 | scientific |
-| [pathlib](https://pathlib.readthedocs.org/) | 1.0.1 | python2_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
 | [Pillow](https://python-pillow.org) | 7.2.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
-| [Pint](https://github.com/hgrecco/pint) | 0.9 | python3_scientific |
+| [Pint](https://github.com/hgrecco/pint) | 0.10.1 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
@@ -152,6 +152,7 @@
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python2_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python3_scientific |
+| [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [SQLAlchemy](http://www.sqlalchemy.org) | 1.3.5 | python2_scientific |
 | [SQLAlchemy](http://www.sqlalchemy.org) | 1.3.5 | python3_scientific |
 | [subprocess32](https://github.com/google/python-subprocess32) | 3.5.4 | python2_scientific |
@@ -166,8 +167,8 @@
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.26 | scientific |
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.15.4 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.11.3 | python2_scientific |
-| [xarray](https://github.com/pydata/xarray) | 0.12.3 | python3_scientific |
+| [xarray](https://github.com/pydata/xarray) | 0.14.1 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(169 components)*
+*(170 components)*
