@@ -1,6 +1,17 @@
 # release_1.0 CHANGELOG
 
 
+## [Unreleased]
+
+### New Features
+
+
+### Bug Fixes
+- add cloudpickle dependency for dask[dataframe] (bp #146) (#147)
+
+
+
+
 
 ## v1.0.1 (2020-09-24)
 
