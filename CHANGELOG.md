@@ -27,6 +27,7 @@
 
 
 ### Bug Fixes
+- add cloudpickle dependency for dask[dataframe] (#146)
 - patch ImageMagick6 to build with gcc-8 without aligned_alloc
 
 
