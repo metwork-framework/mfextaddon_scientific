@@ -40,6 +40,8 @@
 | [dask](https://github.com/dask/dask/) | 2.1.0 | python3_scientific |
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python2_scientific |
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python3_scientific |
+| [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
+| [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
 | [eccodes-python](https://github.com/ecmwf/eccodes-python) | 0.9.3 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | python2_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | scientific |
@@ -76,11 +78,13 @@
 | [joblib](https://joblib.readthedocs.io) | 0.13.2 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python2_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
+| [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
 | [lxml](http://lxml.de/) | 4.3.4 | python2_scientific |
 | [lxml](http://lxml.de/) | 4.3.4 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python2_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.2.0 | scientific |
+| [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
 | [matplotlib](http://matplotlib.org) | 2.2.2 | python2_scientific |
 | [matplotlib](https://matplotlib.org) | 3.1.1 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.11.1 | python2_scientific |
@@ -107,6 +111,7 @@
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python2_scientific |
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python3_scientific |
 | [pango](https://pango.gnome.org/) | 1.42.4 | scientific |
+| [partd](http://github.com/dask/partd/) | 1.1.0 | python3_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
 | [Pillow](https://python-pillow.org) | 7.2.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
@@ -166,9 +171,10 @@
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.26 | scientific |
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.15.4 | python3_scientific |
+| [wrapt](https://github.com/GrahamDumpleton/wrapt) | 1.12.1 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.11.3 | python2_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.14.1 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(170 components)*
+*(176 components)*
