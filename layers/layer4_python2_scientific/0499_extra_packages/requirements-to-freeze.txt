@@ -10,6 +10,7 @@ pyshp
 shapely
 #We keep scipy<1.2.0 for python2 issue
 scipy<1.2.0
+dask[dataframe]
 dask
 toolz
 #geos is python3 only
@@ -46,5 +47,3 @@ cdo
 GDAL
 Fiona
 msgpack
-#cloudpickle for dask[dataframe]
-cloudpickle
