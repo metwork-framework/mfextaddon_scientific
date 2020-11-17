@@ -27,6 +27,7 @@
 
 
 ### Bug Fixes
+- upgrade MetPy to 0.12.2 for compatibility with Cartopy 0.18 (#149)
 - add cloudpickle dependency for dask[dataframe] (#146)
 - patch ImageMagick6 to build with gcc-8 without aligned_alloc
 
