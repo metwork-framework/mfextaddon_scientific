@@ -36,3 +36,4 @@ import pyorbital
 import pycoast
 import pydecorate
 import cdo
+import msgpack

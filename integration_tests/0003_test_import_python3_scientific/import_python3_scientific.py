@@ -39,3 +39,6 @@ import pydecorate
 import metview
 import cdo
 import cv2
+import geopandas
+import rasterio
+import msgpack
