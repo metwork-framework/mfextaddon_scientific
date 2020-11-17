@@ -21,14 +21,8 @@ pycurl
 pyproj==2.4.2
 SQLAlchemy
 cdsapi
-#Fiona
-#Dependencies for Fiona which is built separately
-munch
-cligj>=0.5
-attrs>=17
-click-plugins>=1.0
-#End Fiona dependencies
-pandas
+#Upgrade pandas to 1.x.x ?
+pandas<1.0
 scikit-learn
 graphviz
 cfgrib
@@ -52,3 +46,7 @@ Fiona
 geopandas
 rasterio
 msgpack
+#descartes and mapclassify : optional geopandas dependencies for polygon plotting
+descartes
+#mapclassify==2.3.0 requires pandas>=1.0
+mapclassify<2.3.0
