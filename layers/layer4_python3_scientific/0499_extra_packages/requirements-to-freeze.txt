@@ -50,3 +50,5 @@ msgpack
 descartes
 #mapclassify==2.3.0 requires pandas>=1.0
 mapclassify<2.3.0
+salem
+regionmask

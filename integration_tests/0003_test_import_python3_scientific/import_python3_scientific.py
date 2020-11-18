@@ -42,3 +42,5 @@ import cv2
 import geopandas
 import rasterio
 import msgpack
+import regionmask
+import salem
