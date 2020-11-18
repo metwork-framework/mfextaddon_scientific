@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 ### New Features
+- add geopandas optional dependencies for polygon plotting with g… (#154)
 - add msgpack python module (#140)
 - add rasterio and geopandas
 - upgrade pyproj to 2.4.2 and Cartopy to 0.18
