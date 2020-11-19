@@ -52,3 +52,8 @@ descartes
 mapclassify<2.3.0
 salem
 regionmask
+#jsonschema and pathos are dependencies for ot-batman (built in further extrapackage)
+jsonschema
+pathos
+#zipp>=2.0.0 (jsonschema->importlib-metadata dependency) doesn t build (to be investigated)
+zipp<2.0.0

@@ -42,6 +42,7 @@
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python3_scientific |
 | [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
+| [dill](https://pypi.org/project/dill) | 0.3.3 | python3_scientific |
 | [eccodes-python](https://github.com/ecmwf/eccodes-python) | 0.9.3 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | python2_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | scientific |
@@ -70,12 +71,14 @@
 | [h5py](http://www.h5py.org) | 2.9.0 | python3_scientific |
 | [harfbuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz/) | 2.6.1 | scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
+| [importlib-metadata](http://importlib-metadata.readthedocs.io/) | 2.0.0 | python3_scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python2_scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python2_scientific |
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python3_scientific |
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 1.1.0 | python3_scientific |
 | [joblib](https://joblib.readthedocs.io) | 0.13.2 | python3_scientific |
+| [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python2_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
@@ -95,6 +98,7 @@
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.0 | python2_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.0 | python3_scientific |
+| [multiprocess](https://pypi.org/project/multiprocess) | 0.70.11.1 | python3_scientific |
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python2_scientific |
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python3_scientific |
 | [nco](http://nco.sourceforge.net) | 4.8.1 | scientific |
@@ -106,12 +110,15 @@
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.2.0.34 | python3_scientific |
+| [openturns](http://www.openturns.org) | 1.16 | python3_scientific |
+| [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.1 | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python2_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python3_scientific |
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python2_scientific |
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python3_scientific |
 | [pango](https://pango.gnome.org/) | 1.42.4 | scientific |
 | [partd](http://github.com/dask/partd/) | 1.1.0 | python3_scientific |
+| [pathos](https://pypi.org/project/pathos) | 0.2.7 | python3_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
 | [Pillow](https://python-pillow.org) | 7.2.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
@@ -121,6 +128,8 @@
 | [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python2_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python3_scientific |
+| [pox](https://pypi.org/project/pox) | 0.2.9 | python3_scientific |
+| [ppft](https://pypi.org/project/ppft) | 1.6.6.3 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.12.2 | python2_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.12.2 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers) | 3.12.2 | scientific |
@@ -142,6 +151,7 @@
 | [pyproj](https://github.com/pyproj4/pyproj) | 2.4.2 | python3_scientific |
 | [pyresample](https://pypi.org/project/pyresample) | 1.13.2 | python2_scientific |
 | [pyresample](https://pypi.org/project/pyresample) | 1.13.2 | python3_scientific |
+| [pyrsistent](http://github.com/tobgu/pyrsistent/) | 0.17.3 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python2_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python3_scientific |
 | [python-dateutil](https://dateutil.readthedocs.io) | 2.8.0 | python2_scientific |
@@ -178,5 +188,6 @@
 | [xarray](https://github.com/pydata/xarray) | 0.14.1 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
+| [zipp](https://github.com/jaraco/zipp) | 1.2.0 | python3_scientific |
 
-*(178 components)*
+*(189 components)*
