@@ -44,3 +44,7 @@ import rasterio
 import msgpack
 import regionmask
 import salem
+import openturns
+import batman
+import batman.pod
+import batman.surrogate

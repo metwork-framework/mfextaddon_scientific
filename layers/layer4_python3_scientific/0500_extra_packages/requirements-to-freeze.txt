@@ -1,1 +1,6 @@
+#We don t want to build opencv-contrib-python-headless from source
 opencv-contrib-python-headless
+#No source distribution available for openturns (dependency of ot-batman)
+#May be we should build it from github sources someday...
+openturns
+ot-batman
