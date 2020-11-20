@@ -6,3 +6,4 @@ libquadmath@centos7
 libgomp.so.1()(64bit)@generic
 libquadmath.so.0()(64bit)@generic
 libform.so.5()(64bit)@generic
+libSM.so.6()(64bit)@generic

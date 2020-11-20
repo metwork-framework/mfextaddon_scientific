@@ -81,7 +81,5 @@ traitlets==4.3.2
 trollimage==1.10.1
 trollsift==0.3.3
 Werkzeug==0.15.4
-wrapt==1.12.1
 xarray==0.14.1
 zarr==2.3.2
-zipp==1.2.0
