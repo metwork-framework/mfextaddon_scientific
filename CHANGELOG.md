@@ -4,6 +4,8 @@
 ## [Unreleased]
 
 ### New Features
+- add ot-batman and dependencies (#160)
+- add python packages regionmask and salem (#159)
 - add geopandas optional dependencies for polygon plotting with g… (#154)
 - add msgpack python module (#140)
 - add rasterio and geopandas
