@@ -51,7 +51,7 @@ pandas==0.24.2
 partd==1.1.0
 pathos==0.2.7
 Pillow==7.2.0
-Pint==0.10.1
+Pint==0.16.1
 pngquant==1.0.6
 pooch==0.5.2
 pox==0.2.9
