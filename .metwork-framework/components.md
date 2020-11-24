@@ -122,7 +122,7 @@
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
 | [Pillow](https://python-pillow.org) | 7.2.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
-| [Pint](https://github.com/hgrecco/pint) | 0.16.1 | python3_scientific |
+| [Pint](https://github.com/hgrecco/pint) | 0.10.1 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
