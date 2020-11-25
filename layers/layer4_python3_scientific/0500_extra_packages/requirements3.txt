@@ -1,4 +1,0 @@
-certifi==2019.3.9
-opencv-contrib-python-headless==4.2.0.34
-openturns==1.16
-ot-batman==1.9.1
