@@ -7,10 +7,6 @@ matplotlib
 pngquant
 pyshp
 shapely
-#scipy >= 1.2.0 has problems with atlas/lapack/blas on CentOS 6
-#to build on centos 6 with version >= 1.2.0, we would need to build
-#atlas in version >= 3.10.0 (and maybe blas and lapack)
-scipy<1.2.0
 dask[dataframe]
 dask
 toolz
@@ -52,6 +48,9 @@ descartes
 mapclassify<2.3.0
 salem
 regionmask
-#jsonschema and pathos are dependencies for ot-batman (built in further extrapackage)
-jsonschema
-pathos
+#We don t want to build opencv-contrib-python-headless from source
+opencv-contrib-python-headless
+#No source distribution available for openturns (dependency of ot-batman)
+#May be we should build it from github sources someday...
+openturns
+ot-batman
