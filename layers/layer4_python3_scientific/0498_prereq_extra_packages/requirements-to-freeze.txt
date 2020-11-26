@@ -1,7 +1,2 @@
 Cython
 numpy
-#scipy moved here because pip 18.1 fails to install source distribution ot-batman if scipy is not pre-installed
-#scipy >= 1.2.0 has problems with atlas/lapack/blas on CentOS 6
-#to build on centos 6 with version >= 1.2.0, we would need to build
-#atlas in version >= 3.10.0 (and maybe blas and lapack)
-scipy<1.2.0
