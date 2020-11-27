@@ -27,6 +27,7 @@
 | [Click](https://palletsprojects.com/p/click/) | 7.0 | python2_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python2_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python3_scientific |
+| [climetlab](https://github.com/ecmwf/climetlab) | 0.1.2 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 0.2.1 | python2_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 0.2.1 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python2_scientific |
@@ -43,11 +44,13 @@
 | [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
 | [dill](https://pypi.org/project/dill) | 0.3.3 | python3_scientific |
-| [eccodes-python](https://github.com/ecmwf/eccodes-python) | 0.9.3 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | python2_scientific |
+| [eccodes](https://github.com/ecmwf/eccodes-python) | 1.0.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python2_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
+| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.0.93 | python3_scientific |
+| [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python3_scientific |
 | [enum34](https://bitbucket.org/stoneleaf/enum34) | 1.1.6 | python2_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | python2_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | python3_scientific |
@@ -88,6 +91,7 @@
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.2.0 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
+| [Markdown](https://Python-Markdown.github.io/) | 3.3.3 | python3_scientific |
 | [matplotlib](http://matplotlib.org) | 2.2.2 | python2_scientific |
 | [matplotlib](https://matplotlib.org) | 3.1.1 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.11.1 | python2_scientific |
@@ -119,6 +123,7 @@
 | [pango](https://pango.gnome.org/) | 1.42.4 | scientific |
 | [partd](http://github.com/dask/partd/) | 1.1.0 | python3_scientific |
 | [pathos](https://pypi.org/project/pathos) | 0.2.7 | python3_scientific |
+| [pdbufr](https://github.com/ecmwf/pdbufr) | 0.8.1 | python3_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
 | [Pillow](https://python-pillow.org) | 7.2.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
@@ -145,6 +150,7 @@
 | [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python3_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python2_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python3_scientific |
+| [pyodc](https://github.com/ecmwf/pyodc) | 1.0.3 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python2_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python3_scientific |
 | [pyproj](https://github.com/jswhit/pyproj) | 1.9.6 | python2_scientific |
@@ -167,6 +173,7 @@
 | [scipy](https://www.scipy.org) | 1.1.0 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python2_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
+| [setuptools-scm-git-archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.1 | python3_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python2_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python3_scientific |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
@@ -175,6 +182,7 @@
 | [subprocess32](https://github.com/google/python-subprocess32) | 3.5.4 | python2_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python2_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python3_scientific |
+| [tqdm](https://github.com/tqdm/tqdm) | 4.53.0 | python3_scientific |
 | [traitlets](http://ipython.org) | 4.3.2 | python2_scientific |
 | [traitlets](http://ipython.org) | 4.3.2 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.10.1 | python2_scientific |
@@ -188,4 +196,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(187 components)*
+*(195 components)*
