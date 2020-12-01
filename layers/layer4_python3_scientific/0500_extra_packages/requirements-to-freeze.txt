@@ -54,4 +54,10 @@ opencv-contrib-python-headless
 #May be we should build it from github sources someday...
 openturns
 ot-batman
-climetlab
+#Below requirements for climetlab which is built afterwards
+entrypoints
+Markdown
+pdbufr
+pyodc
+tqdm
+
