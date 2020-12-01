@@ -19,7 +19,7 @@
 | [certifi](https://certifi.io/) | 2019.3.9 | python3_scientific |
 | [cf-units](https://scitools.org.uk/cf-units) | 2.1.1 | python2_scientific |
 | [cf-units](https://scitools.org.uk/cf-units) | 2.1.1 | python3_scientific |
-| [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.7.1 | python3_scientific |
+| [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.8.5 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.0.3.4 | python2_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.0.3.4 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python2_scientific |
@@ -49,7 +49,6 @@
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python2_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
-| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.0.93 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python3_scientific |
 | [enum34](https://bitbucket.org/stoneleaf/enum34) | 1.1.6 | python2_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | python2_scientific |
@@ -88,7 +87,7 @@
 | [lxml](http://lxml.de/) | 4.3.4 | python2_scientific |
 | [lxml](http://lxml.de/) | 4.3.4 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python2_scientific |
-| [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python3_scientific |
+| [Magics](https://github.com/ecmwf/magics-python) | 1.5.5 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.2.0 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
 | [Markdown](https://Python-Markdown.github.io/) | 3.3.3 | python3_scientific |
@@ -123,7 +122,7 @@
 | [pango](https://pango.gnome.org/) | 1.42.4 | scientific |
 | [partd](http://github.com/dask/partd/) | 1.1.0 | python3_scientific |
 | [pathos](https://pypi.org/project/pathos) | 0.2.7 | python3_scientific |
-| [pdbufr](https://github.com/ecmwf/pdbufr) | 0.8.1 | python3_scientific |
+| [pdbufr](https://github.com/ecmwf/pdbufr) | 0.8.2 | python3_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
 | [Pillow](https://python-pillow.org) | 7.2.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
@@ -173,7 +172,6 @@
 | [scipy](https://www.scipy.org) | 1.1.0 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python2_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
-| [setuptools-scm-git-archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.1 | python3_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python2_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python3_scientific |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
@@ -196,4 +194,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(195 components)*
+*(193 components)*
