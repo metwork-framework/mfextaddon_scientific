@@ -27,7 +27,7 @@ xarray != 0.13.0
 palettable
 seaborn
 cartopy
-eccodes-python
+eccodes
 MetPy
 Magics
 ecmwf-api-client
@@ -54,3 +54,10 @@ opencv-contrib-python-headless
 #May be we should build it from github sources someday...
 openturns
 ot-batman
+#Below requirements for climetlab which is built afterwards
+entrypoints
+Markdown
+pdbufr
+pyodc
+tqdm
+
