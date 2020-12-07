@@ -48,3 +48,4 @@ import openturns
 import batman
 import batman.pod
 import batman.surrogate
+import climetlab
