@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 ### New Features
+- add climetlab and dependencies (#172)
 - add ot-batman and dependencies (#160)
 - add python packages regionmask and salem (#159)
 - add geopandas optional dependencies for polygon plotting with g… (#154)
