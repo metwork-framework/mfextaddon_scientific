@@ -56,8 +56,5 @@ openturns
 ot-batman
 #Below requirements for climetlab which is built afterwards
 entrypoints
-Markdown
 pdbufr
 pyodc
-tqdm
-
