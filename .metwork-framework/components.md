@@ -73,7 +73,6 @@
 | [h5py](http://www.h5py.org) | 2.9.0 | python3_scientific |
 | [harfbuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz/) | 2.6.1 | scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
-| [importlib-metadata](http://importlib-metadata.readthedocs.io/) | 2.0.0 | python3_scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python2_scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python2_scientific |
@@ -90,7 +89,6 @@
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.5 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.5.1 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
-| [Markdown](https://Python-Markdown.github.io/) | 3.3.3 | python3_scientific |
 | [matplotlib](http://matplotlib.org) | 2.2.2 | python2_scientific |
 | [matplotlib](https://matplotlib.org) | 3.1.1 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.11.1 | python2_scientific |
@@ -180,7 +178,6 @@
 | [subprocess32](https://github.com/google/python-subprocess32) | 3.5.4 | python2_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python2_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python3_scientific |
-| [tqdm](https://github.com/tqdm/tqdm) | 4.53.0 | python3_scientific |
 | [traitlets](http://ipython.org) | 4.3.2 | python2_scientific |
 | [traitlets](http://ipython.org) | 4.3.2 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.10.1 | python2_scientific |
@@ -194,4 +191,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(193 components)*
+*(190 components)*
