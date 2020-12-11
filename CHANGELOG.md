@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 ### New Features
+- upgrade eccodes to 2.19.1, Magics to 4.5.1 and Metview to 5.10.1 (#174)
 - add climetlab and dependencies (#172)
 - add ot-batman and dependencies (#160)
 - add python packages regionmask and salem (#159)

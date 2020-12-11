@@ -1,0 +1,2 @@
+#Patch to add missing -I{CURL_INCLUDE_DIR}
+curl_include_dir.patch
