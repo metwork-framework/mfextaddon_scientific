@@ -1,3 +1,2 @@
-LD_LIBRARY_PATH={LD_LIBRARY_PATH}:{MFEXT_HOME}/opt/python3_scientific/lib/python3.7/site-packages/openturns.libs
 MAGPLUS_HOME={MFEXT_HOME}/opt/python3_scientific
 MAGPLUS_QUIET=ON
