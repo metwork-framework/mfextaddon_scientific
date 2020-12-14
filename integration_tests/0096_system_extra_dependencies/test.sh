@@ -25,9 +25,9 @@ for layer in `ls`; do
             echo
             current_layer=`cat .layerapi2_label`
             DEPS1=$(layer_wrapper --layers=${current_layer} -- external_dependencies.sh |awk -F '/' '{print $NF}' |xargs)
-            echo "--- DEPS ----" ${DEPS1}
+            echo "--- extra dependencies ---" ${DEPS1}
             DEPS2=$(layer_wrapper --layers=${current_layer} -- external_dependencies_not_found.sh |xargs)
-            echo "--- DEPS not found ----" ${DEPS2}
+            echo "--- dependencies not found ---" ${DEPS2}
             DEPS=$(echo $DEPS1 $DEPS2)
             for DEP in ${DEPS}; do
                 FOUND=0
@@ -53,7 +53,7 @@ for layer in `ls`; do
 done
 
 
-#if test "${RET}" = "1"; then
-#    echo "extra dependencies found"
-#    exit 1
-#fi
+if test "${RET}" = "1"; then
+    echo "extra dependencies found"
+    exit 1
+fi
