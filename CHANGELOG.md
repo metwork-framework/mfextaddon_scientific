@@ -1,26 +1,19 @@
 # release_1.0 CHANGELOG
 
-
 ## [Unreleased]
 
-### New Features
-
-
 ### Bug Fixes
+
 - add cloudpickle dependency for dask[dataframe] (bp #146) (#147)
-
-
-
-
 
 ## v1.0.1 (2020-09-24)
 
 - No interesting change
 
-
 ## v1.0.0 (2020-09-19)
 
 ### New Features
+
 - add metview (without ui support) and pypi metview (python3 only) with update of Magics and eccodes
 - upgrade CDO, build it with grib support and add python2/3 modules
 - upgrade python GDAL to 2.4.3 and build it with scl (gcc 7.3)
@@ -41,11 +34,8 @@
 - upgrade pyproj to 2.4.2 and Cartopy to 0.18
 - add rasterio and geopandas
 
-
 ### Bug Fixes
+
 - patch ImageMagick6 to build with gcc-8 without aligned_alloc
-
-
-
 
 
