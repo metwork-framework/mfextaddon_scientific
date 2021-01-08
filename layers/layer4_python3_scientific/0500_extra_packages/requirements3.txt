@@ -34,7 +34,7 @@ joblib==0.13.2
 jsonschema==3.2.0
 kiwisolver==1.1.0
 locket==0.2.0
-lxml==4.3.4
+lxml==4.6.2
 Magics==1.5.5
 mapclassify==2.2.0
 matplotlib==3.1.1
