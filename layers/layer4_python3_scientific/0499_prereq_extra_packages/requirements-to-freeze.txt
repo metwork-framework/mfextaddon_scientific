@@ -3,3 +3,4 @@
 #to build on centos 6 with version >= 1.2.0, we would need to build
 #atlas in version >= 3.10.0 (and maybe blas and lapack)
 scipy<1.2.0
+flit

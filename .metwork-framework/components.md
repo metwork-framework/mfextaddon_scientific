@@ -44,6 +44,7 @@
 | [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
 | [dill](https://pypi.org/project/dill) | 0.3.3 | python3_scientific |
+| [docutils](http://docutils.sourceforge.net/) | 0.16 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | python2_scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 1.0.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.19.1 | scientific |
@@ -59,6 +60,8 @@
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
+| [flit-core](https://github.com/takluyver/flit) | 3.0.0 | python3_scientific |
+| [flit](https://github.com/takluyver/flit) | 3.0.0 | python3_scientific |
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
@@ -184,11 +187,11 @@
 | [trollimage](https://github.com/pytroll/trollimage) | 1.10.1 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python2_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
-| [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.26 | scientific |
+| [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.15.4 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.11.3 | python2_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.14.1 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(190 components)*
+*(193 components)*
