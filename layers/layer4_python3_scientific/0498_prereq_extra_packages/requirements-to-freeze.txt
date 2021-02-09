@@ -1,2 +1,5 @@
 Cython
-numpy
+#pandas 0.x doesn't build against numpy >= 1.19
+#cf https://github.com/pandas-dev/pandas/commit/6f963310787e4db4d16d308fd37f3db95eb4bb7b#diff-7896fe92978186d17a8fd289e66ac8684ad7615bb56865730ae5fb418ecb01ad
+numpy < 1.19
+flit_core

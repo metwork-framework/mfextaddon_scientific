@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=udunits
-export VERSION=2.2.26
+export VERSION=2.2.28
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=5803837c6019236d24a9c9795cc8b462
+export CHECKSUM=58259d94f766c13b5b0cf1aed92ebbe3
 DESCRIPTION=\
 API and utility for arithmetic manipulation of units of physical quantities
 WEBSITE=http://www.unidata.ucar.edu/software/udunits
