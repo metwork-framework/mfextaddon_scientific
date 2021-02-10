@@ -15,5 +15,6 @@
 
 - add cloudpickle dependency for dask[dataframe] (#146)
 - upgrade MetPy to 0.12.2 for compatibility with Cartopy 0.18 (#149)
+- fix python3 build for rasterio since GDAL update and upgrade udu… (#193)
 
 
