@@ -81,7 +81,7 @@
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python2_scientific |
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python3_scientific |
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 1.1.0 | python3_scientific |
-| [joblib](https://joblib.readthedocs.io) | 0.13.2 | python3_scientific |
+| [joblib](https://joblib.readthedocs.io) | 0.17.0 | python3_scientific |
 | [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python2_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
