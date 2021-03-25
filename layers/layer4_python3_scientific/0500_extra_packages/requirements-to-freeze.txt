@@ -59,3 +59,5 @@ ot-batman
 entrypoints
 pdbufr
 pyodc
+#Dependency for cf_units
+antlr4-python3-runtime
