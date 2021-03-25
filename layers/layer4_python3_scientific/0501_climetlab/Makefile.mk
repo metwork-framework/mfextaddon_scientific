@@ -11,6 +11,6 @@ CliMetLab is a Python package aiming at simplifying access to climate and meteor
 WEBSITE=https://github.com/ecmwf/climetlab
 LICENSE=BSD
 
-all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/climetlab
-$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/climetlab:
+all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/climetlab-$(VERSION)-py$(PYTHON3_SHORT_VERSION).egg
+$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/climetlab-$(VERSION)-py$(PYTHON3_SHORT_VERSION).egg:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) download uncompress python3build python3install
