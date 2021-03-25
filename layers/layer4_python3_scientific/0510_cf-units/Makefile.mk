@@ -11,6 +11,6 @@ Units of measure as defined by the Climate and Forecast (CF) metadata convention
 WEBSITE=https://scitools.org.uk/cf-units
 LICENSE=GNU Lesser General Public License (LGPLv3)
 
-all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/cf_units-$(VERSION)-py$(PYTHON3_SHORT_VERSION)-linux-x86_64.egg
-$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/cf_units-$(VERSION)-py$(PYTHON3_SHORT_VERSION)-linux-x86_64.egg:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXTRACFLAGS="-I$(PREFIX)/../scientific/include" EXTRALDFLAGS="-L$(PREFIX)/../scientific/lib" download uncompress python3build python3install
+all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/cf_units
+$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/cf_units:
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXTRACFLAGS="-I$(PREFIX)/../scientific/include" EXTRALDFLAGS="-L$(PREFIX)/../scientific/lib" download uncompress python3build python3install_pip
