@@ -13,4 +13,4 @@ LICENSE=BSD
 
 all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/climetlab
 $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/climetlab:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) download uncompress python3build python3install
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) download uncompress python3build python3install_pip

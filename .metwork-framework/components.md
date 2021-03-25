@@ -3,6 +3,7 @@
 | [affine](https://github.com/sgillies/affine) | 2.3.0 | python3_scientific |
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python2_scientific |
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python3_scientific |
+| [antlr4-python3-runtime](http://www.antlr.org) | 4.7.2 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python2_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [backports.tempfile](https://github.com/pjdelport/backports.tempfile) | 1.0 | python2_scientific |
@@ -81,7 +82,6 @@
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python2_scientific |
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python3_scientific |
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 1.1.0 | python3_scientific |
-| [joblib](https://joblib.readthedocs.io) | 0.17.0 | python3_scientific |
 | [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python2_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
@@ -112,7 +112,7 @@
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python2_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
-| [numpy](https://www.numpy.org) | 1.16.4 | python3_scientific |
+| [numpy](https://www.numpy.org) | 1.17.5 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.2.0.34 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.16 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.1 | python3_scientific |
@@ -188,10 +188,9 @@
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python2_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
-| [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.15.4 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.11.3 | python2_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.14.1 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(193 components)*
+*(192 components)*

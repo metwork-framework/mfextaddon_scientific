@@ -13,6 +13,6 @@ PYKE integrates a form of Logic Programming into Python by providing a knowledge
 WEBSITE=https://sourceforge.net/projects/pyke/
 LICENSE=MIT
 
-all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION)-py$(PYTHON3_SHORT_VERSION).egg-info
-$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)-$(VERSION)-py$(PYTHON3_SHORT_VERSION).egg-info:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard download uncompress python3build python3install
+all:: $(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME)
+$(PREFIX)/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/$(NAME):
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard download uncompress python3build python3install_pip

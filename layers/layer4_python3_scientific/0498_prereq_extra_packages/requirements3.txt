@@ -1,4 +1,4 @@
 certifi==2019.3.9
 Cython==0.29.12
 flit_core==3.0.0
-numpy==1.16.4
+numpy==1.17.5
