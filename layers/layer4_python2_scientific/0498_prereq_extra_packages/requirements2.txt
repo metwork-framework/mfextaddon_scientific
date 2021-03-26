@@ -1,3 +1,2 @@
-certifi==2019.3.9
 Cython==0.29.12
 numpy==1.16.4

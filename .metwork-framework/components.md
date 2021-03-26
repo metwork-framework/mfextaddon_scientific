@@ -16,8 +16,6 @@
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.9.8 | scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python2_scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python3_scientific |
-| [certifi](https://certifi.io/) | 2019.3.9 | python2_scientific |
-| [certifi](https://certifi.io/) | 2019.3.9 | python3_scientific |
 | [cf-units](https://scitools.org.uk/cf-units) | 2.1.1 | python2_scientific |
 | [cf-units](https://scitools.org.uk/cf-units) | 2.1.1 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.8.5 | python3_scientific |
@@ -86,8 +84,8 @@
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python2_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
-| [lxml](https://lxml.de/) | 4.6.2 | python2_scientific |
-| [lxml](https://lxml.de/) | 4.6.2 | python3_scientific |
+| [lxml](https://lxml.de/) | 4.6.3 | python2_scientific |
+| [lxml](https://lxml.de/) | 4.6.3 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python2_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.5 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.5.1 | scientific |
@@ -125,7 +123,7 @@
 | [pathos](https://pypi.org/project/pathos) | 0.2.7 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.8.2 | python3_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
-| [Pillow](https://python-pillow.org) | 7.2.0 | python3_scientific |
+| [Pillow](https://python-pillow.org) | 8.1.2 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.16.1 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
@@ -193,4 +191,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(192 components)*
+*(190 components)*

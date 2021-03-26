@@ -4,7 +4,6 @@ backports.tempfile==1.0
 backports.weakref==1.0.post1
 cdo==1.5.3
 cdsapi==0.1.4
-certifi==2019.3.9
 cftime==1.0.3.4
 Click==7.0
 click-plugins==1.1.1
@@ -25,7 +24,7 @@ graphviz==0.11.1
 h5py==2.9.0
 ipython-genutils==0.2.0
 kiwisolver==1.1.0
-lxml==4.6.2
+lxml==4.6.3
 Magics==1.0.11
 matplotlib==2.2.2
 MetPy==0.11.1
