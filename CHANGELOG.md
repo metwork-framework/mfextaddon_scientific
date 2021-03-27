@@ -10,6 +10,7 @@
 - add ot-batman and dependencies (#160)
 - add climetlab and dependencies (#172)
 - upgrade eccodes to 2.19.1, Magics to 4.5.1 and Metview to 5.10.1 (#174)
+- bump Pillow (python3) to 8.1.2 and lxml (python2 & python 3) to 4.6.3 to fix security vulnerabilities (#203)
 
 ### Bug Fixes
 
