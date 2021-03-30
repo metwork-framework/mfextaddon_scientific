@@ -168,7 +168,7 @@
 | [scandir](https://github.com/benhoyt/scandir) | 1.10.0 | python2_scientific |
 | [scikit-learn](http://scikit-learn.org) | 0.21.2 | python3_scientific |
 | [scipy](https://www.scipy.org) | 1.1.0 | python2_scientific |
-| [scipy](https://www.scipy.org) | 1.3.3 | python3_scientific |
+| [scipy](https://www.scipy.org) | 1.1.0 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python2_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python2_scientific |
