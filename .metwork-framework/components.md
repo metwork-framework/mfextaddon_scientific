@@ -161,7 +161,7 @@
 | [trollimage](https://github.com/pytroll/trollimage) | 1.10.1 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python2_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
-| [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.26 | scientific |
+| [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.15.4 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.11.3 | python2_scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.12.3 | python3_scientific |
