@@ -5,6 +5,7 @@
 ### Bug Fixes
 
 - add cloudpickle dependency for dask[dataframe] (bp #146) (#147)
+- update udunits from 2.2.26 to 2.2.28 (tarball of version 2.2.26 … (#209)
 
 ## v1.0.1 (2020-09-24)
 
