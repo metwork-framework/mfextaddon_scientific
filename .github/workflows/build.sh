@@ -45,7 +45,7 @@ MODULEHASH=`/opt/metwork-mfext-${TARGET_DIR}/bin/mfext_wrapper module_hash 2>mod
 if test -f /opt/metwork-mfext-${TARGET_DIR}/.dhash; then cat /opt/metwork-mfext-${TARGET_DIR}/.dhash; fi
 cat module_hash.debug |sort |uniq ; rm -f module_hash.debug
 echo "${MODULEHASH}${DRONE_TAG}${DRONE_BRANCH}" |md5sum |cut -d ' ' -f1 >.build_hash
-if test -f "${BUILDCACHE}/build_hash_mfext_${BRANCH}_`cat .build_hash`"; then
+if test -f "${BUILDCACHE}/build_hash_mfextaddon_scientific_${BRANCH}_`cat .build_hash`"; then
     echo "::set-output name=bypass::true"
     echo "::set-output name=buildcache::null"
     exit 0
@@ -63,8 +63,8 @@ mkdir rpms
 mv /opt/metwork-mfext-${TARGET_DIR}/*.rpm rpms
 
 
-rm -f ${BUILDCACHE}/build_hash_mfext_${BRANCH}_*
-hash_file=${BUILDCACHE}/build_hash_mfext_${BRANCH}_`cat .build_hash`
+rm -f ${BUILDCACHE}/build_hash_mfextaddon_scientific_${BRANCH}_*
+hash_file=${BUILDCACHE}/build_hash_mfextaddon_scientific_${BRANCH}_`cat .build_hash`
 touch ${hash_file}
 chown 1018:1018 ${hash_file}
 echo "::set-output name=buildcache::${hash_file}"
