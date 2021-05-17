@@ -67,6 +67,7 @@ rm -f ${BUILDCACHE}/build_hash_mfextaddon_scientific_${BRANCH}_*
 hash_file=${BUILDCACHE}/build_hash_mfextaddon_scientific_${BRANCH}_`cat .build_hash`
 touch ${hash_file}
 chown 1018:1018 ${hash_file}
+chmod 664 ${hash_file}
 echo "::set-output name=buildcache::${hash_file}"
  
 
