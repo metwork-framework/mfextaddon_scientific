@@ -35,7 +35,7 @@
 | [cycler](http://github.com/matplotlib/cycler) | 0.10.0 | python2_scientific |
 | [cycler](http://github.com/matplotlib/cycler) | 0.10.0 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.12 | python2_scientific |
-| [Cython](http://cython.org/) | 0.29.12 | python3_scientific |
+| [Cython](http://cython.org/) | 0.29.21 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 1.2.2 | python2_scientific |
 | [dask](https://github.com/dask/dask/) | 2.1.0 | python3_scientific |
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python2_scientific |
@@ -117,7 +117,7 @@
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python2_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python3_scientific |
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python2_scientific |
-| [pandas](http://pandas.pydata.org) | 0.24.2 | python3_scientific |
+| [pandas](https://pandas.pydata.org) | 1.2.4 | python3_scientific |
 | [pango](https://pango.gnome.org/) | 1.42.4 | scientific |
 | [partd](http://github.com/dask/partd/) | 1.1.0 | python3_scientific |
 | [pathos](https://pypi.org/project/pathos) | 0.2.7 | python3_scientific |
