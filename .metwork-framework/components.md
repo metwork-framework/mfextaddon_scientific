@@ -126,7 +126,6 @@
 | [Pillow](https://python-pillow.org) | 8.1.2 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.16.1 | python3_scientific |
-| [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.2 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
@@ -192,4 +191,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(191 components)*
+*(190 components)*
