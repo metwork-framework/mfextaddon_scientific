@@ -13,4 +13,4 @@ LICENSE=LGPL with optional components licensed under GPL
 
 all::$(PREFIX)/bin/ffmpeg
 $(PREFIX)/bin/ffmpeg:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="--disable-x86asm" download uncompress configure build install
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="--disable-x86asm --disable-static --enable-shared" download uncompress configure build install
