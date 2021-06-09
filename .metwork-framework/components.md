@@ -108,7 +108,12 @@
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
 | [Pillow](https://python-pillow.org) | 7.2.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
+<<<<<<< HEAD
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python3_scientific |
+=======
+| [Pint](https://github.com/hgrecco/pint) | 0.16.1 | python3_scientific |
+| [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.2 | python2_scientific |
+>>>>>>> b283db2 (feat: add pkgconfig 1.5.2 to fix h5py build since pkgconfig 1.5.4 (not python2 compliant) is available (#220))
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
@@ -168,4 +173,8 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
+<<<<<<< HEAD
 *(167 components)*
+=======
+*(191 components)*
+>>>>>>> b283db2 (feat: add pkgconfig 1.5.2 to fix h5py build since pkgconfig 1.5.4 (not python2 compliant) is available (#220))

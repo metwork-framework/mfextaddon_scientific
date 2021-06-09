@@ -1,2 +1,4 @@
 numpy
 Cython
+#default pkgconfig>=1.5.4 (h5py build dependency) is not python2 compliant
+pkgconfig<=1.5.2
