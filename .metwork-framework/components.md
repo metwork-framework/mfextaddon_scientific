@@ -56,6 +56,8 @@
 | [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python2_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python3_scientific |
+| [FFmpeg](https://ffmpeg.org/) | n4.4 | scientific |
+| [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
@@ -192,4 +194,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(191 components)*
+*(193 components)*
