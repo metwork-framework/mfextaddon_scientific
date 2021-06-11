@@ -170,4 +170,3 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
 *(168 components)*
-
