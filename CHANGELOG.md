@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### New Features
+
+- add pkgconfig 1.5.2 to fix h5py build since pkgconfig 1.5.4 (not python2 compliant) is available (backport #220) (#229)
+
 ### Bug Fixes
 
 - add cloudpickle dependency for dask[dataframe] (bp #146) (#147)
