@@ -54,7 +54,6 @@ opencv-contrib-python-headless
 #No source distribution available for openturns (dependency of ot-batman)
 #May be we should build it from github sources someday...
 openturns
-ot-batman
 #Below requirements for climetlab which is built afterwards
 entrypoints
 pdbufr
@@ -62,3 +61,4 @@ pyodc
 #Dependency for cf_units
 antlr4-python3-runtime
 ffmpy
+-e git+https://gitlab.com/cerfacs/batman.git#egg=ot-batman

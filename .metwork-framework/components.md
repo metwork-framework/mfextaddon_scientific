@@ -61,8 +61,8 @@
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
-| [flit-core](https://github.com/takluyver/flit) | 3.0.0 | python3_scientific |
-| [flit](https://github.com/takluyver/flit) | 3.0.0 | python3_scientific |
+| [flit-core](https://github.com/takluyver/flit) | 3.2.0 | python3_scientific |
+| [flit](None) | 3.2.0 | python3_scientific |
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
@@ -93,7 +93,7 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.5.1 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
 | [matplotlib](http://matplotlib.org) | 2.2.2 | python2_scientific |
-| [matplotlib](https://matplotlib.org) | 3.1.1 | python3_scientific |
+| [matplotlib](https://matplotlib.org) | 3.1.3 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.11.1 | python2_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.3.1 | python3_scientific |
@@ -112,10 +112,10 @@
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python2_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
-| [numpy](https://www.numpy.org) | 1.17.5 | python3_scientific |
+| [numpy](https://www.numpy.org) | 1.18.5 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.2.0.34 | python3_scientific |
-| [openturns](http://www.openturns.org) | 1.16 | python3_scientific |
-| [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.1 | python3_scientific |
+| [openturns](http://www.openturns.org) | 1.14 | python3_scientific |
+| [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python2_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python3_scientific |
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python2_scientific |
@@ -169,7 +169,7 @@
 | [satpy](https://github.com/pytroll/satpy) | 0.17.1 | python2_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.17.1 | python3_scientific |
 | [scandir](https://github.com/benhoyt/scandir) | 1.10.0 | python2_scientific |
-| [scikit-learn](http://scikit-learn.org) | 0.21.2 | python3_scientific |
+| [scikit-learn](http://scikit-learn.org) | 0.22.2.post1 | python3_scientific |
 | [scipy](https://www.scipy.org) | 1.1.0 | python2_scientific |
 | [scipy](https://www.scipy.org) | 1.1.0 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python2_scientific |
