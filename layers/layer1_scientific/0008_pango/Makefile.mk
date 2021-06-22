@@ -23,7 +23,7 @@ all::$(PREFIX)/lib/libpango-1.0.so
 $(PREFIX)/lib/libpango-1.0.so:
 	mkdir -p $(PREFIX)/../core/opt/python3_core/bin/
 	cp $(PREFIX)/../python2_core/bin/python3_wrapper $(PREFIX)/../core/opt/python3_core/bin/python3
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) download uncompress configure build install
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="--with-xft" download uncompress configure build install
 	rm -r $(PREFIX)/../core/opt/
 	#cd build/$(NAME)-$(VERSION) && meson --prefix=$(PREFIX) .. && ninja && ninja install
 	
