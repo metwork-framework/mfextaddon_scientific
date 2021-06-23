@@ -9,5 +9,6 @@
 - bump Pillow from 8.1.2 to 8.2.0 to fix 6 vulnerabilities includ… (#221)
 - add ffmpeg and ffmpy (#222)
 - upgrade batman to 1.9.2 and upgrade dependencies
+- build pango with xft support (#232)
 
 
