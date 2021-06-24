@@ -50,3 +50,4 @@ import batman.pod
 import batman.surrogate
 import climetlab
 import ffmpy
+import numba
