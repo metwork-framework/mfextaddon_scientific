@@ -62,3 +62,4 @@ pyodc
 antlr4-python3-runtime
 ffmpy
 -e git+https://gitlab.com/cerfacs/batman.git#egg=ot-batman
+numba

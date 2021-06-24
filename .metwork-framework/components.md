@@ -85,6 +85,7 @@
 | [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python2_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
+| [llvmlite](http://llvmlite.pydata.org) | 0.33.0 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.6.3 | python2_scientific |
 | [lxml](https://lxml.de/) | 4.6.3 | python3_scientific |
@@ -109,6 +110,7 @@
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python2_scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python3_scientific |
+| [numba](http://numba.github.com) | 0.50.1 | python3_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python2_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
@@ -194,4 +196,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(193 components)*
+*(195 components)*

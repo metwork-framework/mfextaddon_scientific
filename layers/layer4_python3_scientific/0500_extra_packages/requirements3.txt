@@ -33,6 +33,7 @@ ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jsonschema==3.2.0
 kiwisolver==1.1.0
+llvmlite==0.33.0
 locket==0.2.0
 lxml==4.6.3
 Magics==1.5.5
@@ -45,6 +46,7 @@ msgpack==1.0.0
 multiprocess==0.70.11.1
 munch==2.3.2
 netCDF4==1.5.1.2
+numba==0.50.1
 numcodecs==0.6.3
 opencv-contrib-python-headless==4.2.0.34
 openturns==1.14
