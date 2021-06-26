@@ -10,5 +10,6 @@
 - add ffmpeg and ffmpy (#222)
 - upgrade batman to 1.9.2 and upgrade dependencies
 - build pango with xft support (#232)
+- add numba and its dependency llvmlite  (#235)
 
 
