@@ -16,14 +16,8 @@ quality text handling and graphics rendering.
 WEBSITE=https://pango.gnome.org/
 LICENSE=LGPL2
 
-#For some reason the build looks for python3 (for build usage only) in the
-#wrong place (under glib home).
-#So we temporarily copy a python3 wrapper in this place
 all::$(PREFIX)/lib/libpango-1.0.so
 $(PREFIX)/lib/libpango-1.0.so:
-	mkdir -p $(PREFIX)/../core/opt/python3_core/bin/
-	cp $(PREFIX)/../python2_core/bin/python3_wrapper $(PREFIX)/../core/opt/python3_core/bin/python3
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="--with-xft" download uncompress configure build install
-	rm -r $(PREFIX)/../core/opt/
 	#cd build/$(NAME)-$(VERSION) && meson --prefix=$(PREFIX) .. && ninja && ninja install
 	
