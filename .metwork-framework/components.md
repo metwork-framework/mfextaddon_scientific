@@ -149,6 +149,7 @@
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python2_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python3_scientific |
+| [pyhdf](https://github.com/fhs/pyhdf) | 0.10.3 | python3_scientific |
 | [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python2_scientific |
 | [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python3_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python2_scientific |
@@ -196,4 +197,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(195 components)*
+*(196 components)*
