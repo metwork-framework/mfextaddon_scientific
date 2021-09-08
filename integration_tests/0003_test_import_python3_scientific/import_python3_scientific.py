@@ -51,3 +51,4 @@ import batman.surrogate
 import climetlab
 import ffmpy
 import numba
+import pyhdf

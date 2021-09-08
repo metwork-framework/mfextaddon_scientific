@@ -127,7 +127,7 @@
 | [pathos](https://pypi.org/project/pathos) | 0.2.7 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.8.2 | python3_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
-| [Pillow](https://python-pillow.org) | 8.2.0 | python3_scientific |
+| [Pillow](https://python-pillow.org) | 8.3.2 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.16.1 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.2 | python2_scientific |
@@ -149,6 +149,7 @@
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python2_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python3_scientific |
+| [pyhdf](https://github.com/fhs/pyhdf) | 0.10.3 | python3_scientific |
 | [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python2_scientific |
 | [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python3_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python2_scientific |
@@ -196,4 +197,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(195 components)*
+*(196 components)*
