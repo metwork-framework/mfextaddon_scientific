@@ -127,7 +127,7 @@
 | [pathos](https://pypi.org/project/pathos) | 0.2.7 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.8.2 | python3_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
-| [Pillow](https://python-pillow.org) | 8.2.0 | python3_scientific |
+| [Pillow](https://python-pillow.org) | 8.3.2 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.16.1 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.2 | python2_scientific |
