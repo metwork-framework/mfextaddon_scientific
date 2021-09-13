@@ -46,7 +46,7 @@
 | [docutils](http://docutils.sourceforge.net/) | 0.16 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | python2_scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 1.0.0 | python3_scientific |
-| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.19.1 | scientific |
+| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.23.0 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python2_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python3_scientific |
