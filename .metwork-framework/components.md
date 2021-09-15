@@ -70,6 +70,7 @@
 | [gdbm](https://www.gnu.org.ua/software/gdbm/) | 1.18.1 | scientific |
 | [geopandas](http://geopandas.org) | 0.8.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.2 | python3_scientific |
+| [gmt](https://www.generic-mapping-tools.org) | 6.2.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python2_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
 | [graphviz](https://graphviz.org) | 2.40.1 | scientific |
@@ -147,6 +148,7 @@
 | [pycurl](http://pycurl.io/) | 7.43.0.3 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python2_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python3_scientific |
+| [pygmt](https://github.com/GenericMappingTools/pygmt) | 0.4.1 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python2_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.10.3 | python3_scientific |
@@ -197,4 +199,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(196 components)*
+*(198 components)*
