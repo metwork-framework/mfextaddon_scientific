@@ -1,4 +1,5 @@
 import Cython
+import gmt
 import gdal
 import h5py
 import netCDF4
