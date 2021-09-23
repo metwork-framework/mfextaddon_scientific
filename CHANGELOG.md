@@ -11,5 +11,9 @@
 - upgrade batman to 1.9.2 and upgrade dependencies
 - build pango with xft support (#232)
 - add numba and its dependency llvmlite  (#235)
+- add python module pyhdf (#239)
+- upgrade Pillow to 8.3.2 to fix security vulnerability (#242)
+- add fortran support to eccodes and upgrade eccodes and eccodes-python to last releases (2.23.0 and 1.3.3) (#245)
+- add GMT with GSHHG and DCW geographical data and python3 api pygmt (#247)
 
 
