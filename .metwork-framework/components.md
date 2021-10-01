@@ -86,7 +86,7 @@
 | [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python2_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
-| [llvmlite](http://llvmlite.pydata.org) | 0.33.0 | python3_scientific |
+| [llvmlite](http://llvmlite.pydata.org) | 0.36.0 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.6.3 | python2_scientific |
 | [lxml](https://lxml.de/) | 4.6.3 | python3_scientific |
@@ -116,8 +116,8 @@
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
 | [numpy](https://www.numpy.org) | 1.18.5 | python3_scientific |
-| [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.2.0.34 | python3_scientific |
-| [openturns](http://www.openturns.org) | 1.14 | python3_scientific |
+| [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.4.0.46 | python3_scientific |
+| [openturns](http://www.openturns.org) | 1.16 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python2_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python3_scientific |
@@ -132,6 +132,7 @@
 | [Pint](https://github.com/hgrecco/pint) | 0.9 | python2_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.16.1 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.2 | python2_scientific |
+| [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
@@ -153,7 +154,7 @@
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.10.3 | python3_scientific |
 | [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python2_scientific |
-| [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python3_scientific |
+| [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.4 | python3_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python2_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.0.3 | python3_scientific |
@@ -174,11 +175,13 @@
 | [satpy](https://github.com/pytroll/satpy) | 0.17.1 | python2_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.17.1 | python3_scientific |
 | [scandir](https://github.com/benhoyt/scandir) | 1.10.0 | python2_scientific |
+| [scikit-build](https://github.com/scikit-build/scikit-build) | 0.12.0 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 0.22.2.post1 | python3_scientific |
 | [scipy](https://www.scipy.org) | 1.1.0 | python2_scientific |
-| [scipy](https://www.scipy.org) | 1.1.0 | python3_scientific |
+| [scipy](https://www.scipy.org) | 1.2.3 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python2_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
+| [setuptools-scm-git-archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.1 | python3_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python2_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python3_scientific |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
@@ -199,4 +202,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(198 components)*
+*(201 components)*
