@@ -201,4 +201,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(201 components)*
+*(200 components)*
