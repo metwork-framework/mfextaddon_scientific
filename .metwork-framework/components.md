@@ -73,7 +73,6 @@
 | [gmt](https://www.generic-mapping-tools.org) | 6.2.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python2_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
-| [graphviz](https://graphviz.org) | 2.40.1 | scientific |
 | [h5py](http://www.h5py.org) | 2.9.0 | python2_scientific |
 | [h5py](http://www.h5py.org) | 2.9.0 | python3_scientific |
 | [harfbuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz/) | 2.6.1 | scientific |
@@ -151,7 +150,7 @@
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python3_scientific |
 | [pygmt](https://github.com/GenericMappingTools/pygmt) | 0.4.1 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python2_scientific |
-| [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python3_scientific |
+| [pygraphviz](http://pygraphviz.github.io/) | 1.6 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.10.3 | python3_scientific |
 | [pykdtree](https://pypi.org/project/pykdtree) | 1.3.1 | python2_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.4 | python3_scientific |
