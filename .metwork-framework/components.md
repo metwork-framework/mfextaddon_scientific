@@ -110,7 +110,7 @@
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python2_scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python3_scientific |
-| [numba](http://numba.github.com) | 0.50.1 | python3_scientific |
+| [numba](http://numba.github.com) | 0.53.1 | python3_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python2_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
@@ -156,7 +156,7 @@
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.4 | python3_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python2_scientific |
 | [pyke](https://sourceforge.net/projects/pyke/) | 1.1.1 | python3_scientific |
-| [pyodc](https://github.com/ecmwf/pyodc) | 1.0.3 | python3_scientific |
+| [pyodc](https://github.com/ecmwf/pyodc) | 1.1.1 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python2_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python3_scientific |
 | [pyproj](https://github.com/jswhit/pyproj) | 1.9.6 | python2_scientific |
