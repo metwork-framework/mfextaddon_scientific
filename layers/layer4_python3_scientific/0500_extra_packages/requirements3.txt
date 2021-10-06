@@ -33,7 +33,7 @@ ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jsonschema==3.2.0
 kiwisolver==1.1.0
-llvmlite==0.33.0
+llvmlite==0.36.0
 locket==0.2.0
 lxml==4.6.3
 Magics==1.5.5
@@ -46,10 +46,10 @@ msgpack==1.0.0
 multiprocess==0.70.11.1
 munch==2.3.2
 netCDF4==1.5.1.2
-numba==0.50.1
+numba==0.53.1
 numcodecs==0.6.3
-opencv-contrib-python-headless==4.2.0.34
-openturns==1.14
+opencv-contrib-python-headless==4.4.0.46
+openturns==1.16
 -e git+https://gitlab.com/cerfacs/batman.git@1.9.2-develop-mf#egg=ot-batman
 palettable==3.2.0
 pandas==1.2.4
@@ -68,8 +68,8 @@ pycurl==7.43.0.3
 pydecorate==0.2.1
 pygmt==0.4.1
 pyhdf==0.10.3
-pykdtree==1.3.1
-pyodc==1.0.3
+pykdtree==1.3.4
+pyodc==1.1.1
 pyorbital==1.5.0
 pyproj==2.4.2
 pyresample==1.13.2
