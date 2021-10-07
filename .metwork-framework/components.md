@@ -82,6 +82,7 @@
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python2_scientific |
 | [iris](https://scitools.org.uk/iris) | 2.1.0 | python3_scientific |
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 1.1.0 | python3_scientific |
+| [jsmin](https://github.com/tikitu/jsmin/) | 3.0.0 | python3_scientific |
 | [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python2_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
@@ -166,6 +167,7 @@
 | [pyrsistent](http://github.com/tobgu/pyrsistent/) | 0.17.3 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python2_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python3_scientific |
+| [pysteps](https://pysteps.github.io/) | 1.5.0 | python3_scientific |
 | [python-dateutil](https://dateutil.readthedocs.io) | 2.8.0 | python2_scientific |
 | [pytz](http://pythonhosted.org/pytz) | 2019.1 | python2_scientific |
 | [rasterio](https://github.com/mapbox/rasterio) | 1.1.5 | python3_scientific |
@@ -201,4 +203,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(200 components)*
+*(202 components)*
