@@ -16,5 +16,6 @@
 - add fortran support to eccodes and upgrade eccodes and eccodes-python to last releases (2.23.0 and 1.3.3) (#245)
 - add GMT with GSHHG and DCW geographical data and python3 api pygmt (#247)
 - switch from python 3.8 to python 3.9 (#254)
+- add pysteps and its dependency jsmin (#256)
 
 
