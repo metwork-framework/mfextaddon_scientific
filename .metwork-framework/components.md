@@ -74,7 +74,7 @@
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python2_scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
 | [h5py](http://www.h5py.org) | 2.9.0 | python2_scientific |
-| [h5py](http://www.h5py.org) | 2.9.0 | python3_scientific |
+| [h5py](http://www.h5py.org) | 3.1.0 | python3_scientific |
 | [harfbuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz/) | 2.6.1 | scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python2_scientific |
@@ -115,7 +115,7 @@
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python2_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
-| [numpy](https://www.numpy.org) | 1.18.5 | python3_scientific |
+| [numpy](https://www.numpy.org) | 1.19.5 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.4.0.46 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.16 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
@@ -141,8 +141,9 @@
 | [pox](https://pypi.org/project/pox) | 0.2.9 | python3_scientific |
 | [ppft](https://pypi.org/project/ppft) | 1.6.6.3 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.12.2 | python2_scientific |
-| [protobuf](https://developers.google.com/protocol-buffers/) | 3.12.2 | python3_scientific |
+| [protobuf](https://developers.google.com/protocol-buffers/) | 3.15.6 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers) | 3.12.2 | scientific |
+| [pybind11](https://github.com/pybind/pybind11) | 2.8.0 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python2_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.43.0.3 | python2_scientific |
@@ -179,7 +180,7 @@
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.12.0 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 0.22.2.post1 | python3_scientific |
 | [scipy](https://www.scipy.org) | 1.1.0 | python2_scientific |
-| [scipy](https://www.scipy.org) | 1.2.3 | python3_scientific |
+| [scipy](https://www.scipy.org) | 1.6.3 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python2_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
 | [setuptools-scm-git-archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.1 | python3_scientific |
@@ -203,4 +204,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 
-*(202 components)*
+*(203 components)*
