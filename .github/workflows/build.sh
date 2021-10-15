@@ -10,8 +10,7 @@ export DRONE_BRANCH=${BRANCH}
 export DRONE_TAG=${TAG}
 export DRONE=true
 
-    if test "${OS_VERSION}" = "centos6"; then export METWORK_BUILD_OS=generic; else export METWORK_BUILD_OS=${OS_VERSION}; fi
-
+    export METWORK_BUILD_OS=generic
 
 
     yum install -y metwork-mfext-layer-python2-${BRANCH##release_}
