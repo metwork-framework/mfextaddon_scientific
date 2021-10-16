@@ -17,5 +17,6 @@
 - add GMT with GSHHG and DCW geographical data and python3 api pygmt (#247)
 - switch from python 3.8 to python 3.9 (#254)
 - add pysteps and its dependency jsmin (#256)
+- upgrade numpy, scipy and a few others to ensure compatibility with layer python3_ia@mfext (#260)
 
 
