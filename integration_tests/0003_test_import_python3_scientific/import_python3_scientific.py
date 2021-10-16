@@ -1,3 +1,4 @@
+import pysteps
 import Cython
 import gmt
 import gdal
