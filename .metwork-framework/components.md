@@ -28,7 +28,7 @@
 | [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.1.2 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 0.2.1 | python2_scientific |
-| [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 0.2.1 | python3_scientific |
+| [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 2.0.0 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python2_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
 | [contextlib2](http://contextlib2.readthedocs.org) | 0.5.5 | python2_scientific |
@@ -37,12 +37,13 @@
 | [Cython](http://cython.org/) | 0.29.12 | python2_scientific |
 | [Cython](http://cython.org/) | 0.29.21 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 1.2.2 | python2_scientific |
-| [dask](https://github.com/dask/dask/) | 2.1.0 | python3_scientific |
+| [dask](https://github.com/dask/dask/) | 2021.10.0 | python3_scientific |
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python2_scientific |
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python3_scientific |
 | [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
 | [dill](https://pypi.org/project/dill) | 0.3.3 | python3_scientific |
+| [distributed](https://distributed.dask.org) | 2021.10.0 | python3_scientific |
 | [docutils](http://docutils.sourceforge.net/) | 0.16 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.14.1 | python2_scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 1.3.3 | python3_scientific |
@@ -58,12 +59,14 @@
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python3_scientific |
 | [FFmpeg](https://ffmpeg.org/) | n4.4 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
+| [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
 | [flit-core](https://github.com/takluyver/flit) | 3.2.0 | python3_scientific |
 | [flit](None) | 3.2.0 | python3_scientific |
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
+| [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python3_scientific |
@@ -76,6 +79,7 @@
 | [h5py](http://www.h5py.org) | 2.9.0 | python2_scientific |
 | [h5py](http://www.h5py.org) | 3.1.0 | python3_scientific |
 | [harfbuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz/) | 2.6.1 | scientific |
+| [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python2_scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
@@ -187,11 +191,14 @@
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python2_scientific |
 | [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python3_scientific |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
+| [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
 | [SQLAlchemy](http://www.sqlalchemy.org) | 1.3.5 | python2_scientific |
 | [SQLAlchemy](http://www.sqlalchemy.org) | 1.3.5 | python3_scientific |
 | [subprocess32](https://github.com/google/python-subprocess32) | 3.5.4 | python2_scientific |
+| [tblib](https://github.com/ionelmc/python-tblib) | 1.7.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python2_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python3_scientific |
+| [tornado](http://www.tornadoweb.org/) | 6.0.4 | python3_scientific |
 | [traitlets](http://ipython.org) | 4.3.2 | python2_scientific |
 | [traitlets](http://ipython.org) | 4.3.2 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.10.1 | python2_scientific |
@@ -203,5 +210,6 @@
 | [xarray](https://github.com/pydata/xarray) | 0.14.1 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python2_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
+| [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(203 components)*
+*(211 components)*
