@@ -13,6 +13,7 @@ import numpy
 import scipy
 import dask
 import dask.dataframe
+import distributed
 import toolz
 import geos
 import lxml
