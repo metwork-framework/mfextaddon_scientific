@@ -18,5 +18,6 @@
 - switch from python 3.8 to python 3.9 (#254)
 - add pysteps and its dependency jsmin (#256)
 - upgrade numpy, scipy and a few others to ensure compatibility with layer python3_ia@mfext (#260)
+- add dask.distributed and dependencies and upgrade dask and clou… (#265)
 
 
