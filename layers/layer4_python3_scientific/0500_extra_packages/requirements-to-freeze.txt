@@ -25,7 +25,8 @@ cfgrib
 xarray != 0.13.0
 palettable
 seaborn
-cartopy
+#Cartopy 0.20 requires proj 8.0.0
+cartopy < 0.20.0
 eccodes
 MetPy
 Magics
