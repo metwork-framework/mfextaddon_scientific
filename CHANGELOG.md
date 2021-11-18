@@ -1,4 +1,4 @@
-# CHANGELOG
+# release_1.2 CHANGELOG
 
 ## [Unreleased]
 
@@ -19,5 +19,6 @@
 - add pysteps and its dependency jsmin (#256)
 - upgrade numpy, scipy and a few others to ensure compatibility with layer python3_ia@mfext (#260)
 - add dask.distributed and dependencies and upgrade dask and clou… (#265)
+- update to salem 0.3.6 to allow installation from source tarball (#268)
 
 
