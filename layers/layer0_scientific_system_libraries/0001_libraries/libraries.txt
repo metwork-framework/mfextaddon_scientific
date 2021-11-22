@@ -6,5 +6,3 @@
 /usr/lib64/libgfortran.so.5.0.0
 /usr/lib64/libquadmath.so.0
 /usr/lib64/libquadmath.so.0.0.0
-/usr/lib64/libtiff.so.3
-/usr/lib64/libtiff.so.3.9.4
