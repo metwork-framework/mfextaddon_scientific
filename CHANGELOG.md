@@ -20,5 +20,6 @@
 - upgrade numpy, scipy and a few others to ensure compatibility with layer python3_ia@mfext (#260)
 - add dask.distributed and dependencies and upgrade dask and clou… (#265)
 - update to salem 0.3.6 to allow installation from source tarball (#268)
+- add tiff support in ImageMagick (backport #271) (#272)
 
 
