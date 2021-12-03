@@ -8,6 +8,7 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [backports.tempfile](https://github.com/pjdelport/backports.tempfile) | 1.0 | python2_scientific |
 | [backports.weakref](https://github.com/pjdelport/backports.weakref) | 1.0.post1 | python2_scientific |
+| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
 | [boost](https://www.boost.org/) | 1_67_0 | scientific |
 | [Cartopy](https://scitools.org.uk/cartopy) | 0.13.1 | python2_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.18.0 | python3_scientific |
@@ -68,6 +69,7 @@
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
+| [gast](https://github.com/serge-sans-paille/gast/) | 0.5.3 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python3_scientific |
 | [gdbm](https://www.gnu.org.ua/software/gdbm/) | 1.18.1 | scientific |
@@ -80,6 +82,7 @@
 | [h5py](http://www.h5py.org) | 3.1.0 | python3_scientific |
 | [harfbuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz/) | 2.6.1 | scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
+| [imageio](https://github.com/imageio/imageio) | 2.13.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python2_scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
@@ -115,6 +118,7 @@
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python2_scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python3_scientific |
+| [networkx](https://networkx.org/) | 2.6.3 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.53.1 | python3_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python2_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
@@ -137,6 +141,7 @@
 | [Pint](https://github.com/hgrecco/pint) | 0.16.1 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.2 | python2_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
+| [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python2_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
@@ -173,8 +178,11 @@
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python2_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.5.0 | python3_scientific |
+| [pytest-runner](https://github.com/pytest-dev/pytest-runner/) | 5.2 | python2_scientific |
 | [python-dateutil](https://dateutil.readthedocs.io) | 2.8.0 | python2_scientific |
+| [pythran](https://github.com/serge-sans-paille/pythran) | 0.10.0 | python3_scientific |
 | [pytz](http://pythonhosted.org/pytz) | 2019.1 | python2_scientific |
+| [PyWavelets](https://github.com/PyWavelets/pywt) | 1.2.0 | python3_scientific |
 | [rasterio](https://github.com/mapbox/rasterio) | 1.1.5 | python3_scientific |
 | [regionmask](https://github.com/mathause/regionmask) | 0.6.1 | python3_scientific |
 | [salem](http://salem.readthedocs.io) | 0.3.6 | python3_scientific |
@@ -182,6 +190,7 @@
 | [satpy](https://github.com/pytroll/satpy) | 0.17.1 | python3_scientific |
 | [scandir](https://github.com/benhoyt/scandir) | 1.10.0 | python2_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.12.0 | python3_scientific |
+| [scikit-image](https://scikit-image.org) | 0.19.0 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 0.22.2.post1 | python3_scientific |
 | [scipy](https://www.scipy.org) | 1.1.0 | python2_scientific |
 | [scipy](https://www.scipy.org) | 1.6.3 | python3_scientific |
@@ -196,6 +205,7 @@
 | [SQLAlchemy](http://www.sqlalchemy.org) | 1.3.5 | python3_scientific |
 | [subprocess32](https://github.com/google/python-subprocess32) | 3.5.4 | python2_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 1.7.0 | python3_scientific |
+| [tifffile](https://www.lfd.uci.edu/~gohlke/) | 2021.11.2 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python2_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python3_scientific |
 | [tornado](http://www.tornadoweb.org/) | 6.0.4 | python3_scientific |
@@ -212,4 +222,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(211 components)*
+*(221 components)*
