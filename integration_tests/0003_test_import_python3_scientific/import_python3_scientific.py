@@ -1,3 +1,4 @@
+import reportlab
 import skimage
 import pysteps
 import Cython
