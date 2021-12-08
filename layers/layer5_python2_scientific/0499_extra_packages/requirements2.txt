@@ -12,7 +12,7 @@ cloudpickle==0.2.1
 configobj==5.0.6
 contextlib2==0.5.5
 cycler==0.10.0
-dask==1.2.2
+dask==2021.10.0
 decorator==4.4.0
 ecmwf-api-client==1.5.4
 enum34==1.1.6
