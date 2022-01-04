@@ -18,7 +18,7 @@ Deprecated==1.2.10
 descartes==1.1.0
 dill==0.3.3
 distributed==2021.10.0
-eccodes==1.3.3
+eccodes==1.4.0
 ecmwf-api-client==1.5.4
 entrypoints==0.3
 fasteners==0.15
