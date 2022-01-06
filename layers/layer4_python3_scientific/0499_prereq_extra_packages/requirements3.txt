@@ -1,6 +1,10 @@
+beniget==0.4.1
 docutils==0.16
 flit==3.2.0
+gast==0.5.3
 pkgconfig==1.5.5
+ply==3.11
+pythran==0.10.0
 scikit-build==0.12.0
 scipy==1.6.3
 setuptools-scm-git-archive==1.1

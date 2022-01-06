@@ -2,5 +2,6 @@
 scipy
 flit
 pkgconfig
+pythran
 scikit-build
 setuptools-scm-git-archive

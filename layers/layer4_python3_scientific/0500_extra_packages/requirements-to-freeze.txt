@@ -17,9 +17,7 @@ pycurl
 pyproj==2.4.2
 SQLAlchemy
 cdsapi
-#Upgrade pandas to 1.x.x ?
-#pandas 0.x doesn't build against numpy >= 1.19
-pandas<1.0
+pandas
 scikit-learn
 graphviz
 cfgrib
@@ -27,7 +25,8 @@ cfgrib
 xarray != 0.13.0
 palettable
 seaborn
-cartopy
+#Cartopy 0.20 requires proj 8.0.0
+cartopy < 0.20.0
 eccodes
 MetPy
 Magics
@@ -45,8 +44,7 @@ rasterio
 msgpack
 #descartes and mapclassify : optional geopandas dependencies for polygon plotting
 descartes
-#mapclassify==2.3.0 requires pandas>=1.0
-mapclassify<2.3.0
+mapclassify
 salem
 regionmask
 #We don t want to build opencv-contrib-python-headless from source
@@ -66,3 +64,9 @@ numba
 pyhdf
 pygmt
 pysteps
+distributed
+#tornado, distributed requirement, is also provided by layer python3_devtools
+#but we can't move it in layer python3 because circus (layer python3_circus)
+#requires tornado 4.5.2
+scikit-image
+reportlab
