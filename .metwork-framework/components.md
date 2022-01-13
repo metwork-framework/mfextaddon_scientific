@@ -64,7 +64,6 @@
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
-| [flit-core](https://github.com/takluyver/flit) | 3.2.0 | python3_scientific |
 | [flit](None) | 3.2.0 | python3_scientific |
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
@@ -223,4 +222,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(222 components)*
+*(221 components)*
