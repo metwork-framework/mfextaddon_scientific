@@ -1,3 +1,2 @@
-flit_core==3.2.0
 numpy==1.19.5
 pybind11==2.8.0

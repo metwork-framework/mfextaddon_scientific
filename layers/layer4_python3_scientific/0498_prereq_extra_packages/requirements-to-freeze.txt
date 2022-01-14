@@ -1,3 +1,2 @@
 numpy
-flit_core
 pybind11
