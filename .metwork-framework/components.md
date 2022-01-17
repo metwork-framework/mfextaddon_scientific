@@ -8,7 +8,7 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [backports.tempfile](https://github.com/pjdelport/backports.tempfile) | 1.0 | python2_scientific |
 | [backports.weakref](https://github.com/pjdelport/backports.weakref) | 1.0.post1 | python2_scientific |
-| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
+| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.3.0 | python3_scientific |
 | [boost](https://www.boost.org/) | 1_67_0 | scientific |
 | [Cartopy](https://scitools.org.uk/cartopy) | 0.13.1 | python2_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.18.0 | python3_scientific |
@@ -68,7 +68,7 @@
 | [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
-| [gast](https://github.com/serge-sans-paille/gast/) | 0.5.3 | python3_scientific |
+| [gast](https://github.com/serge-sans-paille/gast/) | 0.4.0 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python3_scientific |
 | [gdbm](https://www.gnu.org.ua/software/gdbm/) | 1.18.1 | scientific |
@@ -179,7 +179,7 @@
 | [pysteps](https://pysteps.github.io/) | 1.5.0 | python3_scientific |
 | [pytest-runner](https://github.com/pytest-dev/pytest-runner/) | 5.2 | python2_scientific |
 | [python-dateutil](https://dateutil.readthedocs.io) | 2.8.0 | python2_scientific |
-| [pythran](https://github.com/serge-sans-paille/pythran) | 0.10.0 | python3_scientific |
+| [pythran](https://github.com/serge-sans-paille/pythran) | 0.9.11 | python3_scientific |
 | [pytz](http://pythonhosted.org/pytz) | 2019.1 | python2_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.2.0 | python3_scientific |
 | [rasterio](https://github.com/mapbox/rasterio) | 1.1.5 | python3_scientific |
