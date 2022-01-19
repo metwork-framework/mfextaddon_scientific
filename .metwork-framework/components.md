@@ -92,8 +92,8 @@
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
 | [llvmlite](http://llvmlite.pydata.org) | 0.36.0 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
-| [lxml](https://lxml.de/) | 4.6.3 | python2_scientific |
-| [lxml](https://lxml.de/) | 4.6.3 | python3_scientific |
+| [lxml](https://lxml.de/) | 4.6.5 | python2_scientific |
+| [lxml](https://lxml.de/) | 4.6.5 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.0.11 | python2_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.5 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.5.1 | scientific |
