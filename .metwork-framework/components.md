@@ -36,7 +36,7 @@
 | [cycler](http://github.com/matplotlib/cycler) | 0.10.0 | python2_scientific |
 | [cycler](http://github.com/matplotlib/cycler) | 0.10.0 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.12 | python2_scientific |
-| [Cython](http://cython.org/) | 0.29.21 | python3_scientific |
+| [Cython](http://cython.org/) | 0.29.26 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 1.2.2 | python2_scientific |
 | [dask](https://github.com/dask/dask/) | 2021.10.0 | python3_scientific |
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python2_scientific |
@@ -122,7 +122,7 @@
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python2_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.16.4 | python2_scientific |
-| [numpy](https://www.numpy.org) | 1.19.5 | python3_scientific |
+| [numpy](https://www.numpy.org) | 1.21.5 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.4.0.46 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.16 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
