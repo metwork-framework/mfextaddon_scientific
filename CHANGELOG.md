@@ -10,5 +10,6 @@
 - upgrade eccodes to 2.24.0 and his python interface to 1.4.0 (#277)
 - build on centos8 (#280)
 - bump lxml from 4.6.3 to 4.6.5 to fix a security vulnerability (#287)
+- upgrade numpy from 1.19.5 to 1.21.5 to fix security vulnerability (#289)
 
 
