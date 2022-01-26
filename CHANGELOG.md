@@ -1,5 +1,11 @@
 # release_1.2 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump lxml from 4.6.3 to 4.6.5 to fix a security vulnerability (backport #287) (#288)
+
 ## v1.2.0 (2021-11-24)
 
 ### New Features
