@@ -1,5 +1,5 @@
 include ../../../adm/root.mk
-include $(MFEXT_HOME)/share/package.mk
+include $(MFEXT_HOME)/share/package_python3.mk
 
 export NAME=esmf
 export VERSION=8_0_1

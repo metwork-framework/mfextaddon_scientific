@@ -1,4 +1,5 @@
 beniget==0.3.0
+decorator==4.4.0
 docutils==0.16
 flit==3.2.0
 gast==0.4.0
@@ -7,4 +8,5 @@ ply==3.11
 pythran==0.9.11
 scikit-build==0.12.0
 scipy==1.6.3
+scitools-pyke==1.1.1
 setuptools-scm-git-archive==1.1
