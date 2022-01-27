@@ -21,7 +21,7 @@ pandas
 scikit-learn
 graphviz
 cfgrib
-#xarry != 1.13.0 for satpy
+#xarray != 1.13.0 for satpy
 xarray != 0.13.0
 palettable
 seaborn
@@ -47,17 +47,11 @@ descartes
 mapclassify
 salem
 regionmask
-#We don t want to build opencv-contrib-python-headless from source
 opencv-contrib-python-headless
-#No source distribution available for openturns (dependency of ot-batman)
-#May be we should build it from github sources someday...
 openturns
-#Below requirements for climetlab which is built afterwards
 entrypoints
 pdbufr
 pyodc
-#Dependency for cf_units
-antlr4-python3-runtime
 ffmpy
 -e git+https://gitlab.com/cerfacs/batman.git#egg=ot-batman
 numba
@@ -70,3 +64,7 @@ distributed
 #requires tornado 4.5.2
 scikit-image
 reportlab
+climetlab
+pygraphviz
+cf-units
+scitools-iris

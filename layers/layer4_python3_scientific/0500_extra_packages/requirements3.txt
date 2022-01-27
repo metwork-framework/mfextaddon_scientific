@@ -5,10 +5,12 @@ asciitree==0.3.3
 Cartopy==0.18.0
 cdo==1.5.3
 cdsapi==0.1.4
+cf-units==3.0.1.post0
 cfgrib==0.9.8.5
-cftime==1.0.3.4
+cftime==1.5.2
 click-plugins==1.1.1
 cligj==0.5.0
+climetlab==0.1.2
 cloudpickle==2.0.0
 configobj==5.0.6
 cycler==0.10.0
@@ -20,6 +22,7 @@ dill==0.3.3
 distributed==2021.10.0
 eccodes==1.4.0
 ecmwf-api-client==1.5.4
+ecmwflibs==0.4.6
 entrypoints==0.3
 fasteners==0.15
 ffmpy==0.3.0
@@ -74,6 +77,7 @@ pycoast==1.2.3
 pycurl==7.43.0.3
 pydecorate==0.2.1
 pygmt==0.4.1
+pygraphviz==1.6
 pyhdf==0.10.3
 pykdtree==1.3.4
 pyodc==1.1.1
@@ -91,6 +95,7 @@ salem==0.3.6
 satpy==0.17.1
 scikit-image==0.19.0
 scikit-learn==0.22.2.post1
+scitools-iris==2.1.0
 seaborn==0.9.0
 Shapely==1.6.4.post2
 snuggs==1.4.7
