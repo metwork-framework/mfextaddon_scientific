@@ -66,7 +66,7 @@ pandas==1.2.4
 partd==1.1.0
 pathos==0.2.7
 pdbufr==0.8.2
-Pillow==8.3.2
+Pillow==9.0.0
 Pint==0.16.1
 pngquant==1.0.6
 pooch==0.5.2
