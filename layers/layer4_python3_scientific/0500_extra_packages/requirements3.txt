@@ -8,6 +8,7 @@ cdsapi==0.1.4
 cf-units==3.0.1.post0
 cfgrib==0.9.8.5
 cftime==1.5.2
+charset-normalizer==2.0.11
 click-plugins==1.1.1
 cligj==0.5.0
 climetlab==0.1.2
@@ -76,6 +77,7 @@ protobuf==3.15.6
 pycoast==1.2.3
 pycurl==7.43.0.3
 pydecorate==0.2.1
+pyepsg==0.4.0
 pygmt==0.4.1
 pygraphviz==1.6
 pyhdf==0.10.3

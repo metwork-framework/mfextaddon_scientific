@@ -22,6 +22,7 @@
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.8.5 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.0.3.4 | python2_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.5.2 | python3_scientific |
+| [charset-normalizer](https://github.com/ousret/charset_normalizer) | 2.0.11 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python2_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [Click](https://palletsprojects.com/p/click/) | 7.0 | python2_scientific |
@@ -158,6 +159,7 @@
 | [pycurl](http://pycurl.io/) | 7.43.0.3 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python2_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python3_scientific |
+| [pyepsg](https://github.com/rhattersley/pyepsg) | 0.4.0 | python3_scientific |
 | [pygmt](https://github.com/GenericMappingTools/pygmt) | 0.4.1 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io/) | 1.5 | python2_scientific |
 | [pygraphviz](http://pygraphviz.github.io) | 1.6 | python3_scientific |
@@ -223,4 +225,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(222 components)*
+*(224 components)*

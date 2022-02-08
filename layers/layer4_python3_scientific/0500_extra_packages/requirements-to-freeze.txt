@@ -68,3 +68,5 @@ climetlab
 pygraphviz
 cf-units
 scitools-iris
+#pyepsg is an optional dependency of Cartopy 0.18.0 (not used anymore with Cartopy 0.20.0)
+pyepsg
