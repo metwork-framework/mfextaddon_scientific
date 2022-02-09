@@ -12,5 +12,6 @@
 - bump lxml from 4.6.3 to 4.6.5 to fix a security vulnerability (#287)
 - upgrade numpy from 1.19.5 to 1.21.5 to fix security vulnerability (#289)
 - bump Pillow from 8.3.2 to 9.0.0 to fix a security vulnerability (#292)
+- add pyepsg ("hidden" dependency of Cartopy) (#293)
 
 
