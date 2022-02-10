@@ -50,9 +50,9 @@ import msgpack
 import regionmask
 import salem
 import openturns
-import batman
-import batman.pod
-import batman.surrogate
+#import batman
+#import batman.pod
+#import batman.surrogate
 import climetlab
 import ffmpy
 import numba
