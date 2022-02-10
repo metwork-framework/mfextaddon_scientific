@@ -1,5 +1,12 @@
 # release_1.2 CHANGELOG
 
+## v1.2.1 (2022-02-09)
+
+### New Features
+
+- bump lxml from 4.6.3 to 4.6.5 to fix a security vulnerability (backport #287) (#288)
+- add pyepsg ("hidden" dependency of Cartopy) (#295)
+
 ## v1.2.0 (2021-11-24)
 
 ### New Features
