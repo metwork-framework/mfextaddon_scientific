@@ -14,5 +14,6 @@
 - bump Pillow from 8.3.2 to 9.0.0 to fix a security vulnerability (#292)
 - add pyepsg ("hidden" dependency of Cartopy) (#293)
 - add ncl_ncar (#297)
+- bump python2 protobuf to 3.15.0 (security update) (#301)
 
 
