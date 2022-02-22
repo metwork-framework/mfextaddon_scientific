@@ -1,10 +1,6 @@
-libgfortran@centos6,centos7
-libgfortran5@centos6,centos7
-libgomp@centos6,centos7
-openblas@centos6,centos7
-libquadmath@centos7
-libgomp.so.1()(64bit)@generic
 libform.so.5()(64bit)@generic
+libgomp.so.1()(64bit)@generic
+libgsl.so.0()(64bit)@generic
 libSM.so.6()(64bit)@generic
 libxcb-shape.so.0()(64bit)@generic
 libxcb-xfixes.so.0()(64bit)@generic
