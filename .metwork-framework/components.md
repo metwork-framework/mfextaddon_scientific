@@ -156,7 +156,7 @@
 | [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python2_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.2.3 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.43.0.3 | python2_scientific |
-| [pycurl](http://pycurl.io/) | 7.43.0.3 | python3_scientific |
+| [pycurl](http://pycurl.io/) | 7.44.1 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python2_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python3_scientific |
 | [pyepsg](https://github.com/rhattersley/pyepsg) | 0.4.0 | python3_scientific |
