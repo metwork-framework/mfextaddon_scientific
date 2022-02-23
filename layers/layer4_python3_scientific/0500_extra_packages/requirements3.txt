@@ -75,7 +75,7 @@ pox==0.2.9
 ppft==1.6.6.3
 protobuf==3.15.6
 pycoast==1.2.3
-pycurl==7.43.0.3
+pycurl==7.44.1
 pydecorate==0.2.1
 pyepsg==0.4.0
 pygmt==0.4.1
