@@ -1,0 +1,12 @@
+diff -up ncl_ncarg-5.0.0/config/Rules.no_install_dep ncl_ncarg-5.0.0/config/Rules
+--- ncl_ncarg-5.0.0/config/Rules.no_install_dep	2008-02-01 11:46:09.000000000 +0100
++++ ncl_ncarg-5.0.0/config/Rules	2008-02-01 11:46:20.000000000 +0100
+@@ -79,7 +79,7 @@ all::]\
+ ]\
+ all-local:: names]\
+ ]\
+-install-local:: names]\
++install-local:: ]\
+ 	MakeDir(dest)]\
+ 	@for name in names; do \ ]\
+ 	if (test -f $$name.$(EXE_SUFFIX)) then \ ]\

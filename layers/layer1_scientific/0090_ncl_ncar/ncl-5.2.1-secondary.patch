@@ -1,0 +1,13 @@
+--- ncl_ncarg-6.3.0/config/ymake.orig	2015-09-13 22:27:17.123448866 +0100
++++ ncl_ncarg-6.3.0/config/ymake	2015-09-13 22:28:24.449350693 +0100
+@@ -373,6 +373,10 @@
+         case    i*64:
+         case    x*64:
+         case    ppc*:
++        case    s390*:
++        case    sparc*:
++        case    arm*:
++        case    aarch64:
+         case    alpha:
+             set model   = $mach
+             set arch    = $mach

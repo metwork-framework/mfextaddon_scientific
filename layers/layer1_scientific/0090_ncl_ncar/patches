@@ -1,0 +1,11 @@
+ncarg-4.4.1-deps.patch
+ncl-5.1.0-ppc64.patch
+ncl-libs.patch
+ncl-format.patch
+ncl-boz.patch
+ncl-gdal.patch
+ncl-5.0.0-no_install_dep.patch
+ncl-5.0.0-build_n_scripts.patch
+ncl-5.1.0-netcdff.patch
+ncl-5.1.0-includes.patch
+ncl-5.2.1-secondary.patch
