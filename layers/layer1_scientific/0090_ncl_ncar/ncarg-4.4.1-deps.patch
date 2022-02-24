@@ -1,0 +1,11 @@
+--- ncarg-4.4.1/common/src/fontcap/yMakefile.deps	2005-02-07 10:51:56.000000000 -0700
++++ ncarg-4.4.1/common/src/fontcap/yMakefile	2007-01-19 16:49:01.000000000 -0700
+@@ -41,7 +41,7 @@
+ # Rule for processing fontcaps
+ .SUFFIXES: .fc
+ 
+-.fc:
++.fc: $(FONTC)
+ 	@echo "	Processing fontcap $@"
+ 	@$(FONTC) $< $@
+ 

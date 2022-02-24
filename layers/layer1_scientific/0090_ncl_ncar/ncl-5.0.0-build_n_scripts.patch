@@ -1,0 +1,29 @@
+diff -up ncl_ncarg-5.0.0/ni/src/scripts/yMakefile.build_n_scripts ncl_ncarg-5.0.0/ni/src/scripts/yMakefile
+--- ncl_ncarg-5.0.0/ni/src/scripts/yMakefile.build_n_scripts	2008-02-01 12:21:57.000000000 +0100
++++ ncl_ncarg-5.0.0/ni/src/scripts/yMakefile	2008-02-01 12:21:26.000000000 +0100
+@@ -7,6 +7,12 @@ SCRIPTS2 = WRAPIT ncl_filedump ncl_grib2
+ 
+ MAN1 = ng4ex nhlcc nhlf77 nhlf90
+ 
++InstallTarget($(SCRIPTS1),$(INSTALL_BIN),$(BINPATH))
++InstallTarget($(SCRIPTS2),$(INSTALL_BIN),$(BINPATH))
++CleanFilesTarget($(SCRIPTS1))
++InstallManPages($(MAN1),$(FORMAT_EXT),$(MAN1PATH),$(MAN1_SECTION))
++FormatManPages($(MAN1),.m,.p)
++
+ nhlf77: nhlf77.csh Makefile
+ 	@sed \
+ 	-e 's+SED_FC+$(F77)+' \
+@@ -70,12 +76,6 @@ FORMAT_EXT	= .p
+ FORMAT_EXT	= .m
+ #endif
+ 
+-InstallTarget($(SCRIPTS1),$(INSTALL_BIN),$(BINPATH))
+-InstallTarget($(SCRIPTS2),$(INSTALL_BIN),$(BINPATH))
+-CleanFilesTarget($(SCRIPTS1))
+-InstallManPages($(MAN1),$(FORMAT_EXT),$(MAN1PATH),$(MAN1_SECTION))
+-FormatManPages($(MAN1),.m,.p)
+-
+ #if !defined(CRAY)
+ ng4ex: ng4ex.csh Makefile
+ 	@sed \
