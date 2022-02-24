@@ -14,7 +14,7 @@ import dask.dataframe
 import toolz
 # import geos (geos is only python3)
 import lxml
-#import pycurl (pb with openssl/libcurl on el8)
+import pycurl
 import pyproj
 import sqlalchemy
 import cdsapi
