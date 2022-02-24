@@ -1,0 +1,93 @@
+diff --git a/ni/src/lib/nfp/ripW.c b/ni/src/lib/nfp/ripW.c
+index a06b1b6..4b31c54 100644
+--- a/ni/src/lib/nfp/ripW.c
++++ b/ni/src/lib/nfp/ripW.c
+@@ -533,7 +533,7 @@ NhlErrorTypes rip_cape_3d_W( void )
+ 
+ /* Terminate if there was an error */
+ 	if (errstat != 0) {
+-		fprintf(stderr, errmsg);
++		fputs(errmsg, stderr);
+ 		exit(errstat);
+ 	}
+ 
+@@ -1080,7 +1080,7 @@ NhlErrorTypes rip_cape_2d_W( void )
+ 
+ /* Terminate if there was an error */
+ 	if (errstat != 0) {
+-		fprintf(stderr, errmsg);
++		fputs(errmsg, stderr);
+ 		exit(errstat);
+ 	}
+ 
+diff --git a/ni/src/lib/nfp/wrfW.c b/ni/src/lib/nfp/wrfW.c
+index 6d0ffca..edd7211 100644
+--- a/ni/src/lib/nfp/wrfW.c
++++ b/ni/src/lib/nfp/wrfW.c
+@@ -1514,7 +1514,7 @@ NhlErrorTypes wrf_slp_W( void )
+ 
+     /* Terminate if there was an error */
+     if (errstat != 0) {
+-    	fprintf(stderr, errmsg);
++    	fputs(errmsg, stderr);
+     	exit(errstat);
+     }
+ /*
+@@ -9221,7 +9221,7 @@ NhlErrorTypes wrf_ll_to_ij_W( void )
+ 
+     /* Terminate if there was an error */
+ 	if (errstat != 0) {
+-		fprintf(stderr, errmsg);
++		fputs(errmsg, stderr);
+ 		exit(errstat);
+ 	}
+ 
+@@ -9867,7 +9867,7 @@ NhlErrorTypes wrf_ij_to_ll_W( void )
+ 
+     /* Terminate if there was an error */
+ 	if (errstat != 0) {
+-		fprintf(stderr, errmsg);
++		fputs(errmsg, stderr);
+ 		exit(errstat);
+ 	}
+ 
+@@ -10529,7 +10529,7 @@ NhlErrorTypes wrf_cape_3d_W( void )
+ 
+ /* Terminate if there was an error */
+ 	if (errstat != 0) {
+-		fprintf(stderr, errmsg);
++		fputs(errmsg, stderr);
+ 		exit(errstat);
+ 	}
+ 
+@@ -11232,7 +11232,7 @@ NhlErrorTypes wrf_cape_2d_W( void )
+ 
+     /* Terminate if there was an error */
+     if (errstat != 0) {
+-      fprintf(stderr, errmsg);
++      fputs(errmsg, stderr);
+       exit(errstat);
+     }
+ /*
+@@ -13620,7 +13620,7 @@ NhlErrorTypes wrf_wetbulb_W( void )
+ 
+     /* Terminate if there was an error */
+ 	if (errstat != 0) {
+-		fprintf(stderr, errmsg);
++		fputs(errmsg, stderr);
+ 		exit(errstat);
+ 	}
+ 
+diff --git a/ni/src/lib/nfp/wrf_vinterpW.c b/ni/src/lib/nfp/wrf_vinterpW.c
+index d2d146f..7e1a4e2 100644
+--- a/ni/src/lib/nfp/wrf_vinterpW.c
++++ b/ni/src/lib/nfp/wrf_vinterpW.c
+@@ -819,7 +819,7 @@ NclBasicDataTypes type_ter;
+ 								   &errstat, errmsg, ERRLEN);
+     /* Terminate if there was an error */
+ 	if (errstat != 0) {
+-		fprintf(stderr, errmsg);
++		fputs(errmsg, stderr);
+ 		exit(errstat);
+ 	}
+ 

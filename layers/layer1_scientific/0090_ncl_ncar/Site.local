@@ -1,25 +1,28 @@
 #define YmakeRoot $(PREFIX)
 #define ManRoot $(PREFIX)/share/man
-#define LibRoot $(PREFIX)/lib/ncarg
-#define SharePath $(PREFIX)/share
+#define LibRoot $(PREFIX)/lib
+#define BinRoot $(PREFIX)/bin
+#define IncRoot $(PREFIX)/include
+#define SharePath $(PREFIX)/share/ncarg
 
 #define BuildWithF90 TRUE
-#define IncSearch -I$(PREFIX)/include -I$(PREFIX)/../scientific_core/include -I$(PREFIX)/../core/include -I$(PREFIX)/../core/include/freetype2
+#define IncSearch -I$(PREFIX)/include -I$(PREFIX)/../scientific_core/include -I$(PREFIX)/../core/include -I/usr/include/freetype2
 #define LibSearch -L$(PREFIX)/lib -L$(PREFIX)/../scientific_core/lib -L$(PREFIX)/../core/lib
 
 #define BuildNetCDF4 1
-#define NetCDF4lib -lnetcdf
+#define NetCDF4lib -L$(PREFIX)/../scientific_core/lib -lnetcdf
 #define BuildCAIRO 1
-#define CAIROlib -lcairo -lfreetype
+#define CAIROlib -L$(PREFIX)/../scientific_core/lib -lcairo -lfreetype
+#define CAIROlibuser -L$(PREFIX)/../scientific_core/lib -lcairo -lfreetype
 #define BuildGDAL 1
-#define GDALlib -lgdal -lproj
+#define GDALlib -L$(PREFIX)/../scientific_core/lib -lgdal -lproj
 #define BuildGRIB2 0
 #define GRIB2lib -l@g2clib@ -ljasper
 #define BuildHDFEOS 0
 #define BuildHDFEOS5 0
 #define BuildTRIANGLE 0
-#define HDFlib -lmfhdf -ldf -ljpeg -lz
-#define HDF5lib -lhdf5_hl -lhdf5
+#define HDFlib -L$(PREFIX)/../scientific_core/lib -lmfhdf -ldf -ljpeg -lz
+#define HDF5lib -L$(PREFIX)/../scientific_core/lib -lhdf5_hl -lhdf5
 #define BuildUdunits 1
-#define UdUnitslib -ludunits2
+#define UdUnitslib -L$(PREFIX)/../scientific/lib -ludunits2
 

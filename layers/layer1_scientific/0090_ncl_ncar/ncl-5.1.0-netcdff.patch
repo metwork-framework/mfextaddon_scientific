@@ -1,0 +1,11 @@
+--- ncl_ncarg-5.1.0/ni/src/scripts/nhlf77.csh.orig	2008-02-06 17:22:03.000000000 -0700
++++ ncl_ncarg-5.1.0/ni/src/scripts/nhlf77.csh	2009-03-05 12:02:11.000000000 -0700
+@@ -65,7 +65,7 @@
+ 
+   case "-netcdf":
+   case "-cdf":
+-    set extra_libs = "$extra_libs SED_NCDFLIBS"
++    set extra_libs = "$extra_libs SED_NCDFLIBS -lnetcdff"
+     breaksw
+ 
+   case "-hdf":

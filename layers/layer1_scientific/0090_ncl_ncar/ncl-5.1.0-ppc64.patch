@@ -1,0 +1,23 @@
+--- ncl_ncarg-5.1.0/config/ymake.ppc64	2009-03-05 10:54:12.000000000 -0700
++++ ncl_ncarg-5.1.0/config/ymake	2009-03-05 10:57:27.000000000 -0700
+@@ -372,19 +372,13 @@
+ 	case    amd64:
+         case    i*64:
+         case    x*64:
+-        case    p*64:
++        case    ppc*:
+         case    alpha:
+             set model   = $mach
+             set arch    = $mach
+             set sysincs = LINUX
+             set vendor  = IBM
+             breaksw
+-        case    ppc:
+-            set model   = $mach
+-            set arch    = $mach
+-            set sysincs = YDLINUX
+-            set vendor  = APPLE
+-            breaksw
+         default:
+             echo "$0 : Unknown machine type" > /dev/tty
+             exit 1
