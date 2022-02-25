@@ -15,5 +15,6 @@
 - add pyepsg ("hidden" dependency of Cartopy) (#293)
 - add ncl_ncar (#297)
 - bump python2 protobuf to 3.15.0 (security update) (#301)
+- upgrade pycurl to 7.44.1 and fix cdo build (#309)
 
 
