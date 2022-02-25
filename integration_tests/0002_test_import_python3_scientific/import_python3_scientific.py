@@ -19,7 +19,7 @@ import distributed
 import toolz
 import geos
 import lxml
-#import pycurl (temporarly)
+import pycurl
 import pyproj
 import sqlalchemy
 import cdsapi
