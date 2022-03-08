@@ -29,6 +29,7 @@ env:
     PAYLOAD_OS: ${{ github.event.client_payload.os}}
 
 jobs:
+  timeout-minutes: 480
   ci_build:
 
     runs-on: [self-hosted, metwork, mfextaddon_scientific]
