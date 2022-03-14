@@ -31,7 +31,7 @@ env:
 jobs:
   ci_build:
 
-    runs-on: [self-hosted, metwork, mfextaddon_scientific]
+    runs-on: [self-hosted, metwork]
 
 
     steps:
