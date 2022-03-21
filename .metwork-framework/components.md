@@ -66,13 +66,11 @@
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.2.0 | python3_scientific |
-| [fribidi](ihttps://github.com/fribidi/fribidi/) | 1.0.5 | scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.4.0 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python3_scientific |
-| [gdbm](https://www.gnu.org.ua/software/gdbm/) | 1.18.1 | scientific |
 | [geopandas](http://geopandas.org) | 0.8.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.2 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.2.0 | scientific |
@@ -80,7 +78,6 @@
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
 | [h5py](http://www.h5py.org) | 2.9.0 | python2_scientific |
 | [h5py](http://www.h5py.org) | 3.1.0 | python3_scientific |
-| [harfbuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz/) | 2.6.1 | scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.13.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
@@ -131,7 +128,6 @@
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python3_scientific |
 | [pandas](http://pandas.pydata.org) | 0.24.2 | python2_scientific |
 | [pandas](https://pandas.pydata.org) | 1.2.4 | python3_scientific |
-| [pango](https://pango.gnome.org/) | 1.42.4 | scientific |
 | [partd](http://github.com/dask/partd/) | 1.1.0 | python3_scientific |
 | [pathos](https://pypi.org/project/pathos) | 0.2.7 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.8.2 | python3_scientific |
@@ -225,4 +221,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(224 components)*
+*(220 components)*
