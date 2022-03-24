@@ -17,5 +17,6 @@
 - bump python2 protobuf to 3.15.0 (security update) (#301)
 - upgrade pycurl to 7.44.1 and fix cdo build (#309)
 - bump Pillow from 9.0.0 to 9.0.1 to fix a security vulnerability (#323)
+- remove fribidi, harfbuzz, pango and gdbm builds (#324)
 
 
