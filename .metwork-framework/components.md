@@ -40,7 +40,6 @@
 | [dask](https://github.com/dask/dask/) | 1.2.2 | python2_scientific |
 | [dask](https://github.com/dask/dask/) | 2021.10.0 | python3_scientific |
 | [decorator](https://github.com/micheles/decorator) | 4.4.0 | python2_scientific |
-| [decorator](https://github.com/micheles/decorator) | 4.4.0 | python3_scientific |
 | [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
 | [dill](https://pypi.org/project/dill) | 0.3.3 | python3_scientific |
@@ -209,7 +208,6 @@
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python3_scientific |
 | [tornado](http://www.tornadoweb.org/) | 6.0.4 | python3_scientific |
 | [traitlets](http://ipython.org) | 4.3.2 | python2_scientific |
-| [traitlets](http://ipython.org) | 4.3.2 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.10.1 | python2_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.10.1 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python2_scientific |
@@ -221,4 +219,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(220 components)*
+*(218 components)*
