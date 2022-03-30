@@ -129,6 +129,7 @@
 | [pandas](https://pandas.pydata.org) | 1.2.4 | python3_scientific |
 | [partd](http://github.com/dask/partd/) | 1.1.0 | python3_scientific |
 | [pathos](https://pypi.org/project/pathos) | 0.2.7 | python3_scientific |
+| [patsy](https://github.com/pydata/patsy) | 0.5.2 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.8.2 | python3_scientific |
 | [Pillow](http://python-pillow.org) | 6.2.2 | python2_scientific |
 | [Pillow](https://python-pillow.org) | 9.0.1 | python3_scientific |
@@ -201,6 +202,7 @@
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
 | [SQLAlchemy](http://www.sqlalchemy.org) | 1.3.5 | python2_scientific |
 | [SQLAlchemy](http://www.sqlalchemy.org) | 1.3.5 | python3_scientific |
+| [statsmodels](https://www.statsmodels.org/) | 0.13.1 | python3_scientific |
 | [subprocess32](https://github.com/google/python-subprocess32) | 3.5.4 | python2_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 1.7.0 | python3_scientific |
 | [tifffile](https://www.lfd.uci.edu/~gohlke/) | 2021.11.2 | python3_scientific |
@@ -219,4 +221,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(218 components)*
+*(220 components)*
