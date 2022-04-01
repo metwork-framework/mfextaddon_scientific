@@ -67,6 +67,7 @@
 | [flit](https://pypi.org/project/flit) | 3.2.0 | python3_scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_scientific |
+| [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.4.0 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python3_scientific |
@@ -221,4 +222,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(220 components)*
+*(221 components)*

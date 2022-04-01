@@ -1,0 +1,169 @@
+diff -up g2clib-1.6.0_orig/g2_addfield.c g2clib-1.6.0/g2_addfield.c
+--- g2clib-1.6.0_orig/g2_addfield.c	2015-05-06 13:54:24.000000000 +0200
++++ g2clib-1.6.0/g2_addfield.c	2017-08-13 10:02:58.232596592 +0200
+@@ -1,3 +1,4 @@
++#include <inttypes.h>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include "grib2.h"
+@@ -190,8 +191,8 @@ g2int g2_addfield(unsigned char *cgrib,g
+       //    total length, then there is a problem.
+         if ( len > lencurr ) {
+           printf("g2_addfield: Section byte counts don''t add to total.\n");
+-          printf("g2_addfield: Sum of section byte counts = %ld\n",len);
+-          printf("g2_addfield: Total byte count in Section 0 = %ld\n",lencurr);
++          printf("g2_addfield: Sum of section byte counts = %"PRId32"\n",len);
++          printf("g2_addfield: Total byte count in Section 0 = %"PRId32"\n",lencurr);
+           ierr=-3;
+           return(ierr);
+         }
+@@ -392,7 +393,7 @@ g2int g2_addfield(unsigned char *cgrib,g
+       }
+ #endif  /* USE_PNG */
+       else {
+-        printf("g2_addfield: Data Representation Template 5.%ld not yet implemented.\n",idrsnum);
++        printf("g2_addfield: Data Representation Template 5.%"PRId32" not yet implemented.\n",idrsnum);
+         ierr=-7;
+         return(ierr);
+       }
+diff -up g2clib-1.6.0_orig/g2_addgrid.c g2clib-1.6.0/g2_addgrid.c
+--- g2clib-1.6.0_orig/g2_addgrid.c	2015-05-06 13:54:24.000000000 +0200
++++ g2clib-1.6.0/g2_addgrid.c	2017-08-13 10:02:58.233596570 +0200
+@@ -1,3 +1,4 @@
++#include <inttypes.h>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include "grib2.h"
+@@ -125,8 +126,8 @@ g2int g2_addgrid(unsigned char *cgrib,g2
+       //    total length, then there is a problem.
+         if ( len > lencurr ) {
+           printf("g2_addgrid: Section byte counts don''t add to total.\n");
+-          printf("g2_addgrid: Sum of section byte counts = %ld\n",len);
+-          printf("g2_addgrid: Total byte count in Section 0 = %ld\n",lencurr);
++          printf("g2_addgrid: Sum of section byte counts = %"PRId32"\n",len);
++          printf("g2_addgrid: Total byte count in Section 0 = %"PRId32"\n",lencurr);
+           ierr=-3;
+           return(ierr);
+         }
+diff -up g2clib-1.6.0_orig/g2_addlocal.c g2clib-1.6.0/g2_addlocal.c
+--- g2clib-1.6.0_orig/g2_addlocal.c	2015-05-06 13:54:24.000000000 +0200
++++ g2clib-1.6.0/g2_addlocal.c	2017-08-13 10:02:58.233596570 +0200
+@@ -1,3 +1,4 @@
++#include <inttypes.h>
+ #include <stdio.h>
+ #include "grib2.h"
+ 
+@@ -102,8 +103,8 @@ g2int g2_addlocal(unsigned char *cgrib,u
+       //    total length, then there is a problem.
+         if ( len > lencurr ) {
+           printf("g2_addlocal: Section byte counts don't add to total.\n");
+-          printf("g2_addlocal: Sum of section byte counts = %ld\n",len);
+-          printf("g2_addlocal: Total byte count in Section 0 = %ld\n",lencurr);
++          printf("g2_addlocal: Sum of section byte counts = %"PRId32"\n",len);
++          printf("g2_addlocal: Total byte count in Section 0 = %"PRId32"\n",lencurr);
+           ierr=-3;
+           return(ierr);
+         }
+@@ -113,7 +114,7 @@ g2int g2_addlocal(unsigned char *cgrib,u
+ //
+       if ( (isecnum!=1) && (isecnum!=7) ) {
+         printf("g2_addlocal: Section 2 can only be added after Section 1 or Section 7.\n");
+-        printf("g2_addlocal: Section %ld was the last found in given GRIB message.\n",isecnum);
++        printf("g2_addlocal: Section %"PRId32" was the last found in given GRIB message.\n",isecnum);
+         ierr=-4;
+         return(ierr);
+       }
+diff -up g2clib-1.6.0_orig/g2_getfld.c g2clib-1.6.0/g2_getfld.c
+--- g2clib-1.6.0_orig/g2_getfld.c	2015-05-06 13:54:25.000000000 +0200
++++ g2clib-1.6.0/g2_getfld.c	2017-08-13 10:02:58.234596548 +0200
+@@ -1,3 +1,4 @@
++#include <inttypes.h>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include "grib2.h"
+@@ -345,12 +346,12 @@ g2int g2_getfld(unsigned char *cgrib,g2i
+         iofst=iofst+32;
+         gbit(cgrib,&isecnum,iofst,8);         // Get Section number
+         iofst=iofst+8;
+-        //printf(" lensec= %ld    secnum= %ld \n",lensec,isecnum);
++        //printf(" lensec= %"PRId32"    secnum= %"PRId32" \n",lensec,isecnum);
+         //
+         //  Check to see if section number is valid
+         //
+         if ( isecnum<1 || isecnum>7 ) {
+-          printf("g2_getfld: Unrecognized Section Encountered=%ld\n",isecnum);
++          printf("g2_getfld: Unrecognized Section Encountered=%"PRId32"\n",isecnum);
+           ierr=8;
+           return(ierr);
+         }
+@@ -543,8 +544,8 @@ g2int g2_getfld(unsigned char *cgrib,g2i
+ //  If exited from above loop, the end of the GRIB message was reached
+ //  before the requested field was found.
+ //
+-      printf("g2_getfld: GRIB message contained %ld different fields.\n",numfld);
+-      printf("g2_getfld: The request was for field %ld.\n",ifldnum);
++      printf("g2_getfld: GRIB message contained %"PRId32" different fields.\n",numfld);
++      printf("g2_getfld: The request was for field %"PRId32".\n",ifldnum);
+       ierr=6;
+ 
+       return(ierr);
+diff -up g2clib-1.6.0_orig/g2_gribend.c g2clib-1.6.0/g2_gribend.c
+--- g2clib-1.6.0_orig/g2_gribend.c	2015-05-06 13:54:25.000000000 +0200
++++ g2clib-1.6.0/g2_gribend.c	2017-08-13 10:02:58.234596548 +0200
+@@ -1,3 +1,4 @@
++#include <inttypes.h>
+ #include <stdio.h>
+ #include "grib2.h"
+ 
+@@ -97,7 +98,7 @@ g2int g2_gribend(unsigned char *cgrib)
+ //
+       if ( isecnum != 7 ) {
+         printf("g2_gribend: Section 8 can only be added after Section 7.\n");
+-        printf("g2_gribend: Section %ld was the last found in given GRIB message.\n",isecnum);
++        printf("g2_gribend: Section %"PRId32" was the last found in given GRIB message.\n",isecnum);
+         ierr=-4;
+         return (ierr);
+       }
+diff -up g2clib-1.6.0_orig/g2_info.c g2clib-1.6.0/g2_info.c
+--- g2clib-1.6.0_orig/g2_info.c	2015-05-06 13:54:25.000000000 +0200
++++ g2clib-1.6.0/g2_info.c	2017-08-13 10:02:58.234596548 +0200
+@@ -1,3 +1,4 @@
++#include <inttypes.h>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include "grib2.h"
+@@ -178,7 +179,7 @@ g2int g2_info(unsigned char *cgrib,g2int
+               (*numfields)++;
+         }
+         else {
+-           printf("g2_info: Invalid section number found in GRIB message: %ld\n"                   ,isecnum);
++           printf("g2_info: Invalid section number found in GRIB message: %"PRId32"\n"                   ,isecnum);
+            ierr=6;
+            return(ierr);
+         }
+diff -up g2clib-1.6.0_orig/grib2.h g2clib-1.6.0/grib2.h
+--- g2clib-1.6.0_orig/grib2.h	2016-01-22 13:27:13.000000000 +0100
++++ g2clib-1.6.0/grib2.h	2017-08-13 10:02:58.235596526 +0200
+@@ -1,5 +1,6 @@
+ #ifndef _grib2_H
+ #define _grib2_H
++#include<inttypes.h>
+ #include<stdio.h>
+ 
+ #define G2_VERSION "g2clib-1.6.0"
+@@ -151,13 +152,8 @@
+ //                     that holds the data.
+ */
+ 
+-#ifdef __64BIT__
+-typedef int g2int;
+-typedef unsigned int g2intu;
+-#else
+-typedef long g2int;
+-typedef unsigned long g2intu;
+-#endif
++typedef int32_t g2int;
++typedef uint32_t g2intu;
+ typedef float g2float;
+ 
+ struct gtemplate {

@@ -12,12 +12,12 @@
 #define BuildNetCDF4 1
 #define NetCDF4lib -L$(PREFIX)/../scientific_core/lib -lnetcdf
 #define BuildCAIRO 1
-#define CAIROlib -L$(PREFIX)/../scientific_core/lib -lcairo -lfreetype
-#define CAIROlibuser -L$(PREFIX)/../scientific_core/lib -lcairo -lfreetype
+#define CAIROlib -lcairo -lfreetype
+#define CAIROlibuser -lcairo -lfreetype
 #define BuildGDAL 1
 #define GDALlib -L$(PREFIX)/../scientific_core/lib -lgdal -lproj
-#define BuildGRIB2 0
-#define GRIB2lib -l@g2clib@ -ljasper
+#define BuildGRIB2 1
+#define GRIB2lib -L$(PREFIX)/lib -lgrib2c -ljasper
 #define BuildHDFEOS 0
 #define BuildHDFEOS5 0
 #define BuildTRIANGLE 0
