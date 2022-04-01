@@ -1,0 +1,6 @@
+#g2clib-degrib.patch
+g2clib-64bit.patch
+g2clib-jasper2.patch
+g2clib-simunpack.patch
+#g2clib-templates.patch
+includes.patch
