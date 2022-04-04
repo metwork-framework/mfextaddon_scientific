@@ -1,1 +1,2 @@
-http://www.ncl.ucar.edu/Download/files/g2clib-1.6.0-patch.tar.gz
+#tarfile from el8 source rpm (https://download-ib01.fedoraproject.org/pub/epel/8/Everything/SRPMS/Packages/g/g2clib-1.6.0-7.el8.src.rpm)
+https://github.com/metwork-framework/external_sources/blob/master/g2clib-1.6.0.tar.bz2?raw=true
