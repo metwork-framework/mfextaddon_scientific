@@ -1,1 +1,3 @@
-https://www.earthsystemgrid.org/dataset/ncl.662.src/file/ncl_ncarg-6.6.2.tar.gz
+#tarfile from el8 source rpm (https://download-ib01.fedoraproject.org/pub/epel/8/Everything/SRPMS/Packages/n/ncl-6.6.2-12.el8.src.rpm)
+https://github.com/metwork-framework/external_sources/blob/master/ncl-6.6.2.tar.gz?raw=true
+#https://www.earthsystemgrid.org/dataset/ncl.662.src/file/ncl_ncarg-6.6.2.tar.gz
