@@ -110,7 +110,7 @@
 | [multiprocess](https://pypi.org/project/multiprocess) | 0.70.11.1 | python3_scientific |
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python2_scientific |
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python3_scientific |
-| [ncl_ncar](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
+| [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
 | [nco](http://nco.sourceforge.net) | 4.8.1 | scientific |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python2_scientific |
