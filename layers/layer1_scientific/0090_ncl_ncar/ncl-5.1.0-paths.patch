@@ -1,0 +1,112 @@
+diff -up ncl_ncarg-5.0.0/config/ymake.paths ncl_ncarg-5.0.0/config/ymake
+--- ncl_ncarg-5.0.0/config/ymake.paths	2006-05-02 16:16:20.000000000 +0200
++++ ncl_ncarg-5.0.0/config/ymake	2008-02-01 15:19:00.000000000 +0100
+@@ -185,6 +185,13 @@ if ($useinstalled != 0) then
+         endif
+         set defines = ($defines -D_InstBin\=$bin_dir)
+ 
++        set share_dir = `ncargpath share`
++        if ($status != 0) then
++                echo "$0 : Unable to find NCARG_SHARE dir" > /dev/tty
++                exit 1
++        endif
++        set defines = ($defines -D_InstShare\=$share_dir)
++
+         set inc_dir = `ncargpath include`
+         if ($status != 0) then
+                 echo "$0 : Unable to find NCARG_INCLUDE dir" > /dev/tty
+diff -up ncl_ncarg-5.0.0/config/Template.paths ncl_ncarg-5.0.0/config/Template
+--- ncl_ncarg-5.0.0/config/Template.paths	2005-08-19 19:32:45.000000000 +0200
++++ ncl_ncarg-5.0.0/config/Template	2008-02-01 15:19:00.000000000 +0100
+@@ -160,6 +160,14 @@ NGCOMM##################################
+ #endif	/* _IgnoreYmakeRoot */
+ #endif	/* BinRoot */
+ 
++#ifndef	ShareRoot
++#ifndef	_IgnoreYmakeRoot
++#define	ShareRoot	YmakeRoot/share
++#else
++#define	ShareRoot	_InstShare
++#endif	/* _IgnoreYmakeRoot */
++#endif	/* ShareRoot */
++
+ #ifndef	LibRoot
+ #ifndef	_IgnoreYmakeRoot
+ #define LibRoot YmakeRoot/lib
+@@ -210,6 +218,14 @@ NGCOMM##################################
+ #endif
+ #endif
+ 
++#ifndef	SharePath
++#ifdef	_UseRootPath
++#define	SharePath	RootPath/share
++#else
++#define	SharePath	ShareRoot
++#endif
++#endif
++
+ #ifndef	LibPath
+ #ifdef	_UseRootPath
+ #define	LibPath	RootPath/lib
+@@ -573,6 +589,7 @@ MANROOT			= ManRoot
+ TMPROOT			= TmpRoot
+ 
+ ROOTPATH		= RootPath
++SHAREPATH		= SharePath
+ BINPATH			= BinPath
+ LIBPATH			= LibPath
+ INCPATH			= IncPath
+diff -up ncl_ncarg-5.0.0/config/Project.paths ncl_ncarg-5.0.0/config/Project
+--- ncl_ncarg-5.0.0/config/Project.paths	2007-10-11 18:38:32.000000000 +0200
++++ ncl_ncarg-5.0.0/config/Project	2008-02-01 15:19:00.000000000 +0100
+@@ -227,7 +227,8 @@ ROBJDIR			= robj
+ WWWDIR			= ngwww
+ XAPPDIR			= xapp
+ 
+-LIBNCARGROOT		= $(LIBROOT)/$(NCARGDIR)
++LIBNCARGROOT		= $(SHAREPATH)/$(NCARGDIR)
++LIBNCARGARCH		= $(LIBPATH)/$(NCARGDIR)
+ CONFIGROOT		= $(LIBNCARGROOT)/$(CONFIGDIR)
+ DBROOT			= $(LIBNCARGROOT)/$(DBDIR)
+ FONTCAPROOT		= $(LIBNCARGROOT)/$(FONTCAPDIR)
+@@ -235,7 +236,7 @@ GRAPHCAPROOT		= $(LIBNCARGROOT)/$(GRAPHC
+ DATAROOT		= $(LIBNCARGROOT)/$(DATADIR)
+ DOCROOT			= $(LIBNCARGROOT)/$(DOCDIR)
+ EXAMPLESROOT		= $(LIBNCARGROOT)/$(EXAMPLESDIR)
+-ROBJROOT		= $(LIBNCARGROOT)/$(ROBJDIR)
++ROBJROOT		= $(LIBNCARGARCH)/$(ROBJDIR)
+ TESTSROOT		= $(LIBNCARGROOT)/$(TESTSDIR)
+ TUTORIALROOT		= $(LIBNCARGROOT)/$(TUTORIALDIR)
+ WWWROOT			= $(LIBNCARGROOT)/$(WWWDIR)
+@@ -244,7 +245,7 @@ HLUEXROOT		= $(LIBNCARGROOT)/$(HLUEXDIR)
+ RESFILEROOT		= $(LIBNCARGROOT)/$(RESDIR)
+ NCLEXROOT		= $(LIBNCARGROOT)/$(NCLEXDIR)
+ GRIB2CODETABLEROOT	= $(LIBNCARGROOT)/$(GRIB2CODETABLEDIR)
+-LIBNCARGPATH		= $(LIBPATH)/$(NCARGDIR)
++LIBNCARGPATH		= $(SHAREPATH)/$(NCARGDIR)
+ CONFIGPATH		= $(LIBNCARGPATH)/$(CONFIGDIR)
+ DBPATH			= $(LIBNCARGPATH)/$(DBDIR)
+ FONTCAPPATH		= $(LIBNCARGPATH)/$(FONTCAPDIR)
+@@ -252,7 +253,7 @@ GRAPHCAPPATH		= $(LIBNCARGPATH)/$(GRAPHC
+ DATAPATH		= $(LIBNCARGPATH)/$(DATADIR)
+ DOCPATH			= $(LIBNCARGPATH)/$(DOCDIR)
+ EXAMPLESPATH		= $(LIBNCARGPATH)/$(EXAMPLESDIR)
+-ROBJPATH		= $(LIBNCARGPATH)/$(ROBJDIR)
++ROBJPATH		= $(LIBNCARGARCH)/$(ROBJDIR)
+ TESTSPATH		= $(LIBNCARGPATH)/$(TESTSDIR)
+ TUTORIALPATH		= $(LIBNCARGPATH)/$(TUTORIALDIR)
+ WWWPATH			= $(LIBNCARGPATH)/$(WWWDIR)
+@@ -314,10 +315,11 @@ NGENV_DESCRIPT	= \
+ 		"usrresfile",NULL,NULL,$(USRRESFILE),NULL,	\
+ 		"gks_output",NULL,NULL,"gmeta",NULL,		\
+ 		"bin",NULL,"root",NULL,NULL,			\
+-		"lib",NULL,"root",NULL,NULL,			\
++		"lib",NULL,NULL,"$(LIBROOT)",NULL,			\
+ 		"include",NULL,"root",NULL,NULL,		\
++		"share",NULL,"root",NULL,NULL,			\
+ 		"man",NULL,"root",NULL,NULL,			\
+-		"ncarg",NULL,"lib",NULL,NULL,			\
++		"ncarg",NULL,"share",NULL,NULL,			\
+ 		"config",NULL,"ncarg",NULL,NULL,		\
+ 		"data",NULL,"ncarg",NULL,NULL,			\
+ 		"database",NULL,"ncarg",NULL,NULL,		\
