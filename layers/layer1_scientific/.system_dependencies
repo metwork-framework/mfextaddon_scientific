@@ -10,3 +10,4 @@ libpango-1.0.so.0()(64bit)@generic
 libpangocairo-1.0.so.0()(64bit)@generic
 libgdbm.so.6()(64bit)@generic
 librsvg-2.so.2()(64bit)@generic
+/usr/bin/tcsh@generic
