@@ -1,8 +1,7 @@
 libcroco-0.6.so.3
 libhogweed.so.4
 libjbig.so.2.1
-libnettle.so.6
-libCbc-8bcaaf57.so.3.10.4
+libnettle.so.6libCbc-8bcaaf57.so.3.10.4
 libCbcSolver-f1259821.so.3.10.4
 libCgl-fb694467.so.1.10.3
 libClp-f7026cf3.so.1.14.4
