@@ -26,7 +26,7 @@
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [Click](https://palletsprojects.com/p/click/) | 7.0 | python2_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python2_scientific |
-| [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python3_scientific |
+| [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.1.2 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 0.2.1 | python2_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 2.0.0 | python3_scientific |
@@ -62,7 +62,7 @@
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python2_scientific |
-| [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
+| [Fiona](http://github.com/Toblerity/Fiona) | 1.8.21 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.2.0 | python3_scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
@@ -180,7 +180,7 @@
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.9.11 | python3_scientific |
 | [pytz](http://pythonhosted.org/pytz) | 2019.1 | python2_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.2.0 | python3_scientific |
-| [rasterio](https://github.com/mapbox/rasterio) | 1.1.5 | python3_scientific |
+| [rasterio](https://github.com/mapbox/rasterio) | 1.2.10 | python3_scientific |
 | [regionmask](https://github.com/mathause/regionmask) | 0.6.1 | python3_scientific |
 | [reportlab](http://www.reportlab.com/) | 3.6.3 | python3_scientific |
 | [salem](http://salem.readthedocs.io) | 0.3.6 | python3_scientific |
