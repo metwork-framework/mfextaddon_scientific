@@ -112,6 +112,7 @@
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python3_scientific |
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
 | [nco](http://nco.sourceforge.net) | 4.8.1 | scientific |
+| [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.7 | scientific |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python2_scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python3_scientific |
@@ -222,4 +223,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(221 components)*
+*(222 components)*
