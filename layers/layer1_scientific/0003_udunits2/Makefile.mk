@@ -13,4 +13,4 @@ LICENSE=GPLv2 and GPLv3 compatible (derived from BSD with additional patent word
 
 all:: $(PREFIX)/bin/udunits2
 $(PREFIX)/bin/udunits2:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="--enable-static=no" download uncompress autoreconf configure build install
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="--enable-static=yes" download uncompress autoreconf configure build install
