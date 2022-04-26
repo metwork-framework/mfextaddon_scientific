@@ -9,6 +9,7 @@
 | [backports.tempfile](https://github.com/pjdelport/backports.tempfile) | 1.0 | python2_scientific |
 | [backports.weakref](https://github.com/pjdelport/backports.weakref) | 1.0.post1 | python2_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.3.0 | python3_scientific |
+| [bokeh](https://github.com/bokeh/bokeh) | 2.4.2 | python3_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy) | 0.13.1 | python2_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.18.0 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python2_scientific |
@@ -223,4 +224,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(222 components)*
+*(223 components)*
