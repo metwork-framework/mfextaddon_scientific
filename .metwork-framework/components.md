@@ -225,4 +225,3 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
 *(223 components)*
-
