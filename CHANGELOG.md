@@ -22,5 +22,6 @@
 - upgrade eccodes to last release 2.25.0 and its python binding to 1.4.1 (#328)
 - add python3 module statsmodels and dependency patsy (#329)
 - add g2clib support in ncar/ncl (#330)
+- add ncview (backport #348) (#349)
 
 
