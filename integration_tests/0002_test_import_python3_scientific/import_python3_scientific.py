@@ -6,6 +6,7 @@ import batman
 import batman.pod
 import batman.surrogate
 import beniget
+import bokeh
 import cartopy
 import cdo
 import cdsapi
