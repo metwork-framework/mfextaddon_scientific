@@ -23,5 +23,6 @@
 - add python3 module statsmodels and dependency patsy (#329)
 - add g2clib support in ncar/ncl (#330)
 - add ncview (backport #348) (#349)
+- add bokeh (backport #350) (#351)
 
 
