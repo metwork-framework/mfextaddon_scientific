@@ -71,7 +71,7 @@
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.4.0 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.0.2 | python2_scientific |
-| [GDAL](http://www.gdal.org) | 3.0.2 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 3.3.3 | python3_scientific |
 | [geopandas](http://geopandas.org) | 0.8.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.2 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.2.0 | scientific |

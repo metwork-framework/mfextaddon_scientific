@@ -41,7 +41,8 @@ import flask
 import flit
 import fsspec
 import gast
-import gdal
+import osgeo #gdal
+import osgeo_utils #gdal
 import geopandas
 import geos
 import gmt
