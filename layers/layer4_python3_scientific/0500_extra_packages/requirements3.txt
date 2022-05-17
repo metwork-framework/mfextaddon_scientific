@@ -31,7 +31,7 @@ findlibs==0.0.2
 Fiona==1.8.13
 Flask==1.1.1
 fsspec==2021.10.1
-GDAL==3.0.2
+GDAL==3.3.3
 geopandas==0.8.1
 geos==0.2.2
 graphviz==0.11.1
