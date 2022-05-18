@@ -8,4 +8,8 @@
 - add ncview (#348)
 - add bokeh (#350)
 
+### Bug Fixes
+
+- fix bad behavior of eccodes-python in the presence of ecmwflibs (#356)
+
 
