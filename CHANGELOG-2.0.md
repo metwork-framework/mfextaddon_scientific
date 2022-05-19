@@ -1,5 +1,11 @@
 # release_2.0 CHANGELOG
 
+## v2.0.1 (2022-05-18)
+
+### Bug Fixes
+
+- fix bad behavior of eccodes-python in the presence of ecmwflibs (backport #356) (#359)
+
 ## v2.0.0 (2022-04-27)
 
 ### New Features
