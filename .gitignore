@@ -12,7 +12,6 @@ doc/_build
 doc/layer_*.md
 doc/api
 doc/layer_root.rst
-doc/layer_python2_scientific.rst
 doc/layer_python3_scientific.rst
 doc/layer_scientific.rst
 doc/mfextaddon_scientific_intro.rst
