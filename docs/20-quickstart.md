@@ -24,7 +24,6 @@ $ layers |grep scientific
 - (*) scientific_core@mfext [/opt/metwork-mfext/opt/scientific_core]
 - (*) scientific@mfext [/opt/metwork-mfext/opt/scientific]
 - (*) python3_scientific@mfext [/opt/metwork-mfext/opt/python3_vim]
-- (*) python2_scientific@mfext [/opt/metwork-mfext/opt/python2_vim]
 
 $ # note: scientific_core@mfext layer is provided by mfext module itself
 $ #       not by this addon
