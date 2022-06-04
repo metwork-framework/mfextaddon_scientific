@@ -1,5 +1,11 @@
 # release_2.0 CHANGELOG
 
+## v2.0.2 (2022-06-03)
+
+### New Features
+
+- upgrade gdal python binding to 3.0.4 (as library gdal in mfext) (#363)
+
 ## v2.0.1 (2022-05-18)
 
 ### Bug Fixes
