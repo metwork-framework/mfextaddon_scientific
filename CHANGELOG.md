@@ -8,6 +8,7 @@
 - add ncview (#348)
 - add bokeh (#350)
 - upgrade GDAL to 3.3.3 for compatibility with python 3.9.12 (#361)
+- remove layer python2_scientific@mfext (#364)
 
 ### Bug Fixes
 
