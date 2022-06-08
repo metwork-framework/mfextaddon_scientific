@@ -30,7 +30,7 @@
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 1.4.1 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.25.0 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
-| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.4.12 | python3_scientific |
+| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.4.17 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | scientific |
