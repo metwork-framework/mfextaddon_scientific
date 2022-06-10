@@ -1,5 +1,11 @@
 # release_2.0 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- update ecmwflibs to 0.4.17 (backport #365) (#366)
+
 ## v2.0.2 (2022-06-03)
 
 ### New Features
