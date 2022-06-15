@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=Magics
-export VERSION=4.5.1
+export VERSION=4.6.0
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=d9939b45ca7183ae9086b445129ff8f7
+export CHECKSUM=570d9888fc794b7c72c0a09fc9210dc3
 export EXPLICIT_NAME=$(NAME)-$(VERSION)-Source
 export SCIENTIFIC_ROOT=$(PREFIX)/../scientific_core
 #Python (Jinja2) is required for build, even if we don t build python api

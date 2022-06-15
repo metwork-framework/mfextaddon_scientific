@@ -21,6 +21,7 @@ Deprecated==1.2.10
 descartes==1.1.0
 dill==0.3.3
 distributed==2021.10.0
+donfig==0.7.0
 eccodes==1.4.1
 ecmwf-api-client==1.5.4
 ecmwflibs==0.4.17
@@ -85,7 +86,7 @@ pykdtree==1.3.4
 pyodc==1.1.1
 pyorbital==1.5.0
 pyproj==3.3.1
-pyresample==1.22.3
+pyresample==1.23.0
 pyrsistent==0.17.3
 pyshp==2.1.0
 pysteps==1.5.0
@@ -94,7 +95,7 @@ rasterio==1.1.5
 regionmask==0.6.1
 reportlab==3.6.3
 salem==0.3.6
-satpy==0.17.1
+satpy==0.36.0
 scikit-image==0.19.0
 scikit-learn==0.22.2.post1
 scitools-iris==2.1.0
@@ -108,7 +109,7 @@ tblib==1.7.0
 tifffile==2021.11.2
 toolz==0.10.0
 tornado==6.0.4
-trollimage==1.10.1
+trollimage==1.18.3
 trollsift==0.3.3
 xarray==0.14.1
 zarr==2.3.2
