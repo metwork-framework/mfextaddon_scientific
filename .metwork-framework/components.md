@@ -113,7 +113,7 @@
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.1.1 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.3.1 | python3_scientific |
-| [pyresample](https://pypi.org/project/pyresample) | 1.22.3 | python3_scientific |
+| [pyresample](https://github.com/pytroll/pyresample) | 1.22.3 | python3_scientific |
 | [pyrsistent](http://github.com/tobgu/pyrsistent/) | 0.17.3 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.5.0 | python3_scientific |
