@@ -13,7 +13,7 @@ LICENSE=Apache 2.0
 
 RPM_OPT_FLAGS=$(shell outside rpm -E %optflags)
 FCOPTIONS=$(RPM_OPT_FLAGS) -fPIC -fno-second-underscore -fno-range-check -fopenmp
-CCOPTIONS=$(RPM_OPT_FLAGS) -std=c99 -fPIC -fno-strict-aliasing -fopenmp -DACCEPT_USE_OF_DEPRECATED_PROJ_API_H -fcommon
+CCOPTIONS=$(RPM_OPT_FLAGS) -std=c99 -fPIC -fno-strict-aliasing -fopenmp -fcommon
 
 all::$(PREFIX)/bin/ncl
 $(PREFIX)/bin/ncl:

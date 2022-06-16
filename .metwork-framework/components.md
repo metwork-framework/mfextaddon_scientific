@@ -6,7 +6,7 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.3.0 | python3_scientific |
 | [bokeh](https://github.com/bokeh/bokeh) | 2.4.2 | python3_scientific |
-| [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.18.0 | python3_scientific |
+| [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.20.2 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.9.8 | scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python3_scientific |
@@ -62,7 +62,7 @@
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.6.5 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.5 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.5.1 | scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.6.0 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.1.3 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
@@ -112,8 +112,8 @@
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.4 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.1.1 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python3_scientific |
-| [pyproj](https://github.com/pyproj4/pyproj) | 2.4.2 | python3_scientific |
-| [pyresample](https://pypi.org/project/pyresample) | 1.13.2 | python3_scientific |
+| [pyproj](https://github.com/pyproj4/pyproj) | 3.3.1 | python3_scientific |
+| [pyresample](https://github.com/pytroll/pyresample) | 1.22.3 | python3_scientific |
 | [pyrsistent](http://github.com/tobgu/pyrsistent/) | 0.17.3 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.5.0 | python3_scientific |
