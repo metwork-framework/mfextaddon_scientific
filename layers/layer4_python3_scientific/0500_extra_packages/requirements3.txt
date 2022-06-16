@@ -62,7 +62,7 @@ opencv-contrib-python-headless==4.4.0.46
 openturns==1.16
 -e git+https://gitlab.com/cerfacs/batman.git@1.9.2-develop-mf#egg=ot-batman
 palettable==3.2.0
-pandas==1.2.4
+pandas==1.4.2
 partd==1.1.0
 pathos==0.2.7
 patsy==0.5.2
