@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=Magics
-export VERSION=4.6.0
+export VERSION=4.10.0
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=570d9888fc794b7c72c0a09fc9210dc3
+export CHECKSUM=d6d8f54481a0e3c13bb2e533c5e55450
 export EXPLICIT_NAME=$(NAME)-$(VERSION)-Source
 export SCIENTIFIC_ROOT=$(PREFIX)/../scientific_core
 #Python (Jinja2) is required for build, even if we don t build python api
@@ -18,4 +18,4 @@ LICENSE=Apache 2.0 : http://www.apache.org/licenses/LICENSE-2.0
 
 all:: $(PREFIX)/bin/magmlx
 $(PREFIX)/bin/magmlx:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" OPTIONS="-DENABLE_PYTHON=OFF -DENABLE_FORTRAN=OFF -DENABLE_METVIEW_NO_QT=ON -DNETCDF_PATH=$(SCIENTIFIC_ROOT) -DPROJ_PATH=$(SCIENTIFIC_ROOT)" download uncompress configure_cmake3 build_cmake install_cmake
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" OPTIONS="-DENABLE_GEOTIFF=ON -DENABLE_FORTRAN_C_INTERFACE=ON -DENABLE_METVIEW_NO_QT=ON -DNETCDF_PATH=$(SCIENTIFIC_ROOT) -DPROJ_PATH=$(SCIENTIFIC_ROOT) -DGEOTIFF_PATH=$(SCIENTIFIC_ROOT)" download uncompress configure_cmake3 build_cmake install_cmake

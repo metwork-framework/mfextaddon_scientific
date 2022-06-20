@@ -61,13 +61,13 @@
 | [llvmlite](http://llvmlite.pydata.org) | 0.36.0 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.6.5 | python3_scientific |
-| [Magics](https://github.com/ecmwf/magics-python) | 1.5.5 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.6.0 | scientific |
+| [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.10.0 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.1.3 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
-| [metview](https://github.com/ecmwf/metview-python) | 1.3.1 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.10.1 | scientific |
+| [metview](https://github.com/ecmwf/metview-python) | 1.12.0 | python3_scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.14.1 | scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.0 | python3_scientific |
 | [multiprocess](https://pypi.org/project/multiprocess) | 0.70.11.1 | python3_scientific |

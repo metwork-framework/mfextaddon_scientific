@@ -46,11 +46,11 @@ kiwisolver==1.1.0
 llvmlite==0.36.0
 locket==0.2.0
 lxml==4.6.5
-Magics==1.5.5
+Magics==1.5.8
 mapclassify==2.2.0
 matplotlib==3.1.3
 MetPy==0.12.2
-metview==1.3.1
+metview==1.12.0
 monotonic==1.5
 msgpack==1.0.0
 multiprocess==0.70.11.1
