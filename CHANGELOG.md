@@ -11,6 +11,7 @@
 - remove layer python2_scientific@mfext (#364)
 - update ecmwflibs to 0.4.17 (#365)
 - upgrade Magics to 4.6.0, pyproj to 3.3.1 and Cartopy to 0.20.2 (#369)
+- upgrade pandas from 1.2.4 to 1.4.2 (#371)
 
 ### Bug Fixes
 
