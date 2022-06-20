@@ -1,10 +1,7 @@
 scipy
 flit
 pkgconfig
-#pythran 0.9.11 because tensorflow 2.5.2 in addon scientific requires gast==0.4.0
-#    and pythran > 0.9.11 requires gast > 0.4.0
-#It will not be necessary with tensorflow 2.8.0
-pythran==0.9.11
+pythran
 scikit-build
 setuptools-scm-git-archive
 scitools-pyke
