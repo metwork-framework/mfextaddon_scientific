@@ -2,6 +2,7 @@ import affine
 import aggdraw
 import antlr4
 import asciitree
+import astropy
 import batman
 import batman.pod
 import batman.surrogate
@@ -33,6 +34,7 @@ import ecmwfapi
 import ecmwflibs
 import entrypoints
 import ESMF
+import extension_helpers
 import fasteners
 import ffmpy
 import findlibs
@@ -95,6 +97,7 @@ import pycoast
 import pycurl
 import pydecorate
 import pyepsg
+import erfa #pyerfa
 import pygmt
 import pygraphviz
 import pyhdf
