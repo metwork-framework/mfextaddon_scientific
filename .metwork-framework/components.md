@@ -4,7 +4,7 @@
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python3_scientific |
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.7.2 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
-| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.3.0 | python3_scientific |
+| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
 | [bokeh](https://github.com/bokeh/bokeh) | 2.4.2 | python3_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.20.2 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python3_scientific |
@@ -43,7 +43,7 @@
 | [flit](https://pypi.org/project/flit) | 3.2.0 | python3_scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
-| [gast](https://github.com/serge-sans-paille/gast/) | 0.4.0 | python3_scientific |
+| [gast](https://github.com/serge-sans-paille/gast/) | 0.5.3 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.3.3 | python3_scientific |
 | [geopandas](http://geopandas.org) | 0.8.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.2 | python3_scientific |
@@ -117,7 +117,7 @@
 | [pyrsistent](http://github.com/tobgu/pyrsistent/) | 0.17.3 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.5.0 | python3_scientific |
-| [pythran](https://github.com/serge-sans-paille/pythran) | 0.9.11 | python3_scientific |
+| [pythran](https://github.com/serge-sans-paille/pythran) | 0.11.0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.2.0 | python3_scientific |
 | [rasterio](https://github.com/mapbox/rasterio) | 1.1.5 | python3_scientific |
 | [regionmask](https://github.com/mathause/regionmask) | 0.6.1 | python3_scientific |
