@@ -4,6 +4,7 @@
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.11 | python3_scientific |
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.7.2 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
+| [astropy](http://astropy.org) | 5.1 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
 | [bokeh](https://github.com/bokeh/bokeh) | 2.4.2 | python3_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.20.2 | python3_scientific |
@@ -34,6 +35,7 @@
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | scientific |
+| [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python3_scientific |
 | [FFmpeg](https://ffmpeg.org/) | n4.4 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
@@ -106,6 +108,7 @@
 | [pycurl](http://pycurl.io/) | 7.44.1 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.2.1 | python3_scientific |
 | [pyepsg](https://github.com/rhattersley/pyepsg) | 0.4.0 | python3_scientific |
+| [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.0.1 | python3_scientific |
 | [pygmt](https://github.com/GenericMappingTools/pygmt) | 0.4.1 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io) | 1.6 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.10.3 | python3_scientific |
@@ -148,4 +151,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(147 components)*
+*(150 components)*

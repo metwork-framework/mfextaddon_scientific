@@ -73,3 +73,4 @@ pyepsg
 #statsmodels 0.13.2 requires packaging >= 21.3
 statsmodels==0.13.1
 bokeh
+astropy
