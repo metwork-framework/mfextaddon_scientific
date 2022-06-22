@@ -7,10 +7,13 @@ import batman.pod
 import batman.surrogate
 import beniget
 import bokeh
+import boltons
+import bottleneck
 import cartopy
 import cdo
 import cdsapi
 import cf_units
+import cf_xarray
 import cfgrib
 import cftime
 import charset_normalizer
@@ -23,6 +26,8 @@ import cycler
 import Cython
 import dask
 import dask.dataframe
+import dask.array
+import dask.distributed
 import deprecated
 import descartes
 import dill
@@ -45,14 +50,15 @@ import osgeo #gdal
 import osgeo_utils #gdal
 import geopandas
 import geos
-import gmt
 import graphviz
 import h5py
 import heapdict
+import icclim
 import imageio
 import ipython_genutils
 import itsdangerous
 import jsmin
+import jsonpickle
 import jsonschema
 import kiwisolver
 import llvmlite
@@ -68,6 +74,7 @@ import monotonic
 import msgpack
 import multiprocess
 import munch
+import mypy_extensions
 import netCDF4
 import networkx
 import numba
@@ -104,6 +111,7 @@ import pyorbital
 import pyproj
 import pyresample
 import pyrsistent
+import rechunker
 import shapefile #pyshp
 import pysteps
 import pythran
@@ -133,5 +141,6 @@ import tornado
 import trollimage
 import trollsift
 import xarray
+import xclim
 import zarr
 import zict

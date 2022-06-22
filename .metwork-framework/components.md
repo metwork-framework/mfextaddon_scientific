@@ -6,11 +6,14 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
 | [bokeh](https://github.com/bokeh/bokeh) | 2.4.2 | python3_scientific |
+| [boltons](https://github.com/mahmoud/boltons) | 21.0.0 | python3_scientific |
+| [Bottleneck](https://github.com/pydata/bottleneck) | 1.3.4 | python3_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.20.2 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.9.8 | scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python3_scientific |
 | [cf-units](https://github.com/SciTools/cf-units) | 3.0.1.post0 | python3_scientific |
+| [cf-xarray](https://cf-xarray.readthedocs.io) | 0.7.2 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.8.5 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.5.2 | python3_scientific |
 | [charset-normalizer](https://github.com/ousret/charset_normalizer) | 2.0.11 | python3_scientific |
@@ -51,11 +54,13 @@
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
 | [h5py](http://www.h5py.org) | 3.1.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
+| [icclim](https://github.com/cerfacs-globc/icclim) | 5.2.1 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.13.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 1.1.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.0 | python3_scientific |
+| [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 2.2.0 | python3_scientific |
 | [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
 | [llvmlite](http://llvmlite.pydata.org) | 0.36.0 | python3_scientific |
@@ -72,11 +77,12 @@
 | [msgpack](https://msgpack.org/) | 1.0.0 | python3_scientific |
 | [multiprocess](https://pypi.org/project/multiprocess) | 0.70.11.1 | python3_scientific |
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python3_scientific |
+| [mypy-extensions](https://github.com/python/mypy_extensions) | 0.4.3 | python3_scientific |
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
 | [nco](http://nco.sourceforge.net) | 4.8.1 | scientific |
 | [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.7 | scientific |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
-| [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.1.2 | python3_scientific |
+| [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.8 | python3_scientific |
 | [networkx](https://networkx.org/) | 2.6.3 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.53.1 | python3_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
@@ -120,6 +126,7 @@
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.11.0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.2.0 | python3_scientific |
 | [rasterio](https://github.com/mapbox/rasterio) | 1.1.5 | python3_scientific |
+| [rechunker](https://github.com/pangeo-data/rechunker) | 0.5.0 | python3_scientific |
 | [regionmask](https://github.com/mathause/regionmask) | 0.6.1 | python3_scientific |
 | [reportlab](http://www.reportlab.com/) | 3.6.3 | python3_scientific |
 | [salem](http://salem.readthedocs.io) | 0.3.6 | python3_scientific |
@@ -144,8 +151,9 @@
 | [trollimage](https://github.com/pytroll/trollimage) | 1.10.1 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
-| [xarray](https://github.com/pydata/xarray) | 0.14.1 | python3_scientific |
+| [xarray](https://github.com/pydata/xarray) | 0.21.1 | python3_scientific |
+| [xclim](https://github.com/Ouranosinc/xclim) | 0.36.0 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(147 components)*
+*(155 components)*
