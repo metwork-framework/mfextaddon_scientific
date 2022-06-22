@@ -1,5 +1,6 @@
 beniget==0.4.1
 docutils==0.16
+extension-helpers==1.0.0
 flit==3.2.0
 gast==0.5.3
 networkx==2.6.3
