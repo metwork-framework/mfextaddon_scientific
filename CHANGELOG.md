@@ -13,6 +13,8 @@
 - upgrade Magics to 4.6.0, pyproj to 3.3.1 and Cartopy to 0.20.2 (#369)
 - upgrade pandas from 1.2.4 to 1.4.2 (#371)
 - upgrade Magics to 4.10.0 and Metview to 5.14.1 (#372)
+- upgrade gast to 0.5.3, pythran to 0.11.0 and beniget to 0.4.1 (#374)
+- add astropy and dependencies (#375)
 
 ### Bug Fixes
 
