@@ -7,8 +7,14 @@ matplotlib
 pngquant
 pyshp
 shapely
-dask[dataframe]
+#dask only install dask, without dependencies
+#dask[array] install dask and required dependencies for module dask.array
+#dask[dataframe] install dask and required dependencies for module dask.dataframe
+#dask[distributed] install dask and required dependencies for module dask.distributed
 dask
+dask[dataframe]
+dask[array]
+dask[distributed]
 toolz
 geos
 lxml
@@ -74,3 +80,4 @@ pyepsg
 statsmodels==0.13.1
 bokeh
 astropy
+icclim
