@@ -1,2 +1,4 @@
-numpy
+#icclim 5.2.1 requires numpy < 1.22 (because of numba)
+#see https://github.com/cerfacs-globc/icclim/issues/190
+numpy<1.22
 pybind11
