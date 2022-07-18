@@ -15,7 +15,7 @@ cfgrib==0.9.8.5
 cftime==1.5.2
 charset-normalizer==2.0.11
 click-plugins==1.1.1
-cligj==0.5.0
+cligj==0.7.2
 climetlab==0.1.2
 cloudpickle==2.0.0
 configobj==5.0.6
@@ -32,7 +32,7 @@ entrypoints==0.3
 fasteners==0.15
 ffmpy==0.3.0
 findlibs==0.0.2
-Fiona==1.8.13
+Fiona==1.8.21
 Flask==1.1.1
 fsspec==2021.10.1
 GDAL==3.3.3
@@ -98,7 +98,7 @@ pyrsistent==0.17.3
 pyshp==2.1.0
 pysteps==1.5.0
 PyWavelets==1.2.0
-rasterio==1.1.5
+rasterio==1.2.10
 rechunker==0.5.0
 regionmask==0.6.1
 reportlab==3.6.3
