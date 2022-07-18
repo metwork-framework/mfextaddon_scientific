@@ -67,7 +67,7 @@
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
 | [llvmlite](http://llvmlite.pydata.org) | 0.36.0 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
-| [lxml](https://lxml.de/) | 4.6.5 | python3_scientific |
+| [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.10.0 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
