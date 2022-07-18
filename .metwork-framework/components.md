@@ -19,12 +19,12 @@
 | [cftime](https://pypi.org/project/cftime) | 1.5.2 | python3_scientific |
 | [charset-normalizer](https://github.com/ousret/charset_normalizer) | 2.0.11 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
-| [cligj](https://github.com/mapbox/cligj) | 0.5.0 | python3_scientific |
+| [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.1.2 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 2.0.0 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
 | [cycler](http://github.com/matplotlib/cycler) | 0.10.0 | python3_scientific |
-| [Cython](http://cython.org/) | 0.29.26 | python3_scientific |
+| [Cython](http://cython.org/) | 0.29.30 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2021.10.0 | python3_scientific |
 | [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
@@ -43,7 +43,7 @@
 | [FFmpeg](https://ffmpeg.org/) | n4.4 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
-| [Fiona](http://github.com/Toblerity/Fiona) | 1.8.13 | python3_scientific |
+| [Fiona](http://github.com/Toblerity/Fiona) | 1.8.21 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.2.0 | python3_scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
@@ -56,7 +56,7 @@
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
 | [h5py](http://www.h5py.org) | 3.1.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
-| [icclim](https://github.com/cerfacs-globc/icclim) | 5.2.1 | python3_scientific |
+| [icclim](https://github.com/cerfacs-globc/icclim) | 5.2.2 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.13.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
@@ -67,7 +67,7 @@
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
 | [llvmlite](http://llvmlite.pydata.org) | 0.36.0 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
-| [lxml](https://lxml.de/) | 4.6.5 | python3_scientific |
+| [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.10.0 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
@@ -88,7 +88,7 @@
 | [networkx](https://networkx.org/) | 2.6.3 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.53.1 | python3_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
-| [numpy](https://www.numpy.org) | 1.21.5 | python3_scientific |
+| [numpy](https://www.numpy.org) | 1.22.4 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.4.0.46 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.16 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
@@ -128,7 +128,7 @@
 | [pysteps](https://pysteps.github.io/) | 1.5.0 | python3_scientific |
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.11.0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.2.0 | python3_scientific |
-| [rasterio](https://github.com/mapbox/rasterio) | 1.1.5 | python3_scientific |
+| [rasterio](https://github.com/mapbox/rasterio) | 1.2.10 | python3_scientific |
 | [rechunker](https://github.com/pangeo-data/rechunker) | 0.5.0 | python3_scientific |
 | [regionmask](https://github.com/mathause/regionmask) | 0.6.1 | python3_scientific |
 | [reportlab](http://www.reportlab.com/) | 3.6.3 | python3_scientific |
@@ -155,7 +155,7 @@
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.21.1 | python3_scientific |
-| [xclim](https://github.com/Ouranosinc/xclim) | 0.36.0 | python3_scientific |
+| [xclim](https://github.com/Ouranosinc/xclim) | 0.37.0 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 

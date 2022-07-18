@@ -16,6 +16,7 @@
 - upgrade gast to 0.5.3, pythran to 0.11.0 and beniget to 0.4.1 (#374)
 - add astropy and dependencies (#375)
 - add icclim and dependencies (#377)
+- upgrade Cython to 0.29.30 and numpy to 1.21.6 (#379)
 
 ### Bug Fixes
 
