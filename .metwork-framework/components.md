@@ -56,7 +56,7 @@
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
 | [h5py](http://www.h5py.org) | 3.1.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
-| [icclim](https://github.com/cerfacs-globc/icclim) | 5.2.1 | python3_scientific |
+| [icclim](https://github.com/cerfacs-globc/icclim) | 5.2.2 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.13.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
@@ -88,7 +88,7 @@
 | [networkx](https://networkx.org/) | 2.6.3 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.53.1 | python3_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
-| [numpy](https://www.numpy.org) | 1.21.6 | python3_scientific |
+| [numpy](https://www.numpy.org) | 1.22.4 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.4.0.46 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.16 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
@@ -155,7 +155,7 @@
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
 | [xarray](https://github.com/pydata/xarray) | 0.21.1 | python3_scientific |
-| [xclim](https://github.com/Ouranosinc/xclim) | 0.36.0 | python3_scientific |
+| [xclim](https://github.com/Ouranosinc/xclim) | 0.37.0 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 

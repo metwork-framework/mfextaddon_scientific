@@ -41,7 +41,7 @@ geos==0.2.2
 graphviz==0.11.1
 h5py==3.1.0
 HeapDict==1.0.1
-icclim==5.2.1
+icclim==5.2.2
 imageio==2.13.1
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
@@ -120,6 +120,6 @@ tornado==6.0.4
 trollimage==1.10.1
 trollsift==0.3.3
 xarray==0.21.1
-xclim==0.36.0
+xclim==0.37.0
 zarr==2.3.2
 zict==2.0.0
