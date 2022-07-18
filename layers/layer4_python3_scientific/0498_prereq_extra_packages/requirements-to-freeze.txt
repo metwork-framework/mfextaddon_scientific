@@ -1,4 +1,2 @@
-#icclim 5.2.1 requires numpy < 1.22 (because of numba 0.53.1)
-#icclim 5.2.2 allow numpy >=1.22 (ok with numba 0.55.2) but also requires xclim 0.37.0 which requires Click >= 8.1 which is a problem for mfserv
-numpy<1.22
+numpy
 pybind11
