@@ -6,8 +6,7 @@ gast==0.5.3
 networkx==2.6.3
 pkgconfig==1.5.5
 ply==3.11
-pythran==0.11.0
 scikit-build==0.12.0
-scipy==1.6.3
+scipy==1.7.3
 scitools-pyke==1.1.1
 setuptools-scm-git-archive==1.1
