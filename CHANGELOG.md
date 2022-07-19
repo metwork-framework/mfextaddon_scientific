@@ -17,6 +17,9 @@
 - add astropy and dependencies (#375)
 - add icclim and dependencies (#377)
 - upgrade Cython to 0.29.30 and numpy to 1.21.6 (#379)
+- upgrade cligj to 0.7.2, Fiona to 1.8.21 and rasterio to 1.2.10 (#382)
+- upgrade numpy from 1.21.6 to 1.22.4 (requiring upgrade of icclim and xclim) (#383)
+- upgrade lxml from 4.6.5 to 4.9.1 (security update) (#384)
 
 ### Bug Fixes
 
