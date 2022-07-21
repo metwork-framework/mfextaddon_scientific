@@ -23,7 +23,7 @@ cycler==0.10.0
 dask==2021.10.0
 Deprecated==1.2.10
 descartes==1.1.0
-dill==0.3.3
+dill==0.3.5.1
 distributed==2021.10.0
 eccodes==1.4.1
 ecmwf-api-client==1.5.4
@@ -49,7 +49,7 @@ jsmin==3.0.0
 jsonpickle==2.2.0
 jsonschema==3.2.0
 kiwisolver==1.1.0
-llvmlite==0.36.0
+llvmlite==0.38.1
 locket==0.2.0
 lxml==4.9.1
 Magics==1.5.8
@@ -59,14 +59,14 @@ MetPy==0.12.2
 metview==1.12.0
 monotonic==1.5
 msgpack==1.0.0
-multiprocess==0.70.11.1
+multiprocess==0.70.13
 munch==2.3.2
 mypy-extensions==0.4.3
 netCDF4==1.5.8
-numba==0.53.1
+numba==0.55.2
 numcodecs==0.6.3
 opencv-contrib-python-headless==4.4.0.46
-openturns==1.16
+openturns==1.18
 -e git+https://gitlab.com/cerfacs/batman.git@1.9.2-develop-mf#egg=ot-batman
 palettable==3.2.0
 pandas==1.4.2
@@ -98,15 +98,15 @@ pyrsistent==0.17.3
 pyshp==2.1.0
 pysteps==1.5.0
 PyWavelets==1.2.0
-rasterio==1.2.10
+rasterio==1.3.0
 rechunker==0.5.0
 regionmask==0.6.1
 reportlab==3.6.3
 salem==0.3.6
-satpy==0.17.1
+satpy==0.20.0
 scikit-image==0.19.0
 scikit-learn==0.22.2.post1
-scitools-iris==2.1.0
+scitools-iris==2.4.0
 seaborn==0.9.0
 Shapely==1.6.4.post2
 snuggs==1.4.7
@@ -117,7 +117,7 @@ tblib==1.7.0
 tifffile==2021.11.2
 toolz==0.10.0
 tornado==6.0.4
-trollimage==1.10.1
+trollimage==1.11.0
 trollsift==0.3.3
 xarray==0.21.1
 xclim==0.37.0
