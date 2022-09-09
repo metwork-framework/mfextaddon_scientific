@@ -30,7 +30,7 @@ for layer in `ls`; do
             DEPS2=""
             for lib in ${DEPS1}; do
                 found=$(find . -name ${lib} -print)
-                if test "${found}" != ""; then
+                if test "${found}" == ""; then
                     DEPS2="${DEPS2} ${lib}"
                 fi
             done
@@ -58,7 +58,7 @@ for layer in `ls`; do
             DEPS4=""
             for lib in ${DEPS3}; do
                 found=$(find . -name ${lib} -print)
-                if test "${found}" != ""; then
+                if test "${found}" == ""; then
                     DEPS4="${DEPS4} ${lib}"
                 fi
             done
