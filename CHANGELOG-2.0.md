@@ -1,5 +1,9 @@
 # release_2.0 CHANGELOG
 
+## v2.0.4 (2022-06-14)
+
+- No interesting change
+
 ## v2.0.3 (2022-06-10)
 
 ### New Features
