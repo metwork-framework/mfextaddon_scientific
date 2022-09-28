@@ -13,7 +13,7 @@
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.9.8 | scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python3_scientific |
-| [cf-units](https://github.com/SciTools/cf-units) | 3.0.1.post0 | python3_scientific |
+| [cf-units](https://github.com/SciTools/cf-units) | 3.1.1 | python3_scientific |
 | [cf-xarray](https://cf-xarray.readthedocs.io) | 0.7.2 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.8.5 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.5.2 | python3_scientific |
@@ -36,8 +36,8 @@
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
 | [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.4.17 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.3.0 | python3_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.3.0 | scientific |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python3_scientific |
 | [FFmpeg](https://ffmpeg.org/) | n4.4 | scientific |
@@ -137,7 +137,7 @@
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.12.0 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.19.0 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 0.22.2.post1 | python3_scientific |
-| [scipy](https://www.scipy.org) | 1.7.3 | python3_scientific |
+| [SciPy](https://www.scipy.org) | 1.7.3 | python3_scientific |
 | [scitools-iris](http://scitools.org.uk/iris/) | 2.4.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
