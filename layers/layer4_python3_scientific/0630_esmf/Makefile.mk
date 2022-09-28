@@ -22,6 +22,7 @@ export ESMF_NETCDF=nc-config
 export ESMFMKFILE=$(ESMF_INSTALL_LIBDIR)/esmf.mk
 
 #For some reason, we have to temporarly modify install_scripts.py in setuptools
+#It will probably not be necessary with release 8.4 with pyproject.toml replacing setup.py
 export INSTALL_SCRIPTS=$(PREFIX)/../python3_core/lib/python$(PYTHON3_SHORT_VERSION)/site-packages/setuptools/_distutils/command/install_scripts.py
 
 all:: $(PYTHON3_SITE_PACKAGES)/ESMPy-$(VERSION).dist-info

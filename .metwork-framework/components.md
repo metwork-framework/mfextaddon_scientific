@@ -137,7 +137,7 @@
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.12.0 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.19.0 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 0.22.2.post1 | python3_scientific |
-| [scipy](https://www.scipy.org) | 1.7.3 | python3_scientific |
+| [SciPy](https://www.scipy.org) | 1.7.3 | python3_scientific |
 | [scitools-iris](http://scitools.org.uk/iris/) | 2.4.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
