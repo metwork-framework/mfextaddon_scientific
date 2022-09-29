@@ -81,3 +81,5 @@ statsmodels==0.13.1
 bokeh
 astropy
 icclim
+#protobuf>= 3.20 is not compatible with tensorflow 2.8.x
+protobuf<3.20.0
