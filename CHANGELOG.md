@@ -21,6 +21,7 @@
 - upgrade numpy from 1.21.6 to 1.22.4 (requiring upgrade of icclim and xclim) (#383)
 - upgrade lxml from 4.6.5 to 4.9.1 (security update) (#384)
 - switch from python 3.9 to python310 (#386)
+- upgrade ESMF to 8.3.0 and cf-units to 3.1.1  (#390)
 
 ### Bug Fixes
 
