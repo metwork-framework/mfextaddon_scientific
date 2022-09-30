@@ -22,6 +22,7 @@
 - upgrade lxml from 4.6.5 to 4.9.1 (security update) (#384)
 - switch from python 3.9 to python310 (#386)
 - upgrade ESMF to 8.3.0 and cf-units to 3.1.1  (#390)
+- bump protobuf from 3.15.6 to 3.19.5 (security update) (#393)
 
 ### Bug Fixes
 
