@@ -45,7 +45,7 @@
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.21 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
-| [flit](https://pypi.org/project/flit) | 3.2.0 | python3_scientific |
+| [flit](https://pypi.org/project/flit) | 3.7.1 | python3_scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.3 | python3_scientific |
@@ -149,6 +149,7 @@
 | [statsmodels](https://www.statsmodels.org/) | 0.13.1 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 1.7.0 | python3_scientific |
 | [tifffile](https://www.lfd.uci.edu/~gohlke/) | 2021.11.2 | python3_scientific |
+| [tomli_w](https://pypi.org/project/tomli_w) | 1.0.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.10.0 | python3_scientific |
 | [tornado](http://www.tornadoweb.org/) | 6.0.4 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.11.0 | python3_scientific |
@@ -159,4 +160,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(158 components)*
+*(159 components)*
