@@ -1,1 +1,6 @@
-Cython
+meson-python
+ninja
+numpy
+pybind11
+pyproject_metadata
+pythran

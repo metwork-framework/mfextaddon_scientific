@@ -1,13 +1,9 @@
-beniget==0.4.1
 docutils==0.16
 extension-helpers==1.0.0
 flit==3.7.1
-gast==0.5.3
 networkx==2.6.3
 pkgconfig==1.5.5
-ply==3.11
-scikit-build==0.12.0
-scipy==1.7.3
+scipy==1.9.2
 scitools-pyke==1.1.1
 setuptools-scm-git-archive==1.1
 tomli_w==1.0.0
