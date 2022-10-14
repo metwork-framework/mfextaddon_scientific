@@ -1,3 +1,1 @@
-numpy
-pybind11
-pythran
+meson-python
