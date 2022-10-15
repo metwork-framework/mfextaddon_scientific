@@ -146,7 +146,7 @@
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
 | [setuptools-scm-git-archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.1 | python3_scientific |
-| [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python3_scientific |
+| [Shapely](https://github.com/shapely/shapely) | 1.8.5.post1 | python3_scientific |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
 | [SQLAlchemy](http://www.sqlalchemy.org) | 1.3.5 | python3_scientific |
