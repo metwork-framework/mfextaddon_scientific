@@ -6,11 +6,11 @@ astropy==5.1
 bokeh==2.4.2
 boltons==21.0.0
 Bottleneck==1.3.4
-Cartopy==0.20.2
+Cartopy==0.21.0
 cdo==1.5.3
 cdsapi==0.1.4
 cf-units==3.1.1
-cf-xarray==0.7.2
+cf-xarray==0.7.4
 cfgrib==0.9.8.5
 cftime==1.5.2
 charset-normalizer==2.0.11
@@ -20,7 +20,7 @@ climetlab==0.1.2
 cloudpickle==2.0.0
 configobj==5.0.6
 cycler==0.10.0
-dask==2021.10.0
+dask[complete]==2021.10.0
 Deprecated==1.2.10
 descartes==1.1.0
 dill==0.3.5.1
@@ -36,7 +36,7 @@ Fiona==1.8.21
 Flask==1.1.1
 fsspec==2021.10.1
 GDAL==3.3.3
-geopandas==0.8.1
+geopandas==0.11.1
 geos==0.2.2
 graphviz==0.11.1
 h5py==3.1.0
@@ -54,7 +54,7 @@ locket==0.2.0
 lxml==4.9.1
 Magics==1.5.8
 mapclassify==2.2.0
-matplotlib==3.1.3
+matplotlib==3.6.1
 MetPy==0.12.2
 metview==1.12.0
 monotonic==1.5
@@ -108,7 +108,7 @@ scikit-image==0.19.0
 scikit-learn==0.22.2.post1
 scitools-iris==2.4.0
 seaborn==0.9.0
-Shapely==1.6.4.post2
+Shapely==1.8.5.post1
 snuggs==1.4.7
 sortedcontainers==2.4.0
 SQLAlchemy==1.3.5
@@ -119,7 +119,7 @@ toolz==0.10.0
 tornado==6.0.4
 trollimage==1.11.0
 trollsift==0.3.3
-xarray==0.21.1
+xarray==2022.10.0
 xclim==0.37.0
 zarr==2.3.2
 zict==2.0.0

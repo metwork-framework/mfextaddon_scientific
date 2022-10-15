@@ -21,6 +21,7 @@ states_provinces = cfeature.NaturalEarthFeature(
 
 SOURCE = 'Natural Earth'
 LICENSE = 'public domain'
+COPYRIGHT = 'CIRCLED LATIN CAPITAL LETTER C'
 
 ax.add_feature(cfeature.LAND)
 ax.add_feature(cfeature.COASTLINE)
@@ -28,8 +29,9 @@ ax.add_feature(states_provinces, edgecolor='gray')
 
 # Add a text annotation for the license information to the
 # the bottom right corner.
-text = AnchoredText(r'$\mathcircled{{c}}$ {}; license: {}'
-                    ''.format(SOURCE, LICENSE),
+# Note: \mathcircled is deprecated
+text = AnchoredText(r'{} {}; license: {}'
+                    ''.format(COPYRIGHT, SOURCE, LICENSE),
                     loc=4, prop={'size': 12}, frameon=True)
 ax.add_artist(text)
 
