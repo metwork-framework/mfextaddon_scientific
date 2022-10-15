@@ -9,12 +9,12 @@
 | [bokeh](https://github.com/bokeh/bokeh) | 2.4.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 21.0.0 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.3.4 | python3_scientific |
-| [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.20.2 | python3_scientific |
+| [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.21.0 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.9.8 | scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python3_scientific |
 | [cf-units](https://github.com/SciTools/cf-units) | 3.1.1 | python3_scientific |
-| [cf-xarray](https://cf-xarray.readthedocs.io) | 0.7.2 | python3_scientific |
+| [cf-xarray](https://cf-xarray.readthedocs.io) | 0.7.4 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.8.5 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.5.2 | python3_scientific |
 | [charset-normalizer](https://github.com/ousret/charset_normalizer) | 2.0.11 | python3_scientific |
@@ -50,7 +50,7 @@
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.3 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.3.3 | python3_scientific |
-| [geopandas](http://geopandas.org) | 0.8.1 | python3_scientific |
+| [geopandas](http://geopandas.org) | 0.11.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.2 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.2.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.11.1 | python3_scientific |
@@ -71,7 +71,7 @@
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.10.0 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
-| [matplotlib](https://matplotlib.org) | 3.1.3 | python3_scientific |
+| [matplotlib](https://matplotlib.org) | 3.6.1 | python3_scientific |
 | [meson-python](https://github.com/FFY00/mesonpy) | 0.10.0 | python3_scientific |
 | [meson](https://mesonbuild.com) | 0.63.3 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
@@ -159,7 +159,7 @@
 | [trollimage](https://github.com/pytroll/trollimage) | 1.11.0 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
-| [xarray](https://github.com/pydata/xarray) | 0.21.1 | python3_scientific |
+| [xarray](https://github.com/pydata/xarray) | 2022.10.0 | python3_scientific |
 | [xclim](https://github.com/Ouranosinc/xclim) | 0.37.0 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
