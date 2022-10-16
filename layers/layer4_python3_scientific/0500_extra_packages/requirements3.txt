@@ -20,7 +20,7 @@ climetlab==0.1.2
 cloudpickle==2.0.0
 configobj==5.0.6
 cycler==0.10.0
-dask[complete]==2021.10.0
+dask[array]==2021.10.0
 Deprecated==1.2.10
 descartes==1.1.0
 dill==0.3.5.1
