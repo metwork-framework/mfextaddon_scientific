@@ -23,6 +23,7 @@
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.1.2 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 2.0.0 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
+| [contourpy](https://github.com/contourpy/contourpy) | 1.0.5 | python3_scientific |
 | [cycler](http://github.com/matplotlib/cycler) | 0.10.0 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.32 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2021.10.0 | python3_scientific |
@@ -46,6 +47,7 @@
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.21 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.7.1 | python3_scientific |
+| [fonttools](http://github.com/fonttools/fonttools) | 4.37.4 | python3_scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.3 | python3_scientific |
@@ -164,4 +166,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(163 components)*
+*(165 components)*
