@@ -1,7 +1,6 @@
 scipy
 flit
 pkgconfig
-scikit-build
 setuptools-scm-git-archive
 scitools-pyke
 extension-helpers

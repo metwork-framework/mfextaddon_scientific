@@ -1,1 +1,10 @@
-Cython==0.29.30
+beniget==0.4.1
+gast==0.5.3
+meson==0.63.3
+ninja==1.10.2.4
+numpy==1.23.4
+ply==3.11
+pybind11==2.8.0
+pyproject_metadata==0.6.1
+pythran==0.11.0
+scikit-build==0.12.0

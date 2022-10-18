@@ -24,7 +24,7 @@
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 2.0.0 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
 | [cycler](http://github.com/matplotlib/cycler) | 0.10.0 | python3_scientific |
-| [Cython](http://cython.org/) | 0.29.30 | python3_scientific |
+| [Cython](http://cython.org/) | 0.29.32 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2021.10.0 | python3_scientific |
 | [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
@@ -65,13 +65,15 @@
 | [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 2.2.0 | python3_scientific |
 | [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.1.0 | python3_scientific |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.38.1 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.39.1 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.10.0 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.1.3 | python3_scientific |
+| [meson-python](https://github.com/FFY00/mesonpy) | 0.10.0 | python3_scientific |
+| [meson](https://mesonbuild.com) | 0.63.3 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.12.0 | python3_scientific |
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.14.1 | scientific |
@@ -86,9 +88,10 @@
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.8 | python3_scientific |
 | [networkx](https://networkx.org/) | 2.6.3 | python3_scientific |
-| [numba](https://numba.pydata.org) | 0.55.2 | python3_scientific |
+| [ninja](http://ninja-build.org/) | 1.10.2.4 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.56.3 | python3_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
-| [numpy](https://www.numpy.org) | 1.22.4 | python3_scientific |
+| [numpy](https://www.numpy.org) | 1.23.4 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.4.0.46 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.18 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
@@ -122,6 +125,7 @@
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.1.1 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.5.0 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.4.0 | python3_scientific |
+| [pyproject-metadata](https://pypi.org/project/pyproject-metadata) | 0.6.1 | python3_scientific |
 | [pyresample](https://github.com/pytroll/pyresample) | 1.22.3 | python3_scientific |
 | [pyrsistent](http://github.com/tobgu/pyrsistent/) | 0.17.3 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.1.0 | python3_scientific |
@@ -137,12 +141,12 @@
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.12.0 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.19.0 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 0.22.2.post1 | python3_scientific |
-| [SciPy](https://www.scipy.org) | 1.7.3 | python3_scientific |
+| [scipy](https://scipy.org/) | 1.9.2 | python3_scientific |
 | [scitools-iris](http://scitools.org.uk/iris/) | 2.4.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://seaborn.pydata.org) | 0.9.0 | python3_scientific |
 | [setuptools-scm-git-archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.1 | python3_scientific |
-| [Shapely](https://github.com/Toblerity/Shapely) | 1.6.4.post2 | python3_scientific |
+| [Shapely](https://github.com/shapely/shapely) | 1.8.5.post1 | python3_scientific |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
 | [SQLAlchemy](http://www.sqlalchemy.org) | 1.3.5 | python3_scientific |
@@ -160,4 +164,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(159 components)*
+*(163 components)*
