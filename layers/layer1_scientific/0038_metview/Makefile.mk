@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=Metview
-export VERSION=5.14.1
+export VERSION=5.17.0
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=566b0b6bc69eae4122395bfd76ce2975
+export CHECKSUM=43ae3bef522839840da6c7ab44733299
 export EXPLICIT_NAME=$(NAME)-$(VERSION)-Source
 DESCRIPTION=\
 Metview is a meteorological workstation application designed to be a complete \
@@ -16,4 +16,4 @@ LICENSE=Apache 2.0 : http://www.apache.org/licenses/LICENSE-2.0
 
 all:: $(PREFIX)/bin/metview
 $(PREFIX)/bin/metview:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" OPTIONS="-DCMAKE_INSTALL_PREFIX=$(PREFIX) -DCMAKE_PREFIX_PATH='$(PREFIX);$(PREFIX)/../scientific_core;$(PREFIX)/../core' -DENABLE_UI=OFF -DENABLE_METVIEW_FORTRAN=OFF -DNETCDF_PATH=$(PREFIX)/../scientific_core" download uncompress configure_cmake3 build_cmake install_cmake
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" OPTIONS="-DCMAKE_INSTALL_PREFIX=$(PREFIX) -DCMAKE_PREFIX_PATH='$(PREFIX);$(PREFIX)/../scientific_core;$(PREFIX)/../core' -DENABLE_UI=OFF -DENABLE_FORTRAN=ON -DENABLE_METVIEW_FORTRAN=ON -DNETCDF_PATH=$(PREFIX)/../scientific_core" download uncompress configure_cmake3 build_cmake install_cmake

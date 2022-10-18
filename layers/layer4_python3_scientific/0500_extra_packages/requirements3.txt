@@ -26,7 +26,7 @@ Deprecated==1.2.10
 descartes==1.1.0
 dill==0.3.5.1
 distributed==2021.10.0
-eccodes==1.4.1
+eccodes==1.5.0
 ecmwf-api-client==1.5.4
 ecmwflibs==0.4.17
 entrypoints==0.3
@@ -58,7 +58,7 @@ Magics==1.5.8
 mapclassify==2.2.0
 matplotlib==3.6.1
 MetPy==0.12.2
-metview==1.12.0
+metview==1.13.0
 monotonic==1.5
 msgpack==1.0.0
 multiprocess==0.70.13

@@ -32,8 +32,10 @@
 | [dill](https://github.com/uqfoundation/dill) | 0.3.5.1 | python3_scientific |
 | [distributed](https://distributed.dask.org) | 2021.10.0 | python3_scientific |
 | [docutils](http://docutils.sourceforge.net/) | 0.16 | python3_scientific |
-| [eccodes](https://github.com/ecmwf/eccodes-python) | 1.4.1 | python3_scientific |
-| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.25.0 | scientific |
+| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.7.0 | scientific |
+| [eccodes](https://github.com/ecmwf/eccodes-python) | 1.5.0 | python3_scientific |
+| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.27.0 | scientific |
+| [eckit](https://github.com/ecmwf/ecbuild) | 1.20.2 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
 | [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.4.17 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python3_scientific |
@@ -41,6 +43,7 @@
 | [esmf](http://www.earthsystemmodeling.org) | 8.3.0 | scientific |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python3_scientific |
+| [fckit](https://github.com/ecmwf/fckit) | 0.9.0 | scientific |
 | [FFmpeg](https://ffmpeg.org/) | n4.4 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
@@ -71,14 +74,14 @@
 | [locket](http://github.com/mwilliamson/locket.py) | 0.2.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.10.0 | scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.12.1 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.2.0 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.6.1 | python3_scientific |
 | [meson-python](https://github.com/FFY00/mesonpy) | 0.10.0 | python3_scientific |
 | [meson](https://mesonbuild.com) | 0.63.3 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
-| [metview](https://github.com/ecmwf/metview-python) | 1.12.0 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.14.1 | scientific |
+| [metview](https://github.com/ecmwf/metview-python) | 1.13.0 | python3_scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.17.0 | scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.0 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.13 | python3_scientific |
@@ -166,4 +169,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(165 components)*
+*(168 components)*
