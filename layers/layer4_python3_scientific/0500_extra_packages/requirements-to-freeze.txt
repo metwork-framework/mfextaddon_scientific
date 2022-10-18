@@ -11,10 +11,8 @@ shapely
 #dask[array] install dask and required dependencies for module dask.array
 #dask[dataframe] install dask and required dependencies for module dask.dataframe
 #dask[distributed] install dask and required dependencies for module dask.distributed
-dask
-dask[dataframe]
-dask[array]
-dask[distributed]
+#dask[complete] install everything
+dask[complete]
 toolz
 geos
 lxml
