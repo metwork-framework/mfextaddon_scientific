@@ -25,6 +25,9 @@
 - bump protobuf from 3.15.6 to 3.19.5 (security update) (#393)
 - upgrade pyproj from 3.3.1 to 3.4.0 (#396)
 - upgrade flit to 3.7.1 (as flit_core in mfext) (#398)
+- upgrade Cython, numpy and scipy to last versions
+- upgrade Cartopy, xarray, matplotlib and dependencies
+- upgrade Cython, numpy and scipy to last versions (#404)
 
 ### Bug Fixes
 
