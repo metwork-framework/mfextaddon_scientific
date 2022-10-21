@@ -28,6 +28,7 @@
 - upgrade Cython, numpy and scipy to last versions
 - upgrade Cartopy, xarray, matplotlib and dependencies
 - upgrade Cython, numpy and scipy to last versions (#404)
+- upgrade eccodes to 2.27.0, Magics to 4.12.1 and Metview to 1.13.0 (#411)
 
 ### Bug Fixes
 
