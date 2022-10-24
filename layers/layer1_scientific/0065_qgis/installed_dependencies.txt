@@ -1,0 +1,12 @@
+libzip-devel
+exiv2-devel
+qt5-qbase-devel
+qt5-qtserialport-devel
+qt5-qtsvg-devel
+qt5-qttools-static
+qt5-qtwebkit-devel
+qca-qt5-devel
+qscintilla-qt5-devel
+qtkeychain-qt5-devel
+spatialindex-devel
+fcgi-devel
