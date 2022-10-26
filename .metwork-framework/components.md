@@ -164,9 +164,10 @@
 | [trollimage](https://github.com/pytroll/trollimage) | 1.11.0 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
+| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.20 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 2022.10.0 | python3_scientific |
 | [xclim](https://github.com/Ouranosinc/xclim) | 0.37.0 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(168 components)*
+*(169 components)*
