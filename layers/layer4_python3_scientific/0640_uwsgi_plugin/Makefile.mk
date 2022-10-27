@@ -16,4 +16,5 @@ $(PREFIX)/lib/uwsgi/python3_plugin.so:
 	/usr/sbin/uwsgi --build-plugin "/usr/src/uwsgi/2.0.20/plugins/python/ python3"
 	mkdir -p $(PREFIX)/lib/uwsgi
 	mv python3_plugin.so $(PREFIX)/lib/uwsgi
+	rm -rf .uwsgi_plugins_builder
 
