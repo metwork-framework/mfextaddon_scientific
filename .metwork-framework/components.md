@@ -17,7 +17,6 @@
 | [cf-xarray](https://cf-xarray.readthedocs.io) | 0.7.4 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.8.5 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.5.2 | python3_scientific |
-| [charset-normalizer](https://github.com/ousret/charset_normalizer) | 2.0.11 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.1.2 | python3_scientific |
@@ -27,9 +26,7 @@
 | [cycler](http://github.com/matplotlib/cycler) | 0.10.0 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.32 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2021.10.0 | python3_scientific |
-| [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
-| [dill](https://github.com/uqfoundation/dill) | 0.3.5.1 | python3_scientific |
 | [distributed](https://distributed.dask.org) | 2021.10.0 | python3_scientific |
 | [docutils](http://docutils.sourceforge.net/) | 0.16 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.7.0 | scientific |
@@ -164,9 +161,10 @@
 | [trollimage](https://github.com/pytroll/trollimage) | 1.11.0 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.3.3 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
+| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.20 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 2022.10.0 | python3_scientific |
 | [xclim](https://github.com/Ouranosinc/xclim) | 0.37.0 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(168 components)*
+*(166 components)*

@@ -13,7 +13,6 @@ cf-units==3.1.1
 cf-xarray==0.7.4
 cfgrib==0.9.8.5
 cftime==1.5.2
-charset-normalizer==2.0.11
 click-plugins==1.1.1
 cligj==0.7.2
 climetlab==0.1.2
@@ -22,9 +21,7 @@ configobj==5.0.6
 contourpy==1.0.5
 cycler==0.10.0
 dask==2021.10.0
-Deprecated==1.2.10
 descartes==1.1.0
-dill==0.3.5.1
 distributed==2021.10.0
 eccodes==1.5.0
 ecmwf-api-client==1.5.4
