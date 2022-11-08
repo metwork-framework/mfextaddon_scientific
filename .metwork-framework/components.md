@@ -45,7 +45,7 @@
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.21 | python3_scientific |
-| [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
+| [Flask](https://palletsprojects.com/p/flask) | 2.2.2 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.7.1 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.37.4 | python3_scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
@@ -62,7 +62,7 @@
 | [imageio](https://github.com/imageio/imageio) | 2.13.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
-| [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 1.1.0 | python3_scientific |
+| [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.0 | python3_scientific |
 | [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 2.2.0 | python3_scientific |
 | [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
