@@ -31,7 +31,7 @@ fasteners==0.15
 ffmpy==0.3.0
 findlibs==0.0.2
 Fiona==1.8.21
-Flask==1.1.1
+Flask==2.2.2
 fonttools==4.37.4
 fsspec==2021.10.1
 GDAL==3.3.3
@@ -43,7 +43,7 @@ HeapDict==1.0.1
 icclim==5.2.2
 imageio==2.13.1
 ipython-genutils==0.2.0
-itsdangerous==1.1.0
+itsdangerous==2.1.2
 jsmin==3.0.0
 jsonpickle==2.2.0
 jsonschema==3.2.0
