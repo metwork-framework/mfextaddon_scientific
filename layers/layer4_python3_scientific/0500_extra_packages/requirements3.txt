@@ -13,7 +13,6 @@ cf-units==3.1.1
 cf-xarray==0.7.4
 cfgrib==0.9.8.5
 cftime==1.5.2
-charset-normalizer==2.0.11
 click-plugins==1.1.1
 cligj==0.7.2
 climetlab==0.1.2
@@ -22,9 +21,7 @@ configobj==5.0.6
 contourpy==1.0.5
 cycler==0.10.0
 dask==2021.10.0
-Deprecated==1.2.10
 descartes==1.1.0
-dill==0.3.5.1
 distributed==2021.10.0
 eccodes==1.5.0
 ecmwf-api-client==1.5.4
@@ -34,7 +31,7 @@ fasteners==0.15
 ffmpy==0.3.0
 findlibs==0.0.2
 Fiona==1.8.21
-Flask==1.1.1
+Flask==2.2.2
 fonttools==4.37.4
 fsspec==2021.10.1
 GDAL==3.3.3
@@ -46,7 +43,7 @@ HeapDict==1.0.1
 icclim==5.2.2
 imageio==2.13.1
 ipython-genutils==0.2.0
-itsdangerous==1.1.0
+itsdangerous==2.1.2
 jsmin==3.0.0
 jsonpickle==2.2.0
 jsonschema==3.2.0

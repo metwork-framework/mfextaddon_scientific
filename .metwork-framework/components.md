@@ -17,7 +17,6 @@
 | [cf-xarray](https://cf-xarray.readthedocs.io) | 0.7.4 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.8.5 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.5.2 | python3_scientific |
-| [charset-normalizer](https://github.com/ousret/charset_normalizer) | 2.0.11 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.1.2 | python3_scientific |
@@ -27,9 +26,7 @@
 | [cycler](http://github.com/matplotlib/cycler) | 0.10.0 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.32 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2021.10.0 | python3_scientific |
-| [Deprecated](https://github.com/tantale/deprecated) | 1.2.10 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
-| [dill](https://github.com/uqfoundation/dill) | 0.3.5.1 | python3_scientific |
 | [distributed](https://distributed.dask.org) | 2021.10.0 | python3_scientific |
 | [docutils](http://docutils.sourceforge.net/) | 0.16 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.7.0 | scientific |
@@ -48,7 +45,7 @@
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.21 | python3_scientific |
-| [Flask](https://palletsprojects.com/p/flask/) | 1.1.1 | python3_scientific |
+| [Flask](https://palletsprojects.com/p/flask) | 2.2.2 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.7.1 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.37.4 | python3_scientific |
 | [fsspec](http://github.com/intake/filesystem_spec) | 2021.10.1 | python3_scientific |
@@ -65,7 +62,7 @@
 | [imageio](https://github.com/imageio/imageio) | 2.13.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
-| [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 1.1.0 | python3_scientific |
+| [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.0 | python3_scientific |
 | [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 2.2.0 | python3_scientific |
 | [jsonschema](https://github.com/Julian/jsonschema) | 3.2.0 | python3_scientific |
@@ -170,4 +167,4 @@
 | [zarr](https://github.com/zarr-developers/zarr) | 2.3.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.0.0 | python3_scientific |
 
-*(169 components)*
+*(166 components)*
