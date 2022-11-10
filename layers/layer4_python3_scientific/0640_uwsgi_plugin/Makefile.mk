@@ -2,7 +2,7 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=uwsgi-plugin-python3
-export VERSION=2.0.20
+export VERSION=`rpm -q uwsgi | cut -d"-" -f 2`
 DESCRIPTION=\
 Python 3.10 plugin for UWSGI
 WEBSITE=https://github.com/unbit/uwsgi
@@ -13,7 +13,8 @@ LICENSE=GPL2+
 #instead of the plugin for OS's python3 provided by the rpm uwsgi-plugin-python3
 all:: $(PREFIX)/lib/uwsgi/python3_plugin.so
 $(PREFIX)/lib/uwsgi/python3_plugin.so:
-	/usr/sbin/uwsgi --build-plugin "/usr/src/uwsgi/2.0.20/plugins/python/ python3"
+	mkdir -p /usr/src/uwsgi/$(VERSION)/plugins/python/
+	/usr/sbin/uwsgi --build-plugin "/usr/src/uwsgi/$(VERSION)/plugins/python/ python3"
 	mkdir -p $(PREFIX)/lib/uwsgi
 	mv python3_plugin.so $(PREFIX)/lib/uwsgi
 	rm -rf .uwsgi_plugins_builder
