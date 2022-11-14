@@ -12,8 +12,8 @@ WEBSITE=https://www.ncl.ucar.edu/
 LICENSE=Apache 2.0
 
 RPM_OPT_FLAGS=$(shell outside rpm -E %optflags)
-FCOPTIONS=$(RPM_OPT_FLAGS) -fPIC -fno-second-underscore -fno-range-check -fopenmp
-CCOPTIONS=$(RPM_OPT_FLAGS) -std=c99 -fPIC -fno-strict-aliasing -fopenmp -fcommon
+FCOPTIONS=$(RPM_OPT_FLAGS) -fPIC -fno-second-underscore -fno-range-check -fopenmp -DH5_USE_110_API
+CCOPTIONS=$(RPM_OPT_FLAGS) -std=c99 -fPIC -fno-strict-aliasing -fopenmp -fcommon -DH5_USE_110_API
 
 all::$(PREFIX)/bin/ncl
 $(PREFIX)/bin/ncl:
