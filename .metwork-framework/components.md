@@ -85,9 +85,9 @@
 | [munch](http://github.com/Infinidat/munch) | 2.3.2 | python3_scientific |
 | [mypy-extensions](https://github.com/python/mypy_extensions) | 0.4.3 | python3_scientific |
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
-| [nco](http://nco.sourceforge.net) | 4.8.1 | scientific |
+| [nco](http://nco.sourceforge.net) | 5.1.1 | scientific |
 | [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.7 | scientific |
-| [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.5.2 | scientific |
+| [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.0 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.5.8 | python3_scientific |
 | [networkx](https://networkx.org/) | 2.6.3 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.10.2.4 | python3_scientific |
@@ -107,8 +107,8 @@
 | [Pint](https://github.com/hgrecco/pint) | 0.16.1 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
-| [pngquant](https://github.com/Brightcells/pngquant) | 1.0.6 | python3_scientific |
-| [pngquant](http://www.pngquant.org/) | 2.12.5 | scientific |
+| [pngquant](https://github.com/Brightcells/pngquant) | 1.0.7 | python3_scientific |
+| [pngquant](http://www.pngquant.org/) | 2.17.0 | scientific |
 | [pooch](https://github.com/fatiando/pooch) | 0.5.2 | python3_scientific |
 | [pox](https://pypi.org/project/pox) | 0.2.9 | python3_scientific |
 | [ppft](https://pypi.org/project/ppft) | 1.6.6.3 | python3_scientific |
