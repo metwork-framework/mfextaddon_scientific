@@ -38,7 +38,7 @@ import eccodes
 import ecmwfapi
 import ecmwflibs
 import entrypoints
-import ESMF
+import esmpy #ESMF
 import extension_helpers
 import fasteners
 import ffmpy
