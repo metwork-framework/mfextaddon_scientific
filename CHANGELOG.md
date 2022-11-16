@@ -35,5 +35,6 @@
 ### Bug Fixes
 
 - fix bad behavior of eccodes-python in the presence of ecmwflibs (#356)
+- fix to build ncl with hdf5 1.12 (#423)
 
 
