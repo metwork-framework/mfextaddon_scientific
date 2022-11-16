@@ -75,7 +75,7 @@ patsy==0.5.2
 pdbufr==0.8.2
 Pillow==9.0.1
 Pint==0.16.1
-pngquant==1.0.6
+pngquant==1.0.7
 pooch==0.5.2
 pox==0.2.9
 ppft==1.6.6.3
