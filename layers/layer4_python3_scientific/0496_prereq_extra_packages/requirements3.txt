@@ -1,2 +1,2 @@
 Cython==0.29.32
-scikit-build==0.12.0
+scikit-build==0.16.2

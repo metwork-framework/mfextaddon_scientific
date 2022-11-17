@@ -140,7 +140,7 @@
 | [reportlab](http://www.reportlab.com/) | 3.6.3 | python3_scientific |
 | [salem](http://salem.readthedocs.io) | 0.3.6 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.20.0 | python3_scientific |
-| [scikit-build](https://github.com/scikit-build/scikit-build) | 0.12.0 | python3_scientific |
+| [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.19.0 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 0.22.2.post1 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.9.2 | python3_scientific |
