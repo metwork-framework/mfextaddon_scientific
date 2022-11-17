@@ -41,7 +41,7 @@
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.9.0 | scientific |
-| [FFmpeg](https://ffmpeg.org/) | 5.1.2 | scientific |
+| [FFmpeg](https://ffmpeg.org/) | 5.0.2 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.21 | python3_scientific |
