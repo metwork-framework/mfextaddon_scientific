@@ -31,6 +31,7 @@
 - upgrade eccodes to 2.27.0, Magics to 4.12.1 and Metview to 1.13.0 (#411)
 - add python3 plugin for uwsgi (#412)
 - upgrade Flask and itsdangerous for compatibility with Jinja3 (#419)
+- upgrade pngquant, nco and netcdf_fortran (#424)
 
 ### Bug Fixes
 
