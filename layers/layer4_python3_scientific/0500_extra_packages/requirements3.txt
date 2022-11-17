@@ -64,7 +64,7 @@ mypy-extensions==0.4.3
 netCDF4==1.5.8
 numba==0.56.3
 numcodecs==0.6.3
-opencv-contrib-python-headless==4.4.0.46
+opencv-contrib-python-headless==4.6.0.66
 openturns==1.18
 -e git+https://gitlab.com/cerfacs/batman.git@1.9.2-develop-mf#egg=ot-batman
 palettable==3.2.0
