@@ -6,7 +6,7 @@ diff -up esmf-8.4.0/src/addon/esmpy/pyproject.toml.orig esmf-8.4.0/src/addon/esm
 -requires = [ "setuptools>=41", "wheel", "setuptools-git-versioning"]
 +requires = [ "setuptools>=41", "wheel"]
  build-backend = "setuptools.build_meta"
-
+ 
  [project]
 @@ -11,7 +11,6 @@ requires-python = ">=3.7"
  license = {text = "University of Illinois-NCSA"}
@@ -34,7 +34,7 @@ diff -up esmf-8.4.0/src/addon/esmpy/pyproject.toml.orig esmf-8.4.0/src/addon/esm
 -[tool.dynamic]
 -version = "placeholder" # this is a placeholder for the version pulled with git-versioning
 +version="8.4.0"
-
+ 
  [tool.setuptools.packages.find]
  where = ["src"]
  exclude = ["doc*"]
