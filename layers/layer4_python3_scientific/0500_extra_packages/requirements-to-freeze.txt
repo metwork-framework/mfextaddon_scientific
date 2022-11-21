@@ -75,8 +75,7 @@ cf-units
 scitools-iris
 #pyepsg is an optional dependency of Cartopy 0.18.0 (not used anymore with Cartopy 0.20.0)
 pyepsg
-#statsmodels 0.13.2 requires packaging >= 21.3
-statsmodels==0.13.1
+statsmodels
 #bokeh >= 3.0.0 requires setuptools.command.editable_wheel (setuptools >= 64)
 bokeh<3.0.0
 astropy
