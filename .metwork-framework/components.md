@@ -10,8 +10,8 @@
 | [boltons](https://github.com/mahmoud/boltons) | 21.0.0 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.3.4 | python3_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.21.0 | python3_scientific |
-| [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.3 | python3_scientific |
-| [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 1.9.8 | scientific |
+| [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.7 | python3_scientific |
+| [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.1.0 | scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python3_scientific |
 | [cf-units](https://github.com/SciTools/cf-units) | 3.1.1 | python3_scientific |
 | [cf-xarray](https://cf-xarray.readthedocs.io) | 0.7.4 | python3_scientific |
@@ -36,12 +36,12 @@
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
 | [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.4.17 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.3.0 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.3.0 | scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.4.0 | python3_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.4.0 | scientific |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.15 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.9.0 | scientific |
-| [FFmpeg](https://ffmpeg.org/) | n4.4 | scientific |
+| [FFmpeg](https://ffmpeg.org/) | 5.0.2 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.21 | python3_scientific |
@@ -60,7 +60,7 @@
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [icclim](https://github.com/cerfacs-globc/icclim) | 5.2.2 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.13.1 | python3_scientific |
-| [ImageMagick6](http://www.imagemagick.org) | 6.9.10-95 | scientific |
+| [ImageMagick6](http://www.imagemagick.org) | 6.9.12-64 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.0 | python3_scientific |
@@ -78,7 +78,7 @@
 | [meson](https://mesonbuild.com) | 0.63.3 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 0.12.2 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.13.0 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.17.0 | scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.17.3 | scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.5 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.0 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.13 | python3_scientific |
@@ -94,7 +94,7 @@
 | [numba](https://numba.pydata.org) | 0.56.3 | python3_scientific |
 | [numcodecs](https://github.com/alimanfoo/numcodecs) | 0.6.3 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.23.4 | python3_scientific |
-| [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.4.0.46 | python3_scientific |
+| [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.6.0.66 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.18 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.2.0 | python3_scientific |
@@ -140,7 +140,7 @@
 | [reportlab](http://www.reportlab.com/) | 3.6.3 | python3_scientific |
 | [salem](http://salem.readthedocs.io) | 0.3.6 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.20.0 | python3_scientific |
-| [scikit-build](https://github.com/scikit-build/scikit-build) | 0.12.0 | python3_scientific |
+| [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.19.0 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 0.22.2.post1 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.9.2 | python3_scientific |
