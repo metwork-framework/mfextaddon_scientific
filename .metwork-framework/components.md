@@ -27,10 +27,10 @@
 | [cppy](https://pypi.org/project/cppy) | 1.2.1 | python3_scientific |
 | [cycler](https://github.com/matplotlib/cycler) | 0.11.0 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.32 | python3_scientific |
-| [dask](https://github.com/dask/dask/) | 2022.10.2 | python3_scientific |
+| [dask](https://github.com/dask/dask/) | 2022.11.1 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.3 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
-| [distributed](https://distributed.dask.org) | 2022.10.2 | python3_scientific |
+| [distributed](https://distributed.dask.org) | 2022.11.1 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io/) | 0.19 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.7.0 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.7.0 | scientific |
@@ -127,7 +127,7 @@
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.3.3 | python3_scientific |
 | [pyepsg](https://github.com/rhattersley/pyepsg) | 0.4.0 | python3_scientific |
 | [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.0.1 | python3_scientific |
-| [pygmt](https://github.com/GenericMappingTools/pygmt) | 0.5.0 | python3_scientific |
+| [pygmt](https://github.com/GenericMappingTools/pygmt) | 0.7.0 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io) | 1.10 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.10.5 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.6 | python3_scientific |

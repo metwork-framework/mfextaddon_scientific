@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=gmt
-export VERSION=6.2.0
+export VERSION=6.4.0
 export EXTENSION=tar.xz
 export CHECKTYPE=MD5
-export CHECKSUM=8745d2bf7324323c641100fcd40cb018
+export CHECKSUM=7710e9a0d2b76c482394590baec61135
 DESCRIPTION=\
 GMT is an open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing high-quality illustrations ranging from simple x–y plots via contour maps to artificially illuminated surfaces, 3D perspective views and animations.
 WEBSITE=https://www.generic-mapping-tools.org
