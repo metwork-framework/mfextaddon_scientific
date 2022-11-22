@@ -32,6 +32,7 @@
 - add python3 plugin for uwsgi (#412)
 - upgrade Flask and itsdangerous for compatibility with Jinja3 (#419)
 - upgrade pngquant, nco and netcdf_fortran (#424)
+- upgrade cdo, ESMF, FFmpeg, Metview, ImageMagick (#431)
 
 ### Bug Fixes
 
