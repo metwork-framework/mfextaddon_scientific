@@ -59,8 +59,7 @@ ffmpy
 -e git+https://gitlab.com/cerfacs/batman.git#egg=ot-batman
 numba
 pyhdf
-#pygmt>=0.6.0 requires GMT>=6.3
-pygmt<0.6.0
+pygmt
 pysteps
 distributed
 #tornado, distributed requirement, is also provided by layer python3_devtools
