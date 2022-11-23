@@ -59,7 +59,7 @@
 | [GDAL](http://www.gdal.org) | 3.5.3 | python3_scientific |
 | [geopandas](http://geopandas.org) | 0.12.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
-| [gmt](https://www.generic-mapping-tools.org) | 6.2.0 | scientific |
+| [gmt](https://www.generic-mapping-tools.org) | 6.4.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 2.0.1 | python3_scientific |
 | [h5py](http://www.h5py.org) | 3.7.0 | python3_scientific |
