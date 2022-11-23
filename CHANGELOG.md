@@ -33,6 +33,8 @@
 - upgrade Flask and itsdangerous for compatibility with Jinja3 (#419)
 - upgrade pngquant, nco and netcdf_fortran (#424)
 - upgrade cdo, ESMF, FFmpeg, Metview, ImageMagick (#431)
+- upgrade many python packages in layer python3_scientific (#433)
+- upgrade GMT to 6.4.0 and pygmt to 0.7.0 (#435)
 
 ### Bug Fixes
 
