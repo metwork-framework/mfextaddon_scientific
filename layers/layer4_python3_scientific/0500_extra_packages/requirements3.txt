@@ -85,7 +85,7 @@ pngquant==1.0.7
 pooch==1.6.0
 pox==0.3.2
 ppft==1.7.6.6
-protobuf==3.19.5
+protobuf==3.19.6
 pycoast==1.6.1
 pycurl==7.45.1
 pydecorate==0.3.3
