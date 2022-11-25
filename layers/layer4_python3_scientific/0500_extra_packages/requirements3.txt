@@ -22,7 +22,7 @@ configobj==5.0.6
 contourpy==1.0.6
 cycler==0.11.0
 dask==2022.11.1
-dateparser==1.1.3
+dateparser==1.1.4
 descartes==1.1.0
 distributed==2022.11.1
 donfig==0.7.0

@@ -2,7 +2,7 @@ beniget==0.4.1
 gast==0.5.3
 meson==0.64.0
 ninja==1.11.1
-numpy==1.23.4
+numpy==1.23.5
 ply==3.11
 pybind11==2.10.1
 pyproject_metadata==0.6.1
