@@ -119,7 +119,7 @@
 | [pooch](https://github.com/fatiando/pooch) | 1.6.0 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.2 | python3_scientific |
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.6.6 | python3_scientific |
-| [protobuf](https://developers.google.com/protocol-buffers/) | 3.19.5 | python3_scientific |
+| [protobuf](https://developers.google.com/protocol-buffers/) | 3.19.6 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers) | 3.12.2 | scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.10.1 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.6.1 | python3_scientific |
