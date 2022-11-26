@@ -35,6 +35,8 @@
 - upgrade cdo, ESMF, FFmpeg, Metview, ImageMagick (#431)
 - upgrade many python packages in layer python3_scientific (#433)
 - upgrade GMT to 6.4.0 and pygmt to 0.7.0 (#435)
+- upgrade numpy to 1.23.5 and dateparser to 1.1.4 (#440)
+- downgrade gast to 0.4.0 for compatibility with tensorflow 2.9.3 (#441)
 
 ### Bug Fixes
 
