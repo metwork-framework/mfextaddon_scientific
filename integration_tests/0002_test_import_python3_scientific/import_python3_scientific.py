@@ -6,6 +6,8 @@ import astropy
 import batman
 import batman.pod
 import batman.surrogate
+import bs4 #beautifulsoup4
+import bs4.builder #beautifulsoup4
 import beniget
 import bokeh
 import boltons
@@ -119,6 +121,7 @@ import pyhdf
 import pykdtree
 import pyodc
 import pyorbital
+import pyoscar
 import pyproj
 import pyproject_metadata
 import pyresample
@@ -145,6 +148,7 @@ import setuptools_scm_git_archive
 import shapely
 import snuggs
 import sortedcontainers
+import soupsieve
 import sqlalchemy
 import statsmodels
 import tblib

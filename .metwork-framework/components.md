@@ -5,6 +5,7 @@
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.7.2 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [astropy](http://astropy.org) | 5.1.1 | python3_scientific |
+| [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) | 4.11.1 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.3.0 | python3_scientific |
 | [bokeh](https://github.com/bokeh/bokeh) | 2.4.3 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 21.0.0 | python3_scientific |
@@ -133,6 +134,7 @@
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.6 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.1.4 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.7.3 | python3_scientific |
+| [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.4.0 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.4.0 | python3_scientific |
 | [pyproject-metadata](https://pypi.org/project/pyproject-metadata) | 0.6.1 | python3_scientific |
 | [pyresample](https://github.com/pytroll/pyresample) | 1.25.1 | python3_scientific |
@@ -159,6 +161,7 @@
 | [Shapely](https://github.com/shapely/shapely) | 1.8.5.post1 | python3_scientific |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
+| [soupsieve](https://pypi.org/project/soupsieve) | 2.3.2.post1 | python3_scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 1.4.44 | python3_scientific |
 | [statsmodels](https://www.statsmodels.org/) | 0.13.5 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 1.7.0 | python3_scientific |
@@ -180,4 +183,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
 
-*(179 components)*
+*(182 components)*
