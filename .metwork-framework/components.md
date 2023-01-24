@@ -26,6 +26,7 @@
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.0.6 | python3_scientific |
 | [cppy](https://pypi.org/project/cppy) | 1.2.1 | python3_scientific |
+| [cramjam](https://pypi.org/project/cramjam) | 2.6.2 | python3_scientific |
 | [cycler](https://github.com/matplotlib/cycler) | 0.11.0 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.32 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2022.11.1 | python3_scientific |
@@ -46,6 +47,7 @@
 | [esmf](http://www.earthsystemmodeling.org) | 8.4.0 | scientific |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.18 | python3_scientific |
+| [fastparquet](https://github.com/dask/fastparquet/) | 2023.1.0 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.9.0 | scientific |
 | [FFmpeg](https://ffmpeg.org/) | 5.0.2 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
@@ -81,6 +83,7 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.12.1 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.4.3 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.6.2 | python3_scientific |
+| [maturin](https://github.com/pyo3/maturin) | 0.14.10 | python3_scientific |
 | [meson-python](https://github.com/FFY00/mesonpy) | 0.10.0 | python3_scientific |
 | [meson](https://mesonbuild.com) | 0.64.0 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.3.1 | python3_scientific |
@@ -117,11 +120,13 @@
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.7 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 2.17.0 | scientific |
+| [polars](https://pypi.org/project/polars) | 0.15.16 | python3_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 1.6.0 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.2 | python3_scientific |
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.6.6 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.19.6 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers) | 3.12.2 | scientific |
+| [pyarrow](https://arrow.apache.org/) | 10.0.1 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.10.1 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.6.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.1 | python3_scientific |
@@ -183,4 +188,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
 
-*(182 components)*
+*(187 components)*

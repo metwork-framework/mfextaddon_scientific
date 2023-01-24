@@ -1,4 +1,6 @@
 ecmwflibs
 openturns
 llvmlite
+polars
+pyarrow
 scitools-iris
