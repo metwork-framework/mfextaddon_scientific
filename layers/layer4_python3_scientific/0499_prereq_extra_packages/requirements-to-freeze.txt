@@ -6,3 +6,4 @@ scitools-pyke
 extension-helpers
 cppy
 versioneer
+maturin

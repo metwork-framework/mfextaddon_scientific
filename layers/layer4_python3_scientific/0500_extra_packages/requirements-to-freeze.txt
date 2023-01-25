@@ -88,3 +88,6 @@ xclim<=0.37.0
 #xclim 0.37.0 does'nt work with Pint>=0.20, it will be probably ok with xclim>0.37.0 but... see above
 Pint<0.20
 pyoscar
+fastparquet
+polars
+pyarrow

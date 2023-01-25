@@ -27,6 +27,7 @@ import cloudpickle
 import configobj
 import contourpy
 import cppy
+import cramjam
 import cycler
 import Cython
 import dask
@@ -46,6 +47,7 @@ import entrypoints
 import esmpy #ESMF
 import extension_helpers
 import fasteners
+import fastparquet
 import ffmpy
 import findlibs
 import fiona
@@ -75,6 +77,7 @@ import lxml
 import Magics
 import mapclassify
 import matplotlib
+import maturin
 import mesonbuild
 import mesonpy
 import metpy
@@ -105,10 +108,12 @@ import pint
 import pkgconfig
 import ply
 import pngquant
+import polars
 import pooch
 import pox
 import ppft
 import google #protobuf
+import pyarrow
 import pybind11
 import pycoast
 import pycurl
