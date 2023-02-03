@@ -77,5 +77,4 @@ chown 1018:1018 ${hash_file}
 chmod 664 ${hash_file}
 echo "::set-output name=buildcache::${hash_file}"
  
-
-echo "::set-output name=bypass::false"
+echo "bypass=false" >> github_output
