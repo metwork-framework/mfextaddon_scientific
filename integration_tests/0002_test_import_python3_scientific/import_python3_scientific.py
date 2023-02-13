@@ -89,6 +89,8 @@ import multiprocess
 import multiurl
 import munch
 import mypy_extensions
+from nco import Nco
+nco = Nco()
 import netCDF4
 import networkx
 import ninja

@@ -91,3 +91,4 @@ pyoscar
 fastparquet
 polars
 pyarrow
+nco
