@@ -98,7 +98,7 @@
 | [mypy-extensions](https://github.com/python/mypy_extensions) | 0.4.3 | python3_scientific |
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
 | [nco](https://github.com/nco/pynco) | 1.0.0 | python3_scientific |
-| [nco](http://nco.sourceforge.net) | 5.1.4 | scientific |
+| [nco](http://nco.sourceforge.net) | 5.1.1 | scientific |
 | [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.7 | scientific |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.0 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.6.2 | python3_scientific |
@@ -172,6 +172,7 @@
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
 | [soupsieve](https://pypi.org/project/soupsieve) | 2.3.2.post1 | python3_scientific |
+| [spatialindex](https://libspatialindex.org) | 1.9.3 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 1.4.44 | python3_scientific |
 | [statsmodels](https://www.statsmodels.org/) | 0.13.5 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 1.7.0 | python3_scientific |
@@ -194,4 +195,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
 
-*(193 components)*
+*(194 components)*
