@@ -129,7 +129,7 @@ import pygraphviz
 import pyhdf
 import pykdtree
 import pyodc
-import pyogri
+import pyogrio
 import pyorbital
 import pyoscar
 import pyproj
