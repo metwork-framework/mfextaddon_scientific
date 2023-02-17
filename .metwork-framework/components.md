@@ -55,6 +55,7 @@
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.22 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask) | 2.2.2 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.8.0 | python3_scientific |
+| [folium](https://github.com/python-visualization/folium) | 0.13.0 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.38.0 | python3_scientific |
 | [fsspec](http://github.com/fsspec/filesystem_spec) | 2022.11.0 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
@@ -118,6 +119,7 @@
 | [Pillow](https://python-pillow.org) | 9.3.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.19.2 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
+| [plotly](https://plotly.com/python/) | 5.13.0 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.7 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 2.17.0 | scientific |
@@ -139,6 +141,7 @@
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.10.5 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.6 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.1.4 | python3_scientific |
+| [pyogrio](https://github.com/pyogrio/pyogrio) | 0.5.1 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.7.3 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.4.0 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.4.0 | python3_scientific |
@@ -154,6 +157,7 @@
 | [rechunker](https://github.com/pangeo-data/rechunker) | 0.5.0 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.9.0 | python3_scientific |
 | [reportlab](http://www.reportlab.com/) | 3.6.12 | python3_scientific |
+| [Rtree](https://github.com/Toblerity/rtree) | 1.0.1 | python3_scientific |
 | [salem](http://salem.readthedocs.io) | 0.3.8 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.38.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
@@ -168,9 +172,11 @@
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
 | [soupsieve](https://pypi.org/project/soupsieve) | 2.3.2.post1 | python3_scientific |
+| [spatialindex](https://libspatialindex.org) | 1.9.3 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 1.4.44 | python3_scientific |
 | [statsmodels](https://www.statsmodels.org/) | 0.13.5 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 1.7.0 | python3_scientific |
+| [tenacity](https://github.com/jd/tenacity) | 8.2.1 | python3_scientific |
 | [threadpoolctl](https://github.com/joblib/threadpoolctl) | 3.1.0 | python3_scientific |
 | [tifffile](https://www.cgohlke.com) | 2022.10.10 | python3_scientific |
 | [tomli_w](https://pypi.org/project/tomli_w) | 1.0.0 | python3_scientific |
@@ -189,4 +195,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
 
-*(188 components)*
+*(194 components)*

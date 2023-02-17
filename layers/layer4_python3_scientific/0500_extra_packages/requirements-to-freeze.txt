@@ -92,3 +92,8 @@ fastparquet
 polars
 pyarrow
 nco
+plotly
+rtree
+pyogrio
+#folium 0.14.0 requires branca >= 0.6.0 but climetlab requires branca==0.3.1
+folium<=0.13.0

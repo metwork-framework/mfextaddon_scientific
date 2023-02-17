@@ -53,6 +53,7 @@ import findlibs
 import fiona
 import flask
 import flit
+import folium
 import fsspec
 import gast
 import osgeo #gdal
@@ -108,6 +109,7 @@ import pdbufr
 import PIL #Pillow
 import pint
 import pkgconfig
+import plotly
 import ply
 import pngquant
 import polars
@@ -127,6 +129,7 @@ import pygraphviz
 import pyhdf
 import pykdtree
 import pyodc
+import pyogri
 import pyorbital
 import pyoscar
 import pyproj
@@ -142,6 +145,7 @@ import rasterio
 import rechunker
 import regionmask
 import reportlab
+import rtree
 import salem
 import satpy
 import skbuild #scikit-build
@@ -159,6 +163,7 @@ import soupsieve
 import sqlalchemy
 import statsmodels
 import tblib
+import tenacity
 import threadpoolctl
 import tifffile
 import tomli_w
