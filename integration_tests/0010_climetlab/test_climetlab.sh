@@ -2,4 +2,6 @@
 
 python climetlab_test.py >  out.html
 
-wc -c out.html | grep 12052 
+nb=`wc -c < out.html`
+test $nb -gt 10000
+

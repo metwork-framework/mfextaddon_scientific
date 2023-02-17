@@ -10,7 +10,7 @@
 | [bokeh](https://github.com/bokeh/bokeh) | 2.4.3 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 21.0.0 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.3.5 | python3_scientific |
-| [branca](https://github.com/python-visualization/branca) | 0.3.1 | python3_scientific |
+| [branca](https://github.com/python-visualization/branca) | 0.6.0 | python3_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.21.0 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.7 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.1.0 | scientific |
@@ -21,7 +21,7 @@
 | [cftime](https://pypi.org/project/cftime) | 1.6.2 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
-| [climetlab](https://github.com/ecmwf/climetlab) | 0.10.9 | python3_scientific |
+| [climetlab](https://github.com/ecmwf/climetlab) | 0.13.5 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 2.2.0 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.0.6 | python3_scientific |
@@ -40,7 +40,7 @@
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.27.0 | scientific |
 | [eckit](https://github.com/ecmwf/ecbuild) | 1.20.2 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
-| [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.1.1 | python3_scientific |
+| [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.1.2 | python3_scientific |
 | [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.4.17 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.4.0 | python3_scientific |
@@ -55,7 +55,7 @@
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.22 | python3_scientific |
 | [Flask](https://palletsprojects.com/p/flask) | 2.2.2 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.8.0 | python3_scientific |
-| [folium](https://github.com/python-visualization/folium) | 0.13.0 | python3_scientific |
+| [folium](https://github.com/python-visualization/folium) | 0.14.0 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.38.0 | python3_scientific |
 | [fsspec](http://github.com/fsspec/filesystem_spec) | 2022.11.0 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
@@ -93,7 +93,7 @@
 | [monotonic](https://github.com/atdt/monotonic) | 1.6 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.4 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.14 | python3_scientific |
-| [multiurl](https://github.com/ecmwf/multiurl) | 0.1.1 | python3_scientific |
+| [multiurl](https://github.com/ecmwf/multiurl) | 0.2.0 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 2.5.0 | python3_scientific |
 | [mypy-extensions](https://github.com/python/mypy_extensions) | 0.4.3 | python3_scientific |
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
