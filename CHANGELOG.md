@@ -1,5 +1,11 @@
 # release_2.1 CHANGELOG
 
+## [Unreleased]
+
+### Bug Fixes
+
+- add an integration test and a link to fix climetlab usage (backport #452) (#453)
+
 ## v2.1.0 (2022-12-03)
 
 ### New Features
