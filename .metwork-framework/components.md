@@ -95,7 +95,6 @@
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.14 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.2.0 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 2.5.0 | python3_scientific |
-| [mypy-extensions](https://github.com/python/mypy_extensions) | 0.4.3 | python3_scientific |
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
 | [nco](https://github.com/nco/pynco) | 1.0.0 | python3_scientific |
 | [nco](http://nco.sourceforge.net) | 5.1.4 | scientific |
@@ -195,4 +194,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
 
-*(194 components)*
+*(193 components)*
