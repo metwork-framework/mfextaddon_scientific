@@ -26,4 +26,4 @@ export ESMFMKFILE=$(ESMF_INSTALL_LIBDIR)/esmf.mk
 all:: $(PYTHON3_SITE_PACKAGES)/esmpy-$(VERSION).dist-info
 $(PYTHON3_SITE_PACKAGES)/esmpy-$(VERSION).dist-info:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) download uncompress
-	cd build/$(NAME)-$(VERSION)/src/addon/esmpy && unsafe_pip install --prefix=$(PREFIX) --src=$(PYTHON3_SITE_PACKAGES) . && rm -f $(PYTHON3_SITE_PACKAGES)/esmpy-$(VERSION).dist-info/direct_url.json
+	cd build/$(NAME)-$(VERSION)/src/addon/esmpy && unsafe_pip install --no-build-isolation --prefix=$(PREFIX) --src=$(PYTHON3_SITE_PACKAGES) . && rm -f $(PYTHON3_SITE_PACKAGES)/esmpy-$(VERSION).dist-info/direct_url.json

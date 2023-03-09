@@ -70,7 +70,6 @@ msgpack==1.0.4
 multiprocess==0.70.14
 multiurl==0.2.0
 munch==2.5.0
-mypy-extensions==0.4.3
 nco==1.0.0
 netCDF4==1.6.2
 numba==0.56.4
