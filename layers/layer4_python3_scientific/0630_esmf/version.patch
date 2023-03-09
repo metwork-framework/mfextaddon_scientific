@@ -1,0 +1,18 @@
+diff -up esmf-8.4.1/src/addon/esmpy/pyproject.toml.orig esmf-8.4.1/src/addon/esmpy/pyproject.toml
+--- esmf-8.4.1/src/addon/esmpy/pyproject.toml.orig	2023-03-09 15:41:03.577598029 +0000
++++ esmf-8.4.1/src/addon/esmpy/pyproject.toml	2023-03-09 15:41:49.312461303 +0000
+@@ -21,10 +21,12 @@ dependencies = [
+     # subsequent pip install of esmpy.
+     'setuptools-git-versioning; python_version >= "3.10"',
+ ]
+-dynamic = ["version"]
++#dynamic = ["version"]
++version = "8.4.1"
+ 
+ [tool.setuptools-git-versioning]
+-enabled = true
++#enabled = true
++enabled = false
+ template = "{tag}"
+ dev_template = "{tag}"
+ dirty_template = "{tag}"
