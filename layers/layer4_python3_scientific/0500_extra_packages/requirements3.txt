@@ -30,7 +30,7 @@ distributed==2022.11.1
 donfig==0.7.0
 eccodes==1.5.0
 ecmwf-api-client==1.6.3
-ecmwflibs==0.4.17
+ecmwflibs==0.5.1
 ecmwf-opendata==0.1.2
 entrypoints==0.4
 fasteners==0.18
