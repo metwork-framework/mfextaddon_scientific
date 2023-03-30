@@ -40,7 +40,7 @@
 | [eckit](https://github.com/ecmwf/ecbuild) | 1.20.2 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.1.1 | python3_scientific |
-| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.4.17 | python3_scientific |
+| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.1 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.4.0 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.4.0 | scientific |
