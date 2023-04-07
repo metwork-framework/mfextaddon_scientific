@@ -83,10 +83,8 @@ icclim
 protobuf<3.20.0
 #cf-units require antlr4-python3-runtime==4.7.2
 antlr4-python3-runtime==4.7.2
-#xclim>=0.38.0 requires scipy<1.9
-xclim<=0.37.0
-#xclim 0.37.0 does'nt work with Pint>=0.20, it will be probably ok with xclim>0.37.0 but... see above
-Pint<0.20
+xclim
+Pint
 pyoscar
 fastparquet
 polars

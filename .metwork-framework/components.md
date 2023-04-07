@@ -78,6 +78,7 @@
 | [jsonschema](https://pypi.org/project/jsonschema) | 4.17.0 | python3_scientific |
 | [kiwisolver](https://pypi.org/project/kiwisolver) | 1.4.4 | python3_scientific |
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.39.1 | python3_scientific |
+| [lmoments3](https://pypi.org/project/lmoments3) | 1.0.5 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
@@ -116,7 +117,7 @@
 | [patsy](https://github.com/pydata/patsy) | 0.5.3 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.9.0 | python3_scientific |
 | [Pillow](https://python-pillow.org) | 9.3.0 | python3_scientific |
-| [Pint](https://github.com/hgrecco/pint) | 0.19.2 | python3_scientific |
+| [Pint](https://github.com/hgrecco/pint) | 0.20.1 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 5.13.0 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
@@ -189,9 +190,9 @@
 | [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.21 | python3_scientific |
 | [versioneer](https://pypi.org/project/versioneer) | 0.28 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 2022.11.0 | python3_scientific |
-| [xclim](https://github.com/Ouranosinc/xclim) | 0.37.0 | python3_scientific |
+| [xclim](https://pypi.org/project/xclim) | 0.42.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.1.0 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
 
-*(193 components)*
+*(194 components)*

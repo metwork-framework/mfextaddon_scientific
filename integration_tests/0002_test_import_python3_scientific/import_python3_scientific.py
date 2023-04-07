@@ -73,6 +73,7 @@ import jsonpickle
 import jsonschema
 import kiwisolver
 import llvmlite
+import lmoments3
 import locket
 import lxml
 import Magics
