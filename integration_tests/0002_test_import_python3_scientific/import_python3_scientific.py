@@ -73,6 +73,7 @@ import jsonpickle
 import jsonschema
 import kiwisolver
 import llvmlite
+import lmoments3
 import locket
 import lxml
 import Magics
@@ -89,7 +90,6 @@ import msgpack
 import multiprocess
 import multiurl
 import munch
-import mypy_extensions
 from nco import Nco
 nco = Nco()
 import netCDF4

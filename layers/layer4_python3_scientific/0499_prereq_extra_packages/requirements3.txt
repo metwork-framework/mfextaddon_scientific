@@ -3,7 +3,6 @@ docutils==0.19
 extension-helpers==1.0.0
 flit==3.8.0
 maturin==0.14.10
-networkx==2.8.8
 pkgconfig==1.5.5
 scipy==1.9.3
 scitools-pyke==1.1.1
