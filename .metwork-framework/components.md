@@ -106,7 +106,7 @@
 | [ninja](http://ninja-build.org/) | 1.11.1 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.57.0rc1 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.10.2 | python3_scientific |
-| [numpy](https://www.numpy.org) | 1.23.5 | python3_scientific |
+| [numpy](https://www.numpy.org) | 1.24.2 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.6.0.66 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.20.post3 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |

@@ -4,9 +4,7 @@ beniget<0.4.0
 gast<=0.4.0
 meson-python
 ninja
-#restore numpy build here when numba 0.57 will be available
-#(we will be able to use numpy>=1.24 without problem with option --no-build-isolation)
-#numpy
+numpy
 pybind11
 pyproject_metadata
 #pythran >=0.9.12 requires gast~=0.5.0
