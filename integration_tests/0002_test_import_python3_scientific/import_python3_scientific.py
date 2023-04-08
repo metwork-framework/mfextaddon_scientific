@@ -64,7 +64,7 @@ import graphviz
 import greenlet
 import h5py
 import heapdict
-import icclim
+#import icclim until icclim > 6.2.0 is available (for compatibility with xclim 0.42.0)
 import imageio
 import ipython_genutils
 import itsdangerous
