@@ -74,7 +74,7 @@ munch==2.5.0
 nco==1.0.0
 netCDF4==1.6.2
 numba==0.57.0rc1
-numcodecs==0.10.2
+numcodecs==0.11.0
 opencv-contrib-python-headless==4.6.0.66
 openturns==1.20.post3
 -e git+https://gitlab.com/cerfacs/batman.git@1.9.2-develop-mf#egg=ot-batman

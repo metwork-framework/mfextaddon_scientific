@@ -7,3 +7,4 @@ extension-helpers
 cppy
 versioneer
 maturin
+py-cpuinfo
