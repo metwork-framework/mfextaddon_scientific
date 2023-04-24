@@ -80,8 +80,7 @@ bokeh<3.0.0
 astropy
 #icclim 6.2.0 is not compatible with xclim==0.42.0 (requires xclim==0.40.0)
 icclim<6.2.0
-#protobuf>= 3.20 is not compatible with tensorflow <= 2.11.0
-protobuf<3.20.0
+protobuf
 #cf-units require antlr4-python3-runtime==4.7.2
 antlr4-python3-runtime==4.7.2
 xclim

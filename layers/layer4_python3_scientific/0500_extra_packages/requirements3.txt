@@ -92,7 +92,7 @@ polars==0.15.16
 pooch==1.6.0
 pox==0.3.2
 ppft==1.7.6.6
-protobuf==3.19.6
+protobuf==3.20.3
 pyarrow==10.0.1
 pycoast==1.6.1
 pycurl==7.45.1
