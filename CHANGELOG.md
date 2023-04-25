@@ -14,6 +14,7 @@
 - upgrade numba to 0.57 and llvmlite to 0.40 (rc1) (#461)
 - upgrade numpy from 1.23.5 to 1.24.2 (#462)
 - upgrade icclim from 5.4.0 to 6.1.5 (waiting release > 6.2.0) (#464)
+- upgrade protobuf C library to 3.19.6 (same as python package) (#468)
 
 ### Bug Fixes
 
