@@ -38,7 +38,7 @@ fastparquet==2023.1.0
 ffmpy==0.3.0
 findlibs==0.0.2
 Fiona==1.8.22
-Flask==2.2.2
+Flask==2.3.2
 folium==0.14.0
 fonttools==4.38.0
 fsspec==2022.11.0
