@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package_python3.mk
 
 export NAME=esmf
-export VERSION=8.4.1
+export VERSION=8.4.2
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=5b9ea69c3be25ca14173ef9e16d06f2b
+export CHECKSUM=91482b428aac9e99aa4fbbae2369c4cd
 DESCRIPTION=\
 Earth System Modeling Framework (ESMF) Python Interface (ESMPy)
 WEBSITE=http://www.earthsystemmodeling.org
@@ -21,7 +21,7 @@ export ESMF_INSTALL_DOCDIR=$(ESMF_INSTALL_PREFIX)/doc
 export ESMF_NETCDF=nc-config
 export ESMFMKFILE=$(ESMF_INSTALL_LIBDIR)/esmf.mk
 
-# Change version in not_git.patch if VERSION is changing
+# Change version in version.patch if VERSION is changing
 
 all:: $(PYTHON3_SITE_PACKAGES)/esmpy-$(VERSION).dist-info
 $(PYTHON3_SITE_PACKAGES)/esmpy-$(VERSION).dist-info:

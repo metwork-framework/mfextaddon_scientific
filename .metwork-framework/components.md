@@ -43,8 +43,8 @@
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.1.2 | python3_scientific |
 | [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.1 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.4.1 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.4.1 | scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.4.2 | python3_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.4.2 | scientific |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.18 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2023.1.0 | python3_scientific |
