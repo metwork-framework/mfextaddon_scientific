@@ -68,7 +68,7 @@
 | [greenlet](https://greenlet.readthedocs.io/) | 2.0.1 | python3_scientific |
 | [h5py](http://www.h5py.org) | 3.7.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
-| [icclim](https://github.com/cerfacs-globc/icclim) | 6.1.5 | python3_scientific |
+| [icclim](https://github.com/cerfacs-globc/icclim) | 6.3.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.22.4 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.12-64 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
