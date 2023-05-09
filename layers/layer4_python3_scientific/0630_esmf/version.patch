@@ -7,7 +7,7 @@ diff -up esmf-8.4.1/src/addon/esmpy/pyproject.toml.orig esmf-8.4.1/src/addon/esm
  ]
 -dynamic = ["version"]
 +#dynamic = ["version"]
-+version = "8.4.1"
++version = "8.4.2"
  
  [tool.setuptools-git-versioning]
 -enabled = true
