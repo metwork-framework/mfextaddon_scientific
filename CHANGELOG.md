@@ -16,6 +16,7 @@
 - upgrade icclim from 5.4.0 to 6.1.5 (waiting release > 6.2.0) (#464)
 - upgrade protobuf C library to 3.19.6 (same as python package) (#468)
 - upgrade icclim from 6.1.5 to 6.3.0 (#469)
+- upgrade esmf from 8.4.1 to 8.4.2 (#471)
 
 ### Bug Fixes
 
