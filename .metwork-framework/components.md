@@ -41,7 +41,7 @@
 | [eckit](https://github.com/ecmwf/ecbuild) | 1.20.2 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.1.2 | python3_scientific |
-| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.1 | python3_scientific |
+| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.3 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.4.2 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.4.2 | scientific |
@@ -53,7 +53,7 @@
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.22 | python3_scientific |
-| [Flask](https://palletsprojects.com/p/flask) | 2.2.2 | python3_scientific |
+| [Flask](https://pypi.org/project/Flask) | 2.3.2 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.8.0 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.14.0 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.38.0 | python3_scientific |
