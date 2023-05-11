@@ -17,6 +17,7 @@
 - upgrade protobuf C library to 3.19.6 (same as python package) (#468)
 - upgrade icclim from 6.1.5 to 6.3.0 (#469)
 - upgrade esmf from 8.4.1 to 8.4.2 (#471)
+- upgrade Flask to 2.3.2 (security update) and ecmwflibs to 0.5.3 (#472)
 
 ### Bug Fixes
 
