@@ -21,7 +21,7 @@
 | [cftime](https://pypi.org/project/cftime) | 1.6.2 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
-| [climetlab](https://github.com/ecmwf/climetlab) | 0.13.5 | python3_scientific |
+| [climetlab](https://github.com/ecmwf/climetlab) | 0.14.25 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 2.2.0 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.0.6 | python3_scientific |
@@ -106,6 +106,7 @@
 | [ninja](http://ninja-build.org/) | 1.11.1 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.57.0 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.10.2 | python3_scientific |
+| [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.2 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.24.2 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.6.0.66 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.20.post3 | python3_scientific |
@@ -195,4 +196,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
 
-*(194 components)*
+*(195 components)*

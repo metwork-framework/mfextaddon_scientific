@@ -17,7 +17,7 @@ cfgrib==0.9.10.2
 cftime==1.6.2
 click-plugins==1.1.1
 cligj==0.7.2
-climetlab==0.13.5
+climetlab==0.14.25
 cloudpickle==2.2.0
 configobj==5.0.6
 contourpy==1.0.6
@@ -75,6 +75,7 @@ nco==1.0.0
 netCDF4==1.6.2
 numba==0.57.0
 numcodecs==0.10.2
+numpngw==0.1.2
 opencv-contrib-python-headless==4.6.0.66
 openturns==1.20.post3
 -e git+https://gitlab.com/cerfacs/batman.git@1.9.2-develop-mf#egg=ot-batman
