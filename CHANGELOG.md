@@ -18,6 +18,7 @@
 - upgrade icclim from 6.1.5 to 6.3.0 (#469)
 - upgrade esmf from 8.4.1 to 8.4.2 (#471)
 - upgrade Flask to 2.3.2 (security update) and ecmwflibs to 0.5.3 (#472)
+- upgrade climetlab to 0.14.25 add add numpngw (#474)
 
 ### Bug Fixes
 
