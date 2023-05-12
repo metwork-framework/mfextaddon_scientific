@@ -13,6 +13,12 @@
 - upgrade xclim from 0.37.0 to 0.42.0 (#460)
 - upgrade numba to 0.57 and llvmlite to 0.40 (rc1) (#461)
 - upgrade numpy from 1.23.5 to 1.24.2 (#462)
+- upgrade icclim from 5.4.0 to 6.1.5 (waiting release > 6.2.0) (#464)
+- upgrade protobuf C library to 3.19.6 (same as python package) (#468)
+- upgrade icclim from 6.1.5 to 6.3.0 (#469)
+- upgrade esmf from 8.4.1 to 8.4.2 (#471)
+- upgrade Flask to 2.3.2 (security update) and ecmwflibs to 0.5.3 (#472)
+- upgrade climetlab to 0.14.25 add add numpngw (#474)
 
 ### Bug Fixes
 

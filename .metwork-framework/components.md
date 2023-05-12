@@ -21,7 +21,7 @@
 | [cftime](https://pypi.org/project/cftime) | 1.6.2 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
-| [climetlab](https://github.com/ecmwf/climetlab) | 0.13.5 | python3_scientific |
+| [climetlab](https://github.com/ecmwf/climetlab) | 0.14.25 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 2.2.0 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.0.6 | python3_scientific |
@@ -41,10 +41,10 @@
 | [eckit](https://github.com/ecmwf/ecbuild) | 1.20.2 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.1.2 | python3_scientific |
-| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.1 | python3_scientific |
+| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.3 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.4.1 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.4.1 | scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.4.2 | python3_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.4.2 | scientific |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.18 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2023.1.0 | python3_scientific |
@@ -53,7 +53,7 @@
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.22 | python3_scientific |
-| [Flask](https://palletsprojects.com/p/flask) | 2.2.2 | python3_scientific |
+| [Flask](https://pypi.org/project/Flask) | 2.3.2 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.8.0 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.14.0 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.38.0 | python3_scientific |
@@ -68,7 +68,7 @@
 | [greenlet](https://greenlet.readthedocs.io/) | 2.0.1 | python3_scientific |
 | [h5py](http://www.h5py.org) | 3.7.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
-| [icclim](https://github.com/cerfacs-globc/icclim) | 6.1.5 | python3_scientific |
+| [icclim](https://github.com/cerfacs-globc/icclim) | 6.3.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.22.4 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.12-64 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
@@ -77,7 +77,7 @@
 | [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 2.2.0 | python3_scientific |
 | [jsonschema](https://pypi.org/project/jsonschema) | 4.17.0 | python3_scientific |
 | [kiwisolver](https://pypi.org/project/kiwisolver) | 1.4.4 | python3_scientific |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.40.0rc1 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.40.0 | python3_scientific |
 | [lmoments3](https://pypi.org/project/lmoments3) | 1.0.5 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
@@ -104,8 +104,9 @@
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.6.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 2.8.8 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1 | python3_scientific |
-| [numba](https://numba.pydata.org) | 0.57.0rc1 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.57.0 | python3_scientific |
 | [numcodecs](https://pypi.org/project/numcodecs) | 0.11.0 | python3_scientific |
+| [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.2 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.24.2 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.6.0.66 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.20.post3 | python3_scientific |
