@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=protobuf
-export VERSION=3.19.6
+export VERSION=3.20.3
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=b7331eba550f936de2a94395dc002445
+export CHECKSUM=399dbdc29860c1258822c8b9f5873fc9
 DESCRIPTION=\
 Protocol buffers are Google's language-neutral, platform-neutral, extensible \
 mechanism for serializing structured data – think XML, but smaller, faster, \

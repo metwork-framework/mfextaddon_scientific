@@ -120,6 +120,7 @@ import google #protobuf
 import pyarrow
 import pybind11
 import pycoast
+import cpuinfo #py-cpuinfo
 import pycurl
 import pydecorate
 import pyepsg

@@ -105,7 +105,7 @@
 | [networkx](https://networkx.org/) | 2.8.8 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.57.0 | python3_scientific |
-| [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.10.2 | python3_scientific |
+| [numcodecs](https://pypi.org/project/numcodecs) | 0.11.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.2 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.24.2 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.6.0.66 | python3_scientific |
@@ -128,8 +128,9 @@
 | [pooch](https://github.com/fatiando/pooch) | 1.6.0 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.2 | python3_scientific |
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.6.6 | python3_scientific |
-| [protobuf](https://developers.google.com/protocol-buffers/) | 3.19.6 | python3_scientific |
-| [protobuf](https://developers.google.com/protocol-buffers) | 3.19.6 | scientific |
+| [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
+| [protobuf](https://developers.google.com/protocol-buffers) | 3.20.3 | scientific |
+| [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
 | [pyarrow](https://arrow.apache.org/) | 10.0.1 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.10.1 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.6.1 | python3_scientific |
