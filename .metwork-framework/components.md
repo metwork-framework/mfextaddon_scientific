@@ -68,7 +68,7 @@
 | [greenlet](https://greenlet.readthedocs.io/) | 2.0.1 | python3_scientific |
 | [h5py](http://www.h5py.org) | 3.7.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
-| [icclim](https://github.com/cerfacs-globc/icclim) | 6.3.0 | python3_scientific |
+| [icclim](https://github.com/cerfacs-globc/icclim) | 6.4.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.22.4 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.12-64 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
@@ -192,7 +192,7 @@
 | [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.21 | python3_scientific |
 | [versioneer](https://pypi.org/project/versioneer) | 0.28 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 2022.11.0 | python3_scientific |
-| [xclim](https://pypi.org/project/xclim) | 0.42.0 | python3_scientific |
+| [xclim](https://pypi.org/project/xclim) | 0.43.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.1.0 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
