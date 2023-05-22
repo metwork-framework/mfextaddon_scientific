@@ -78,7 +78,7 @@ statsmodels
 #bokeh >= 3.0.0 requires setuptools.command.editable_wheel (setuptools >= 64)
 bokeh<3.0.0
 astropy
-#note : icclim 6.3.0 requires exactly xclim==0.42.0
+#note : icclim 6.4.0 requires xclim>=0.43, <0.44
 icclim
 protobuf
 #cf-units require antlr4-python3-runtime==4.7.2
