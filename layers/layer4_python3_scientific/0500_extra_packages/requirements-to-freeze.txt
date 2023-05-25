@@ -93,3 +93,4 @@ plotly
 rtree
 pyogrio
 folium
+geographiclib
