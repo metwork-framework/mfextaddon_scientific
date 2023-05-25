@@ -70,7 +70,6 @@ reportlab
 climetlab
 pygraphviz
 cf-units
-#scitools-iris 3.3.1 doesn't build with setuptoools<64, so we allow binary
 scitools-iris
 #pyepsg is an optional dependency of Cartopy 0.18.0 (not used anymore with Cartopy 0.20.0)
 pyepsg

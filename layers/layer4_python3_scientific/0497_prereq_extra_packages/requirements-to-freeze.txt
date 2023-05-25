@@ -1,4 +1,4 @@
-#tensorflow 2.9.3 requires gast<=0.4.0
+#tensorflow 2.12.0 requires gast==0.4.0
 #beniget 0.4.0 requires gast~=0.4.0
 beniget<0.4.0
 gast<=0.4.0
