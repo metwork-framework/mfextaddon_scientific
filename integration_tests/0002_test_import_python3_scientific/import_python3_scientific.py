@@ -58,6 +58,7 @@ import fsspec
 import gast
 import osgeo #gdal
 import osgeo_utils #gdal
+import geographiclib
 import geopandas
 import geos
 import graphviz

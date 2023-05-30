@@ -20,6 +20,7 @@
 - upgrade Flask to 2.3.2 (security update) and ecmwflibs to 0.5.3 (#472)
 - upgrade climetlab to 0.14.25 add add numpngw (#474)
 - upgrade xclim to 0.43.0 and icclim to 6.4.0 (#477)
+- add python package geographiclib (#479)
 
 ### Bug Fixes
 
