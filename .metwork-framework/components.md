@@ -29,10 +29,10 @@
 | [cramjam](https://pypi.org/project/cramjam) | 2.6.2 | python3_scientific |
 | [cycler](https://github.com/matplotlib/cycler) | 0.11.0 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.32 | python3_scientific |
-| [dask](https://github.com/dask/dask/) | 2022.11.1 | python3_scientific |
+| [dask](https://pypi.org/project/dask) | 2023.5.1 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.4 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
-| [distributed](https://distributed.dask.org) | 2022.11.1 | python3_scientific |
+| [distributed](https://pypi.org/project/distributed) | 2023.5.1 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io/) | 0.19 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.7.0 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.7.0 | scientific |
@@ -184,7 +184,7 @@
 | [tifffile](https://www.cgohlke.com) | 2022.10.10 | python3_scientific |
 | [tomli_w](https://pypi.org/project/tomli_w) | 1.0.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.12.0 | python3_scientific |
-| [tornado](http://www.tornadoweb.org/) | 6.0.4 | python3_scientific |
+| [tornado](http://www.tornadoweb.org/) | 6.3.2 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.19.0 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.4.0 | python3_scientific |
 | [tzdata](https://github.com/python/tzdata) | 2022.6 | python3_scientific |
