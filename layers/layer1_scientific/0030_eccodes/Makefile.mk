@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=eccodes
-export VERSION=2.27.0
+export VERSION=2.30.2
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=5e4bc44e80353ebdc649b21a6dd77e6c
+export CHECKSUM=2e05e7769bf1795e653dcace79b6ecad
 export EXPLICIT_NAME=$(NAME)-$(VERSION)-Source
 DESCRIPTION=\
 ecCodes is a package developed by ECMWF which provides an application programming interface and a set of tools for decoding and encoding messages in the following formats: \
