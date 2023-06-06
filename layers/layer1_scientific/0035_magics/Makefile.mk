@@ -2,14 +2,14 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=Magics
-export VERSION=4.12.1
+export VERSION=4.13.0
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=21fc1a5dab7d1bca32a0936f168936d1
+export CHECKSUM=b53d4f0f46792b94940dcc648156ef8c
 export EXPLICIT_NAME=$(NAME)-$(VERSION)-Source
 export SCIENTIFIC_ROOT=$(PREFIX)/../scientific_core
 #Python (Jinja2) is required for build, even if we don t build python api
-export PYTHONPATH=$(PREFIX)/../python3/lib/python3.7/site-packages:$(PREFIX)/../python3_core/lib/python3.7/site-packages
+export PYTHONPATH=$(PREFIX)/../python3/lib/python$(PYTHON3_SHORT_VERSION)/site-packages:$(PREFIX)/../python3_core/lib/python$(PYTHON3_SHORT_VERSION)/site-packages
 export PYTHON=$(PREFIX)/../python3_core/bin/python
 DESCRIPTION=\
 Magics is the latest generation of the ECMWF's meteorological plotting software.
