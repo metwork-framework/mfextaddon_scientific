@@ -22,6 +22,9 @@
 - upgrade xclim to 0.43.0 and icclim to 6.4.0 (#477)
 - add python package geographiclib (#479)
 - bump tornado to 6.3.2 and upgrade distributed and dask (#481)
+- upgrade eccodes to 2.30.2 and its python binding to 1.5.2 (#482)
+- upgrade Magics from 4.12.1 to 4.13.0 (#483)
+- upgrade Metview to 5.19.1 and its python binding to 1.14.0 (#484)
 
 ### Bug Fixes
 
