@@ -130,7 +130,6 @@
 | [pox](https://github.com/uqfoundation/pox) | 0.3.2 | python3_scientific |
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.6.6 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
-| [protobuf](https://developers.google.com/protocol-buffers) | 3.20.3 | scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
 | [pyarrow](https://arrow.apache.org/) | 10.0.1 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.10.1 | python3_scientific |
@@ -198,4 +197,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
 
-*(197 components)*
+*(196 components)*
