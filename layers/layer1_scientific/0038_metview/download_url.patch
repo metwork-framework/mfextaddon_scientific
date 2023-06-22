@@ -1,7 +1,17 @@
 diff -up Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt.orig Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt
---- Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt.orig	2023-06-22 08:41:03.559625298 +0000
-+++ Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt	2023-06-22 08:43:58.889420196 +0000
-@@ -18,7 +18,7 @@ if(HAVE_MIR_DOWNLOAD_MASKS)
+--- Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt.orig	2023-06-22 12:56:31.535181870 +0000
++++ Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt	2023-06-22 12:59:42.616997545 +0000
+@@ -3,7 +3,8 @@ if(HAVE_MIR_DOWNLOAD_MASKS)
+     set(_dir "share/mir/masks")
+     foreach(_f
+         "lsm.10min.mask"
+-        "lsm.1km.mask"
++        "lsm.1km.climate.v013.mask"
++        "lsm.1km.climate.v020.mask"
+         "lsm.N128.grib"
+         "lsm.N256.grib"
+         "lsm.N320.grib"
+@@ -18,7 +19,7 @@ if(HAVE_MIR_DOWNLOAD_MASKS)
        # get mask into the build dir
        ecbuild_download_resource(
          "${CMAKE_BINARY_DIR}/${_dir}/${_f}"
@@ -10,3 +20,15 @@ diff -up Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt.orig Metview-5
  
        # install mask
        install(
+diff -up Metview-5.10.1-Source/mir/src/mir/lsm/NamedLSM.cc.orig Metview-5.10.1-Source/mir/src/mir/lsm/NamedLSM.cc
+--- Metview-5.10.1-Source/mir/src/mir/lsm/NamedLSM.cc.orig	2023-06-22 13:00:39.194942968 +0000
++++ Metview-5.10.1-Source/mir/src/mir/lsm/NamedLSM.cc	2023-06-22 13:02:07.019858248 +0000
+@@ -36,7 +36,7 @@ namespace lsm {
+ static NamedLSM __lsm_selection("named");
+ 
+ 
+-static NamedMaskBuilder<MappedMask> __NamedMask_1("1km", "~mir/share/mir/masks/lsm.1km.mask");
++static NamedMaskBuilder<MappedMask> __NamedMask_1("1km", "~mir/share/mir/masks/lsm.1km.climate.v013.mask");
+ static NamedMaskBuilder<TenMinutesMask> __NamedMask_2("10min", "~mir/share/mir/masks/lsm.10min.mask");
+ static NamedMaskBuilder<GribFileMaskFromMIR> __NamedMask_3("N128", "~mir/share/mir/masks/lsm.N128.grib");
+ static NamedMaskBuilder<GribFileMaskFromMIR> __NamedMask_4("N256", "~mir/share/mir/masks/lsm.N256.grib");
