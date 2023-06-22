@@ -11,7 +11,7 @@ diff -up Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt.orig Metview-5
          "lsm.N128.grib"
          "lsm.N256.grib"
          "lsm.N320.grib"
-@@ -18,7 +19,7 @@ if(HAVE_MIR_DOWNLOAD_MASKS)
+@@ -18,7 +18,7 @@ if(HAVE_MIR_DOWNLOAD_MASKS)
        # get mask into the build dir
        ecbuild_download_resource(
          "${CMAKE_BINARY_DIR}/${_dir}/${_f}"
