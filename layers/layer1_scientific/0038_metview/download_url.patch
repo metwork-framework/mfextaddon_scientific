@@ -1,0 +1,12 @@
+diff -up Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt.orig Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt
+--- Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt.orig	2023-06-22 08:41:03.559625298 +0000
++++ Metview-5.10.1-Source/mir/share/mir/masks/CMakeLists.txt	2023-06-22 08:43:58.889420196 +0000
+@@ -18,7 +18,7 @@ if(HAVE_MIR_DOWNLOAD_MASKS)
+       # get mask into the build dir
+       ecbuild_download_resource(
+         "${CMAKE_BINARY_DIR}/${_dir}/${_f}"
+-        "http://download.ecmwf.org/test-data/mir/${_dir}/${_f}")
++        "https://get.ecmwf.int/repository/mir/${_dir}/${_f}")
+ 
+       # install mask
+       install(
