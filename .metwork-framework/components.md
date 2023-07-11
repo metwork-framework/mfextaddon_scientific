@@ -78,7 +78,7 @@
 | [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 2.2.0 | python3_scientific |
 | [jsonschema](https://pypi.org/project/jsonschema) | 4.17.0 | python3_scientific |
 | [kiwisolver](https://pypi.org/project/kiwisolver) | 1.4.4 | python3_scientific |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.40.0 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.40.1 | python3_scientific |
 | [lmoments3](https://pypi.org/project/lmoments3) | 1.0.5 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
@@ -105,7 +105,7 @@
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.6.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 2.8.8 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1 | python3_scientific |
-| [numba](https://numba.pydata.org) | 0.57.0 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.57.1 | python3_scientific |
 | [numcodecs](https://pypi.org/project/numcodecs) | 0.11.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.2 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.24.2 | python3_scientific |
