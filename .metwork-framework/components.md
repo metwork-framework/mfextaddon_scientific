@@ -165,7 +165,7 @@
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.19.3 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 1.1.3 | python3_scientific |
-| [scipy](https://scipy.org/) | 1.9.3 | python3_scientific |
+| [scipy](https://scipy.org/) | 1.10.1 | python3_scientific |
 | [scitools-iris](https://github.com/SciTools/iris) | 3.3.1 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.12.1 | python3_scientific |

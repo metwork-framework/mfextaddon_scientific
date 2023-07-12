@@ -3,3 +3,4 @@ openturns
 llvmlite
 polars
 pyarrow
+scipy
