@@ -51,7 +51,7 @@
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.25.0 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python2_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.5.4 | python3_scientific |
-| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.4.17 | python3_scientific |
+| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.1 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python3_scientific |
 | [enum34](https://bitbucket.org/stoneleaf/enum34) | 1.1.6 | python2_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8_0_1 | python2_scientific |
