@@ -25,6 +25,7 @@
 - upgrade eccodes to 2.30.2 and its python binding to 1.5.2 (#482)
 - upgrade Magics from 4.12.1 to 4.13.0 (#483)
 - upgrade Metview to 5.19.1 and its python binding to 1.14.0 (#484)
+- update numba to 0.57.1 and llvmlite to 0.40.1 (#494)
 
 ### Bug Fixes
 
