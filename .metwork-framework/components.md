@@ -79,7 +79,7 @@
 | [jsonschema](https://pypi.org/project/jsonschema) | 4.17.0 | python3_scientific |
 | [kiwisolver](https://pypi.org/project/kiwisolver) | 1.4.4 | python3_scientific |
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.40.1 | python3_scientific |
-| [lmoments3](https://pypi.org/project/lmoments3) | 1.0.5 | python3_scientific |
+| [lmoments3](https://pypi.org/project/lmoments3) | 1.0.6 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
