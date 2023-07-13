@@ -59,7 +59,7 @@ jsonpickle==2.2.0
 jsonschema==4.17.0
 kiwisolver==1.4.4
 llvmlite==0.40.1
-lmoments3==1.0.5
+lmoments3==1.0.6
 locket==1.0.0
 lxml==4.9.1
 Magics==1.5.8
