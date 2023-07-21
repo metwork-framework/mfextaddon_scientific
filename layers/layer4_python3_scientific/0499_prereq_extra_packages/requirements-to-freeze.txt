@@ -8,3 +8,4 @@ pythran==0.9.11
 scikit-build
 setuptools-scm-git-archive
 scitools-pyke
+versioneer
