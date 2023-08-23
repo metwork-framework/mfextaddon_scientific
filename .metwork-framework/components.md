@@ -183,7 +183,7 @@
 | [tifffile](https://www.cgohlke.com) | 2022.10.10 | python3_scientific |
 | [tomli_w](https://pypi.org/project/tomli_w) | 1.0.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.12.0 | python3_scientific |
-| [tornado](http://www.tornadoweb.org/) | 6.3.2 | python3_scientific |
+| [tornado](http://www.tornadoweb.org/) | 6.3.3 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.19.0 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.4.0 | python3_scientific |
 | [tzdata](https://github.com/python/tzdata) | 2022.6 | python3_scientific |
