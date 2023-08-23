@@ -11,6 +11,8 @@ Ncview is a visual browser for netCDF format files
 WEBSITE=https://cirrus.ucsd.edu/ncview/
 LICENSE=LGPL
 
+#We could try to use https://cirrus.ucsd.edu/~pierce/ncview/ncview-2.1.9.tar.gz
+
 all::$(PREFIX)/bin/ncview
 $(PREFIX)/bin/ncview:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="--with-udunits2_incdir=$(PREFIX)/include --with-udunits2_libdir=$(PREFIX)/lib" download uncompress configure build install
