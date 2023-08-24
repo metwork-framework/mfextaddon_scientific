@@ -28,6 +28,7 @@
 - update numba to 0.57.1 and llvmlite to 0.40.1 (#494)
 - upgrade scipy from 1.9.3 to 1.10.1 (security upgrade) (#497)
 - update lmoments3 to 1.0.6 (#498)
+- bump tornado to 6.3.3 (security update) (#514)
 
 ### Bug Fixes
 
