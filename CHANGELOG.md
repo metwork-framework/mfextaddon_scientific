@@ -29,6 +29,7 @@
 - upgrade scipy from 1.9.3 to 1.10.1 (security upgrade) (#497)
 - update lmoments3 to 1.0.6 (#498)
 - bump tornado to 6.3.3 (security update) (#514)
+- bump reportlab from 3.6.12 to 3.6.13 (security update level high) (#524)
 
 ### Bug Fixes
 
