@@ -35,10 +35,10 @@
 | [distributed](https://pypi.org/project/distributed) | 2023.5.1 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io/) | 0.19 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.7.0 | python3_scientific |
-| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.7.0 | scientific |
+| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.0 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 1.5.2 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.30.2 | scientific |
-| [eckit](https://github.com/ecmwf/ecbuild) | 1.20.2 | scientific |
+| [eckit](https://github.com/ecmwf/eckit) | 1.24.4 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.1.2 | python3_scientific |
 | [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.3 | python3_scientific |
