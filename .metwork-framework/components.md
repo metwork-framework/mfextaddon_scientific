@@ -14,10 +14,10 @@
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.21.0 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.7 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.1.0 | scientific |
-| [cdsapi](https://github.com/ecmwf/cdsapi) | 0.5.1 | python3_scientific |
+| [cdsapi](https://github.com/ecmwf/cdsapi) | 0.6.1 | python3_scientific |
 | [cf-units](https://github.com/SciTools/cf-units) | 3.1.1 | python3_scientific |
 | [cf-xarray](https://cf-xarray.readthedocs.io) | 0.7.5 | python3_scientific |
-| [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.10.2 | python3_scientific |
+| [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.10.4 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.6.2 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
@@ -40,7 +40,7 @@
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.31.0 | scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.24.4 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
-| [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.1.2 | python3_scientific |
+| [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.2.0 | python3_scientific |
 | [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.3 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.4.2 | python3_scientific |
@@ -90,12 +90,12 @@
 | [meson-python](https://github.com/FFY00/mesonpy) | 0.10.0 | python3_scientific |
 | [meson](https://mesonbuild.com) | 0.64.0 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.3.1 | python3_scientific |
-| [metview](https://github.com/ecmwf/metview-python) | 1.14.0 | python3_scientific |
+| [metview](https://github.com/ecmwf/metview-python) | 1.15.0 | python3_scientific |
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.19.2 | scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.6 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.4 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.14 | python3_scientific |
-| [multiurl](https://github.com/ecmwf/multiurl) | 0.2.0 | python3_scientific |
+| [multiurl](https://github.com/ecmwf/multiurl) | 0.2.1 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 2.5.0 | python3_scientific |
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
 | [nco](https://github.com/nco/pynco) | 1.0.0 | python3_scientific |
@@ -117,7 +117,7 @@
 | [partd](http://github.com/dask/partd/) | 1.3.0 | python3_scientific |
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.0 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 0.5.3 | python3_scientific |
-| [pdbufr](https://github.com/ecmwf/pdbufr) | 0.9.0 | python3_scientific |
+| [pdbufr](https://github.com/ecmwf/pdbufr) | 0.11.0 | python3_scientific |
 | [Pillow](https://python-pillow.org) | 9.3.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.20.1 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
@@ -142,7 +142,7 @@
 | [pygraphviz](http://pygraphviz.github.io) | 1.10 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.10.5 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.6 | python3_scientific |
-| [pyodc](https://github.com/ecmwf/pyodc) | 1.1.4 | python3_scientific |
+| [pyodc](https://github.com/ecmwf/pyodc) | 1.3.0 | python3_scientific |
 | [pyogrio](https://github.com/pyogrio/pyogrio) | 0.5.1 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.7.3 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.4.0 | python3_scientific |
