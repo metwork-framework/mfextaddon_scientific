@@ -62,9 +62,6 @@ pyhdf
 pygmt
 pysteps
 distributed
-#tornado, distributed requirement, is also provided by layer python3_devtools
-#but we can't move it in layer python3 because circus (layer python3_circus)
-#requires tornado 4.5.2
 scikit-image
 reportlab
 climetlab
