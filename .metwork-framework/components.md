@@ -83,7 +83,7 @@
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.13.0 | scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.14.2 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.4.3 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.6.2 | python3_scientific |
 | [maturin](https://github.com/pyo3/maturin) | 0.14.10 | python3_scientific |
