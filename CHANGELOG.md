@@ -30,6 +30,7 @@
 - update lmoments3 to 1.0.6 (#498)
 - bump tornado to 6.3.3 (security update) (#514)
 - bump reportlab from 3.6.12 to 3.6.13 (security update level high) (#524)
+- upgrade ecbuild to 3.8.0 and eckit to 1.24.4 (#525)
 
 ### Bug Fixes
 
