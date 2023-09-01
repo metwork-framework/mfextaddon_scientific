@@ -91,7 +91,7 @@
 | [meson](https://mesonbuild.com) | 0.64.0 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.3.1 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.14.0 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.19.1 | scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.19.2 | scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.6 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.4 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.14 | python3_scientific |
