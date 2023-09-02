@@ -31,6 +31,11 @@
 - bump tornado to 6.3.3 (security update) (#514)
 - bump reportlab from 3.6.12 to 3.6.13 (security update level high) (#524)
 - upgrade ecbuild to 3.8.0 and eckit to 1.24.4 (#525)
+- upgrade Metview to 5.19.2 (#529)
+- upgrade eccodes to 2.31.0 and eccodes-python to 1.6.0 (#530)
+- upgrade Magics from 4.13.0 to 4.14.2 (#531)
+- upgrade ECMWF python packages to last releases (#532)
+- upgrade climetlab from 0.14.25 to 0.16.7 (#533)
 
 ### Bug Fixes
 
