@@ -7,6 +7,7 @@
 | [astropy](http://astropy.org) | 5.1.1 | python3_scientific |
 | [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) | 4.11.1 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.3.0 | python3_scientific |
+| [blinker](https://pypi.org/project/blinker) | 1.6.2 | python3_scientific |
 | [bokeh](https://github.com/bokeh/bokeh) | 2.4.3 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 21.0.0 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.3.5 | python3_scientific |
@@ -196,4 +197,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.13.3 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 2.2.0 | python3_scientific |
 
-*(195 components)*
+*(196 components)*
