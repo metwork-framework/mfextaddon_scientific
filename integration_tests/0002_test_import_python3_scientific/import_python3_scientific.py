@@ -9,6 +9,7 @@ import batman.surrogate
 import bs4 #beautifulsoup4
 import bs4.builder #beautifulsoup4
 import beniget
+import blinker
 import bokeh
 import boltons
 import bottleneck

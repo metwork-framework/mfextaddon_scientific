@@ -14,4 +14,4 @@ LICENSE=LGPL
 all::build/$(NAME)-$(VERSION)/binned_border_c.nc
 build/$(NAME)-$(VERSION)/binned_border_c.nc:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) download uncompress
-	cd build && mv $(NAME)-$(VERSION) $(NAME)
+	cd build && mv -f $(NAME)-$(VERSION) $(NAME)
