@@ -36,6 +36,7 @@
 - upgrade Magics from 4.13.0 to 4.14.2 (#531)
 - upgrade ECMWF python packages to last releases (#532)
 - upgrade climetlab from 0.14.25 to 0.16.7 (#533)
+- add blinker dependency (#534)
 
 ### Bug Fixes
 
