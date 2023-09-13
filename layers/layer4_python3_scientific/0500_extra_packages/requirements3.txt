@@ -20,7 +20,7 @@ click-plugins==1.1.1
 cligj==0.7.2
 climetlab==0.16.7
 cloudpickle==2.2.0
-configobj==5.0.6
+-e git+https://github.com/metwork-framework/configobj@5.0.9#egg=configobj
 contourpy==1.0.6
 cramjam==2.6.2
 cycler==0.11.0

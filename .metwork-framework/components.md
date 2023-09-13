@@ -24,7 +24,7 @@
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.16.7 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 2.2.0 | python3_scientific |
-| [configobj](https://github.com/DiffSK/configobj) | 5.0.6 | python3_scientific |
+| [configobj](https://github.com/metwork-framework/configobj) | 5.0.9 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.0.6 | python3_scientific |
 | [cppy](https://pypi.org/project/cppy) | 1.2.1 | python3_scientific |
 | [cramjam](https://pypi.org/project/cramjam) | 2.6.2 | python3_scientific |
