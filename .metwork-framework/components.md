@@ -61,7 +61,7 @@
 | [fsspec](http://github.com/fsspec/filesystem_spec) | 2022.11.0 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.4.0 | python3_scientific |
-| [GDAL](http://www.gdal.org) | 3.7.1.1 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 3.7.2 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](http://geopandas.org) | 0.12.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
