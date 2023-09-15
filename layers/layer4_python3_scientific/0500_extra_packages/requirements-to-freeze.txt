@@ -39,8 +39,7 @@ pycoast
 pydecorate
 metview
 cdo
-#GDAL < 3.3.0 use invalid use_2to3 (python 3.9.12)
-GDAL>=3.3.0
+GDAL
 Fiona
 geopandas
 rasterio
