@@ -43,7 +43,7 @@ Flask==2.3.2
 folium==0.14.0
 fonttools==4.38.0
 fsspec==2022.11.0
-GDAL==3.7.1.1
+GDAL==3.7.2
 geographiclib==2.0
 geopandas==0.12.1
 geos==0.2.3
