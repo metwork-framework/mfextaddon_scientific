@@ -38,6 +38,8 @@
 - upgrade climetlab from 0.14.25 to 0.16.7 (#533)
 - add blinker dependency (#534)
 - fork of configobj to address CVE-2023-26112, thanks to cdcadman (#535)
+- upgrade GDAL to 3.7.1.1 (compatibility with C library) (#536)
+- upgrade to GDAL 3.7.2 (#537)
 
 ### Bug Fixes
 
