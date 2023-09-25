@@ -68,7 +68,7 @@
 | [gmt](https://www.generic-mapping-tools.org) | 6.4.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 2.0.1 | python3_scientific |
-| [h5py](http://www.h5py.org) | 3.9.0 | python3_scientific |
+| [h5py](https://pypi.org/project/h5py) | 3.9.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [icclim](https://github.com/cerfacs-globc/icclim) | 6.4.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.22.4 | python3_scientific |
