@@ -40,6 +40,7 @@
 - fork of configobj to address CVE-2023-26112, thanks to cdcadman (#535)
 - upgrade GDAL to 3.7.1.1 (compatibility with C library) (#536)
 - upgrade to GDAL 3.7.2 (#537)
+- upgrade h5py from 3.7.0 to 3.9.0 (compatibility with hdf5 1.14.2) (#538)
 
 ### Bug Fixes
 
