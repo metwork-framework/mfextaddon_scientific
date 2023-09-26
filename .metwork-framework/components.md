@@ -102,7 +102,7 @@
 | [nco](https://github.com/nco/pynco) | 1.0.0 | python3_scientific |
 | [nco](http://nco.sourceforge.net) | 5.1.4 | scientific |
 | [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.7 | scientific |
-| [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.0 | scientific |
+| [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.1 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.6.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 2.8.8 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1 | python3_scientific |
@@ -141,7 +141,7 @@
 | [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.0.1 | python3_scientific |
 | [pygmt](https://github.com/GenericMappingTools/pygmt) | 0.7.0 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io) | 1.10 | python3_scientific |
-| [pyhdf](https://github.com/fhs/pyhdf) | 0.10.5 | python3_scientific |
+| [pyhdf](https://pypi.org/project/pyhdf) | 0.11.3 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.6 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.3.0 | python3_scientific |
 | [pyogrio](https://github.com/pyogrio/pyogrio) | 0.5.1 | python3_scientific |
