@@ -41,6 +41,7 @@
 - upgrade GDAL to 3.7.1.1 (compatibility with C library) (#536)
 - upgrade to GDAL 3.7.2 (#537)
 - upgrade h5py from 3.7.0 to 3.9.0 (compatibility with hdf5 1.14.2) (#538)
+- upgrade netcdf-fortran to 4.6.1 and pyhdf to 0.11.3 (#540)
 
 ### Bug Fixes
 
