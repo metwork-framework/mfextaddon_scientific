@@ -6,7 +6,7 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [astropy](http://astropy.org) | 5.1.1 | python3_scientific |
 | [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) | 4.11.1 | python3_scientific |
-| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.3.0 | python3_scientific |
+| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
 | [blinker](https://pypi.org/project/blinker) | 1.6.2 | python3_scientific |
 | [bokeh](https://github.com/bokeh/bokeh) | 2.4.3 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 21.0.0 | python3_scientific |
@@ -60,7 +60,7 @@
 | [fonttools](http://github.com/fonttools/fonttools) | 4.38.0 | python3_scientific |
 | [fsspec](http://github.com/fsspec/filesystem_spec) | 2022.11.0 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.0 | scientific |
-| [gast](https://github.com/serge-sans-paille/gast/) | 0.4.0 | python3_scientific |
+| [gast](https://github.com/serge-sans-paille/gast/) | 0.5.4 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.7.2 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](http://geopandas.org) | 0.12.1 | python3_scientific |
@@ -153,7 +153,7 @@
 | [pyrsistent](https://github.com/tobgu/pyrsistent/) | 0.19.2 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.7.1 | python3_scientific |
-| [pythran](https://github.com/serge-sans-paille/pythran) | 0.9.11 | python3_scientific |
+| [pythran](https://github.com/serge-sans-paille/pythran) | 0.14.0 | python3_scientific |
 | [pytz-deprecation-shim](https://github.com/pganssle/pytz-deprecation-shim) | 0.1.0.post0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.4.1 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.3.4 | python3_scientific |

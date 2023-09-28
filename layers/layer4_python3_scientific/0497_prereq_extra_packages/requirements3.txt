@@ -1,5 +1,5 @@
-beniget==0.3.0
-gast==0.4.0
+beniget==0.4.1
+gast==0.5.4
 meson==0.64.0
 networkx==2.8.8
 ninja==1.11.1
@@ -7,4 +7,4 @@ numpy==1.24.2
 ply==3.11
 pybind11==2.10.1
 pyproject_metadata==0.6.1
-pythran==0.9.11
+pythran==0.14.0
