@@ -110,7 +110,7 @@ pyodc==1.3.0
 pyogrio==0.5.1
 pyorbital==1.7.3
 pyoscar==0.4.0
-pyproj==3.4.0
+pyproj==3.6.1
 pyresample==1.25.1
 pyrsistent==0.19.2
 pyshp==2.3.1
