@@ -29,7 +29,7 @@ dateparser==1.1.4
 descartes==1.1.0
 distributed==2023.5.1
 donfig==0.7.0
-eccodes==1.6.0
+eccodes==1.6.1
 ecmwf-api-client==1.6.3
 ecmwflibs==0.5.3
 ecmwf-opendata==0.2.0

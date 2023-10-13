@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=ecbuild
-export VERSION=3.8.0
+export VERSION=3.8.1
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=00bac5a0e01b01a52d1a8ffe040a3789
+export CHECKSUM=e8f8ac3ecdf416b2824342cb787eede6
 DESCRIPTION= ecBuild is built on top of CMake and consists of a set of macros as well as a wrapper around CMake
 WEBSITE=https://github.com/ecmwf/ecbuild
 LICENSE=Apache 2.0 : http://www.apache.org/licenses/LICENSE-2.0
