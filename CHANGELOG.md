@@ -44,6 +44,7 @@
 - upgrade netcdf-fortran to 4.6.1 and pyhdf to 0.11.3 (#540)
 - upgrade beniget to 0.4.1, gast to 0.5.4, pythran to 0.14.0 (#542)
 - upgrade pyproj from 3.4.0 to 3.6.1 (#543)
+- bump Pillow from 9.3.0 to 10.0.1 (security update) (#545)
 
 ### Bug Fixes
 
