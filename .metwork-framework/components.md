@@ -119,7 +119,7 @@
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.0 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 0.5.3 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.11.0 | python3_scientific |
-| [Pillow](https://python-pillow.org) | 9.3.0 | python3_scientific |
+| [Pillow](https://python-pillow.org) | 10.0.1 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.20.1 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 5.13.0 | python3_scientific |
@@ -147,7 +147,7 @@
 | [pyogrio](https://github.com/pyogrio/pyogrio) | 0.5.1 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.7.3 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.4.0 | python3_scientific |
-| [pyproj](https://github.com/pyproj4/pyproj) | 3.4.0 | python3_scientific |
+| [pyproj](https://github.com/pyproj4/pyproj) | 3.6.1 | python3_scientific |
 | [pyproject-metadata](https://pypi.org/project/pyproject-metadata) | 0.6.1 | python3_scientific |
 | [pyresample](https://github.com/pytroll/pyresample) | 1.25.1 | python3_scientific |
 | [pyrsistent](https://github.com/tobgu/pyrsistent/) | 0.19.2 | python3_scientific |
