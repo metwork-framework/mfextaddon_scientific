@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=fckit
-export VERSION=0.9.0
+export VERSION=0.11.0
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=553e74f71745f9949d501e4c2fc8b20e
+export CHECKSUM=575573dfd1c248f3053dc2aef6b74f73
 export EXPLICIT_NAME=$(NAME)-$(VERSION)-Source
 DESCRIPTION= FCKIT is a Fortran toolkit for interoperating Fortran with C/C++
 WEBSITE=https://github.com/ecmwf/fckit

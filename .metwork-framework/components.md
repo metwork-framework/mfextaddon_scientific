@@ -36,9 +36,9 @@
 | [distributed](https://pypi.org/project/distributed) | 2023.5.1 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io/) | 0.19 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.7.0 | python3_scientific |
-| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.0 | scientific |
-| [eccodes](https://github.com/ecmwf/eccodes-python) | 1.6.0 | python3_scientific |
-| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.31.0 | scientific |
+| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.1 | scientific |
+| [eccodes](https://github.com/ecmwf/eccodes-python) | 1.6.1 | python3_scientific |
+| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.32.0 | scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.24.4 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.2.0 | python3_scientific |
@@ -49,7 +49,7 @@
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.18 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2023.1.0 | python3_scientific |
-| [fckit](https://github.com/ecmwf/fckit) | 0.9.0 | scientific |
+| [fckit](https://github.com/ecmwf/fckit) | 0.11.0 | scientific |
 | [FFmpeg](https://ffmpeg.org/) | 5.0.2 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
@@ -92,7 +92,7 @@
 | [meson](https://mesonbuild.com) | 0.64.0 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.3.1 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.15.0 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.19.2 | scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.20.0 | scientific |
 | [monotonic](https://github.com/atdt/monotonic) | 1.6 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.4 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.14 | python3_scientific |
