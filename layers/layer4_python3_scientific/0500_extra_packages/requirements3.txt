@@ -73,7 +73,7 @@ msgpack==1.0.4
 multiprocess==0.70.14
 multiurl==0.2.1
 munch==2.5.0
-nco==1.0.0
+nco==1.1.0
 netCDF4==1.6.2
 numba==0.57.1
 numcodecs==0.11.0
