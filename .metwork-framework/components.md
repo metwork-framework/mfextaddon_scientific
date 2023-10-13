@@ -99,8 +99,8 @@
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.2.1 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 2.5.0 | python3_scientific |
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
-| [nco](https://github.com/nco/pynco) | 1.0.0 | python3_scientific |
-| [nco](http://nco.sourceforge.net) | 5.1.4 | scientific |
+| [nco](https://pypi.org/project/nco) | 1.1.0 | python3_scientific |
+| [nco](http://nco.sourceforge.net) | 5.1.8 | scientific |
 | [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.7 | scientific |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.1 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.6.2 | python3_scientific |
@@ -119,13 +119,13 @@
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.0 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 0.5.3 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.11.0 | python3_scientific |
-| [Pillow](https://python-pillow.org) | 9.3.0 | python3_scientific |
+| [Pillow](https://python-pillow.org) | 10.0.1 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.20.1 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 5.13.0 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.7 | python3_scientific |
-| [pngquant](http://www.pngquant.org/) | 2.17.0 | scientific |
+| [pngquant](http://www.pngquant.org/) | 2.18.0 | scientific |
 | [polars](https://pypi.org/project/polars) | 0.15.16 | python3_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 1.6.0 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.2 | python3_scientific |
