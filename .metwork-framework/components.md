@@ -125,7 +125,7 @@
 | [plotly](https://plotly.com/python/) | 5.13.0 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 1.0.7 | python3_scientific |
-| [pngquant](http://www.pngquant.org/) | 2.17.0 | scientific |
+| [pngquant](http://www.pngquant.org/) | 2.18.0 | scientific |
 | [polars](https://pypi.org/project/polars) | 0.15.16 | python3_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 1.6.0 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.2 | python3_scientific |
