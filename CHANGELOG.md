@@ -45,6 +45,9 @@
 - upgrade beniget to 0.4.1, gast to 0.5.4, pythran to 0.14.0 (#542)
 - upgrade pyproj from 3.4.0 to 3.6.1 (#543)
 - bump Pillow from 9.3.0 to 10.0.1 (security update) (#545)
+- upgrade pngquant from 2.17.0 to 2.18.0 (#546)
+- upgrade nco to 5.1.8 and its python binding to 1.1.0 (#548)
+- upgrade eccodes, Metview and ECMWF stuff to last releases (#549)
 
 ### Bug Fixes
 
