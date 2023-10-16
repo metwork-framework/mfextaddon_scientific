@@ -44,8 +44,8 @@
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.2.0 | python3_scientific |
 | [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.3 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.4.2 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.4.2 | scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.5.0 | python3_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.5.0 | scientific |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.18 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2023.1.0 | python3_scientific |
@@ -72,7 +72,7 @@
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [icclim](https://github.com/cerfacs-globc/icclim) | 6.4.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.22.4 | python3_scientific |
-| [ImageMagick6](http://www.imagemagick.org) | 6.9.12-64 | scientific |
+| [ImageMagick6](http://www.imagemagick.org) | 6.9.12-98 | scientific |
 | [ipython-genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
