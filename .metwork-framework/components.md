@@ -50,7 +50,7 @@
 | [fasteners](https://github.com/harlowja/fasteners) | 0.18 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2023.1.0 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.11.0 | scientific |
-| [FFmpeg](https://ffmpeg.org/) | 5.0.2 | scientific |
+| [FFmpeg](https://ffmpeg.org/) | 6.0 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.22 | python3_scientific |
@@ -110,7 +110,7 @@
 | [numcodecs](https://pypi.org/project/numcodecs) | 0.11.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.2 | python3_scientific |
 | [numpy](https://www.numpy.org) | 1.24.2 | python3_scientific |
-| [opencv-contrib-python-headless](https://github.com/skvark/opencv-python) | 4.6.0.66 | python3_scientific |
+| [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.8.1.78 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.20.post3 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.0 | python3_scientific |
