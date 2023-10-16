@@ -13,8 +13,8 @@
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.3.5 | python3_scientific |
 | [branca](https://github.com/python-visualization/branca) | 0.6.0 | python3_scientific |
 | [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) | 0.21.0 | python3_scientific |
-| [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.5.7 | python3_scientific |
-| [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.1.0 | scientific |
+| [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.6.0 | python3_scientific |
+| [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.2.2 | scientific |
 | [cdsapi](https://github.com/ecmwf/cdsapi) | 0.6.1 | python3_scientific |
 | [cf-units](https://github.com/SciTools/cf-units) | 3.1.1 | python3_scientific |
 | [cf-xarray](https://cf-xarray.readthedocs.io) | 0.7.5 | python3_scientific |
