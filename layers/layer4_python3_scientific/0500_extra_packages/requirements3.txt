@@ -78,7 +78,7 @@ netCDF4==1.6.2
 numba==0.57.1
 numcodecs==0.11.0
 numpngw==0.1.2
-opencv-contrib-python-headless==4.6.0.66
+opencv-contrib-python-headless==4.8.1.78
 openturns==1.20.post3
 -e git+https://gitlab.com/cerfacs/batman.git@1.9.2-develop-mf#egg=ot-batman
 palettable==3.3.0
