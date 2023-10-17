@@ -48,6 +48,10 @@
 - upgrade pngquant from 2.17.0 to 2.18.0 (#546)
 - upgrade nco to 5.1.8 and its python binding to 1.1.0 (#548)
 - upgrade eccodes, Metview and ECMWF stuff to last releases (#549)
+- upgrade esmf to 8.5.0 and ImageMagick to 6.9.12-98 (#550)
+- upgrade cdo to 2.2.0 and its python binding to 1.6.0 (#551)
+- upgrade FFmpeg to 6.0 and cv2 to 4.8.1.78 for compatibility
+- upgrade FFmpeg to 6.0 and cv2 to 4.8.1.78 for compatibility (#552)
 
 ### Bug Fixes
 
