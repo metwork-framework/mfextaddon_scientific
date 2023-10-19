@@ -3,3 +3,4 @@ g2clib-templates.patch
 g2clib-simunpack.patch
 g2clib-degrib.patch
 g2clib-jasper2.patch
+g2clib-1.6.3-jasper3-use-wrapper-entry-point.patch
