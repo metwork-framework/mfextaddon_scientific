@@ -101,7 +101,7 @@
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
 | [nco](https://pypi.org/project/nco) | 1.1.0 | python3_scientific |
 | [nco](http://nco.sourceforge.net) | 5.1.8 | scientific |
-| [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.7 | scientific |
+| [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.9 | scientific |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.1 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.6.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 2.8.8 | python3_scientific |
