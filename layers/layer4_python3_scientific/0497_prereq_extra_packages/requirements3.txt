@@ -1,10 +1,10 @@
 beniget==0.4.1
 gast==0.5.4
-meson==0.64.0
-networkx==2.8.8
-ninja==1.11.1
-numpy==1.24.2
+meson==1.2.2
+networkx==3.2
+ninja==1.11.1.1
+numpy==1.25.2
 ply==3.11
-pybind11==2.10.1
-pyproject_metadata==0.6.1
+pybind11==2.11.1
+pyproject_metadata==0.7.1
 pythran==0.14.0

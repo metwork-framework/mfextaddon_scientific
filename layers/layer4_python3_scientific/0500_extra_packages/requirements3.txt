@@ -59,7 +59,7 @@ jsmin==3.0.1
 jsonpickle==2.2.0
 jsonschema==4.17.0
 kiwisolver==1.4.4
-llvmlite==0.40.1
+llvmlite==0.41.1
 lmoments3==1.0.6
 locket==1.0.0
 lxml==4.9.1
@@ -75,7 +75,7 @@ multiurl==0.2.1
 munch==2.5.0
 nco==1.1.0
 netCDF4==1.6.2
-numba==0.57.1
+numba==0.58.1
 numcodecs==0.11.0
 numpngw==0.1.2
 opencv-contrib-python-headless==4.8.1.78

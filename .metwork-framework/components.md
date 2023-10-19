@@ -29,7 +29,7 @@
 | [cppy](https://pypi.org/project/cppy) | 1.2.1 | python3_scientific |
 | [cramjam](https://pypi.org/project/cramjam) | 2.6.2 | python3_scientific |
 | [cycler](https://github.com/matplotlib/cycler) | 0.11.0 | python3_scientific |
-| [Cython](http://cython.org/) | 0.29.32 | python3_scientific |
+| [Cython](http://cython.org/) | 0.29.36 | python3_scientific |
 | [dask](https://pypi.org/project/dask) | 2023.5.1 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.4 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
@@ -79,7 +79,7 @@
 | [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 2.2.0 | python3_scientific |
 | [jsonschema](https://pypi.org/project/jsonschema) | 4.17.0 | python3_scientific |
 | [kiwisolver](https://pypi.org/project/kiwisolver) | 1.4.4 | python3_scientific |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.40.1 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.41.1 | python3_scientific |
 | [lmoments3](https://pypi.org/project/lmoments3) | 1.0.6 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.9.1 | python3_scientific |
@@ -89,7 +89,7 @@
 | [matplotlib](https://matplotlib.org) | 3.6.2 | python3_scientific |
 | [maturin](https://github.com/pyo3/maturin) | 0.14.10 | python3_scientific |
 | [meson-python](https://github.com/FFY00/mesonpy) | 0.10.0 | python3_scientific |
-| [meson](https://mesonbuild.com) | 0.64.0 | python3_scientific |
+| [meson](https://mesonbuild.com) | 1.2.2 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.3.1 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.15.0 | python3_scientific |
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.20.0 | scientific |
@@ -104,12 +104,12 @@
 | [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.9 | scientific |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.1 | scientific |
 | [netCDF4](http://github.com/Unidata/netcdf4-python) | 1.6.2 | python3_scientific |
-| [networkx](https://networkx.org/) | 2.8.8 | python3_scientific |
-| [ninja](http://ninja-build.org/) | 1.11.1 | python3_scientific |
-| [numba](https://numba.pydata.org) | 0.57.1 | python3_scientific |
+| [networkx](https://pypi.org/project/networkx) | 3.2 | python3_scientific |
+| [ninja](http://ninja-build.org/) | 1.11.1.1 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.58.1 | python3_scientific |
 | [numcodecs](https://pypi.org/project/numcodecs) | 0.11.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.2 | python3_scientific |
-| [numpy](https://www.numpy.org) | 1.24.2 | python3_scientific |
+| [numpy](https://www.numpy.org) | 1.25.2 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.8.1.78 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.20.post3 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
@@ -133,7 +133,7 @@
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
 | [pyarrow](https://arrow.apache.org/) | 10.0.1 | python3_scientific |
-| [pybind11](https://github.com/pybind/pybind11) | 2.10.1 | python3_scientific |
+| [pybind11](https://github.com/pybind/pybind11) | 2.11.1 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.6.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.1 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.3.3 | python3_scientific |
@@ -148,7 +148,7 @@
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.7.3 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.4.0 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.6.1 | python3_scientific |
-| [pyproject-metadata](https://pypi.org/project/pyproject-metadata) | 0.6.1 | python3_scientific |
+| [pyproject-metadata](https://pypi.org/project/pyproject-metadata) | 0.7.1 | python3_scientific |
 | [pyresample](https://github.com/pytroll/pyresample) | 1.25.1 | python3_scientific |
 | [pyrsistent](https://github.com/tobgu/pyrsistent/) | 0.19.2 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
