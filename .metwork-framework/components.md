@@ -34,7 +34,7 @@
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.4 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
 | [distributed](https://pypi.org/project/distributed) | 2023.5.1 | python3_scientific |
-| [docutils](https://docutils.sourceforge.io/) | 0.19 | python3_scientific |
+| [docutils](https://docutils.sourceforge.io/) | 0.20.1 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.7.0 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.1 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 1.6.1 | python3_scientific |
@@ -46,7 +46,7 @@
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.5.0 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.5.0 | scientific |
-| [extension-helpers](https://github.com/astropy/extension-helpers) | 1.0.0 | python3_scientific |
+| [extension-helpers](https://github.com/astropy/extension-helpers) | 1.1.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.18 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2023.1.0 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.11.0 | scientific |
@@ -55,7 +55,7 @@
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.2 | python3_scientific |
 | [Fiona](http://github.com/Toblerity/Fiona) | 1.8.22 | python3_scientific |
 | [Flask](https://pypi.org/project/Flask) | 2.3.2 | python3_scientific |
-| [flit](https://pypi.org/project/flit) | 3.8.0 | python3_scientific |
+| [flit](https://pypi.org/project/flit) | 3.9.0 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.14.0 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.38.0 | python3_scientific |
 | [fsspec](http://github.com/fsspec/filesystem_spec) | 2022.11.0 | python3_scientific |
@@ -87,8 +87,8 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.14.2 | scientific |
 | [mapclassify](https://github.com/pysal/mapclassify) | 2.4.3 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.6.2 | python3_scientific |
-| [maturin](https://github.com/pyo3/maturin) | 0.14.10 | python3_scientific |
-| [meson-python](https://github.com/FFY00/mesonpy) | 0.10.0 | python3_scientific |
+| [maturin](https://github.com/pyo3/maturin) | 1.3.0 | python3_scientific |
+| [meson-python](https://github.com/mesonbuild/meson-python) | 0.14.0 | python3_scientific |
 | [meson](https://mesonbuild.com) | 1.2.2 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.3.1 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.15.0 | python3_scientific |
@@ -166,11 +166,11 @@
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.19.3 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 1.1.3 | python3_scientific |
-| [scipy](https://scipy.org/) | 1.10.1 | python3_scientific |
+| [scipy](https://scipy.org/) | 1.11.3 | python3_scientific |
 | [scitools-iris](https://github.com/SciTools/iris) | 3.3.1 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.12.1 | python3_scientific |
-| [setuptools-scm-git-archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.4 | python3_scientific |
+| [setuptools-scm-git-archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.4.1 | python3_scientific |
 | [Shapely](https://github.com/shapely/shapely) | 1.8.5.post1 | python3_scientific |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
@@ -191,7 +191,7 @@
 | [tzlocal](https://pypi.org/project/tzlocal) | 4.2 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
 | [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.21 | python3_scientific |
-| [versioneer](https://pypi.org/project/versioneer) | 0.28 | python3_scientific |
+| [versioneer](https://pypi.org/project/versioneer) | 0.29 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 2022.11.0 | python3_scientific |
 | [xclim](https://pypi.org/project/xclim) | 0.43.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.1.0 | python3_scientific |
