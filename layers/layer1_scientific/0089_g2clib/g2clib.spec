@@ -1,15 +1,15 @@
 %global macrosdir %(d=%{_rpmconfigdir}/macros.d; [ -d $d ] || d=%{_sysconfdir}/rpm; echo $d)
 
 Name:           g2clib
-Version:        1.6.0
-Release:        7%{?dist}
+Version:        1.6.3
+Release:        6%{?dist}
 Summary:        GRIB2 encoder/decoder and search/indexing routines in C
 
 License:        Public Domain
 URL:            http://www.nco.ncep.noaa.gov/pmb/codes/GRIB2/
 Source0:        http://www.nco.ncep.noaa.gov/pmb/codes/GRIB2/g2clib-%{version}.tar
 Source1:        g2clib-msg.txt
-#Patch to fix up type detection and printf arguments on 64-bit machines
+# Patch to fix up type detection and printf arguments on 64-bit machines
 Patch0:         g2clib-64bit.patch
 # Patch to remove multiple definitions of templates
 Patch1:         g2clib-templates.patch
@@ -20,9 +20,14 @@ Patch2:         g2clib-simunpack.patch
 Patch3:         g2clib-degrib.patch
 # Fix build with Jasper 2
 Patch4:         g2clib-jasper2.patch
+# jasper3 now hides internal encoder / decoder. Use wrapper entry point
+# c.f. https://github.com/jasper-software/jasper/commit/5fe57ac5829ec31396e7eaab59a688da014660af
+Patch5:         g2clib-1.6.3-jasper3-use-wrapper-entry-point.patch
 
+BuildRequires:  make
 BuildRequires:  gcc
 BuildRequires:  libpng-devel jasper-devel
+
 # static only library - no debuginfo
 %global debug_package %{nil}
 
@@ -42,7 +47,9 @@ is described in ASCII file "grib2c.doc".
 Summary:        Development files for %{name}
 #Requires:       %%{name} = %%{version}-%%{release}
 Provides:       %{name}-static = %{version}-%{release}
-Requires:       libpng-devel jasper-devel
+Provides:       %{name}-static%{?_isa} = %{version}-%{release}
+Requires:       jasper-devel%{?_isa}
+Requires:       libpng-devel%{?_isa}
 
 %description    devel
 This library contains "C" decoder/encoder
@@ -60,6 +67,7 @@ developing applications that use %{name}.
 %patch2 -p1 -b .simunpack
 %patch3 -p1 -b .degrib
 %patch4 -p1 -b .jasper2
+%patch5 -p1 -b .jasper3_internal
 chmod a-x *.h *.c README CHANGES grib2c.doc makefile
 cp -p %{SOURCE1} .
 
@@ -103,6 +111,36 @@ echo %%g2clib %g2clib > $RPM_BUILD_ROOT%{macrosdir}/macros.g2clib
 
 
 %changelog
+* Mon Feb 14 2022 Mamoru TASAKA <mtasaka@fedoraproject.org> - 1.6.3-6
+- jasper3: use wrapper entry point for jpeg2000 decoder
+
+* Sun Feb 13 2022 Orion Poplawski <orion@nwra.com> - 1.6.3-4
+- Rebuild for jasper 3
+
+* Thu Jan 20 2022 Fedora Release Engineering <releng@fedoraproject.org> - 1.6.3-3
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_36_Mass_Rebuild
+
+* Wed Jul 21 2021 Fedora Release Engineering <releng@fedoraproject.org> - 1.6.3-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_35_Mass_Rebuild
+
+* Tue Mar 09 2021 Orion Poplawski <orion@nwra.com> - 1.6.3-1
+- Update to 1.6.3
+
+* Tue Jan 26 2021 Fedora Release Engineering <releng@fedoraproject.org> - 1.6.2-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_34_Mass_Rebuild
+
+* Fri Jan 08 2021 Jos de Kloe <josdekloe@gmail.com> 1.6.2-1
+- Update to new upstream version
+
+* Mon Jul 27 2020 Fedora Release Engineering <releng@fedoraproject.org> - 1.6.0-10
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_33_Mass_Rebuild
+
+* Sat Jul 18 04:25:52 GMT 2020 Orion Poplawski <orion@nwra.com> - 1.6.0-9
+- Use %%{?_isa} for devel requires and provides
+
+* Tue Jan 28 2020 Fedora Release Engineering <releng@fedoraproject.org> - 1.6.0-8
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_32_Mass_Rebuild
+
 * Thu Jul 25 2019 Fedora Release Engineering <releng@fedoraproject.org> - 1.6.0-7
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_31_Mass_Rebuild
 

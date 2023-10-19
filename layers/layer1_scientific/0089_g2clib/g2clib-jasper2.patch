@@ -1,12 +1,12 @@
-diff -up g2clib-1.6.0.p1234/enc_jpeg2000.c g2clib-1.6.0.p12345/enc_jpeg2000.c
---- g2clib-1.6.0.p1234/enc_jpeg2000.c	2017-08-13 10:52:12.990720854 +0200
-+++ g2clib-1.6.0.p12345/enc_jpeg2000.c	2017-08-13 10:55:41.220584631 +0200
-@@ -121,7 +121,9 @@ int enc_jpeg2000(unsigned char *cin,g2in
+--- g2clib-1.6.2.p1234/enc_jpeg2000.c	2021-01-07 09:24:13.152449617 +0100
++++ g2clib-1.6.2.p12345/enc_jpeg2000.c	2021-01-07 09:33:27.386963771 +0100
+@@ -123,7 +123,9 @@ int enc_jpeg2000(unsigned char *cin,g2in
      image.clrspc_=JAS_CLRSPC_SGRAY;         /* grayscale Image */
      image.cmprof_=0; 
  #endif
+-//    image.inmem_=1;
 +#if JAS_VERSION_MAJOR == 1
-     image.inmem_=1;
++    image.inmem_=1;
 +#endif
  
      cmpt.tlx_=0;

@@ -1,7 +1,6 @@
-diff -up g2clib-1.6.0.p1/drstemplates.c g2clib-1.6.0.p12/drstemplates.c
---- g2clib-1.6.0.p1/drstemplates.c	2017-08-13 10:17:37.479288682 +0200
-+++ g2clib-1.6.0.p12/drstemplates.c	2017-08-13 10:26:59.958196881 +0200
-@@ -2,6 +2,29 @@
+--- g2clib-1.6.2.p1/drstemplates.c	2021-01-07 08:29:37.465502494 +0100
++++ g2clib-1.6.2.p12/drstemplates.c	2021-01-07 09:08:02.491583093 +0100
+@@ -4,6 +4,30 @@
  #include "grib2.h"
  #include "drstemplates.h"
  
@@ -28,13 +27,13 @@ diff -up g2clib-1.6.0.p1/drstemplates.c g2clib-1.6.0.p12/drstemplates.c
 +   { 40010, 5, 0, {4,-2,-2,1,1} }
 +} ;
 +
- g2int getdrsindex(g2int number)
++
  /*!$$$  SUBPROGRAM DOCUMENTATION BLOCK
  !                .      .    .                                       .
-diff -up g2clib-1.6.0.p1/drstemplates.h g2clib-1.6.0.p12/drstemplates.h
---- g2clib-1.6.0.p1/drstemplates.h	2017-08-13 10:17:37.479288682 +0200
-+++ g2clib-1.6.0.p12/drstemplates.h	2017-08-13 10:26:38.492728755 +0200
-@@ -42,28 +42,8 @@
+ ! SUBPROGRAM:    getdrsindex 
+--- g2clib-1.6.2.p1/drstemplates.h	2021-01-07 08:29:37.465502494 +0100
++++ g2clib-1.6.2.p12/drstemplates.h	2021-01-07 08:39:49.135685961 +0100
+@@ -39,28 +39,8 @@
            g2int mapdrs[MAXDRSMAPLEN];
        };
  
@@ -65,11 +64,9 @@ diff -up g2clib-1.6.0.p1/drstemplates.h g2clib-1.6.0.p12/drstemplates.h
 +      g2int getdrsindex(g2int number);
  
  #endif  /*  _drstemplates_H  */
-Binary files g2clib-1.6.0.p1/grib2c.doc.gz and g2clib-1.6.0.p12/grib2c.doc.gz differ
-diff -up g2clib-1.6.0.p1/gridtemplates.c g2clib-1.6.0.p12/gridtemplates.c
---- g2clib-1.6.0.p1/gridtemplates.c	2017-08-13 10:17:37.481288632 +0200
-+++ g2clib-1.6.0.p12/gridtemplates.c	2017-08-13 10:41:53.079066944 +0200
-@@ -2,6 +2,75 @@
+--- g2clib-1.6.2.p1/gridtemplates.c	2021-01-07 08:39:27.707226307 +0100
++++ g2clib-1.6.2.p12/gridtemplates.c	2021-01-07 09:04:59.257291295 +0100
+@@ -4,6 +4,74 @@
  #include "grib2.h"
  #include "gridtemplates.h"
  
@@ -141,13 +138,11 @@ diff -up g2clib-1.6.0.p1/gridtemplates.c g2clib-1.6.0.p12/gridtemplates.c
 +
 +} ;
 +
-+
- g2int getgridindex(g2int number)
  /*!$$$  SUBPROGRAM DOCUMENTATION BLOCK
  !                .      .    .                                       .
-diff -up g2clib-1.6.0.p1/gridtemplates.h g2clib-1.6.0.p12/gridtemplates.h
---- g2clib-1.6.0.p1/gridtemplates.h	2017-08-13 10:17:37.481288632 +0200
-+++ g2clib-1.6.0.p12/gridtemplates.h	2017-08-13 10:30:23.584151390 +0200
+ ! SUBPROGRAM:    getgridindex
+--- g2clib-1.6.2.p1/gridtemplates.h	2021-01-07 08:29:37.464502522 +0100
++++ g2clib-1.6.2.p12/gridtemplates.h	2021-01-07 08:39:49.137685910 +0100
 @@ -49,73 +49,8 @@
            g2int mapgrid[MAXGRIDMAPLEN];
        };
@@ -224,10 +219,9 @@ diff -up g2clib-1.6.0.p1/gridtemplates.h g2clib-1.6.0.p12/gridtemplates.h
 +      g2int getgridindex(g2int number);
  
  #endif  /*  _gridtemplates_H  */
-diff -up g2clib-1.6.0.p1/pdstemplates.c g2clib-1.6.0.p12/pdstemplates.c
---- g2clib-1.6.0.p1/pdstemplates.c	2017-08-13 10:17:37.482288608 +0200
-+++ g2clib-1.6.0.p12/pdstemplates.c	2017-08-13 10:47:53.643134973 +0200
-@@ -2,6 +2,179 @@
+--- g2clib-1.6.2.p1/pdstemplates.c	2021-01-07 08:29:37.461502605 +0100
++++ g2clib-1.6.2.p12/pdstemplates.c	2021-01-07 09:10:17.508115802 +0100
+@@ -4,6 +4,178 @@
  #include "grib2.h"
  #include "pdstemplates.h"
  
@@ -403,14 +397,12 @@ diff -up g2clib-1.6.0.p1/pdstemplates.c g2clib-1.6.0.p12/pdstemplates.c
 +
 +} ;
 +
-+
- g2int getpdsindex(g2int number)
  ///$$$  SUBPROGRAM DOCUMENTATION BLOCK
  //                .      .    .                                       .
-diff -up g2clib-1.6.0.p1/pdstemplates.h g2clib-1.6.0.p12/pdstemplates.h
---- g2clib-1.6.0.p1/pdstemplates.h	2017-08-13 10:17:37.483288583 +0200
-+++ g2clib-1.6.0.p12/pdstemplates.h	2017-08-13 10:36:42.046773771 +0200
-@@ -54,176 +54,8 @@
+ // SUBPROGRAM:    getpdsindex
+--- g2clib-1.6.2.p1/pdstemplates.h	2021-01-07 08:29:37.463502550 +0100
++++ g2clib-1.6.2.p12/pdstemplates.h	2021-01-07 08:39:49.139685860 +0100
+@@ -55,176 +55,8 @@
            g2int mappds[MAXPDSMAPLEN];
        };
  
