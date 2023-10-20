@@ -52,6 +52,10 @@
 - upgrade cdo to 2.2.0 and its python binding to 1.6.0 (#551)
 - upgrade FFmpeg to 6.0 and cv2 to 4.8.1.78 for compatibility
 - upgrade FFmpeg to 6.0 and cv2 to 4.8.1.78 for compatibility (#552)
+- Upgrade ncview from 2.1.7 to 2.1.9 (#554)
+- upgrade g2clib to 1.6.3 (#555)
+- upgrade Cython to 0.29.36, numpy to 1.25.2, numba to 0.58.1 (#556)
+- upgrade scipy from 1.10.1 to 1.11.3 and other upgrades (#557)
 
 ### Bug Fixes
 
