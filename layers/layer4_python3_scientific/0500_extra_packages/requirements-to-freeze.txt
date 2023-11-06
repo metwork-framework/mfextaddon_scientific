@@ -70,8 +70,7 @@ scitools-iris
 #pyepsg is an optional dependency of Cartopy 0.18.0 (not used anymore with Cartopy 0.20.0)
 pyepsg
 statsmodels
-#bokeh >= 3.0.0 requires setuptools.command.editable_wheel (setuptools >= 64)
-bokeh<3.0.0
+bokeh
 astropy
 #note : icclim 6.4.0 requires xclim>=0.43, <0.44
 icclim

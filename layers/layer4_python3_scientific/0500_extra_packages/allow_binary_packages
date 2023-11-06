@@ -1,6 +1,6 @@
+bokeh
 ecmwflibs
 openturns
 llvmlite
 polars
 pyarrow
-scipy
