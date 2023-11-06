@@ -74,6 +74,7 @@ import jsmin
 import jsonpickle
 import jsonschema
 import kiwisolver
+import lazy_loader
 import llvmlite
 import lmoments3
 import locket
@@ -146,8 +147,10 @@ import pytz_deprecation_shim
 import pywt #PyWaveLets
 import rasterio
 import rechunker
+import referencing
 import regionmask
 import reportlab
+import rpds #rpds-py
 import rtree
 import salem
 import satpy
@@ -180,5 +183,6 @@ import versioneer
 import xarray
 import xclim
 import xxhash
+import xyzservices
 import zarr
 import zict
