@@ -56,6 +56,7 @@
 - upgrade g2clib to 1.6.3 (#555)
 - upgrade Cython to 0.29.36, numpy to 1.25.2, numba to 0.58.1 (#556)
 - upgrade scipy from 1.10.1 to 1.11.3 and other upgrades (#557)
+- upragde many python packages to last available version (#558)
 
 ### Bug Fixes
 
