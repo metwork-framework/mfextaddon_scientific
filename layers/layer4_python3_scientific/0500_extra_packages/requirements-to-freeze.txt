@@ -20,12 +20,9 @@ pycurl
 pyproj>=3.3.1
 SQLAlchemy
 cdsapi
-pandas
 scikit-learn
 graphviz
 cfgrib
-#xarray != 1.13.0 for satpy
-xarray != 0.13.0
 palettable
 seaborn
 cartopy
