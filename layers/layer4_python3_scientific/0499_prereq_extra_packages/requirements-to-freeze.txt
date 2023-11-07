@@ -5,6 +5,8 @@ setuptools-scm-git-archive
 scitools-pyke
 extension-helpers
 cppy
-versioneer
 maturin
 py-cpuinfo
+#xarray is pre-required to build cf-xarray with --no-build-isolation
+xarray
+pandas

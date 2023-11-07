@@ -3,10 +3,11 @@ docutils==0.20.1
 extension-helpers==1.1.0
 flit==3.9.0
 maturin==1.3.0
+pandas==2.1.2
 pkgconfig==1.5.5
 py-cpuinfo==9.0.0
 scitools-pyke==1.1.1
 scipy==1.11.3
 setuptools-scm-git-archive==1.4.1
 tomli_w==1.0.0
-versioneer==0.29
+xarray==2023.10.1
