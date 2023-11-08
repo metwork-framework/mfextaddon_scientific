@@ -54,7 +54,7 @@
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.1 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.5 | python3_scientific |
 | [fiona](https://pypi.org/project/fiona) | 1.9.5 | python3_scientific |
-| [Flask](https://pypi.org/project/Flask) | 2.3.3 | python3_scientific |
+| [Flask](https://pypi.org/project/Flask) | 3.0.0 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.9.0 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.14.0 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.43.1 | python3_scientific |
