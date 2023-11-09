@@ -202,4 +202,4 @@
 | [zarr](https://pypi.org/project/zarr) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(200 components)*
+*(201 components)*
