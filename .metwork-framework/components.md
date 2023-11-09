@@ -194,6 +194,7 @@
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
 | [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.21 | python3_scientific |
 | [versioneer](https://pypi.org/project/versioneer) | 0.29 | python3_scientific |
+| [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
 | [xarray](https://pypi.org/project/xarray) | 2023.10.1 | python3_scientific |
 | [xclim](https://pypi.org/project/xclim) | 0.43.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
