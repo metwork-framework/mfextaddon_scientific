@@ -82,7 +82,6 @@ import lxml
 import Magics
 import mapclassify
 import matplotlib
-import maturin
 import mesonbuild
 import mesonpy
 import metpy
