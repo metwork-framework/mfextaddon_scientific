@@ -57,6 +57,8 @@
 - upgrade Cython to 0.29.36, numpy to 1.25.2, numba to 0.58.1 (#556)
 - upgrade scipy from 1.10.1 to 1.11.3 and other upgrades (#557)
 - upragde many python packages to last available version (#558)
+- upgrade Flask from 2.3.3 to 3.0.0 (#560)
+- upgrade python GDAL from 3.7.2 to 3.7.3 (#561)
 
 ### Bug Fixes
 
