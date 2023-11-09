@@ -88,7 +88,6 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.14.2 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.6.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.8.0 | python3_scientific |
-| [maturin](https://github.com/pyo3/maturin) | 1.3.0 | python3_scientific |
 | [meson-python](https://github.com/mesonbuild/meson-python) | 0.14.0 | python3_scientific |
 | [meson](https://mesonbuild.com) | 1.2.2 | python3_scientific |
 | [MetPy](https://pypi.org/project/MetPy) | 1.5.1 | python3_scientific |
@@ -202,4 +201,4 @@
 | [zarr](https://pypi.org/project/zarr) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(201 components)*
+*(200 components)*
