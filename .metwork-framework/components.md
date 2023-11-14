@@ -132,7 +132,7 @@
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.6.7 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
-| [pyarrow](https://arrow.apache.org/) | 14.0.0 | python3_scientific |
+| [pyarrow](https://arrow.apache.org/) | 14.0.1 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.11.1 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.6.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.2 | python3_scientific |
