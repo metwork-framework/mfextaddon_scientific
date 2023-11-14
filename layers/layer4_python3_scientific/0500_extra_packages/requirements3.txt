@@ -151,3 +151,4 @@ xxhash==3.4.1
 xyzservices==2023.10.0
 zarr==2.16.1
 zict==3.0.0
+windrose==1.9.0

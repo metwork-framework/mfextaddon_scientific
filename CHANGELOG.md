@@ -59,6 +59,7 @@
 - upragde many python packages to last available version (#558)
 - upgrade Flask from 2.3.3 to 3.0.0 (#560)
 - upgrade python GDAL from 3.7.2 to 3.7.3 (#561)
+- add python package windrose (#563)
 
 ### Bug Fixes
 
