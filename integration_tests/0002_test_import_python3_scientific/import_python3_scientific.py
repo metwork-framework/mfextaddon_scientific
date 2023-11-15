@@ -66,18 +66,20 @@ import graphviz
 import greenlet
 import h5py
 import heapdict
-#import icclim until icclim > 6.2.0 is available (for compatibility with xclim 0.42.0)
+import icclim
 import imageio
 import ipython_genutils
 import itsdangerous
 import jsmin
 import jsonpickle
 import jsonschema
+import jsonschema_specifications
 import kiwisolver
 import lazy_loader
 import llvmlite
 import lmoments3
 import locket
+import lru #lru_dict
 import lxml
 import Magics
 import mapclassify
