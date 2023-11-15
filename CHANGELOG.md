@@ -60,6 +60,7 @@
 - upgrade Flask from 2.3.3 to 3.0.0 (#560)
 - upgrade python GDAL from 3.7.2 to 3.7.3 (#561)
 - add python package windrose (#563)
+- bump pyarrow from 14.0.0 to 14.0.1 (critical security) (#566)
 
 ### Bug Fixes
 
