@@ -61,6 +61,8 @@
 - upgrade python GDAL from 3.7.2 to 3.7.3 (#561)
 - add python package windrose (#563)
 - bump pyarrow from 14.0.0 to 14.0.1 (critical security) (#566)
+- upgrade climetlab to 0.18.15 and ecmwflibs to 0.5.7 (#568)
+- bump GDAL to 3.8.0 (#569)
 
 ### Bug Fixes
 
