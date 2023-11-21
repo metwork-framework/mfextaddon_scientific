@@ -7,13 +7,13 @@ diff -up esmf-8.5.0/src/addon/esmpy/pyproject.toml.orig esmf-8.5.0/src/addon/esm
  ]
 -dynamic = [ "version" ]
 +#dynamic = [ "version" ]
-+version = "8.5.0"
- 
++version = "8.6.0"
+
  [project.optional-dependencies]
  testing = [
 @@ -29,7 +30,8 @@ testing = [
  ]
- 
+
  [tool.setuptools-git-versioning]
 -enabled = true
 +#enabled = true
