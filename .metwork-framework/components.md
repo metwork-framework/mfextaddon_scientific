@@ -116,7 +116,7 @@
 | [openturns](http://www.openturns.org) | 1.21 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
 | [palettable](https://pypi.org/project/palettable) | 3.3.3 | python3_scientific |
-| [pandas](https://pandas.pydata.org) | 2.1.2 | python3_scientific |
+| [pandas](https://pandas.pydata.org) | 2.1.3 | python3_scientific |
 | [partd](http://github.com/dask/partd/) | 1.4.1 | python3_scientific |
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.1 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 0.5.3 | python3_scientific |
