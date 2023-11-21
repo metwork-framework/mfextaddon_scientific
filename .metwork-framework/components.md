@@ -22,7 +22,7 @@
 | [cftime](https://pypi.org/project/cftime) | 1.6.2 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
-| [climetlab](https://github.com/ecmwf/climetlab) | 0.17.8 | python3_scientific |
+| [climetlab](https://github.com/ecmwf/climetlab) | 0.18.15 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.0.0 | python3_scientific |
 | [configobj](https://github.com/metwork-framework/configobj) | 5.0.9 | python3_scientific |
 | [contourpy](https://pypi.org/project/contourpy) | 1.1.1 | python3_scientific |
@@ -42,7 +42,7 @@
 | [eckit](https://github.com/ecmwf/eckit) | 1.24.4 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.2.0 | python3_scientific |
-| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.3 | python3_scientific |
+| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.5.7 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.5.0 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.5.0 | scientific |
@@ -61,7 +61,7 @@
 | [fsspec](https://github.com/fsspec/filesystem_spec) | 2023.9.2 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.4 | python3_scientific |
-| [GDAL](http://www.gdal.org) | 3.7.3 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 3.8.0 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 0.14.0 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
@@ -77,12 +77,14 @@
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 3.0.2 | python3_scientific |
+| [jsonschema-specifications](https://pypi.org/project/jsonschema-specifications) | 2023.11.1 | python3_scientific |
 | [jsonschema](https://pypi.org/project/jsonschema) | 4.19.2 | python3_scientific |
 | [kiwisolver](https://pypi.org/project/kiwisolver) | 1.4.5 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.3 | python3_scientific |
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.41.1 | python3_scientific |
 | [lmoments3](https://pypi.org/project/lmoments3) | 1.0.6 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
+| [lru-dict](https://pypi.org/project/lru-dict) | 1.3.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 4.9.3 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.14.2 | scientific |
@@ -132,7 +134,7 @@
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.6.7 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
-| [pyarrow](https://arrow.apache.org/) | 14.0.0 | python3_scientific |
+| [pyarrow](https://arrow.apache.org/) | 14.0.1 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.11.1 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.6.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.2 | python3_scientific |
@@ -158,7 +160,7 @@
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.4.1 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.3.9 | python3_scientific |
 | [rechunker](https://pypi.org/project/rechunker) | 0.5.2 | python3_scientific |
-| [referencing](https://pypi.org/project/referencing) | 0.30.2 | python3_scientific |
+| [referencing](https://pypi.org/project/referencing) | 0.31.0 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.11.0 | python3_scientific |
 | [reportlab](https://www.reportlab.com/) | 4.0.6 | python3_scientific |
 | [rpds-py](https://pypi.org/project/rpds-py) | 0.12.0 | python3_scientific |
@@ -202,4 +204,4 @@
 | [zarr](https://pypi.org/project/zarr) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(201 components)*
+*(203 components)*
