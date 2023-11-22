@@ -1,2 +1,1 @@
-Cython==0.29.36
-scikit-build==0.16.2
+ninja==1.11.1.1
