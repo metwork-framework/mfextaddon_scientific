@@ -1,2 +1,1 @@
-Cython
-scikit-build
+ninja
