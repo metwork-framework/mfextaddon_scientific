@@ -63,6 +63,9 @@
 - bump pyarrow from 14.0.0 to 14.0.1 (critical security) (#566)
 - upgrade climetlab to 0.18.15 and ecmwflibs to 0.5.7 (#568)
 - bump GDAL to 3.8.0 (#569)
+- upgrade esmf from 8.5.0 to 8.6.0 (#570)
+- upgrade pandas from 2.1.2 to 2.1.3 (#571)
+- upgrade scipy from 1.11.3 to 1.11.4 (#572)
 
 ### Bug Fixes
 
