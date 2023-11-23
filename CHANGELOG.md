@@ -66,6 +66,7 @@
 - upgrade esmf from 8.5.0 to 8.6.0 (#570)
 - upgrade pandas from 2.1.2 to 2.1.3 (#571)
 - upgrade scipy from 1.11.3 to 1.11.4 (#572)
+- upgrade numpy from 1.25.2 to 1.26.2 (#573)
 
 ### Bug Fixes
 
