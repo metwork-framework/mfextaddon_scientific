@@ -67,6 +67,7 @@
 - upgrade pandas from 2.1.2 to 2.1.3 (#571)
 - upgrade scipy from 1.11.3 to 1.11.4 (#572)
 - upgrade numpy from 1.25.2 to 1.26.2 (#573)
+- upgrade climetlab from 0.18.15 to 0.19.0 (#574)
 
 ### Bug Fixes
 
