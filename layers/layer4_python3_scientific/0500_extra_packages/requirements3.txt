@@ -32,7 +32,7 @@ donfig==0.8.1
 eccodes==1.6.1
 ecmwf-api-client==1.6.3
 ecmwf-opendata==0.2.0
-ecmwflibs==0.5.7
+ecmwflibs==0.5.3
 entrypoints==0.4
 fasteners==0.19
 fastparquet==2023.10.1
@@ -43,7 +43,7 @@ Flask==3.0.0
 folium==0.14.0
 fonttools==4.43.1
 fsspec==2023.9.2
-GDAL==3.8.0
+GDAL==3.8.1
 geographiclib==2.0
 geopandas==0.14.0
 geos==0.2.3
