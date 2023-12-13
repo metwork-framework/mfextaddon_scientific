@@ -1,5 +1,11 @@
 # release_2.2 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump GDAL from 3.8.0 to 3.8.1 (backport #577) (#578)
+
 ## v2.2.0 (2023-11-28)
 
 ### New Features
