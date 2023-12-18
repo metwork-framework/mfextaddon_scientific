@@ -63,7 +63,7 @@
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.4 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.8.1 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
-| [geopandas](https://pypi.org/project/geopandas) | 0.14.0 | python3_scientific |
+| [geopandas](https://pypi.org/project/geopandas) | 0.14.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.4.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
@@ -116,7 +116,7 @@
 | [openturns](http://www.openturns.org) | 1.21 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
 | [palettable](https://pypi.org/project/palettable) | 3.3.3 | python3_scientific |
-| [pandas](https://pandas.pydata.org) | 2.1.3 | python3_scientific |
+| [pandas](https://pandas.pydata.org) | 2.1.4 | python3_scientific |
 | [partd](http://github.com/dask/partd/) | 1.4.1 | python3_scientific |
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.1 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 0.5.3 | python3_scientific |
