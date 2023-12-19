@@ -5,6 +5,7 @@
 ### New Features
 
 - bump GDAL from 3.8.0 to 3.8.1 (backport #577) (#578)
+- upgrade pandas to 2.1.4 and geopandas to 0.14.1 (backport #581) (#582)
 
 ## v2.2.0 (2023-11-28)
 
