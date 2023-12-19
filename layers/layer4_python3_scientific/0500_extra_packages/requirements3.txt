@@ -51,7 +51,7 @@ graphviz==0.20.1
 greenlet==3.0.1
 h5py==3.10.0
 HeapDict==1.0.1
-icclim==6.4.0
+icclim==6.5.0
 imageio==2.31.5
 ipython-genutils==0.2.0
 itsdangerous==2.1.2
@@ -148,7 +148,7 @@ trollimage==1.21.0
 trollsift==0.5.1
 tzdata==2023.3
 tzlocal==5.2
-xclim==0.43.0
+xclim==0.46.0
 xxhash==3.4.1
 xyzservices==2023.10.0
 zarr==2.16.1
