@@ -148,7 +148,7 @@ trollimage==1.21.0
 trollsift==0.5.1
 tzdata==2023.3
 tzlocal==5.2
-xclim==0.46.0
+xclim==0.47.0
 xxhash==3.4.1
 xyzservices==2023.10.0
 zarr==2.16.1
