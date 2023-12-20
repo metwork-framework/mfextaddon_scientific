@@ -198,7 +198,7 @@
 | [versioneer](https://pypi.org/project/versioneer) | 0.29 | python3_scientific |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
 | [xarray](https://pypi.org/project/xarray) | 2023.10.1 | python3_scientific |
-| [xclim](https://pypi.org/project/xclim) | 0.46.0 | python3_scientific |
+| [xclim](https://pypi.org/project/xclim) | 0.47.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2023.10.0 | python3_scientific |
 | [zarr](https://pypi.org/project/zarr) | 2.16.1 | python3_scientific |
