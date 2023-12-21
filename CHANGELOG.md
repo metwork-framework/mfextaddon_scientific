@@ -1,6 +1,6 @@
 # release_2.2 CHANGELOG
 
-## [Unreleased]
+## v2.2.1 (2023-12-20)
 
 ### New Features
 
@@ -8,6 +8,7 @@
 - upgrade pandas to 2.1.4 and geopandas to 0.14.1 (backport #581) (#582)
 - upgrade xclim to 0.46.0 and icclim to 6.5.0 (#583)
 - upgrade eccodes to 2.33.0, Magics to 4.15.0, Metview to 5.21.0 (#585)
+- upgrade xclim from 0.46.0 to 0.47.0 (#587)
 
 ## v2.2.0 (2023-11-28)
 
