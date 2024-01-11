@@ -1,7 +1,7 @@
 beniget==0.4.1
 gast==0.5.4
 meson==1.2.2
-networkx==3.2
+networkx==3.2.1
 numpy==1.26.2
 ply==3.11
 pybind11==2.11.1

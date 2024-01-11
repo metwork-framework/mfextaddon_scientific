@@ -61,7 +61,7 @@
 | [fsspec](https://github.com/fsspec/filesystem_spec) | 2023.9.2 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.4 | python3_scientific |
-| [GDAL](http://www.gdal.org) | 3.8.1 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 3.8.3 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 0.14.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
@@ -106,7 +106,7 @@
 | [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.9 | scientific |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.1 | scientific |
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.6.4 | python3_scientific |
-| [networkx](https://pypi.org/project/networkx) | 3.2 | python3_scientific |
+| [networkx](https://pypi.org/project/networkx) | 3.2.1 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1.1 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.58.1 | python3_scientific |
 | [numcodecs](https://pypi.org/project/numcodecs) | 0.12.1 | python3_scientific |
