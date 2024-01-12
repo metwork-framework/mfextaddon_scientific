@@ -111,7 +111,7 @@
 | [numba](https://numba.pydata.org) | 0.58.1 | python3_scientific |
 | [numcodecs](https://pypi.org/project/numcodecs) | 0.12.1 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.3 | python3_scientific |
-| [numpy](https://numpy.org) | 1.26.2 | python3_scientific |
+| [numpy](https://numpy.org) | 1.26.3 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.8.1.78 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.21 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
