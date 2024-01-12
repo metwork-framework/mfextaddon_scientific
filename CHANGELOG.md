@@ -9,5 +9,7 @@
 - upgrade xclim to 0.46.0 and icclim to 6.5.0 (#583)
 - upgrade eccodes to 2.33.0, Magics to 4.15.0, Metview to 5.21.0 (#585)
 - upgrade xclim from 0.46.0 to 0.47.0 (#587)
+- bump climetlab from 0.19.1 to 0.19.2 (#589)
+- bump GDAL to 3.8.3 and networkx to 3.2.1 (#591)
 
 
