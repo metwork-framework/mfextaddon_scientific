@@ -11,5 +11,6 @@
 - upgrade xclim from 0.46.0 to 0.47.0 (#587)
 - bump climetlab from 0.19.1 to 0.19.2 (#589)
 - bump GDAL to 3.8.3 and networkx to 3.2.1 (#591)
+- bump numpy from 1.26.2 to 1.26.3 (#593)
 
 
