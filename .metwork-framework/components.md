@@ -46,6 +46,7 @@
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.6.0 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.6.0 | scientific |
+| [et-xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 1.1.0 | python3_scientific |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.1.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2023.10.1 | python3_scientific |
@@ -112,7 +113,9 @@
 | [numcodecs](https://pypi.org/project/numcodecs) | 0.12.1 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.3 | python3_scientific |
 | [numpy](https://numpy.org) | 1.26.3 | python3_scientific |
+| [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.8.1.78 | python3_scientific |
+| [openpyxl](https://openpyxl.readthedocs.io) | 3.1.2 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.21 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
 | [palettable](https://pypi.org/project/palettable) | 3.3.3 | python3_scientific |
@@ -199,9 +202,10 @@
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
 | [xarray](https://pypi.org/project/xarray) | 2023.10.1 | python3_scientific |
 | [xclim](https://pypi.org/project/xclim) | 0.47.0 | python3_scientific |
+| [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2023.10.0 | python3_scientific |
 | [zarr](https://pypi.org/project/zarr) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(203 components)*
+*(207 components)*
