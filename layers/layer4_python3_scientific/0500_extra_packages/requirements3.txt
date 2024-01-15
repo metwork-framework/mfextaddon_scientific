@@ -34,6 +34,7 @@ ecmwf-api-client==1.6.3
 ecmwf-opendata==0.2.0
 ecmwflibs==0.5.3
 entrypoints==0.4
+et_xmlfile==1.1.0
 fasteners==0.19
 fastparquet==2023.10.1
 ffmpy==0.3.1
@@ -81,7 +82,9 @@ netCDF4==1.6.4
 numba==0.58.1
 numcodecs==0.12.1
 numpngw==0.1.3
+odswriter==0.4.0
 opencv-contrib-python-headless==4.8.1.78
+openpyxl==3.1.2
 openturns==1.21
 -e git+https://gitlab.com/cerfacs/batman.git@1.9.2-develop-mf#egg=ot-batman
 palettable==3.3.3
@@ -149,6 +152,7 @@ trollsift==0.5.1
 tzdata==2023.3
 tzlocal==5.2
 xclim==0.47.0
+xlsxwriter==3.1.9
 xxhash==3.4.1
 xyzservices==2023.10.0
 zarr==2.16.1
