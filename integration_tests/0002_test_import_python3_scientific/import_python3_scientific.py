@@ -46,6 +46,7 @@ import ecmwflibs
 import ecmwf.opendata
 import entrypoints
 import esmpy #ESMF
+import et_xmlfile
 import extension_helpers
 import fasteners
 import fastparquet
@@ -102,7 +103,9 @@ import ninja
 import numba
 import numcodecs
 import numpy
+import odswriter
 import cv2 #opencv_contrib_python_headless
+import openpyxl
 import openturns
 import palettable
 import pandas
@@ -183,6 +186,7 @@ import tzlocal
 import versioneer
 import xarray
 import xclim
+import xlsxwriter
 import xxhash
 import xyzservices
 import zarr

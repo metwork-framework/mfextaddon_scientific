@@ -91,3 +91,6 @@ geographiclib
 #but we can't move it in layer python3 because circus (layer python3_circus)
 #requires tornado < 6
 windrose
+openpyxl
+xlsxwriter
+odswriter
