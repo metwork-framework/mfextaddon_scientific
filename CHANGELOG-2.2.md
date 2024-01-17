@@ -1,5 +1,14 @@
 # release_2.2 CHANGELOG
 
+## v2.2.2 (2024-01-16)
+
+### New Features
+
+- bump climetlab from 0.19.1 to 0.19.2 (backport #589) (#590)
+- bump GDAL to 3.8.3 and networkx to 3.2.1 (backport #591) (#592)
+- bump numpy from 1.26.2 to 1.26.3 (#593)
+- add openpyxl, xlsxwriter and odswriter (#595)
+
 ## v2.2.1 (2023-12-20)
 
 ### New Features
