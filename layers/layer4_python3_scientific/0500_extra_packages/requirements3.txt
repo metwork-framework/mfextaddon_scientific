@@ -43,7 +43,6 @@ Fiona==1.9.5
 Flask==3.0.0
 folium==0.14.0
 fonttools==4.43.1
-fsspec==2023.9.2
 GDAL==3.8.3
 geographiclib==2.0
 geopandas==0.14.1
@@ -143,7 +142,6 @@ SQLAlchemy==2.0.23
 statsmodels==0.14.0
 tblib==3.0.0
 tenacity==8.2.3
-threadpoolctl==3.2.0
 tifffile==2023.9.26
 toolz==0.12.0
 tornado==6.3.3

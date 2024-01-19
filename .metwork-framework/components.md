@@ -59,7 +59,6 @@
 | [flit](https://pypi.org/project/flit) | 3.9.0 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.14.0 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.43.1 | python3_scientific |
-| [fsspec](https://github.com/fsspec/filesystem_spec) | 2023.9.2 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.4 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.8.3 | python3_scientific |
@@ -187,7 +186,6 @@
 | [statsmodels](https://www.statsmodels.org/) | 0.14.0 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
 | [tenacity](https://github.com/jd/tenacity) | 8.2.3 | python3_scientific |
-| [threadpoolctl](https://github.com/joblib/threadpoolctl) | 3.2.0 | python3_scientific |
 | [tifffile](https://www.cgohlke.com) | 2023.9.26 | python3_scientific |
 | [tomli_w](https://pypi.org/project/tomli_w) | 1.0.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.12.0 | python3_scientific |
@@ -208,4 +206,4 @@
 | [zarr](https://pypi.org/project/zarr) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(207 components)*
+*(205 components)*
