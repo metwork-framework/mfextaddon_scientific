@@ -123,7 +123,7 @@
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.1 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 0.5.3 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.11.0 | python3_scientific |
-| [Pillow](https://python-pillow.org) | 10.1.0 | python3_scientific |
+| [pillow](https://pypi.org/project/pillow) | 10.2.0 | python3_scientific |
 | [Pint](https://pypi.org/project/Pint) | 0.22 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 5.18.0 | python3_scientific |
