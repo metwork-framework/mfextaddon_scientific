@@ -1,5 +1,11 @@
 # release_2.2 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump Pillow from 10.1.0 to 10.2.0 (fix CVE-2023-50447) (backport #603) (#604)
+
 ## v2.2.2 (2024-01-16)
 
 ### New Features
