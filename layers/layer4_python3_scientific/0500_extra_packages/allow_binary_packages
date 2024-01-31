@@ -1,5 +1,6 @@
 bokeh
 ecmwflibs
+flatten-dict
 openturns
 llvmlite
 polars
