@@ -24,6 +24,7 @@
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.19.2 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.0.0 | python3_scientific |
+| [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
 | [configobj](https://github.com/metwork-framework/configobj) | 5.0.9 | python3_scientific |
 | [contourpy](https://pypi.org/project/contourpy) | 1.1.1 | python3_scientific |
 | [cppy](https://pypi.org/project/cppy) | 1.2.1 | python3_scientific |
@@ -56,7 +57,9 @@
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.5 | python3_scientific |
 | [fiona](https://pypi.org/project/fiona) | 1.9.5 | python3_scientific |
 | [Flask](https://pypi.org/project/Flask) | 3.0.0 | python3_scientific |
+| [flatten-dict](https://github.com/ianlini/flatten-dict) | 0.4.2 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.9.0 | python3_scientific |
+| [FLORIS](https://github.com/NREL/FLORIS) | 3.5 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.14.0 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.43.1 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
@@ -70,6 +73,7 @@
 | [greenlet](https://greenlet.readthedocs.io/) | 3.0.1 | python3_scientific |
 | [h5py](https://pypi.org/project/h5py) | 3.10.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
+| [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [icclim](https://github.com/cerfacs-globc/icclim) | 6.5.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.31.5 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.12-98 | scientific |
@@ -207,4 +211,4 @@
 | [zarr](https://pypi.org/project/zarr) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(205 components)*
+*(210 components)*
