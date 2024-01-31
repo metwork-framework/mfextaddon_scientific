@@ -25,6 +25,7 @@ import click_plugins
 import cligj
 import climetlab
 import cloudpickle
+import coloredlogs
 import configobj
 import contourpy
 import cppy
@@ -54,7 +55,9 @@ import ffmpy
 import findlibs
 import fiona
 import flask
+import flatten_dict
 import flit
+import floris
 import folium
 import gast
 import osgeo #gdal
@@ -66,6 +69,7 @@ import graphviz
 import greenlet
 import h5py
 import heapdict
+import humanfriendly
 import icclim
 import imageio
 import ipython_genutils
@@ -101,6 +105,7 @@ import networkx
 import ninja
 import numba
 import numcodecs
+import numexpr
 import numpy
 import odswriter
 import cv2 #opencv_contrib_python_headless
