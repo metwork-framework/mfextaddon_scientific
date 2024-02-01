@@ -1,5 +1,12 @@
 # release_2.2 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- add floris and dependencies (#605)
+- add floris and dependencies (#607)
+
 ## v2.2.3 (2024-01-24)
 
 ### New Features
