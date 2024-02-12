@@ -33,7 +33,7 @@ donfig==0.8.1
 eccodes==1.6.1
 ecmwf-api-client==1.6.3
 ecmwf-opendata==0.2.0
-ecmwflibs==0.5.3
+ecmwflibs==0.6.1
 entrypoints==0.4
 et_xmlfile==1.1.0
 fasteners==0.19
