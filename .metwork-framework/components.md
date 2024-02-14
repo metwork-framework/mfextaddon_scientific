@@ -94,8 +94,8 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.0 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.6.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.8.0 | python3_scientific |
-| [meson-python](https://github.com/mesonbuild/meson-python) | 0.14.0 | python3_scientific |
-| [meson](https://mesonbuild.com) | 1.2.2 | python3_scientific |
+| [meson-python](https://github.com/mesonbuild/meson-python) | 0.15.0 | python3_scientific |
+| [meson](https://mesonbuild.com) | 1.3.1 | python3_scientific |
 | [MetPy](https://pypi.org/project/MetPy) | 1.5.1 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.15.0 | python3_scientific |
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.21.0 | scientific |
@@ -116,7 +116,7 @@
 | [numcodecs](https://pypi.org/project/numcodecs) | 0.12.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.9.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.3 | python3_scientific |
-| [numpy](https://numpy.org) | 1.26.3 | python3_scientific |
+| [numpy](https://numpy.org) | 1.26.4 | python3_scientific |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.8.1.78 | python3_scientific |
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.2 | python3_scientific |
@@ -177,7 +177,7 @@
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.22.0 | python3_scientific |
 | [scikit-learn](http://scikit-learn.org) | 1.3.2 | python3_scientific |
-| [scipy](https://scipy.org/) | 1.11.4 | python3_scientific |
+| [SciPy](https://scipy.org/) | 1.11.4 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.7.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.0 | python3_scientific |

@@ -1,6 +1,1 @@
-beniget
-gast
 meson-python
-numpy
-pybind11
-pythran
