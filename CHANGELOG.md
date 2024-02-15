@@ -1,5 +1,11 @@
 # release_2.2 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- upgrade numpy from 1.26.3 to 1.26.4 (backport #610) (#611)
+
 ## v2.2.4 (2024-02-01)
 
 ### New Features
