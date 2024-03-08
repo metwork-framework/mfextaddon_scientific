@@ -183,7 +183,7 @@
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.2.0 | python3_scientific |
 | [rasterio](https://github.com/mapbox/rasterio) | 1.1.5 | python3_scientific |
 | [regionmask](https://github.com/mathause/regionmask) | 0.6.1 | python3_scientific |
-| [reportlab](http://www.reportlab.com/) | 3.6.3 | python3_scientific |
+| [reportlab](http://www.reportlab.com/) | 3.6.13 | python3_scientific |
 | [salem](http://salem.readthedocs.io) | 0.3.6 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.17.1 | python2_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.17.1 | python3_scientific |

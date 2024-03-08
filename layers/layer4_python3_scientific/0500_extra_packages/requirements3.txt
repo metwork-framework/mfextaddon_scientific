@@ -92,7 +92,7 @@ pysteps==1.5.0
 PyWavelets==1.2.0
 rasterio==1.1.5
 regionmask==0.6.1
-reportlab==3.6.3
+reportlab==3.6.13
 salem==0.3.6
 satpy==0.17.1
 scikit-image==0.19.0
