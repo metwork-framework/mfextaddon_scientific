@@ -146,7 +146,7 @@
 | [rasterio](https://github.com/rasterio/rasterio) | 1.3.4 | python3_scientific |
 | [rechunker](https://github.com/pangeo-data/rechunker) | 0.5.0 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.9.0 | python3_scientific |
-| [reportlab](http://www.reportlab.com/) | 3.6.12 | python3_scientific |
+| [reportlab](http://www.reportlab.com/) | 3.6.13 | python3_scientific |
 | [salem](http://salem.readthedocs.io) | 0.3.8 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.38.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
