@@ -1,5 +1,11 @@
 # release_2.1 CHANGELOG
 
+## v2.1.4 (2024-03-08)
+
+### Bug Fixes
+
+- bump reportlab to 3.6.13 to fix CVE-2023-33733 (#612)
+
 ## v2.1.3 (2023-12-13)
 
 - No interesting change
