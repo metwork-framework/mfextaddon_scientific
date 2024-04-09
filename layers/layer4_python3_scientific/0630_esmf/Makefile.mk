@@ -21,7 +21,7 @@ export ESMF_INSTALL_DOCDIR=$(ESMF_INSTALL_PREFIX)/doc
 export ESMF_NETCDF=nc-config
 export ESMFMKFILE=$(ESMF_INSTALL_LIBDIR)/esmf.mk
 export EXPLICIT_NAME=esmf-$(VERSION)
-#
+
 # Change version in version.patch if VERSION is changing
 
 all:: $(PYTHON3_SITE_PACKAGES)/esmpy-$(VERSION).dist-info
