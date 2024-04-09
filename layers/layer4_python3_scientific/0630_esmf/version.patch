@@ -1,19 +1,22 @@
-diff -up esmf-8.5.0/src/addon/esmpy/pyproject.toml.orig esmf-8.5.0/src/addon/esmpy/pyproject.toml
---- esmf-8.5.0/src/addon/esmpy/pyproject.toml.orig	2023-10-13 16:57:36.356251381 +0000
-+++ esmf-8.5.0/src/addon/esmpy/pyproject.toml	2023-10-13 16:59:38.196185516 +0000
-@@ -20,7 +20,8 @@ dependencies = [
+diff -up esmf-8.6.0/src/addon/esmpy/pyproject.toml.orig esmf-8.6.0/src/addon/esmpy/pyproject.toml
+--- esmf-8.6.0/src/addon/esmpy/pyproject.toml.orig	2024-04-08 21:27:50.534891052 +0000
++++ esmf-8.6.0/src/addon/esmpy/pyproject.toml	2024-04-08 21:29:41.343784857 +0000
+@@ -18,9 +18,10 @@ dependencies = [
+     # build-system section above). By including it here, we at least
+     # ensure that this package will be available for a second or
      # subsequent pip install of esmpy.
-     'setuptools-git-versioning; python_version >= "3.10"',
+-    'setuptools-git-versioning; python_version >= "3.10"',
++    #'setuptools-git-versioning; python_version >= "3.10"',
  ]
 -dynamic = [ "version" ]
 +#dynamic = [ "version" ]
 +version = "8.6.0"
-
+ 
  [project.optional-dependencies]
  testing = [
 @@ -29,7 +30,8 @@ testing = [
  ]
-
+ 
  [tool.setuptools-git-versioning]
 -enabled = true
 +#enabled = true
