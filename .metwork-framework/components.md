@@ -31,10 +31,11 @@
 | [cramjam](https://pypi.org/project/cramjam) | 2.7.0 | python3_scientific |
 | [cycler](https://pypi.org/project/cycler) | 0.12.1 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.36 | python3_scientific |
-| [dask](https://pypi.org/project/dask) | 2023.10.1 | python3_scientific |
+| [dask-expr](https://pypi.org/project/dask-expr) | 1.0.11 | python3_scientific |
+| [dask](https://pypi.org/project/dask) | 2024.4.1 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.8 | python3_scientific |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
-| [distributed](https://pypi.org/project/distributed) | 2023.10.1 | python3_scientific |
+| [distributed](https://pypi.org/project/distributed) | 2024.4.1 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io/) | 0.20.1 | python3_scientific |
 | [donfig](https://pypi.org/project/donfig) | 0.8.1 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.2 | scientific |
@@ -211,4 +212,4 @@
 | [zarr](https://pypi.org/project/zarr) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(210 components)*
+*(211 components)*
