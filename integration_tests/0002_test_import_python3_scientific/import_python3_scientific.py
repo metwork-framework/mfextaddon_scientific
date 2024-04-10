@@ -36,6 +36,7 @@ import dask
 import dask.dataframe
 import dask.array
 import dask.distributed
+import dask_expr
 import dateparser
 import descartes
 import distributed

@@ -25,10 +25,11 @@ coloredlogs==15.0.1
 contourpy==1.1.1
 cramjam==2.7.0
 cycler==0.12.1
-dask==2023.10.1
+dask==2024.4.1
+dask-expr==1.0.11
 dateparser==1.1.8
 descartes==1.1.0
-distributed==2023.10.1
+distributed==2024.4.1
 donfig==0.8.1
 eccodes==1.6.1
 ecmwf-api-client==1.6.3
