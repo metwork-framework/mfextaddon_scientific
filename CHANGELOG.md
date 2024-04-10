@@ -6,6 +6,11 @@
 
 - upgrade numpy from 1.26.3 to 1.26.4 (backport #610) (#611)
 
+### Bug Fixes
+
+- remove setuptools-git-versioning from esmpy dependencies (#616)
+- remove setuptools-git-versioning from esmpy dependencies
+
 ## v2.2.4 (2024-02-01)
 
 ### New Features
