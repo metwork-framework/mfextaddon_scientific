@@ -20,4 +20,9 @@
 - upgrade numpy from 1.26.3 to 1.26.4 (#610)
 - bump Pillow from 10.2.0 to 10.3.0 (security update)
 
+### Bug Fixes
+
+- remove setuptools-git-versioning from esmpy dependencies
+- remove setuptools-git-versioning from esmpy dependencies (#616)
+
 
