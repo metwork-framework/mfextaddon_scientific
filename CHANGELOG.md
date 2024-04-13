@@ -5,6 +5,7 @@
 ### New Features
 
 - upgrade numpy from 1.26.3 to 1.26.4 (backport #610) (#611)
+- upgrade dask to 2024.4.1 for compatibility with python 3.11.9 (#620)
 
 ### Bug Fixes
 
