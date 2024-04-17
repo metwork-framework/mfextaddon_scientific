@@ -1,5 +1,17 @@
 # release_2.2 CHANGELOG
 
+## v2.2.5 (2024-04-13)
+
+### New Features
+
+- upgrade numpy from 1.26.3 to 1.26.4 (backport #610) (#611)
+- upgrade dask to 2024.4.1 for compatibility with python 3.11.9 (#620)
+
+### Bug Fixes
+
+- remove setuptools-git-versioning from esmpy dependencies (#616)
+- remove setuptools-git-versioning from esmpy dependencies
+
 ## v2.2.4 (2024-02-01)
 
 ### New Features
