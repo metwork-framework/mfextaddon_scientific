@@ -174,7 +174,7 @@
 | [tzdata](https://github.com/python/tzdata) | 2022.6 | python3_scientific |
 | [tzlocal](https://pypi.org/project/tzlocal) | 4.2 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
-| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.21 | python3_scientific |
+| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.24 | python3_scientific |
 | [versioneer](https://pypi.org/project/versioneer) | 0.28 | python3_scientific |
 | [xarray](https://github.com/pydata/xarray) | 2022.11.0 | python3_scientific |
 | [xclim](https://github.com/Ouranosinc/xclim) | 0.37.0 | python3_scientific |
