@@ -1,5 +1,11 @@
 # release_2.2 CHANGELOG
 
+## v2.2.6 (2024-04-27)
+
+### New Features
+
+- downgrade ImageMagick to 6.9.12-93 to fix svg2pdf issue (#627)
+
 ## v2.2.5 (2024-04-13)
 
 ### New Features
