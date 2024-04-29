@@ -22,7 +22,7 @@
 | [cftime](https://pypi.org/project/cftime) | 1.6.2 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
-| [climetlab](https://github.com/ecmwf/climetlab) | 0.19.2 | python3_scientific |
+| [climetlab](https://github.com/ecmwf/climetlab) | 0.20.1 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.0.0 | python3_scientific |
 | [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
 | [configobj](https://github.com/metwork-framework/configobj) | 5.0.9 | python3_scientific |
@@ -44,7 +44,6 @@
 | [eckit](https://github.com/ecmwf/eckit) | 1.25.0 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.2.0 | python3_scientific |
-| [ecmwflibs](https://github.com/ecmwf/ecmwflibs) | 0.6.1 | python3_scientific |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.6.0 | scientific |
 | [esmpy](http://www.earthsystemmodeling.org) | 8.6.0 | python3_scientific |
@@ -86,7 +85,7 @@
 | [jsonschema](https://pypi.org/project/jsonschema) | 4.19.2 | python3_scientific |
 | [kiwisolver](https://pypi.org/project/kiwisolver) | 1.4.5 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.3 | python3_scientific |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.41.1 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.42.0 | python3_scientific |
 | [lmoments3](https://pypi.org/project/lmoments3) | 1.0.6 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://pypi.org/project/lru-dict) | 1.3.0 | python3_scientific |
@@ -113,15 +112,15 @@
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.6.4 | python3_scientific |
 | [networkx](https://pypi.org/project/networkx) | 3.2.1 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1.1 | python3_scientific |
-| [numba](https://numba.pydata.org) | 0.58.1 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.59.1 | python3_scientific |
 | [numcodecs](https://pypi.org/project/numcodecs) | 0.12.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.9.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.3 | python3_scientific |
 | [numpy](https://numpy.org) | 1.26.4 | python3_scientific |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_scientific |
-| [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.8.1.78 | python3_scientific |
+| [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.9.0.80 | python3_scientific |
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.2 | python3_scientific |
-| [openturns](http://www.openturns.org) | 1.21 | python3_scientific |
+| [openturns](http://www.openturns.org) | 1.22 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
 | [palettable](https://pypi.org/project/palettable) | 3.3.3 | python3_scientific |
 | [pandas](https://pandas.pydata.org) | 2.1.4 | python3_scientific |
@@ -201,7 +200,7 @@
 | [tzdata](https://github.com/python/tzdata) | 2023.3 | python3_scientific |
 | [tzlocal](https://pypi.org/project/tzlocal) | 5.2 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
-| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.23 | python3_scientific |
+| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.24 | python3_scientific |
 | [versioneer](https://pypi.org/project/versioneer) | 0.29 | python3_scientific |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
 | [xarray](https://pypi.org/project/xarray) | 2023.10.1 | python3_scientific |
@@ -212,4 +211,4 @@
 | [zarr](https://pypi.org/project/zarr) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(211 components)*
+*(210 components)*
