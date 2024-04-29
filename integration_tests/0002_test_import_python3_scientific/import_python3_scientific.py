@@ -44,7 +44,6 @@ import docutils
 import donfig
 import eccodes
 import ecmwfapi
-import ecmwflibs
 import ecmwf.opendata
 import entrypoints
 import esmpy #ESMF

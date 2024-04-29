@@ -3,3 +3,4 @@ MAGPLUS_QUIET=ON
 ECMWFLIBS_ECCODES={MFEXT_HOME}/opt/scientific/lib/libeccodes.so
 ECMWFLIBS_MAGPLUS={MFEXT_HOME}/opt/scientific/lib/libMagPlus.so
 ESMFMKFILE={MFEXT_HOME}/opt/scientific/esmf/lib/esmf.mk
+CLIMETLAB_DO_NOT_INSTALL_ECMWFLIBS=1
