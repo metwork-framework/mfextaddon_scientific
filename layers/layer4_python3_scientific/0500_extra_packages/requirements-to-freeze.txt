@@ -60,7 +60,8 @@ pysteps
 distributed
 scikit-image
 reportlab
-climetlab
+#climetlab >= 0.20.1 do not requires ecwmflibs
+climetlab>=0.20.1
 pygraphviz
 cf-units
 scitools-iris
