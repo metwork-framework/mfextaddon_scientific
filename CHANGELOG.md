@@ -20,6 +20,7 @@
 - upgrade numpy from 1.26.3 to 1.26.4 (#610)
 - bump Pillow from 10.2.0 to 10.3.0 (security update)
 - upgrade dask to 2024.4.1 for compatibility with python 3.11.9 (#620)
+- downgrade ImageMagick to 6.9.12-93 to fix svg2pdf issue (#627)
 
 ### Bug Fixes
 
