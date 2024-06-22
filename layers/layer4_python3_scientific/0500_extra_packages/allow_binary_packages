@@ -6,3 +6,4 @@ llvmlite
 partd
 polars
 pyarrow
+pyYAML
