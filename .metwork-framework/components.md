@@ -30,7 +30,7 @@
 | [cppy](https://pypi.org/project/cppy) | 1.2.1 | python3_scientific |
 | [cramjam](https://pypi.org/project/cramjam) | 2.7.0 | python3_scientific |
 | [cycler](https://pypi.org/project/cycler) | 0.12.1 | python3_scientific |
-| [Cython](http://cython.org/) | 0.29.36 | python3_scientific |
+| [Cython](https://cython.org/) | 3.0.10 | python3_scientific |
 | [dask-expr](https://pypi.org/project/dask-expr) | 1.0.11 | python3_scientific |
 | [dask](https://pypi.org/project/dask) | 2024.4.1 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.8 | python3_scientific |
@@ -71,7 +71,7 @@
 | [gmt](https://www.generic-mapping-tools.org) | 6.4.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 3.0.1 | python3_scientific |
-| [h5py](https://pypi.org/project/h5py) | 3.10.0 | python3_scientific |
+| [h5py](https://pypi.org/project/h5py) | 3.11.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [icclim](https://github.com/cerfacs-globc/icclim) | 6.5.0 | python3_scientific |
@@ -126,7 +126,7 @@
 | [pandas](https://pandas.pydata.org) | 2.1.4 | python3_scientific |
 | [partd](http://github.com/dask/partd/) | 1.4.1 | python3_scientific |
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.1 | python3_scientific |
-| [patsy](https://github.com/pydata/patsy) | 0.5.3 | python3_scientific |
+| [patsy](https://github.com/pydata/patsy) | 0.5.6 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.11.0 | python3_scientific |
 | [pillow](https://pypi.org/project/pillow) | 10.3.0 | python3_scientific |
 | [Pint](https://pypi.org/project/Pint) | 0.22 | python3_scientific |
@@ -176,7 +176,7 @@
 | [satpy](https://github.com/pytroll/satpy) | 0.44.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.22.0 | python3_scientific |
-| [scikit-learn](http://scikit-learn.org) | 1.3.2 | python3_scientific |
+| [scikit-learn](https://scikit-learn.org) | 1.5.0 | python3_scientific |
 | [SciPy](https://scipy.org/) | 1.11.4 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.7.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
@@ -188,7 +188,7 @@
 | [soupsieve](https://pypi.org/project/soupsieve) | 2.5 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 1.9.3 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.23 | python3_scientific |
-| [statsmodels](https://www.statsmodels.org/) | 0.14.0 | python3_scientific |
+| [statsmodels](https://www.statsmodels.org/) | 0.14.2 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
 | [tenacity](https://github.com/jd/tenacity) | 8.2.3 | python3_scientific |
 | [tifffile](https://www.cgohlke.com) | 2023.9.26 | python3_scientific |
