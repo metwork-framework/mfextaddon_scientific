@@ -53,7 +53,7 @@ geos==0.2.3
 graphviz==0.20.1
 greenlet==3.0.1
 humanfriendly==10.0
-h5py==3.10.0
+h5py==3.11.0
 HeapDict==1.0.1
 icclim==6.5.0
 imageio==2.31.5
@@ -94,7 +94,7 @@ openturns==1.22
 palettable==3.3.3
 partd==1.4.1
 pathos==0.3.1
-patsy==0.5.3
+patsy==0.5.6
 pdbufr==0.11.0
 Pillow==10.3.0
 Pint==0.22
@@ -136,7 +136,7 @@ rtree==1.1.0
 salem==0.3.9
 satpy==0.44.0
 scikit-image==0.22.0
-scikit-learn==1.3.2
+scikit-learn==1.5.0
 scitools-iris==3.7.0
 seaborn==0.13.0
 Shapely==2.0.2
@@ -144,7 +144,7 @@ snuggs==1.4.7
 sortedcontainers==2.4.0
 soupsieve==2.5
 SQLAlchemy==2.0.23
-statsmodels==0.14.0
+statsmodels==0.14.2
 tblib==3.0.0
 tenacity==8.2.3
 tifffile==2023.9.26
