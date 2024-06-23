@@ -22,6 +22,8 @@
 - upgrade dask to 2024.4.1 for compatibility with python 3.11.9 (#620)
 - downgrade ImageMagick to 6.9.12-93 to fix svg2pdf issue (#627)
 - Upgrade from Python 3.11.9 to Python 3.12.3 (#630)
+- bump tornado from 6.3.3 to 6.4.1 (fix CWE-444 and CWE-93) (#635)
+- bump scikit-learn to 1.5.0 (CVE-2024-5206), requiring Cython 3 (#636)
 
 ### Bug Fixes
 
