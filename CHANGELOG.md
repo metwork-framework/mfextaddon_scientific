@@ -24,6 +24,7 @@
 - Upgrade from Python 3.11.9 to Python 3.12.3 (#630)
 - bump tornado from 6.3.3 to 6.4.1 (fix CWE-444 and CWE-93) (#635)
 - bump scikit-learn to 1.5.0 (CVE-2024-5206), requiring Cython 3 (#636)
+- upgrade cdsapi to 0.7.0 (access to new infrastructure) (#639)
 
 ### Bug Fixes
 
