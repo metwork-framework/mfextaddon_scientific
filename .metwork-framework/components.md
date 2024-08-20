@@ -4,7 +4,7 @@
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.18 | python3_scientific |
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.7.2 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
-| [astropy](http://astropy.org) | 5.3.4 | python3_scientific |
+| [astropy](https://pypi.org/project/astropy) | 6.1.2 | python3_scientific |
 | [beautifulsoup4](https://pypi.org/project/beautifulsoup4) | 4.12.2 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
 | [blinker](https://pypi.org/project/blinker) | 1.6.3 | python3_scientific |
@@ -179,7 +179,7 @@
 | [scikit-image](https://scikit-image.org) | 0.22.0 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.5.0 | python3_scientific |
 | [SciPy](https://scipy.org/) | 1.11.4 | python3_scientific |
-| [scitools-iris](https://pypi.org/project/scitools-iris) | 3.7.0 | python3_scientific |
+| [scitools-iris](https://pypi.org/project/scitools-iris) | 3.10.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.0 | python3_scientific |
 | [setuptools_scm_git_archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.4.1 | python3_scientific |
