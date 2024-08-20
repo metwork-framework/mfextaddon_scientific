@@ -14,6 +14,7 @@ import bokeh
 import boltons
 import bottleneck
 import branca
+import cads_api_client
 import cartopy
 import cdo
 import cdsapi
