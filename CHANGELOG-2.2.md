@@ -1,5 +1,11 @@
 # release_2.2 CHANGELOG
 
+## v2.2.7 (2024-08-20)
+
+### New Features
+
+- upgrade cdsapi to 0.7.0 (access to new infrastructure) (backport #639) (#640)
+
 ## v2.2.6 (2024-04-27)
 
 ### New Features
