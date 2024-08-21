@@ -25,6 +25,8 @@
 - bump tornado from 6.3.3 to 6.4.1 (fix CWE-444 and CWE-93) (#635)
 - bump scikit-learn to 1.5.0 (CVE-2024-5206), requiring Cython 3 (#636)
 - upgrade cdsapi to 0.7.0 (access to new infrastructure) (#639)
+- upgrade astropy to 6.1.2 and scitools-iris to 3.10.0 (#643)
+- bump Fiona to 1.10b3 (fix CVE-2023-45853 and CVE-2020-14152) (#644)
 
 ### Bug Fixes
 
