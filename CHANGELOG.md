@@ -27,6 +27,7 @@
 - upgrade cdsapi to 0.7.0 (access to new infrastructure) (#639)
 - upgrade astropy to 6.1.2 and scitools-iris to 3.10.0 (#643)
 - bump Fiona to 1.10b3 (fix CVE-2023-45853 and CVE-2020-14152) (#644)
+- bump geopandas to 0.14.4 for compatibility with fiona 1.10 (#645)
 
 ### Bug Fixes
 
