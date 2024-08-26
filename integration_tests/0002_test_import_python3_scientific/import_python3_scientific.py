@@ -3,6 +3,7 @@ import aggdraw
 import antlr4
 import asciitree
 import astropy
+import astropy_iers_data
 import batman
 import batman.pod
 import batman.surrogate
