@@ -4,6 +4,7 @@
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.18 | python3_scientific |
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.7.2 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
+| [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2024.8.26.0.31.57 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 6.1.2 | python3_scientific |
 | [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) | 4.12.2 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
@@ -56,7 +57,7 @@
 | [FFmpeg](https://ffmpeg.org/) | 6.0 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.1 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.5 | python3_scientific |
-| [fiona](https://pypi.org/project/fiona) | 1.10b3 | python3_scientific |
+| [fiona](https://pypi.org/project/fiona) | 1.10.0rc1 | python3_scientific |
 | [Flask](https://pypi.org/project/Flask) | 3.0.0 | python3_scientific |
 | [flatten-dict](https://github.com/ianlini/flatten-dict) | 0.4.2 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.9.0 | python3_scientific |
@@ -212,4 +213,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(211 components)*
+*(212 components)*
