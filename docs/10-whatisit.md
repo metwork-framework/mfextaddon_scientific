@@ -9,6 +9,7 @@ This add-on provides three layers:
 
 - `scientific@mfext` (common files for next layers, mainly C/C++ libraries/tools)
 - `python3_scientific@mfext` (scientific Python3 tools/libraries)
+- `python3_extratools@mfext` ("extra" not scientific Python3 tools/libraries)
 
 ## Provides useful packages
 

@@ -12,6 +12,7 @@ $ ##### As root user #####
 
 $ # We install the Python3 enabled version of scientific libraries/tools
 $ yum -y install metwork-mfext-layer-python3_scientific
+$ yum -y install metwork-mfext-layer-python3_extratools
 
 
 $ ##### As lambda user #####
@@ -23,7 +24,11 @@ $ # We check that the layer is installed and loaded
 $ layers |grep scientific
 - (*) scientific_core@mfext [/opt/metwork-mfext/opt/scientific_core]
 - (*) scientific@mfext [/opt/metwork-mfext/opt/scientific]
-- (*) python3_scientific@mfext [/opt/metwork-mfext/opt/python3_vim]
+- (*) python3_scientific_core@mfext [/opt/metwork-mfext/opt/python3_scientific_core]
+- (*) python3_scientific@mfext [/opt/metwork-mfext/opt/python3_scientific]
+
+$ $ layers |grep extratools
+- (*) python3_extratools@mfext [/opt/metwork-mfext/opt/python3_extratools]
 
 $ # note: scientific_core@mfext layer is provided by mfext module itself
 $ #       not by this addon
