@@ -1,5 +1,6 @@
 import anyio
 import asgiref
+import faicons
 import htmltools
 import linkify_it
 import mdit_py_plugins

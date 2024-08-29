@@ -54,6 +54,7 @@
 | [esmpy](http://www.earthsystemmodeling.org) | 8.6.0 | python3_scientific |
 | [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 1.1.0 | python3_extratools |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.1.0 | python3_scientific |
+| [faicons](https://github.com/rstudio/py-faicons) | 0.2.2 | python3_extratools |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2023.10.1 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.11.0 | scientific |
@@ -228,4 +229,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(227 components)*
+*(228 components)*

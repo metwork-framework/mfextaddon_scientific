@@ -1,3 +1,4 @@
+faicons
 odswriter
 openpyxl
 shiny
