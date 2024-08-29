@@ -1,6 +1,7 @@
 anyio==3.5.0
 asgiref==3.5.2
 et-xmlfile==1.1.0
+faicons==0.2.2
 htmltools==0.5.3
 linkify-it-py==2.0.3
 mdit-py-plugins==0.4.1
