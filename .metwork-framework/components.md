@@ -4,6 +4,7 @@
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.18 | python3_scientific |
 | [antlr4-python3-runtime](http://www.antlr.org) | 4.7.2 | python3_scientific |
 | [anyio](https://pypi.org/project/anyio) | 3.5.0 | python3_extratools |
+| [apng](https://github.com/eight04/pyAPNG) | 0.3.4 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [asgiref](https://github.com/django/asgiref/) | 3.5.2 | python3_extratools |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2024.8.26.0.31.57 | python3_scientific |
@@ -227,4 +228,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(226 components)*
+*(227 components)*
