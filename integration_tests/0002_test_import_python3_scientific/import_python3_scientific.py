@@ -1,6 +1,7 @@
 import affine
 import aggdraw
 import antlr4
+import apng
 import asciitree
 import astropy
 import astropy_iers_data
