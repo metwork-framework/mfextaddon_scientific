@@ -29,6 +29,9 @@
 - bump Fiona to 1.10b3 (fix CVE-2023-45853 and CVE-2020-14152) (#644)
 - bump geopandas to 0.14.4 for compatibility with fiona 1.10 (#645)
 - bump fiona from 1.10b3 to 1.10.0rc1 (#647)
+- add shiny in new layer python3_extratools@mfext (#648)
+- add apng (#651)
+- add faicons for use in shiny (#652)
 
 ### Bug Fixes
 
