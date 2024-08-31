@@ -32,6 +32,7 @@
 - add shiny in new layer python3_extratools@mfext (#648)
 - add apng (#651)
 - add faicons for use in shiny (#652)
+- add salem sample data file (#653)
 
 ### Bug Fixes
 
