@@ -1,5 +1,11 @@
 # release_2.2 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- add salem sample data file (backport #653) (#654)
+
 ## v2.2.7 (2024-08-20)
 
 ### New Features
