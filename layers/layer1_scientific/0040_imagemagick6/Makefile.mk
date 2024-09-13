@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=ImageMagick6
-export VERSION=6.9.12-93
+export VERSION=6.9.13-16
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=b0ac80348e18c5ecb188ae5e8c17f2a9
+export CHECKSUM=b08723ae1d66b7acd06db6bf5d8ca8dd
 export ARCHIV=$(VERSION).$(EXTENSION)
 DESCRIPTION=\
 IMAGEMAGICK is a software suite to create, edit, compose, or convert images.

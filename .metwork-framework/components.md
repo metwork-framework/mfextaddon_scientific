@@ -83,7 +83,7 @@
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [icclim](https://github.com/cerfacs-globc/icclim) | 6.5.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.31.5 | python3_scientific |
-| [ImageMagick6](http://www.imagemagick.org) | 6.9.12-93 | scientific |
+| [ImageMagick6](http://www.imagemagick.org) | 6.9.13-16 | scientific |
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
