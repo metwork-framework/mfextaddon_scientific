@@ -87,7 +87,6 @@ rtree
 pyogrio
 folium
 geographiclib
--e git+https://github.com/metwork-framework/configobj#egg=configobj
 windrose
 openpyxl
 xlsxwriter
