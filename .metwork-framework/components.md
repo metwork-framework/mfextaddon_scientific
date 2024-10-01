@@ -26,12 +26,21 @@
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.19.2 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.0.0 | python3_scientific |
 | [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
+<<<<<<< HEAD
 | [configobj](https://github.com/metwork-framework/configobj) | 5.0.9 | python3_scientific |
 | [contourpy](https://pypi.org/project/contourpy) | 1.1.1 | python3_scientific |
 | [cppy](https://pypi.org/project/cppy) | 1.2.1 | python3_scientific |
 | [cramjam](https://pypi.org/project/cramjam) | 2.7.0 | python3_scientific |
 | [cycler](https://pypi.org/project/cycler) | 0.12.1 | python3_scientific |
 | [Cython](http://cython.org/) | 0.29.36 | python3_scientific |
+=======
+| [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
+| [contourpy](https://github.com/contourpy/contourpy) | 1.1.1 | python3_scientific |
+| [cppy](https://github.com/nucleic/cppy) | 1.2.1 | python3_scientific |
+| [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.7.0 | python3_scientific |
+| [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
+| [Cython](https://cython.org/) | 3.0.10 | python3_scientific |
+>>>>>>> 39a548d (build: replace our configobj fork by new release 5.0.9 (#657))
 | [dask-expr](https://pypi.org/project/dask-expr) | 1.0.11 | python3_scientific |
 | [dask](https://pypi.org/project/dask) | 2024.4.1 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.8 | python3_scientific |
