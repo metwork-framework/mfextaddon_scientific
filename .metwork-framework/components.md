@@ -26,7 +26,7 @@
 | [climetlab](https://github.com/ecmwf/climetlab) | 0.19.2 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.0.0 | python3_scientific |
 | [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
-| [configobj](https://github.com/metwork-framework/configobj) | 5.0.9 | python3_scientific |
+| [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
 | [contourpy](https://pypi.org/project/contourpy) | 1.1.1 | python3_scientific |
 | [cppy](https://pypi.org/project/cppy) | 1.2.1 | python3_scientific |
 | [cramjam](https://pypi.org/project/cramjam) | 2.7.0 | python3_scientific |
