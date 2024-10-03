@@ -86,13 +86,9 @@ rtree
 pyogrio
 folium
 geographiclib
-<<<<<<< HEAD
--e git+https://github.com/metwork-framework/configobj#egg=configobj
 #tornado, distributed requirement, is also provided by layer python3_devtools
 #but we can't move it in layer python3 because circus (layer python3_circus)
 #requires tornado < 6
-=======
->>>>>>> 39a548d (build: replace our configobj fork by new release 5.0.9 (#657))
 windrose
 openpyxl
 xlsxwriter
