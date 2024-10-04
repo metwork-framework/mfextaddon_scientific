@@ -88,8 +88,6 @@
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 3.0.2 | python3_scientific |
-| [jsonschema-specifications](https://github.com/python-jsonschema/jsonschema-specifications) | 2023.11.1 | python3_scientific |
-| [jsonschema](https://github.com/python-jsonschema/jsonschema) | 4.19.2 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.5 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.3 | python3_scientific |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
@@ -178,10 +176,8 @@
 | [questionary](https://github.com/tmbo/questionary) | 2.0.1 | python3_extratools |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.3.9 | python3_scientific |
 | [rechunker](https://pypi.org/project/rechunker/) | 0.5.2 | python3_scientific |
-| [referencing](https://github.com/python-jsonschema/referencing) | 0.31.0 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.11.0 | python3_scientific |
 | [reportlab](https://www.reportlab.com/) | 4.0.6 | python3_scientific |
-| [rpds-py](https://github.com/crate-py/rpds) | 0.12.0 | python3_scientific |
 | [Rtree](https://pypi.org/project/Rtree) | 1.1.0 | python3_scientific |
 | [salem](https://salem.readthedocs.io) | 0.3.9 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.44.0 | python3_scientific |
@@ -228,4 +224,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(227 components)*
+*(223 components)*
