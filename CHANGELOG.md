@@ -34,6 +34,7 @@
 - add faicons for use in shiny (#652)
 - add salem sample data file (#653)
 - upgrade ImageMagick6 from 6.9.12-93 to 6.9.13-16 (#656)
+- remove jsonschema and dependencies (now provided by python3 layer) (#659)
 
 ### Bug Fixes
 
