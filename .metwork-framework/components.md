@@ -213,7 +213,7 @@
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
 | [uvicorn](https://www.uvicorn.org/) | 0.17.5 | python3_extratools |
-| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.25.1 | python3_scientific |
+| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.27 | python3_scientific |
 | [versioneer](https://github.com/python-versioneer/python-versioneer) | 0.29 | python3_scientific |
 | [watchfiles](https://github.com/samuelcolvin/watchfiles) | 0.24.0 | python3_extratools |
 | [websockets](https://github.com/python-websockets/websockets) | 13.0.1 | python3_extratools |
