@@ -43,6 +43,7 @@
 | [distributed](https://distributed.dask.org) | 2024.4.1 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io/) | 0.20.1 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1 | python3_scientific |
+| [earthkit-meteo](https://github.com/ecmwf/earthkit-meteo/) | 0.1.1 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.2 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 1.6.1 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.33.0 | scientific |
@@ -201,6 +202,7 @@
 | [statsmodels](https://www.statsmodels.org/) | 0.14.2 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
 | [tenacity](https://github.com/jd/tenacity) | 8.2.3 | python3_scientific |
+| [thermofeel](https://github.com/ecmwf-projects/thermofeel) | 2.0.0 | python3_scientific |
 | [tifffile](https://www.cgohlke.com) | 2023.9.26 | python3_scientific |
 | [tomli_w](https://github.com/hukkin/tomli-w) | 1.0.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.12.0 | python3_scientific |
@@ -224,4 +226,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(223 components)*
+*(225 components)*
