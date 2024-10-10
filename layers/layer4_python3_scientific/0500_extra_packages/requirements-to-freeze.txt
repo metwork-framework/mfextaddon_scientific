@@ -94,3 +94,4 @@ odswriter
 FLORIS
 #apng seems to be not maintained anymore
 apng
+thermofeel
