@@ -35,6 +35,8 @@
 - add salem sample data file (#653)
 - upgrade ImageMagick6 from 6.9.12-93 to 6.9.13-16 (#656)
 - remove jsonschema and dependencies (now provided by python3 layer) (#659)
+- add thermofeel and its dependency earthkit-meteo (#660)
+- bump uwsgi-plugin-python3 from 2.0.25.1 to last 2.0.27 (#661)
 
 ### Bug Fixes
 
