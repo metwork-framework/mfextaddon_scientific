@@ -189,7 +189,6 @@
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.10.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.0 | python3_scientific |
-| [setuptools_scm_git_archive](https://github.com/Changaco/setuptools_scm_git_archive/) | 1.4.1 | python3_scientific |
 | [shapely](https://pypi.org/project/shapely) | 2.0.2 | python3_scientific |
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.2.0 | python3_extratools |
@@ -226,4 +225,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(225 components)*
+*(224 components)*
