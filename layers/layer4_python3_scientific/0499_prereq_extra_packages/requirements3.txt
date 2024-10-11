@@ -7,7 +7,6 @@ pkgconfig==1.5.5
 py-cpuinfo==9.0.0
 scitools-pyke==1.1.1
 scipy==1.11.4
-setuptools-scm-git-archive==1.4.1
 tomli_w==1.0.0
 tzdata==2023.3
 xarray==2023.10.1
