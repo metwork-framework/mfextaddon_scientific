@@ -22,6 +22,19 @@
 - upgrade dask to 2024.4.1 for compatibility with python 3.11.9 (#620)
 - downgrade ImageMagick to 6.9.12-93 to fix svg2pdf issue (#627)
 - Upgrade from Python 3.11.9 to Python 3.12.3 (#630)
+- bump tornado from 6.3.3 to 6.4.1 (fix CWE-444 and CWE-93) (#635)
+- bump scikit-learn to 1.5.0 (CVE-2024-5206), requiring Cython 3 (#636)
+- upgrade cdsapi to 0.7.0 (access to new infrastructure) (#639)
+- upgrade astropy to 6.1.2 and scitools-iris to 3.10.0 (#643)
+- bump Fiona to 1.10b3 (fix CVE-2023-45853 and CVE-2020-14152) (#644)
+- bump geopandas to 0.14.4 for compatibility with fiona 1.10 (#645)
+- bump fiona from 1.10b3 to 1.10.0rc1 (#647)
+- add shiny in new layer python3_extratools@mfext (#648)
+- add apng (#651)
+- add faicons for use in shiny (#652)
+- add salem sample data file (#653)
+- upgrade ImageMagick6 from 6.9.12-93 to 6.9.13-16 (#656)
+- remove jsonschema and dependencies (now provided by python3 layer) (#659)
 
 ### Bug Fixes
 

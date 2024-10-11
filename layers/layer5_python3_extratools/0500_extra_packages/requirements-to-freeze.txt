@@ -1,0 +1,5 @@
+faicons
+odswriter
+openpyxl
+shiny
+xlsxwriter

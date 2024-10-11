@@ -87,12 +87,11 @@ rtree
 pyogrio
 folium
 geographiclib
--e git+https://github.com/metwork-framework/configobj#egg=configobj
-#tornado, distributed requirement, is also provided by layer python3_devtools
-#but we can't move it in layer python3 because circus (layer python3_circus)
-#requires tornado < 6
 windrose
 openpyxl
 xlsxwriter
 odswriter
 FLORIS
+#apng seems to be not maintained anymore
+apng
+thermofeel

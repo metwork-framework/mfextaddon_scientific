@@ -1,8 +1,10 @@
 import affine
 import aggdraw
 import antlr4
+import apng
 import asciitree
 import astropy
+import astropy_iers_data
 import batman
 import batman.pod
 import batman.surrogate
@@ -14,6 +16,7 @@ import bokeh
 import boltons
 import bottleneck
 import branca
+import cads_api_client
 import cartopy
 import cdo
 import cdsapi
