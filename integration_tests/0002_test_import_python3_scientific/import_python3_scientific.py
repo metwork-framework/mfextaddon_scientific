@@ -172,7 +172,6 @@ import scipy
 import iris #scitools-iris
 import pyke #scitools-pyke
 import seaborn
-import setuptools_scm_git_archive
 import shapely
 import snuggs
 import sortedcontainers
