@@ -3,3 +3,20 @@ odswriter
 openpyxl
 shiny
 xlsxwriter
+jupyter
+notebook>=7
+jupyter-console
+#requirements required in other layers
+#asttokens #python3_devtools
+#beautifulsoup4 #python3_scientific
+#executing #python3_devtools
+#ipython #python3_devtools
+#jedi #python3_devtools
+#matplotlib-inline #python3_devtools
+#parso #python3_devtools
+#pexpect #python3_devtools
+#ptyprocess #python3_devtools
+#pure-eval #python3_devtools
+#pyzmq #python3_circus
+#soupsieve #python3_scientific
+#stack-data #python3_devtools
