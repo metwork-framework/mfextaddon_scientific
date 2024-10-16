@@ -37,6 +37,7 @@
 - remove jsonschema and dependencies (now provided by python3 layer) (#659)
 - add thermofeel and its dependency earthkit-meteo (#660)
 - bump uwsgi-plugin-python3 from 2.0.25.1 to last 2.0.27 (#661)
+- add jupyter with all dependencies (#666)
 
 ### Bug Fixes
 
