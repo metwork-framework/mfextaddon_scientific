@@ -6,6 +6,7 @@ import comm
 import debugpy
 import defusedxml
 import deprecation
+import et_xmlfile
 import faicons
 import fastjsonschema
 import fqdn

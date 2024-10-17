@@ -50,7 +50,6 @@ import ecmwfapi
 import ecmwf.opendata
 import entrypoints
 import esmpy #ESMF
-import et_xmlfile
 import extension_helpers
 import fasteners
 import fastparquet
