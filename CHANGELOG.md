@@ -5,6 +5,7 @@
 ### New Features
 
 - add salem sample data file (backport #653) (#654)
+- upgrade cdsapi to 0.7.3 to be able to use CDS new data stores (#668)
 
 ## v2.2.7 (2024-08-20)
 
