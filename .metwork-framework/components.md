@@ -12,13 +12,8 @@
 | [boltons](https://github.com/mahmoud/boltons) | 23.0.0 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.3.7 | python3_scientific |
 | [branca](https://github.com/python-visualization/branca) | 0.6.0 | python3_scientific |
-<<<<<<< HEAD
-| [cads-api-client](https://pypi.org/project/cads-api-client) | 1.1.0 | python3_scientific |
-| [Cartopy](https://pypi.org/project/Cartopy) | 0.22.0 | python3_scientific |
-=======
 | [cads-api-client](https://pypi.org/project/cads-api-client) | 1.3.2 | python3_scientific |
 | [Cartopy](https://github.com/SciTools/cartopy) | 0.22.0 | python3_scientific |
->>>>>>> 654a42b (feat: upgrade cdsapi to 0.7.3 to be able to use CDS new data stores (#668))
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.6.0 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.2.2 | scientific |
 | [cdsapi](https://github.com/ecmwf/cdsapi) | 0.7.3 | python3_scientific |
