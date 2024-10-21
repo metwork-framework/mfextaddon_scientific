@@ -39,6 +39,7 @@
 - bump uwsgi-plugin-python3 from 2.0.25.1 to last 2.0.27 (#661)
 - add jupyter with all dependencies (#666)
 - upgrade cdsapi to 0.7.3 to be able to use CDS new data stores (#668)
+- bump starlette from 0.36.3 to 0.41.0 to fix CVE-2024-47874 (#671)
 
 ### Bug Fixes
 
