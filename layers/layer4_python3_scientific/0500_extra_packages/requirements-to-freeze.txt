@@ -48,7 +48,6 @@ salem
 regionmask
 opencv-contrib-python-headless
 openturns
-entrypoints
 pdbufr
 pyodc
 ffmpy

@@ -7,6 +7,4 @@ jupyter
 notebook>=7
 jupyter-console
 #requirements required in other layers
-#beautifulsoup4 #python3_scientific
 #pyzmq #python3_circus
-#soupsieve #python3_scientific

@@ -8,7 +8,6 @@ import astropy_iers_data
 import batman
 import batman.pod
 import batman.surrogate
-import bs4 #beautifulsoup4
 import bs4.builder #beautifulsoup4
 import beniget
 import blinker
@@ -48,7 +47,6 @@ import donfig
 import eccodes
 import ecmwfapi
 import ecmwf.opendata
-import entrypoints
 import esmpy #ESMF
 import extension_helpers
 import fasteners
@@ -174,7 +172,6 @@ import seaborn
 import shapely
 import snuggs
 import sortedcontainers
-import soupsieve
 import sqlalchemy
 import statsmodels
 import tblib
