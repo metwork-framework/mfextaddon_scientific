@@ -11,10 +11,7 @@
 | [asgiref](https://github.com/django/asgiref/) | 3.5.2 | python3_extratools |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2024.8.26.0.31.57 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 6.1.2 | python3_scientific |
-| [asttokens](https://github.com/gristlabs/asttokens) | 2.4.0 | python3_extratools |
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.4 | python3_extratools |
-| [Babel](https://babel.pocoo.org/) | 2.13.0 | python3_extratools |
-| [backcall](https://github.com/takluyver/backcall) | 0.2.0 | python3_extratools |
 | [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) | 4.12.2 | python3_extratools |
 | [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) | 4.12.2 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
@@ -66,7 +63,6 @@
 | [esmf](http://www.earthsystemmodeling.org) | 8.6.0 | scientific |
 | [esmpy](http://www.earthsystemmodeling.org) | 8.6.0 | python3_scientific |
 | [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 1.1.0 | python3_extratools |
-| [executing](https://github.com/alexmojaki/executing) | 2.0.1 | python3_extratools |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.1.0 | python3_scientific |
 | [faicons](https://github.com/rstudio/py-faicons) | 0.2.2 | python3_extratools |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
@@ -105,7 +101,6 @@
 | [imageio](https://github.com/imageio/imageio) | 2.31.5 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-16 | scientific |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |
-| [ipython](https://ipython.org) | 8.16.1 | python3_extratools |
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [ipywidgets](http://jupyter.org) | 8.1.5 | python3_extratools |
 | [isoduration](https://github.com/bolsote/isoduration) | 20.11.0 | python3_extratools |
@@ -138,7 +133,6 @@
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.0 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.6.1 | python3_scientific |
-| [matplotlib-inline](https://github.com/ipython/matplotlib-inline) | 0.1.6 | python3_extratools |
 | [matplotlib](https://matplotlib.org) | 3.8.0 | python3_scientific |
 | [mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins) | 0.4.1 | python3_extratools |
 | [meson-python](https://github.com/mesonbuild/meson-python) | 0.15.0 | python3_scientific |
@@ -180,13 +174,10 @@
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.3 | python3_scientific |
 | [pandas](https://pandas.pydata.org) | 2.1.4 | python3_scientific |
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
-| [parso](https://github.com/davidhalter/parso) | 0.8.3 | python3_extratools |
 | [partd](http://github.com/dask/partd/) | 1.4.1 | python3_scientific |
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.1 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 0.5.6 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.11.0 | python3_scientific |
-| [pexpect](https://pexpect.readthedocs.io/) | 4.9.0 | python3_extratools |
-| [pickleshare](https://github.com/pickleshare/pickleshare) | 0.7.5 | python3_extratools |
 | [pillow](https://python-pillow.org) | 10.3.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.22 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
@@ -200,8 +191,6 @@
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.6.7 | python3_scientific |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.0 | python3_extratools |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
-| [ptyprocess](https://github.com/pexpect/ptyprocess) | 0.7.0 | python3_extratools |
-| [pure_eval](http://github.com/alexmojaki/pure_eval) | 0.2.2 | python3_extratools |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
 | [pyarrow](https://arrow.apache.org/) | 14.0.1 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.11.1 | python3_scientific |
@@ -257,7 +246,6 @@
 | [soupsieve](https://github.com/facelessuser/soupsieve) | 2.5 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 1.9.3 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.23 | python3_scientific |
-| [stack_data](http://github.com/alexmojaki/stack_data) | 0.6.3 | python3_extratools |
 | [starlette](https://github.com/encode/starlette) | 0.41.0 | python3_extratools |
 | [statsmodels](https://www.statsmodels.org/) | 0.14.2 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
@@ -293,4 +281,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(292 components)*
+*(280 components)*
