@@ -12,8 +12,6 @@
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2024.8.26.0.31.57 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 6.1.2 | python3_scientific |
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.4 | python3_extratools |
-| [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) | 4.12.2 | python3_extratools |
-| [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) | 4.12.2 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
 | [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
 | [blinker](https://blinker.readthedocs.io) | 1.6.3 | python3_scientific |
@@ -59,7 +57,6 @@
 | [eckit](https://github.com/ecmwf/eckit) | 1.25.0 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.2.0 | python3_scientific |
-| [entrypoints](https://github.com/takluyver/entrypoints) | 0.4 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.6.0 | scientific |
 | [esmpy](http://www.earthsystemmodeling.org) | 8.6.0 | python3_scientific |
 | [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 1.1.0 | python3_extratools |
@@ -242,8 +239,6 @@
 | [sniffio](https://github.com/python-trio/sniffio) | 1.2.0 | python3_extratools |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
-| [soupsieve](https://github.com/facelessuser/soupsieve) | 2.5 | python3_extratools |
-| [soupsieve](https://github.com/facelessuser/soupsieve) | 2.5 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 1.9.3 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.23 | python3_scientific |
 | [starlette](https://github.com/encode/starlette) | 0.41.0 | python3_extratools |
@@ -281,4 +276,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(280 components)*
+*(275 components)*

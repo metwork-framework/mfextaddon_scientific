@@ -5,7 +5,6 @@ apng==0.3.4
 asciitree==0.3.3
 astropy==6.1.2
 astropy-iers-data==0.2024.8.26.0.31.57
-beautifulsoup4==4.12.2
 blinker==1.6.3
 bokeh==3.3.0
 boltons==23.0.0
@@ -38,7 +37,6 @@ earthkit_meteo==0.1.1
 eccodes==1.6.1
 ecmwf-api-client==1.6.3
 ecmwf-opendata==0.2.0
-entrypoints==0.4
 fasteners==0.19
 fastparquet==2023.10.1
 ffmpy==0.3.1
@@ -139,7 +137,6 @@ seaborn==0.13.0
 Shapely==2.0.2
 snuggs==1.4.7
 sortedcontainers==2.4.0
-soupsieve==2.5
 SQLAlchemy==2.0.23
 statsmodels==0.14.2
 tblib==3.0.0
