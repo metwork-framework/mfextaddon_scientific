@@ -40,6 +40,7 @@
 - add jupyter with all dependencies (#666)
 - upgrade cdsapi to 0.7.3 to be able to use CDS new data stores (#668)
 - bump starlette from 0.36.3 to 0.41.0 to fix CVE-2024-47874 (#671)
+- upgrade de eccodes a la derniere version 2.38.3
 
 ### Bug Fixes
 
