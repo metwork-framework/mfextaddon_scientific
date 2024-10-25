@@ -135,8 +135,8 @@
 | [meson-python](https://github.com/mesonbuild/meson-python) | 0.15.0 | python3_scientific |
 | [meson](https://mesonbuild.com) | 1.3.1 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.5.1 | python3_scientific |
-| [metview](https://github.com/ecmwf/metview-python) | 1.15.0 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.21.0 | scientific |
+| [metview](https://github.com/ecmwf/metview-python) | 1.16.1 | python3_scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.23.0 | scientific |
 | [mistune](https://pypi.org/project/mistune) | 3.0.2 | python3_extratools |
 | [monotonic](https://github.com/atdt/monotonic) | 1.6 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.0.7 | python3_scientific |
