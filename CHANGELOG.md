@@ -41,6 +41,9 @@
 - upgrade cdsapi to 0.7.3 to be able to use CDS new data stores (#668)
 - bump starlette from 0.36.3 to 0.41.0 to fix CVE-2024-47874 (#671)
 - upgrade de eccodes a la derniere version 2.38.3
+- bump Magics from 4.15.0 to last release 4.15.4 (#675)
+- upgrade ecbuild, eckit, fckit and build eckit with MPI (#676)
+- upgrade Metview to 5.23.0 and its python binding to 1.16.1 (#677)
 
 ### Bug Fixes
 
