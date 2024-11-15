@@ -38,7 +38,6 @@
 | [cppy](https://github.com/nucleic/cppy) | 1.2.1 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.7.0 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
-| [Cython](https://cython.org/) | 3.0.10 | python3_scientific |
 | [dask-expr](https://pypi.org/project/dask-expr) | 1.0.11 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2024.4.1 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.8 | python3_scientific |
@@ -275,4 +274,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(274 components)*
+*(273 components)*
