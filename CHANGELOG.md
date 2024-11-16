@@ -45,6 +45,7 @@
 - upgrade ecbuild, eckit, fckit and build eckit with MPI (#676)
 - upgrade Metview to 5.23.0 and its python binding to 1.16.1 (#677)
 - upgrade cf-units to 3.3.0 and remove antlr4-python3 dependency (#678)
+- remove Cython (now provided by layer python3) (#679)
 
 ### Bug Fixes
 
