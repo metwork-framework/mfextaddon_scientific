@@ -92,7 +92,7 @@ partd==1.4.1
 pathos==0.3.1
 patsy==0.5.6
 pdbufr==0.11.0
-Pillow==10.3.0
+Pillow==11.0.0
 Pint==0.22
 plotly==5.18.0
 pngquant==1.0.7
