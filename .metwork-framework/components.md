@@ -137,7 +137,7 @@
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.23.0 | scientific |
 | [mistune](https://pypi.org/project/mistune) | 3.0.2 | python3_extratools |
 | [monotonic](https://github.com/atdt/monotonic) | 1.6 | python3_scientific |
-| [msgpack](https://msgpack.org/) | 1.0.7 | python3_scientific |
+| [msgpack](https://msgpack.org/) | 1.1.0 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.15 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.2.1 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
