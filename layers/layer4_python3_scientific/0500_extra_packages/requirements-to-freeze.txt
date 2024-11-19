@@ -94,7 +94,7 @@ FLORIS
 apng
 thermofeel
 #temporarly removed (lack of Python 3.13 support)
-#llvmlite
+llvmlite #temporarly use 0.44.0rc1
 #numba (requiring llvmlite)
 #xclim (requiring numba)
 #icclim (requiring xclim)

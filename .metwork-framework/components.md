@@ -82,15 +82,16 @@
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [htmltools](https://pypi.org/project/htmltools) | 0.5.3 | python3_extratools |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
-| [imageio](https://github.com/imageio/imageio) | 2.31.5 | python3_scientific |
+| [imageio](https://github.com/imageio/imageio) | 2.35.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-16 | scientific |
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 3.0.2 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.5 | python3_scientific |
-| [lazy_loader](https://pypi.org/project/lazy_loader) | 0.3 | python3_scientific |
+| [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0rc1 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.6 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
@@ -180,7 +181,7 @@
 | [salem](https://salem.readthedocs.io) | 0.3.9 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.44.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
-| [scikit-image](https://scikit-image.org) | 0.22.0 | python3_scientific |
+| [scikit-image](https://scikit-image.org) | 0.25.0rc1 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.5.0 | python3_scientific |
 | [SciPy](https://scipy.org/) | 1.11.4 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.10.0 | python3_scientific |
@@ -222,4 +223,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(221 components)*
+*(222 components)*
