@@ -139,7 +139,7 @@
 | [monotonic](https://github.com/atdt/monotonic) | 1.6 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.1.0 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.15 | python3_scientific |
-| [multiurl](https://github.com/ecmwf/multiurl) | 0.2.1 | python3_scientific |
+| [multiurl](https://github.com/ecmwf/multiurl) | 0.3.3 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
 | [nbclient](https://jupyter.org) | 0.10.0 | python3_extratools |
 | [nbconvert](https://jupyter.org) | 7.16.4 | python3_extratools |
