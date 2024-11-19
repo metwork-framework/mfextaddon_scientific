@@ -2,7 +2,6 @@
 | --- | --- | --- |
 | [affine](https://pypi.org/project/affine) | 2.4.0 | python3_scientific |
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.18 | python3_scientific |
-| [antlr4-python3-runtime](http://www.antlr.org) | 4.7.2 | python3_scientific |
 | [anyio](https://pypi.org/project/anyio) | 3.5.0 | python3_extratools |
 | [apng](https://github.com/eight04/pyAPNG) | 0.3.4 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
@@ -21,7 +20,7 @@
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.6.0 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.2.2 | scientific |
 | [cdsapi](https://github.com/ecmwf/cdsapi) | 0.7.0 | python3_scientific |
-| [cf-units](https://github.com/SciTools/cf-units) | 3.2.0 | python3_scientific |
+| [cf-units](https://pypi.org/project/cf-units) | 3.3.0 | python3_scientific |
 | [cf_xarray](https://cf-xarray.readthedocs.io) | 0.8.6 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.10.4 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.6.2 | python3_scientific |
@@ -220,4 +219,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(219 components)*
+*(218 components)*
