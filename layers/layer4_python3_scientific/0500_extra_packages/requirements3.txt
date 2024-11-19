@@ -76,7 +76,7 @@ metview==1.15.0
 monotonic==1.6
 msgpack==1.1.0
 multiprocess==0.70.15
-multiurl==0.2.1
+multiurl==0.3.3
 munch==4.0.0
 nco==1.1.0
 netCDF4==1.6.4
