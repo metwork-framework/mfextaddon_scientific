@@ -194,6 +194,7 @@
 | [soupsieve](https://github.com/facelessuser/soupsieve) | 2.5 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 1.9.3 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.23 | python3_scientific |
+| [standard-imghdr](https://github.com/youknowone/python-deadlib) | 3.13.0 | python3_scientific |
 | [starlette](https://github.com/encode/starlette) | 0.36.3 | python3_extratools |
 | [statsmodels](https://www.statsmodels.org/) | 0.14.2 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
@@ -221,4 +222,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(220 components)*
+*(221 components)*
