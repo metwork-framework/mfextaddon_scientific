@@ -1,6 +1,5 @@
 import affine
 import aggdraw
-import antlr4
 import apng
 import asciitree
 import astropy
