@@ -46,6 +46,12 @@
 - upgrade Metview to 5.23.0 and its python binding to 1.16.1 (#677)
 - upgrade cf-units to 3.3.0 and remove antlr4-python3 dependency (#678)
 - remove Cython (now provided by layer python3) (#679)
+- upgrade Pillow from 10.3.0 to 11.0.0 (Python3 compatibility) (#680)
+- upgrade pyarrow from 14.0.1 to 18.0.0 (Python 3.13 compatibility) (#681)
+- upgrade Cartopy from 0.22.0 to 0.24.1 (Python 3.13 compatibility) (#682)
+- upgrade greenlet from 3.0.1 to 3.1.1 (Python 3.13 compatibility) (#683)
+- upgrade lxml from 4.9.3 to 5.3.0 (Python 3.13 compatibility) (#684)
+- upgrade msgpack from 1.0.7 to 1.1.0 (Python 3.13 compatibility) (#685)
 
 ### Bug Fixes
 
