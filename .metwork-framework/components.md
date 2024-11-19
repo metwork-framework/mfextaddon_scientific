@@ -70,6 +70,8 @@
 | [fiona](https://pypi.org/project/fiona) | 1.10.0rc1 | python3_scientific |
 | [Flask](https://pypi.org/project/Flask) | 3.0.0 | python3_scientific |
 | [flatten-dict](https://github.com/ianlini/flatten-dict) | 0.4.2 | python3_scientific |
+| [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
+| [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.9.0 | python3_scientific |
 | [FLORIS](https://github.com/NREL/FLORIS) | 3.5 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.14.0 | python3_scientific |
@@ -174,7 +176,7 @@
 | [patsy](https://github.com/pydata/patsy) | 0.5.6 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.11.0 | python3_scientific |
 | [pillow](https://python-pillow.org) | 11.0.0 | python3_scientific |
-| [Pint](https://github.com/hgrecco/pint) | 0.22 | python3_scientific |
+| [Pint](https://github.com/hgrecco/pint) | 0.24.4 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 5.18.0 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
@@ -274,4 +276,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(273 components)*
+*(275 components)*
