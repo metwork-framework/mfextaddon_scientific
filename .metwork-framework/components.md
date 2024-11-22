@@ -29,7 +29,7 @@
 | [cftime](https://pypi.org/project/cftime) | 1.6.2 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
-| [climetlab](https://github.com/ecmwf/climetlab) | 0.20.1 | python3_scientific |
+| [climetlab](https://github.com/ecmwf/climetlab/) | 0.24.1 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.0.0 | python3_scientific |
 | [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
