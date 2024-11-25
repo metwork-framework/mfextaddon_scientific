@@ -53,6 +53,7 @@
 - upgrade lxml from 4.9.3 to 5.3.0 (Python 3.13 compatibility) (#684)
 - upgrade msgpack from 1.0.7 to 1.1.0 (Python 3.13 compatibility) (#685)
 - bump Pint from 0.22 to 0.24.4 (Python 3.13 compatibility) (#688)
+- bump SQLalchemy from 2.0.23 to 2.0.36 (Python 3.13 compatibility) (#689)
 
 ### Bug Fixes
 
