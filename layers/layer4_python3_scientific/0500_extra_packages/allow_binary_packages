@@ -7,3 +7,4 @@ partd
 polars
 pyarrow
 pyYAML
+scipy
