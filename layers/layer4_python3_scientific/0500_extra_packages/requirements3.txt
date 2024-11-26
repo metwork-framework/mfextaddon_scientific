@@ -33,7 +33,7 @@ descartes==1.1.0
 distributed==2024.4.1
 donfig==0.8.1
 earthkit_meteo==0.1.1
-eccodes==2.38.3
+eccodes==2.39.0
 ecmwf-api-client==1.6.3
 ecmwf-opendata==0.2.0
 fasteners==0.19
