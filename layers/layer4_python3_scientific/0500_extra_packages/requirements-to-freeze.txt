@@ -48,7 +48,6 @@ salem
 regionmask
 opencv-contrib-python-headless
 openturns
-entrypoints
 pdbufr
 pyodc
 ffmpy
@@ -69,7 +68,7 @@ pyepsg
 statsmodels
 bokeh
 astropy
-#note : icclim 6.5.0 requires xclim>=0.45,<=0.47
+#note : icclim 7.0.0 requires xclim>=0.45,<=0.48
 icclim
 protobuf
 xclim

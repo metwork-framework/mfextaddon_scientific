@@ -3,3 +3,8 @@ odswriter
 openpyxl
 shiny
 xlsxwriter
+jupyter
+notebook>=7
+jupyter-console
+#requirements required in other layers
+#pyzmq #python3_circus

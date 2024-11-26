@@ -1,5 +1,12 @@
 # release_2.2 CHANGELOG
 
+## v2.2.8 (2024-10-17)
+
+### New Features
+
+- add salem sample data file (backport #653) (#654)
+- upgrade cdsapi to 0.7.3 to be able to use CDS new data stores (#668)
+
 ## v2.2.7 (2024-08-20)
 
 ### New Features

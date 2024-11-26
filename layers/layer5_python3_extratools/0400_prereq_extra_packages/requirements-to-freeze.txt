@@ -1,0 +1,4 @@
+jupyter-builder
+hatch-jupyter-builder
+jupyter-client
+jupyter-packaging
