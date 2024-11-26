@@ -85,7 +85,6 @@ netCDF4==1.6.4
 numcodecs==0.12.1
 numexpr==2.10.1
 numpngw==0.1.3
-openturns==1.24
 opencv-contrib-python-headless==4.10.0.84
 openturns==1.24
 -e git+https://gitlab.com/thebaptiste/batman.git@1.9.3-develop-mf#egg=ot-batman
