@@ -128,7 +128,7 @@
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 5.3.0 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.4 | scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.6.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.9.2 | python3_scientific |
 | [mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins) | 0.4.1 | python3_extratools |
