@@ -126,7 +126,7 @@
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.9.0.80 | python3_scientific |
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.2 | python3_extratools |
-| [openturns](http://www.openturns.org) | 1.24rc1 | python3_scientific |
+| [openturns](http://www.openturns.org) | 1.24 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.2-develop-mf | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.3 | python3_scientific |
 | [pandas](https://pandas.pydata.org) | 2.1.4 | python3_scientific |
