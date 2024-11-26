@@ -119,6 +119,7 @@
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.6.4 | python3_scientific |
 | [networkx](https://networkx.org/) | 3.2.1 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1.1 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.61.0rc1 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.12.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.9.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.3 | python3_scientific |
@@ -223,4 +224,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(222 components)*
+*(223 components)*
