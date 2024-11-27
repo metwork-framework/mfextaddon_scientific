@@ -55,6 +55,10 @@
 - bump Pint from 0.22 to 0.24.4 (Python 3.13 compatibility) (#688)
 - bump SQLalchemy from 2.0.23 to 2.0.36 (Python 3.13 compatibility) (#689)
 - upgrade numpy from 1.26.2 to to 2.0.2 (with other necessary upgrades) (#690)
+- bump eccodes and its python binding from 2.38.3 to 2.39.0 (#691)
+- bump Magics to 4.15.5 (last release) (#692)
+- upgrade openturns from 1.22 to 1.24 (Python 3.13 compatibility) (#693)
+- upgrade Metview from 5.23.0 to 5.23.1 (#694)
 
 ### Bug Fixes
 
