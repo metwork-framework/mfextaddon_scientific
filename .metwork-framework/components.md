@@ -8,6 +8,7 @@
 | [argon2-cffi](https://pypi.org/project/argon2-cffi) | 23.1.0 | python3_extratools |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [asgiref](https://github.com/django/asgiref/) | 3.5.2 | python3_extratools |
+| [Aspose.Slides](https://products.aspose.com/slides/python-net/) | 24.11.0 | python3_extratools |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2024.8.26.0.31.57 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 6.1.2 | python3_scientific |
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.4 | python3_extratools |
@@ -212,6 +213,7 @@
 | [pysteps](https://pysteps.github.io/) | 1.7.4 | python3_scientific |
 | [python-json-logger](http://github.com/madzak/python-json-logger) | 2.0.7 | python3_extratools |
 | [python-multipart](https://github.com/andrew-d/python-multipart) | 0.0.9 | python3_extratools |
+| [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.14.0 | python3_scientific |
 | [pytz_deprecation_shim](https://github.com/pganssle/pytz-deprecation-shim) | 0.1.0.post0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.4.1 | python3_scientific |
@@ -277,4 +279,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(276 components)*
+*(278 components)*
