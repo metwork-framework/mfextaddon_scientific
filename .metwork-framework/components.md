@@ -212,7 +212,7 @@
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.7.4 | python3_scientific |
 | [python-json-logger](http://github.com/madzak/python-json-logger) | 2.0.7 | python3_extratools |
-| [python-multipart](https://github.com/andrew-d/python-multipart) | 0.0.9 | python3_extratools |
+| [python-multipart](https://github.com/Kludex/python-multipart) | 0.0.19 | python3_extratools |
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.14.0 | python3_scientific |
 | [pytz_deprecation_shim](https://github.com/pganssle/pytz-deprecation-shim) | 0.1.0.post0 | python3_scientific |
