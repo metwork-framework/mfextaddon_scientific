@@ -59,6 +59,8 @@
 - bump Magics to 4.15.5 (last release) (#692)
 - upgrade openturns from 1.22 to 1.24 (Python 3.13 compatibility) (#693)
 - upgrade Metview from 5.23.0 to 5.23.1 (#694)
+- add python-pptx and Aspose.slides (#699)
+- bump python-multipart from 0.0.9 to 0.0.19 (fix CVE-2024-53981) (#700)
 
 ### Bug Fixes
 
