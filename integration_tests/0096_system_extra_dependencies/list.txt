@@ -68,7 +68,6 @@ libkrb5support.so.0
 liblapack.so.3
 libLerc.so.4
 libltdl.so.7
-liblttng-ust.so.0
 liblz4.so.1
 liblzma.so.5
 libm.so.6
