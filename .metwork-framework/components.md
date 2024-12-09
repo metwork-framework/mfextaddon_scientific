@@ -214,7 +214,7 @@
 | [python-json-logger](http://github.com/madzak/python-json-logger) | 2.0.7 | python3_extratools |
 | [python-multipart](https://github.com/Kludex/python-multipart) | 0.0.19 | python3_extratools |
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
-| [pythran](https://github.com/serge-sans-paille/pythran) | 0.14.0 | python3_scientific |
+| [pythran](https://github.com/serge-sans-paille/pythran) | 0.16.1 | python3_scientific |
 | [pytz_deprecation_shim](https://github.com/pganssle/pytz-deprecation-shim) | 0.1.0.post0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.4.1 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 25.1.1 | python3_extratools |
