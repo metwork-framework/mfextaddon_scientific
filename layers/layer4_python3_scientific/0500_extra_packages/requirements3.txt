@@ -5,7 +5,7 @@ asciitree==0.3.3
 astropy==6.1.2
 astropy-iers-data==0.2024.8.26.0.31.57
 blinker==1.6.3
-bokeh==3.3.0
+bokeh==3.6.2
 boltons==23.0.0
 Bottleneck==1.4.2
 branca==0.6.0
