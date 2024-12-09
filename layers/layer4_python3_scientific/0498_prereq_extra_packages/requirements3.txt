@@ -4,5 +4,5 @@ networkx==3.2.1
 numpy==2.0.2
 ply==3.11
 pybind11==2.12.1
-pythran==0.14.0
+pythran==0.16.1
 versioneer==0.29
