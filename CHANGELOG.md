@@ -61,6 +61,9 @@
 - upgrade Metview from 5.23.0 to 5.23.1 (#694)
 - add python-pptx and Aspose.slides (#699)
 - bump python-multipart from 0.0.9 to 0.0.19 (fix CVE-2024-53981) (#700)
+- upgrade pythran from 0.14.0 to 0.16.1 (compatibility numpy 2) (#705)
+- upgrade xarray from 2023.11.0 to 2024.11.0 (compatibility numpy 2) (#706)
+- upgrade bokeh from 3.3.0 to 3.6.2 (compatibility numpy 2) (#707)
 
 ### Bug Fixes
 
