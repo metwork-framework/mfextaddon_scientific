@@ -25,7 +25,7 @@
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.2.2 | scientific |
 | [cdsapi](https://github.com/ecmwf/cdsapi) | 0.7.5 | python3_scientific |
 | [cf-units](https://pypi.org/project/cf-units) | 3.3.0 | python3_scientific |
-| [cf_xarray](https://cf-xarray.readthedocs.io) | 0.8.6 | python3_scientific |
+| [cf_xarray](https://cf-xarray.readthedocs.io) | 0.10.0 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.10.4 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.6.4.post1 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
