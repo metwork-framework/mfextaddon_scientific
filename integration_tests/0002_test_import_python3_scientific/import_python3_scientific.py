@@ -54,6 +54,8 @@ import findlibs
 import fiona
 import flask
 import flatten_dict
+import flexcache
+import flexparser
 import flit
 import floris
 import folium
@@ -68,7 +70,7 @@ import greenlet
 import h5py
 import heapdict
 import humanfriendly
-import icclim
+#import icclim
 import imageio
 import ipython_genutils
 import itsdangerous
@@ -78,7 +80,7 @@ import jsonschema
 import jsonschema_specifications
 import kiwisolver
 import lazy_loader
-import llvmlite
+#import llvmlite
 import lmoments3
 import locket
 import lru #lru_dict
@@ -101,7 +103,7 @@ nco = Nco()
 import netCDF4
 import networkx
 import ninja
-import numba
+#import numba
 import numcodecs
 import numexpr
 import numpy
@@ -184,7 +186,7 @@ import tzdata
 import tzlocal
 import versioneer
 import xarray
-import xclim
+#import xclim
 import xlsxwriter
 import xxhash
 import xyzservices
