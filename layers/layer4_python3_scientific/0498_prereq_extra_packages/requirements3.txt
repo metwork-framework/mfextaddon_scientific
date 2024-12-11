@@ -3,6 +3,6 @@ gast==0.5.4
 networkx==3.2.1
 numpy==2.0.2
 ply==3.11
-pybind11==2.12.1
+pybind11==2.13.6
 pythran==0.16.1
 versioneer==0.29
