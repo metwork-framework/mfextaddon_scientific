@@ -23,7 +23,7 @@
 | [Cartopy](https://github.com/SciTools/cartopy) | 0.24.1 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.6.0 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.2.2 | scientific |
-| [cdsapi](https://github.com/ecmwf/cdsapi) | 0.7.3 | python3_scientific |
+| [cdsapi](https://github.com/ecmwf/cdsapi) | 0.7.5 | python3_scientific |
 | [cf-units](https://pypi.org/project/cf-units) | 3.3.0 | python3_scientific |
 | [cf_xarray](https://cf-xarray.readthedocs.io) | 0.8.6 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.10.4 | python3_scientific |
@@ -41,6 +41,7 @@
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
 | [dask-expr](https://pypi.org/project/dask-expr) | 1.0.11 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2024.4.1 | python3_scientific |
+| [datapi](https://pypi.org/project/datapi) | 0.1.1 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.8 | python3_scientific |
 | [debugpy](https://aka.ms/debugpy) | 1.8.7 | python3_extratools |
 | [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | python3_extratools |
@@ -279,4 +280,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(278 components)*
+*(279 components)*
