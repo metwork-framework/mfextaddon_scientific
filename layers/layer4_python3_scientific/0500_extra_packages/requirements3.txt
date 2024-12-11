@@ -38,7 +38,7 @@ eccodes==2.39.0
 ecmwf-api-client==1.6.3
 ecmwf-opendata==0.2.0
 fasteners==0.19
-fastparquet==2023.10.1
+fastparquet==2024.11.0
 ffmpy==0.3.1
 findlibs==0.0.5
 Fiona==1.10.0rc1
