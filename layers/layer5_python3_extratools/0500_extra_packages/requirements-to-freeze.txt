@@ -6,5 +6,7 @@ xlsxwriter
 jupyter
 notebook>=7
 jupyter-console
+python-pptx
+Aspose.Slides
 #requirements required in other layers
 #pyzmq #python3_circus

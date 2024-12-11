@@ -8,13 +8,14 @@
 | [argon2-cffi](https://pypi.org/project/argon2-cffi) | 23.1.0 | python3_extratools |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [asgiref](https://github.com/django/asgiref/) | 3.5.2 | python3_extratools |
+| [Aspose.Slides](https://products.aspose.com/slides/python-net/) | 24.11.0 | python3_extratools |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2024.8.26.0.31.57 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 6.1.2 | python3_scientific |
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.4 | python3_extratools |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
 | [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
 | [blinker](https://blinker.readthedocs.io) | 1.6.3 | python3_scientific |
-| [bokeh](https://bokeh.org) | 3.3.0 | python3_scientific |
+| [bokeh](https://bokeh.org) | 3.6.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 23.0.0 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.4.2 | python3_scientific |
 | [branca](https://github.com/python-visualization/branca) | 0.6.0 | python3_scientific |
@@ -22,11 +23,11 @@
 | [Cartopy](https://github.com/SciTools/cartopy) | 0.24.1 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.6.0 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.2.2 | scientific |
-| [cdsapi](https://github.com/ecmwf/cdsapi) | 0.7.3 | python3_scientific |
+| [cdsapi](https://github.com/ecmwf/cdsapi) | 0.7.5 | python3_scientific |
 | [cf-units](https://pypi.org/project/cf-units) | 3.3.0 | python3_scientific |
 | [cf_xarray](https://cf-xarray.readthedocs.io) | 0.8.6 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.10.4 | python3_scientific |
-| [cftime](https://pypi.org/project/cftime) | 1.6.2 | python3_scientific |
+| [cftime](https://pypi.org/project/cftime) | 1.6.4.post1 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab/) | 0.24.1 | python3_scientific |
@@ -40,6 +41,7 @@
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
 | [dask-expr](https://pypi.org/project/dask-expr) | 1.0.11 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2024.4.1 | python3_scientific |
+| [datapi](https://pypi.org/project/datapi) | 0.1.1 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.8 | python3_scientific |
 | [debugpy](https://aka.ms/debugpy) | 1.8.7 | python3_extratools |
 | [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | python3_extratools |
@@ -210,8 +212,9 @@
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.7.4 | python3_scientific |
 | [python-json-logger](http://github.com/madzak/python-json-logger) | 2.0.7 | python3_extratools |
-| [python-multipart](https://github.com/andrew-d/python-multipart) | 0.0.9 | python3_extratools |
-| [pythran](https://github.com/serge-sans-paille/pythran) | 0.14.0 | python3_scientific |
+| [python-multipart](https://github.com/Kludex/python-multipart) | 0.0.19 | python3_extratools |
+| [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
+| [pythran](https://github.com/serge-sans-paille/pythran) | 0.16.1 | python3_scientific |
 | [pytz_deprecation_shim](https://github.com/pganssle/pytz-deprecation-shim) | 0.1.0.post0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.4.1 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 25.1.1 | python3_extratools |
@@ -268,7 +271,7 @@
 | [websockets](https://github.com/python-websockets/websockets) | 13.0.1 | python3_extratools |
 | [widgetsnbextension](http://jupyter.org) | 4.0.13 | python3_extratools |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
-| [xarray](https://xarray.dev/) | 2023.11.0 | python3_scientific |
+| [xarray](https://xarray.dev/) | 2024.11.0 | python3_scientific |
 | [xclim](https://xclim.readthedocs.io/) | 0.48.2 | python3_scientific |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
@@ -277,4 +280,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(276 components)*
+*(279 components)*

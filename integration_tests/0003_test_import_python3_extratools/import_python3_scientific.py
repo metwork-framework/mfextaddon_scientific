@@ -1,5 +1,6 @@
 import anyio
 import asgiref
+import aspose.slides
 import async_lru
 import bleach
 import comm
@@ -46,6 +47,7 @@ import notebook
 import notebook_shim
 import overrides
 import pandocfilters
+import pptx #python-pptx
 import prometheus_client
 import pythonjsonlogger
 import zmq #pyzmq
