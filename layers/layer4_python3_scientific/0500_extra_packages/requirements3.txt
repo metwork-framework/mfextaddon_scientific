@@ -15,7 +15,7 @@ cdo==1.6.0
 cdsapi==0.7.5
 cftime==1.6.4.post1
 cf-units==3.3.0
-cf-xarray==0.8.6
+cf-xarray==0.10.0
 cfgrib==0.9.10.4
 click-plugins==1.1.1
 cligj==0.7.2
