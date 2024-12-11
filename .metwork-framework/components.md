@@ -35,7 +35,7 @@
 | [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
-| [contourpy](https://github.com/contourpy/contourpy) | 1.2.1 | python3_scientific |
+| [contourpy](https://github.com/contourpy/contourpy) | 1.3.1 | python3_scientific |
 | [cppy](https://github.com/nucleic/cppy) | 1.2.1 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.7.0 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
@@ -192,7 +192,7 @@
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
 | [pyarrow](https://arrow.apache.org/) | 18.0.0 | python3_scientific |
-| [pybind11](https://github.com/pybind/pybind11) | 2.12.1 | python3_scientific |
+| [pybind11](https://github.com/pybind/pybind11) | 2.13.6 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.6.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.2 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.4.0 | python3_scientific |
