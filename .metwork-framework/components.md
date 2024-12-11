@@ -64,7 +64,7 @@
 | [faicons](https://github.com/rstudio/py-faicons) | 0.2.2 | python3_extratools |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastjsonschema](https://github.com/horejsek/python-fastjsonschema) | 2.20.0 | python3_extratools |
-| [fastparquet](https://github.com/dask/fastparquet/) | 2023.10.1 | python3_scientific |
+| [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.13.1 | scientific |
 | [FFmpeg](https://ffmpeg.org/) | 6.0 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.1 | python3_scientific |
