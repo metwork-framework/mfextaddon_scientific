@@ -47,7 +47,7 @@ flatten-dict==0.4.2
 flexcache==0.3
 flexparser==0.4
 FLORIS==3.5
-folium==0.14.0
+folium==0.19.1
 fonttools==4.43.1
 GDAL==3.8.3
 geographiclib==2.0
