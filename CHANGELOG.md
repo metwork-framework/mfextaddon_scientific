@@ -64,6 +64,14 @@
 - upgrade pythran from 0.14.0 to 0.16.1 (compatibility numpy 2) (#705)
 - upgrade xarray from 2023.11.0 to 2024.11.0 (compatibility numpy 2) (#706)
 - upgrade bokeh from 3.3.0 to 3.6.2 (compatibility numpy 2) (#707)
+- upgrade cftime from 1.6.2 to 1.6.4.post1 (compatibility numpy 2) (#708)
+- bump cdsapi to 0.7.5 (compatibility Python 3.13) (#709)
+- bump cf-xarray from 0.8.6 to 0.10.0 (compatibility numpy 2) (#712)
+- bump cfgrib from 0.9.10.4 to 0.9.14.1 (#713)
+- upgrade contourpy to 1.3.1 and pybind11 to 2.13.6 (#714)
+- upgrade dask and distributed to 2024.12.0 (#716)
+- upgrade esmf and its python binding from 8.6.0 to 8.7.0 (#717)
+- upgrade fastparquet from 2023.10.1 to 2024.11.0 (#718)
 
 ### Bug Fixes
 
