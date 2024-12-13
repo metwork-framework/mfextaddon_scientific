@@ -51,9 +51,9 @@ flexparser==0.4
 FLORIS==3.5
 folium==0.19.1
 fonttools==4.43.1
-GDAL==3.8.3
+GDAL==3.9.3
 geographiclib==2.0
-geopandas==0.14.4
+geopandas==1.0.1
 geos==0.2.3
 graphviz==0.20.1
 greenlet==3.1.1

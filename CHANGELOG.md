@@ -72,6 +72,7 @@
 - upgrade dask and distributed to 2024.12.0 (#716)
 - upgrade esmf and its python binding from 8.6.0 to 8.7.0 (#717)
 - upgrade fastparquet from 2023.10.1 to 2024.11.0 (#718)
+- bump folium from 0.14.0 to 0.19.1 (numpy 2 and Python 3.13) (#720)
 
 ### Bug Fixes
 
