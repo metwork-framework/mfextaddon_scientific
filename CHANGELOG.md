@@ -73,6 +73,8 @@
 - upgrade esmf and its python binding from 8.6.0 to 8.7.0 (#717)
 - upgrade fastparquet from 2023.10.1 to 2024.11.0 (#718)
 - bump folium from 0.14.0 to 0.19.1 (numpy 2 and Python 3.13) (#720)
+- bump GDAL from 3.8.3 to 3.9.3 (as C-library in mfext) (#722)
+- upgrade geopandas from 0.14.4 to 1.0.1 (breaking changes) (#723)
 
 ### Bug Fixes
 
