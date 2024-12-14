@@ -57,8 +57,8 @@
 | [eckit](https://github.com/ecmwf/eckit) | 1.28.1 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.2.0 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.6.0 | scientific |
-| [esmpy](http://www.earthsystemmodeling.org) | 8.6.0 | python3_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.7.0 | scientific |
+| [esmpy](http://www.earthsystemmodeling.org) | 8.7.0 | python3_scientific |
 | [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 1.1.0 | python3_extratools |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.1.0 | python3_scientific |
 | [faicons](https://github.com/rstudio/py-faicons) | 0.2.2 | python3_extratools |
