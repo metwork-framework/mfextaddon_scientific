@@ -58,7 +58,7 @@ geos==0.2.3
 graphviz==0.20.1
 greenlet==3.1.1
 humanfriendly==10.0
-h5py==3.11.0
+h5py==3.12.1
 HeapDict==1.0.1
 imageio==2.35.1
 ipython-genutils==0.2.0
