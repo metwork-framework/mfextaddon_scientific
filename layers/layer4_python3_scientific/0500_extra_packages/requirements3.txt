@@ -64,7 +64,7 @@ itsdangerous==2.1.2
 jsmin==3.0.1
 jsonpickle==3.0.2
 kiwisolver==1.4.5
-lazy-loader==0.3
+lazy-loader==0.4
 llvmlite==0.44.0rc2
 lmoments3==1.0.8
 locket==1.0.0
