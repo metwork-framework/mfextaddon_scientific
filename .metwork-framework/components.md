@@ -89,7 +89,7 @@
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 3.1.1 | python3_scientific |
 | [h11](https://github.com/python-hyper/h11) | 0.13.0 | python3_extratools |
-| [h5py](https://www.h5py.org/) | 3.11.0 | python3_scientific |
+| [h5py](https://www.h5py.org/) | 3.12.1 | python3_scientific |
 | [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [htmltools](https://pypi.org/project/htmltools) | 0.5.3 | python3_extratools |
