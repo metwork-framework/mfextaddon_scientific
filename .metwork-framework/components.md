@@ -96,7 +96,6 @@
 | [httpcore](https://www.encode.io/httpcore/) | 1.0.6 | python3_extratools |
 | [httpx](https://github.com/encode/httpx) | 0.27.2 | python3_extratools |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
-| [icclim](https://pypi.org/project/icclim) | 7.0.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.36.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-16 | scientific |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |
@@ -124,7 +123,7 @@
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.5 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.3 | python3_scientific |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.43.0 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0rc2 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.6 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
@@ -159,7 +158,7 @@
 | [ninja](http://ninja-build.org/) | 1.11.1.1 | python3_scientific |
 | [notebook](https://github.com/jupyter/notebook) | 7.2.2 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
-| [numba](https://numba.pydata.org) | 0.60.0 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.61.0rc1 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.12.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.10.1 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.3 | python3_scientific |
@@ -272,7 +271,7 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.13 | python3_extratools |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2024.11.0 | python3_scientific |
-| [xclim](https://xclim.readthedocs.io/) | 0.48.0 | python3_scientific |
+| [xclim](https://xclim.readthedocs.io/) | 0.48.2 | python3_scientific |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2023.10.0 | python3_scientific |
@@ -280,4 +279,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(279 components)*
+*(278 components)*
