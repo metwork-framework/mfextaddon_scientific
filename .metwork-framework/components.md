@@ -124,7 +124,7 @@
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.3 | python3_scientific |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0rc2 | python3_scientific |
-| [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.6 | python3_scientific |
+| [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.8 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
 | [lxml](https://lxml.de/) | 5.3.0 | python3_scientific |
