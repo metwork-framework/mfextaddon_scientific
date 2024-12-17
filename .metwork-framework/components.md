@@ -97,7 +97,7 @@
 | [httpx](https://github.com/encode/httpx) | 0.27.2 | python3_extratools |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [icclim](https://pypi.org/project/icclim) | 7.0.0 | python3_scientific |
-| [imageio](https://github.com/imageio/imageio) | 2.31.5 | python3_scientific |
+| [imageio](https://github.com/imageio/imageio) | 2.36.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-16 | scientific |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_scientific |
