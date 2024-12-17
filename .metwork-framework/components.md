@@ -121,7 +121,7 @@
 | [jupyterlab_pygments](https://github.com/jupyterlab/jupyterlab_pygments) | 0.3.0 | python3_extratools |
 | [jupyterlab_server](https://jupyterlab-server.readthedocs.io) | 2.27.3 | python3_extratools |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.5 | python3_scientific |
-| [lazy_loader](https://pypi.org/project/lazy_loader) | 0.3 | python3_scientific |
+| [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0rc2 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.8 | python3_scientific |
@@ -229,7 +229,7 @@
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.44.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
-| [scikit-image](https://scikit-image.org) | 0.22.0 | python3_scientific |
+| [scikit-image](https://scikit-image.org) | 0.25.0rc1 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.5.0 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.14.1 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.11.0 | python3_scientific |
@@ -243,6 +243,7 @@
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 1.9.3 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.36 | python3_scientific |
+| [standard-imghdr](https://github.com/youknowone/python-deadlib) | 3.13.0 | python3_scientific |
 | [starlette](https://github.com/encode/starlette) | 0.41.0 | python3_extratools |
 | [statsmodels](https://www.statsmodels.org/) | 0.14.2 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
