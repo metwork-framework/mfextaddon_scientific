@@ -93,7 +93,6 @@ import metpy
 import metpy.plots
 import metview
 import monotonic
-import mpi4py
 import msgpack
 import multiprocess
 import multiurl
