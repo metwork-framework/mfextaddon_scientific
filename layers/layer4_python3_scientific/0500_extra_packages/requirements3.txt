@@ -131,7 +131,7 @@ reportlab==4.0.6
 rtree==1.1.0
 salem==0.3.11
 satpy==0.44.0
-scikit-image==0.25.0rc1
+scikit-image==0.25.0
 scikit-learn==1.5.0
 scitools-iris==3.11.0
 seaborn==0.13.0

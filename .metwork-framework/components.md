@@ -229,7 +229,7 @@
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.44.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
-| [scikit-image](https://scikit-image.org) | 0.25.0rc1 | python3_scientific |
+| [scikit-image](https://scikit-image.org) | 0.25.0 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.5.0 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.14.1 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.11.0 | python3_scientific |
