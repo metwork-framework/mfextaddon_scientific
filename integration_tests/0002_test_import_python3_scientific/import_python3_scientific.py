@@ -55,6 +55,8 @@ import findlibs
 import fiona
 import flask
 import flatten_dict
+import flexcache
+import flexparser
 import flit
 import floris
 import folium
