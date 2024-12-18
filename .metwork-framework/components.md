@@ -230,7 +230,7 @@
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.44.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.16.2 | python3_scientific |
-| [scikit-image](https://scikit-image.org) | 0.22.0 | python3_scientific |
+| [scikit-image](https://scikit-image.org) | 0.25.0rc1 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.5.0 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.14.1 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.11.0 | python3_scientific |
@@ -244,6 +244,7 @@
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 1.9.3 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.36 | python3_scientific |
+| [standard-imghdr](https://github.com/youknowone/python-deadlib) | 3.13.0 | python3_scientific |
 | [starlette](https://github.com/encode/starlette) | 0.41.0 | python3_extratools |
 | [statsmodels](https://www.statsmodels.org/) | 0.14.2 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
