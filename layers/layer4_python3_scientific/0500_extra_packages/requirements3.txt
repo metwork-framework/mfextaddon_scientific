@@ -82,7 +82,7 @@ multiprocess==0.70.15
 multiurl==0.3.3
 munch==4.0.0
 nco==1.1.2
-netCDF4==1.6.4
+netCDF4==1.7.2
 numba==0.61.0rc1
 numcodecs==0.12.1
 numexpr==2.10.1
