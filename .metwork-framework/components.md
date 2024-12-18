@@ -130,7 +130,7 @@
 | [lxml](https://lxml.de/) | 5.3.0 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
-| [mapclassify](https://pypi.org/project/mapclassify) | 2.6.1 | python3_scientific |
+| [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.9.2 | python3_scientific |
 | [mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins) | 0.4.1 | python3_extratools |
 | [meson-python](https://github.com/mesonbuild/meson-python) | 0.15.0 | python3_scientific |
@@ -140,6 +140,7 @@
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.23.1 | scientific |
 | [mistune](https://pypi.org/project/mistune) | 3.0.2 | python3_extratools |
 | [monotonic](https://github.com/atdt/monotonic) | 1.6 | python3_scientific |
+| [mpi4py](https://mpi4py.github.io) | 4.0.1 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.1.0 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.15 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.3 | python3_scientific |
@@ -279,4 +280,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(278 components)*
+*(279 components)*

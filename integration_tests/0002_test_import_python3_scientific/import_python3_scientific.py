@@ -69,7 +69,7 @@ import greenlet
 import h5py
 import heapdict
 import humanfriendly
-import icclim
+#import icclim (temporarly removed)
 import imageio
 import ipython_genutils
 import itsdangerous
@@ -93,6 +93,7 @@ import metpy
 import metpy.plots
 import metview
 import monotonic
+import mpi4py
 import msgpack
 import multiprocess
 import multiurl
