@@ -52,7 +52,6 @@ pdbufr
 pyodc
 ffmpy
 -e git+https://gitlab.com/cerfacs/batman.git#egg=ot-batman
-numba
 pyhdf
 pygmt
 pysteps
@@ -92,3 +91,8 @@ FLORIS
 #apng seems to be not maintained anymore
 apng
 thermofeel
+#temporarly removed (lack of Python 3.13 support)
+llvmlite #temporarly use 0.44.0rc1
+numba #temporarly use  0.61.0rc1
+#xclim (requiring numba)
+#icclim (requiring xclim)
