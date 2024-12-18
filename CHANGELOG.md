@@ -75,6 +75,11 @@
 - bump folium from 0.14.0 to 0.19.1 (numpy 2 and Python 3.13) (#720)
 - bump GDAL from 3.8.3 to 3.9.3 (as C-library in mfext) (#722)
 - upgrade geopandas from 0.14.4 to 1.0.1 (breaking changes) (#723)
+- bump h5py from 3.11.0 to 3.12.1 (compatibility Python 3.13) (#727)
+- bump imageio from 2.31.5 to 2.36.1 (compatibility numpy 2) (#729)
+- upgrade llvmlite, numba, xclim to releases ok with Python 3.13 (#731)
+- bump lmoments3 from 1.0.6 to 1.0.8 (numpy 2 & Python 3.13) (#734)
+- bump lazy-loader to 0.4 (Python 3.13) (#736)
 
 ### Bug Fixes
 
