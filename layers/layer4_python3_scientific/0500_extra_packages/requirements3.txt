@@ -73,7 +73,7 @@ lxml==5.3.0
 Magics==1.5.8
 mapclassify==2.8.1
 matplotlib==3.10.0
-MetPy==1.5.1
+MetPy==1.6.3
 metview==1.16.1
 monotonic==1.6
 mpi4py==4.0.1
