@@ -76,7 +76,6 @@ matplotlib==3.10.0
 MetPy==1.6.3
 metview==1.16.1
 monotonic==1.6
-mpi4py==4.0.1
 msgpack==1.1.0
 multiprocess==0.70.15
 multiurl==0.3.3
