@@ -161,7 +161,7 @@
 | [numba](https://numba.pydata.org) | 0.61.0rc1 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.14.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.10.2 | python3_scientific |
-| [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.3 | python3_scientific |
+| [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.0.2 | python3_scientific |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.10.0.84 | python3_scientific |
