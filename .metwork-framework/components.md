@@ -122,6 +122,7 @@
 | [jupyterlab_server](https://jupyterlab-server.readthedocs.io) | 2.27.3 | python3_extratools |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.5 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
+| [libimagequant](https://pngquant.org/lib/) | 4.3.3 | scientific |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0rc2 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.8 | python3_scientific |
@@ -181,8 +182,8 @@
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 5.18.0 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
-| [pngquant](https://github.com/Brightcells/pngquant) | 1.0.7 | python3_scientific |
-| [pngquant](http://www.pngquant.org/) | 2.18.0 | scientific |
+| [pngquant](https://github.com/Brightcells/pngquant) | 1.0.8 | python3_scientific |
+| [pngquant](http://www.pngquant.org/) | 3.0.3 | scientific |
 | [polars](https://www.pola.rs/) | 0.19.12 | python3_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 1.8.0 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.3 | python3_scientific |
@@ -279,4 +280,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(278 components)*
+*(279 components)*
