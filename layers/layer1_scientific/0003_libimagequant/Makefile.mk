@@ -26,5 +26,5 @@ $(PREFIX)/lib/$(NAME).so:
 	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) download uncompress
 	export PATH=$(PATH):$(PREFIX)/../core/share/.cargo/bin && cd build/$(NAME)-$(VERSION)/imagequant-sys && cargo cinstall --destdir=.
 	cd build/$(NAME)-$(VERSION)/imagequant-sys && cp -p usr/local/lib64/lib*so* $(PREFIX)/lib && cp -p usr/local/include/*.h $(PREFIX)/include
-	cp imagequant.pc $(PREFIX)/lib/pkgconfig
+	mkdir -p $(PREFIX)/lib/pkgconfig && cp imagequant.pc $(PREFIX)/lib/pkgconfig
 	rm -f imagequant.pc
