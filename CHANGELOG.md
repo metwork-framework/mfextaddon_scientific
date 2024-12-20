@@ -90,6 +90,7 @@
 - bump numcodecs from 0.12.1 to 0.14.1 (numpy 2, Python 3.13) (#753)
 - bump numexpr to 2.10.2 (Python 3.13 compatibility) (#755)
 - bump numpngw from 0.1.3 to 0.1.4 (numpy 2 compatibility) (#757)
+- upgrade pngquant to 3.0.3 and add libimagequant (with cargo build) (#759)
 
 ### Bug Fixes
 
