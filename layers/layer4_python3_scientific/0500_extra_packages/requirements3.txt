@@ -82,7 +82,7 @@ multiurl==0.3.3
 munch==4.0.0
 nco==1.1.2
 netCDF4==1.7.2
-numba==0.61.0rc1
+numba==0.61.0rc2
 numcodecs==0.14.1
 numexpr==2.10.2
 numpngw==0.1.4
