@@ -4,7 +4,7 @@ include $(MFEXT_HOME)/share/package.mk
 export NAME=uwsgi-plugin-python3
 export VERSION=`rpm -q uwsgi | cut -d"-" -f 2`
 DESCRIPTION=\
-Python 3.12 plugin for UWSGI
+Python 3.13 plugin for UWSGI
 WEBSITE=https://github.com/unbit/uwsgi
 LICENSE=GPL2+
 

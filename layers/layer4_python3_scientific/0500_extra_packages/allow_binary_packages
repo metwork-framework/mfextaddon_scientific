@@ -1,8 +1,8 @@
 bokeh
 ecmwflibs
 flatten-dict
-openturns
 llvmlite
+openturns
 polars
 pyarrow
 pyYAML
