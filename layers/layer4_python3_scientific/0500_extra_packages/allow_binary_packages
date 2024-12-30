@@ -3,8 +3,6 @@ ecmwflibs
 flatten-dict
 llvmlite
 openturns
-partd
 polars
 pyarrow
 pyYAML
-scipy
