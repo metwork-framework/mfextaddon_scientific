@@ -105,7 +105,7 @@
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [json5](https://pypi.org/project/json5) | 0.9.25 | python3_extratools |
-| [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 3.0.2 | python3_scientific |
+| [jsonpickle](https://jsonpickle.readthedocs.io/) | 3.4.2 | python3_scientific |
 | [jsonpointer](https://github.com/stefankoegl/python-json-pointer) | 3.0.0 | python3_extratools |
 | [jupyter-console](https://jupyter.org) | 6.6.3 | python3_extratools |
 | [jupyter-events](http://jupyter.org) | 0.10.0 | python3_extratools |
@@ -272,7 +272,7 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.13 | python3_extratools |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2024.11.0 | python3_scientific |
-| [xclim](https://xclim.readthedocs.io/) | 0.48.2 | python3_scientific |
+| [xclim](https://xclim.readthedocs.io/) | 0.54.0 | python3_scientific |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2023.10.0 | python3_scientific |

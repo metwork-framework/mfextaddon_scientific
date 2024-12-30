@@ -62,7 +62,7 @@ imageio==2.36.1
 ipython-genutils==0.2.0
 itsdangerous==2.1.2
 jsmin==3.0.1
-jsonpickle==3.0.2
+jsonpickle==3.4.2
 kiwisolver==1.4.5
 lazy-loader==0.4
 llvmlite==0.44.0rc2
@@ -148,7 +148,7 @@ toolz==0.12.0
 trollimage==1.21.0
 trollsift==0.5.1
 tzlocal==5.2
-xclim==0.48.2
+xclim==0.54.0
 xxhash==3.4.1
 xyzservices==2023.10.0
 windrose==1.9.0
