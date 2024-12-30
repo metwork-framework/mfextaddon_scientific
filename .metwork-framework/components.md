@@ -69,7 +69,7 @@
 | [FFmpeg](https://ffmpeg.org/) | 6.0 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.1 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.5 | python3_scientific |
-| [fiona](https://pypi.org/project/fiona) | 1.10.0rc1 | python3_scientific |
+| [fiona](https://pypi.org/project/fiona) | 1.10.1 | python3_scientific |
 | [Flask](https://pypi.org/project/Flask) | 3.0.0 | python3_scientific |
 | [flatten-dict](https://github.com/ianlini/flatten-dict) | 0.4.2 | python3_scientific |
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |

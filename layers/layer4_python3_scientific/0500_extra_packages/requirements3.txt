@@ -41,7 +41,7 @@ fasteners==0.19
 fastparquet==2024.11.0
 ffmpy==0.3.1
 findlibs==0.0.5
-Fiona==1.10.0rc1
+Fiona==1.10.1
 Flask==3.0.0
 flatten-dict==0.4.2
 flexcache==0.3
