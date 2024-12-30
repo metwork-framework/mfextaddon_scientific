@@ -80,6 +80,17 @@
 - upgrade llvmlite, numba, xclim to releases ok with Python 3.13 (#731)
 - bump lmoments3 from 1.0.6 to 1.0.8 (numpy 2 & Python 3.13) (#734)
 - bump lazy-loader to 0.4 (Python 3.13) (#736)
+- bump mapclassify from 2.6.1 to 2.8.1 (#738)
+- bump matplotlib from 3.9.2 to 3.10.0 (#740)
+- bump MetPy from 1.5.1 to 1.6.3 (numpy 2 compatibility) (#742)
+- bump nco from 1.1.0 to 1.1.2 (#744)
+- bump NCO library from 5.1.8 to 5.2.9 (#746)
+- bump netCDF4 from 1.6.4 to 1.7.2 (#748)
+- bump scikit-image from 0.22.0 to 0.25.0 (numpy 2, Python 3.13) (#751)
+- bump numcodecs from 0.12.1 to 0.14.1 (numpy 2, Python 3.13) (#753)
+- bump numexpr to 2.10.2 (Python 3.13 compatibility) (#755)
+- bump numpngw from 0.1.3 to 0.1.4 (numpy 2 compatibility) (#757)
+- upgrade pngquant to 3.0.3 and add libimagequant (with cargo build) (#759)
 
 ### Bug Fixes
 

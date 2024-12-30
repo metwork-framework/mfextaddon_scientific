@@ -69,7 +69,7 @@
 | [FFmpeg](https://ffmpeg.org/) | 6.0 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.1 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.5 | python3_scientific |
-| [fiona](https://pypi.org/project/fiona) | 1.10.0rc1 | python3_scientific |
+| [fiona](https://pypi.org/project/fiona) | 1.10.1 | python3_scientific |
 | [Flask](https://pypi.org/project/Flask) | 3.0.0 | python3_scientific |
 | [flatten-dict](https://github.com/ianlini/flatten-dict) | 0.4.2 | python3_scientific |
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
@@ -105,7 +105,7 @@
 | [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [json5](https://pypi.org/project/json5) | 0.9.25 | python3_extratools |
-| [jsonpickle](https://github.com/jsonpickle/jsonpickle) | 3.0.2 | python3_scientific |
+| [jsonpickle](https://jsonpickle.readthedocs.io/) | 3.4.2 | python3_scientific |
 | [jsonpointer](https://github.com/stefankoegl/python-json-pointer) | 3.0.0 | python3_extratools |
 | [jupyter-console](https://jupyter.org) | 6.6.3 | python3_extratools |
 | [jupyter-events](http://jupyter.org) | 0.10.0 | python3_extratools |
@@ -122,6 +122,7 @@
 | [jupyterlab_server](https://jupyterlab-server.readthedocs.io) | 2.27.3 | python3_extratools |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.5 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
+| [libimagequant](https://pngquant.org/lib/) | 4.3.3 | scientific |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0rc2 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.8 | python3_scientific |
@@ -158,7 +159,7 @@
 | [ninja](http://ninja-build.org/) | 1.11.1.1 | python3_scientific |
 | [notebook](https://github.com/jupyter/notebook) | 7.2.2 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
-| [numba](https://numba.pydata.org) | 0.61.0rc1 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.61.0rc2 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.14.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.10.2 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
@@ -181,8 +182,8 @@
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 5.18.0 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
-| [pngquant](https://github.com/Brightcells/pngquant) | 1.0.7 | python3_scientific |
-| [pngquant](http://www.pngquant.org/) | 2.18.0 | scientific |
+| [pngquant](https://github.com/Brightcells/pngquant) | 1.0.8 | python3_scientific |
+| [pngquant](http://www.pngquant.org/) | 3.0.3 | scientific |
 | [polars](https://www.pola.rs/) | 0.19.12 | python3_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 1.8.0 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.3 | python3_scientific |
@@ -199,7 +200,7 @@
 | [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.1.5 | python3_scientific |
 | [pygmt](https://www.pygmt.org) | 0.10.0 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io) | 1.11 | python3_scientific |
-| [pyhdf](https://github.com/fhs/pyhdf) | 0.11.3 | python3_scientific |
+| [pyhdf](https://github.com/fhs/pyhdf) | 0.11.4 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.9 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.3.0 | python3_scientific |
 | [pyogrio](https://github.com/geopandas/pyogrio) | 0.7.2 | python3_scientific |
@@ -218,7 +219,7 @@
 | [pytz_deprecation_shim](https://github.com/pganssle/pytz-deprecation-shim) | 0.1.0.post0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.4.1 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 25.1.1 | python3_extratools |
-| [questionary](https://github.com/tmbo/questionary) | 2.0.1 | python3_extratools |
+| [questionary](https://github.com/tmbo/questionary) | 2.1.0 | python3_extratools |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.3.9 | python3_scientific |
 | [rechunker](https://pypi.org/project/rechunker/) | 0.5.2 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.11.0 | python3_scientific |
@@ -272,7 +273,7 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.13 | python3_extratools |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2024.11.0 | python3_scientific |
-| [xclim](https://xclim.readthedocs.io/) | 0.48.2 | python3_scientific |
+| [xclim](https://xclim.readthedocs.io/) | 0.54.0 | python3_scientific |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2023.10.0 | python3_scientific |
