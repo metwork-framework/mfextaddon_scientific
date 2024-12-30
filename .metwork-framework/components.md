@@ -219,7 +219,7 @@
 | [pytz_deprecation_shim](https://github.com/pganssle/pytz-deprecation-shim) | 0.1.0.post0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.4.1 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 25.1.1 | python3_extratools |
-| [questionary](https://github.com/tmbo/questionary) | 2.0.1 | python3_extratools |
+| [questionary](https://github.com/tmbo/questionary) | 2.1.0 | python3_extratools |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.3.9 | python3_scientific |
 | [rechunker](https://pypi.org/project/rechunker/) | 0.5.2 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.11.0 | python3_scientific |
