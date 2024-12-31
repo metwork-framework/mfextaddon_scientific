@@ -91,6 +91,11 @@
 - bump numexpr to 2.10.2 (Python 3.13 compatibility) (#755)
 - bump numpngw from 0.1.3 to 0.1.4 (numpy 2 compatibility) (#757)
 - upgrade pngquant to 3.0.3 and add libimagequant (with cargo build) (#759)
+- upgrade xclim from 0.48.2 to 0.54.0 (#764)
+- upgrade questionary from 2.0.1 to 2.1.0 (#765)
+- bump Fiona to 1.10.1 (#766)
+- bump pyhdf to 0.11.4 (#767)
+- bump partd to 1.4.2 (#769)
 
 ### Bug Fixes
 
