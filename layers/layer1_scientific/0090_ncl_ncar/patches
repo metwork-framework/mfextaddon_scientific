@@ -10,3 +10,5 @@ ncl-5.1.0-netcdff.patch
 ncl-5.1.0-includes.patch
 ncl-5.2.1-secondary.patch
 ncl-proj8.patch
+#from https://github.com/NCAR/ncl/pull/209
+ncl-hdf430.patch

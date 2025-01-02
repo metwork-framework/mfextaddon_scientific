@@ -1,0 +1,22 @@
+diff -up ncl-6.6.2/ncarview/src/lib/libncarg_ras/hdf.c.hdf430 ncl-6.6.2/ncarview/src/lib/libncarg_ras/hdf.c
+--- ncl-6.6.2/ncarview/src/lib/libncarg_ras/hdf.c.hdf430	2019-02-27 23:44:39.000000000 +0000
++++ ncl-6.6.2/ncarview/src/lib/libncarg_ras/hdf.c	2025-01-02 16:54:54.340485401 +0000
+@@ -53,7 +53,6 @@
+ #include <ncarg/c.h>
+ #include <hdf.h>
+ #include <df.h>
+-#include <dfgr.h>
+ #include "ncarg_ras.h"
+ #include "hdfP.h"
+ #include "options.h"
+diff -up ncl-6.6.2/ni/src/ncl/FileSupport.c.hdf430 ncl-6.6.2/ni/src/ncl/FileSupport.c
+--- ncl-6.6.2/ni/src/ncl/FileSupport.c.hdf430	2019-02-27 23:44:39.000000000 +0000
++++ ncl-6.6.2/ni/src/ncl/FileSupport.c	2025-01-02 16:55:31.866478544 +0000
+@@ -39,7 +39,6 @@ short    NCLuseAFS;
+ #include <netcdf.h>
+ 
+ #ifdef BuildHDF4
+-#include <dfi.h>
+ #include <mfhdf.h>
+ #ifdef BuildHDFEOS
+ #include <HdfEosDef.h>
