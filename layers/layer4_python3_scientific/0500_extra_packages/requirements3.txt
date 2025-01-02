@@ -139,6 +139,7 @@ Shapely==2.0.2
 snuggs==1.4.7
 sortedcontainers==2.4.0
 SQLAlchemy==2.0.36
+standard-imghdr==3.13.0
 statsmodels==0.14.2
 tblib==3.0.0
 tenacity==8.2.3
