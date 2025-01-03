@@ -101,5 +101,6 @@
 
 - remove setuptools-git-versioning from esmpy dependencies
 - remove setuptools-git-versioning from esmpy dependencies (#616)
+- add patch to build ncl-ncar with hdf 4.3.0 (#771)
 
 
