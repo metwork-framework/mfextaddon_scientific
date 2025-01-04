@@ -96,6 +96,7 @@
 - bump Fiona to 1.10.1 (#766)
 - bump pyhdf to 0.11.4 (#767)
 - bump partd to 1.4.2 (#769)
+- bump Shapely from 2.0.2 to 2.0.6 (compatibility numpy 2.1) (#775)
 
 ### Bug Fixes
 
