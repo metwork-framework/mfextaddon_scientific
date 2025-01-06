@@ -6,7 +6,7 @@
 /layers/layer*/*_extra_python_packages*/src
 /layers/layer*/*_extra_python_packages*/tempolayer*
 /layers/layer*/cache
-layers/layer1_scientific/0003_libimagequant/imagequant.pc
+
 
 doc/_build
 doc/layer_*.md
@@ -17,6 +17,6 @@ doc/layer_scientific.rst
 doc/mfextaddon_scientific_intro.rst
 doc/CHANGELOG*.md
 doc/CHANGELOG*.rst
-doc/changelogs.rst
+doc/changelogs.rst 
 /__pycache__
 _docs_build
