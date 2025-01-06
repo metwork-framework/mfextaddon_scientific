@@ -200,7 +200,7 @@
 | [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.1.5 | python3_scientific |
 | [pygmt](https://www.pygmt.org) | 0.10.0 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io) | 1.11 | python3_scientific |
-| [pyhdf](https://github.com/fhs/pyhdf) | 0.11.4 | python3_scientific |
+| [pyhdf](https://github.com/fhs/pyhdf) | 0.11.6 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.9 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.3.0 | python3_scientific |
 | [pyogrio](https://github.com/geopandas/pyogrio) | 0.7.2 | python3_scientific |

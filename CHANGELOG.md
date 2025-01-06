@@ -96,10 +96,12 @@
 - bump Fiona to 1.10.1 (#766)
 - bump pyhdf to 0.11.4 (#767)
 - bump partd to 1.4.2 (#769)
+- bump Shapely from 2.0.2 to 2.0.6 (compatibility numpy 2.1) (#775)
 
 ### Bug Fixes
 
 - remove setuptools-git-versioning from esmpy dependencies
 - remove setuptools-git-versioning from esmpy dependencies (#616)
+- add patch to build ncl-ncar with hdf 4.3.0 (#771)
 
 
