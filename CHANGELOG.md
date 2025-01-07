@@ -97,6 +97,9 @@
 - bump pyhdf to 0.11.4 (#767)
 - bump partd to 1.4.2 (#769)
 - bump Shapely from 2.0.2 to 2.0.6 (compatibility numpy 2.1) (#775)
+- bump pyhdf to 0.11.6 (adaptation to hdf4 4.3.0) (#777)
+- bump ImageMagick6-6.9.13-21 from 6.9.13-16 to 6.9.13-21 (#780)
+- (revert) remove mpi support in eckit (#781)
 
 ### Bug Fixes
 
