@@ -162,6 +162,7 @@ import rtree
 import salem
 import satpy
 import skbuild #scikit-build
+import scikit_build_core
 import skimage #scikit-image
 import sklearn #scikit-learn
 import scipy

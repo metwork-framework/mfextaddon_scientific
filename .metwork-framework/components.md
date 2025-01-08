@@ -156,7 +156,7 @@
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.1 | scientific |
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.7.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 3.2.1 | python3_scientific |
-| [ninja](http://ninja-build.org/) | 1.11.1.1 | python3_scientific |
+| [ninja](http://ninja-build.org/) | 1.11.1.3 | python3_scientific |
 | [notebook](https://github.com/jupyter/notebook) | 7.2.2 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
 | [numba](https://numba.pydata.org) | 0.61.0rc2 | python3_scientific |
@@ -232,6 +232,7 @@
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.18.1 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.25.0 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.5.0 | python3_scientific |
+| [scikit_build_core](https://github.com/scikit-build/scikit-build-core) | 0.10.7 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.14.1 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.11.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
@@ -280,4 +281,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(279 components)*
+*(280 components)*
