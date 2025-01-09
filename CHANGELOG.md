@@ -100,6 +100,9 @@
 - bump pyhdf to 0.11.6 (adaptation to hdf4 4.3.0) (#777)
 - bump ImageMagick6-6.9.13-21 from 6.9.13-16 to 6.9.13-21 (#780)
 - (revert) remove mpi support in eckit (#781)
+- bump scikit-build from 0.16.2 to 0.18.1 (#783)
+- bump ninja from 1.11.1.1 to 1.11.1.3 (#785)
+- bump GDAL from 3.9.3 to 3.10.0 (as libgdal) (#786)
 
 ### Bug Fixes
 
