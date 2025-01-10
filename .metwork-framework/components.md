@@ -203,7 +203,7 @@
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.11.6 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.9 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.3.0 | python3_scientific |
-| [pyogrio](https://github.com/geopandas/pyogrio) | 0.7.2 | python3_scientific |
+| [pyogrio](https://pypi.org/project/pyogrio) | 0.10.0 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.8.0 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.6.4 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.6.1 | python3_scientific |
@@ -220,7 +220,7 @@
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.4.1 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 25.1.1 | python3_extratools |
 | [questionary](https://github.com/tmbo/questionary) | 2.1.0 | python3_extratools |
-| [rasterio](https://github.com/rasterio/rasterio) | 1.3.9 | python3_scientific |
+| [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
 | [rechunker](https://pypi.org/project/rechunker/) | 0.5.2 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.11.0 | python3_scientific |
 | [reportlab](https://www.reportlab.com/) | 4.0.6 | python3_scientific |
