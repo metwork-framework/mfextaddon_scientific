@@ -52,7 +52,7 @@
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1 | python3_scientific |
 | [earthkit-meteo](https://github.com/ecmwf/earthkit-meteo/) | 0.1.1 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.5 | scientific |
-| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.39.0 | python3_scientific |
+| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.39.1 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.39.0 | scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.28.1 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
