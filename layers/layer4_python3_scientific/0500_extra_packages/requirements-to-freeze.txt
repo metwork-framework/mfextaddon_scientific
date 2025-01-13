@@ -88,7 +88,8 @@ windrose
 openpyxl
 xlsxwriter
 odswriter
-FLORIS
+# temporarly remove FLORIS for numpy 2.0 compatibility
+# FLORIS
 #apng seems to be not maintained anymore
 apng
 thermofeel
