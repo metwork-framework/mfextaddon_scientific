@@ -103,6 +103,9 @@
 - bump scikit-build from 0.16.2 to 0.18.1 (#783)
 - bump ninja from 1.11.1.1 to 1.11.1.3 (#785)
 - bump GDAL from 3.9.3 to 3.10.0 (as libgdal) (#786)
+- bump pyogrio to 0.10.0 and rasterio to 1.4.3 (from 0.7.2 and 1.3.9) (#787)
+- bump eccodes from 2.39.0 to 2.39.1 (#788)
+- bump dask to 2024.12.1 and dependencies dask-expr and distributed (#789)
 
 ### Bug Fixes
 
