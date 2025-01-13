@@ -26,7 +26,7 @@ import click_plugins
 import cligj
 import climetlab
 import cloudpickle
-import coloredlogs
+#import coloredlogs (temporarly removed with floris)
 import configobj
 import contourpy
 import cppy
@@ -54,9 +54,9 @@ import ffmpy
 import findlibs
 import fiona
 import flask
-import flatten_dict
+#import flatten_dict (temporarly removed with floris)
 import flit
-import floris
+#import floris (temporarly removed)
 import folium
 import gast
 import osgeo #gdal
@@ -68,7 +68,7 @@ import graphviz
 import greenlet
 import h5py
 import heapdict
-import humanfriendly
+#import humanfriendly (temporarly removed with floris)
 #import icclim (temporarly removed)
 import imageio
 import ipython_genutils
@@ -104,7 +104,7 @@ import networkx
 import ninja
 import numba
 import numcodecs
-import numexpr
+#import numexpr (temporarly removed with floris)
 import numpy
 import odswriter
 import cv2 #opencv_contrib_python_headless
