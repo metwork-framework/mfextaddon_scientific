@@ -106,6 +106,8 @@
 - bump pyogrio to 0.10.0 and rasterio to 1.4.3 (from 0.7.2 and 1.3.9) (#787)
 - bump eccodes from 2.39.0 to 2.39.1 (#788)
 - bump dask to 2024.12.1 and dependencies dask-expr and distributed (#789)
+- temporarly remove FLORIS and dependencies, waiting for numpy 2.0 compatibility (#790)
+- upgrade esmf and esmpy from 8.7.0 to 8.8.0 (#791)
 
 ### Bug Fixes
 
