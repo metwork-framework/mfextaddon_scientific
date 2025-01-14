@@ -1,7 +1,6 @@
 cftime
 h5py
 netCDF4
-Pillow
 matplotlib
 pngquant
 pyshp
@@ -14,7 +13,6 @@ shapely
 dask[complete]
 toolz
 geos
-lxml
 pycurl
 #pyproj 3.3 is compliant with proj 8.2
 pyproj>=3.3.1
