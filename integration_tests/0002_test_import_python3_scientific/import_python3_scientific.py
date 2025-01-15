@@ -26,7 +26,7 @@ import click_plugins
 import cligj
 import climetlab
 import cloudpickle
-import coloredlogs
+#import coloredlogs (temporarly removed with floris)
 import configobj
 import contourpy
 import cppy
@@ -54,11 +54,11 @@ import ffmpy
 import findlibs
 import fiona
 import flask
-import flatten_dict
+#import flatten_dict (temporarly removed with floris)
 import flexcache
 import flexparser
 import flit
-import floris
+#import floris (temporarly removed)
 import folium
 import gast
 import osgeo #gdal
@@ -70,7 +70,7 @@ import graphviz
 import greenlet
 import h5py
 import heapdict
-import humanfriendly
+#import humanfriendly (temporarly removed with floris)
 #import icclim (temporarly removed)
 import imageio
 import ipython_genutils
@@ -85,7 +85,6 @@ import llvmlite
 import lmoments3
 import locket
 import lru #lru_dict
-import lxml
 import Magics
 import mapclassify
 import matplotlib
@@ -106,7 +105,7 @@ import networkx
 import ninja
 import numba
 import numcodecs
-import numexpr
+#import numexpr (temporarly removed with floris)
 import numpy
 import odswriter
 import cv2 #opencv_contrib_python_headless
@@ -118,7 +117,6 @@ import partd
 import pathos
 import patsy
 import pdbufr
-import PIL #Pillow
 import pint
 import pkgconfig
 import plotly
@@ -164,6 +162,7 @@ import rtree
 import salem
 import satpy
 import skbuild #scikit-build
+import scikit_build_core
 import skimage #scikit-image
 import sklearn #scikit-learn
 import scipy
