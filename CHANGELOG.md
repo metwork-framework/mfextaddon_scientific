@@ -97,6 +97,17 @@
 - bump pyhdf to 0.11.4 (#767)
 - bump partd to 1.4.2 (#769)
 - bump Shapely from 2.0.2 to 2.0.6 (compatibility numpy 2.1) (#775)
+- bump pyhdf to 0.11.6 (adaptation to hdf4 4.3.0) (#777)
+- bump ImageMagick6-6.9.13-21 from 6.9.13-16 to 6.9.13-21 (#780)
+- (revert) remove mpi support in eckit (#781)
+- bump scikit-build from 0.16.2 to 0.18.1 (#783)
+- bump ninja from 1.11.1.1 to 1.11.1.3 (#785)
+- bump GDAL from 3.9.3 to 3.10.0 (as libgdal) (#786)
+- bump pyogrio to 0.10.0 and rasterio to 1.4.3 (from 0.7.2 and 1.3.9) (#787)
+- bump eccodes from 2.39.0 to 2.39.1 (#788)
+- bump dask to 2024.12.1 and dependencies dask-expr and distributed (#789)
+- temporarly remove FLORIS and dependencies, waiting for numpy 2.0 compatibility (#790)
+- upgrade esmf and esmpy from 8.7.0 to 8.8.0 (#791)
 
 ### Bug Fixes
 

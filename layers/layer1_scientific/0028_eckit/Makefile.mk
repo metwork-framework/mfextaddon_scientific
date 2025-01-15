@@ -13,4 +13,4 @@ LICENSE=Apache 2.0 : http://www.apache.org/licenses/LICENSE-2.0
 all:: $(PREFIX)/bin/eckit-version
 
 $(PREFIX)/bin/eckit-version:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="-DENABLE_MPI=ON -DMPIEXEC_EXECUTABLE=/usr/lib64/mpich/bin/mpiexec" download uncompress configure_cmake3 build_cmake install_cmake
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) download uncompress configure_cmake3 build_cmake install_cmake

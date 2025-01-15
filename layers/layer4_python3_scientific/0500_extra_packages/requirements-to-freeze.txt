@@ -1,7 +1,6 @@
 cftime
 h5py
 netCDF4
-Pillow
 matplotlib
 pngquant
 pyshp
@@ -14,7 +13,6 @@ shapely
 dask[complete]
 toolz
 geos
-lxml
 pycurl
 #pyproj 3.3 is compliant with proj 8.2
 pyproj>=3.3.1
@@ -52,7 +50,6 @@ pdbufr
 pyodc
 ffmpy
 -e git+https://gitlab.com/cerfacs/batman.git#egg=ot-batman
-numba
 pyhdf
 pygmt
 pysteps
@@ -88,7 +85,13 @@ windrose
 openpyxl
 xlsxwriter
 odswriter
-FLORIS
+# temporarly remove FLORIS for numpy 2.0 compatibility
+# FLORIS
 #apng seems to be not maintained anymore
 apng
 thermofeel
+#temporarly removed (lack of Python 3.13 support)
+llvmlite #temporarly use 0.44.0rc1
+numba #temporarly use  0.61.0rc1
+#xclim (requiring numba)
+#icclim (requiring xclim)
