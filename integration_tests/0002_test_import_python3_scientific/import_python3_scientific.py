@@ -83,7 +83,6 @@ import llvmlite
 import lmoments3
 import locket
 import lru #lru_dict
-import lxml
 import Magics
 import mapclassify
 import matplotlib
@@ -116,7 +115,6 @@ import partd
 import pathos
 import patsy
 import pdbufr
-import PIL #Pillow
 import pint
 import pkgconfig
 import plotly

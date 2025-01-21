@@ -7,6 +7,7 @@ import comm
 import debugpy
 import defusedxml
 import deprecation
+import docstring_to_markdown
 import et_xmlfile
 import faicons
 import fastjsonschema
@@ -31,6 +32,7 @@ import jupyter_events
 import jupyter_lsp
 import jupyter_packaging
 import jupyter_server
+import jupyter_server_proxy
 import jupyter_server_terminals
 import jupyterlab
 import jupyterlab_pygments
@@ -39,6 +41,7 @@ import linkify_it
 import mdit_py_plugins
 import mistune
 import multipart #python_multipart
+import nbclassic
 import nbclient
 import nbconvert
 import nbformat
@@ -50,6 +53,8 @@ import pandocfilters
 import pptx #python-pptx
 import prometheus_client
 import pythonjsonlogger
+import pylsp_jsonrpc #python_lsp_jsonrpc
+import pylsp #python_lsp_server
 import zmq #pyzmq
 import questionary
 import rfc3339_validator
@@ -58,9 +63,11 @@ import send2trash
 import shiny
 import sniffio
 import starlette
+import simpervisor
 import terminado
 import tinycss2
 import uc_micro #uc_micro_py
+import ujson
 import uri_template
 import uvicorn
 import watchfiles
