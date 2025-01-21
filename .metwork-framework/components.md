@@ -47,6 +47,7 @@
 | [deprecation](http://deprecation.readthedocs.io/) | 2.1.0 | python3_extratools |
 | [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
 | [distributed](https://distributed.dask.org) | 2024.12.1 | python3_scientific |
+| [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.15 | python3_extratools |
 | [docutils](https://docutils.sourceforge.io/) | 0.20.1 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1 | python3_scientific |
 | [earthkit-meteo](https://github.com/ecmwf/earthkit-meteo/) | 0.1.1 | python3_scientific |
@@ -112,6 +113,7 @@
 | [jupyter_core](https://jupyter.org) | 5.7.2 | python3_extratools |
 | [jupyter_packaging](http://jupyter.org) | 0.12.3 | python3_extratools |
 | [jupyter_server](https://jupyter-server.readthedocs.io) | 2.14.2 | python3_extratools |
+| [jupyter_server_proxy](https://pypi.org/project/jupyter_server_proxy) | 4.4.0 | python3_extratools |
 | [jupyter_server_terminals](https://jupyter.org) | 0.5.3 | python3_extratools |
 | [jupyterlab](https://jupyter.org) | 4.2.5 | python3_extratools |
 | [jupyterlab_pygments](https://github.com/jupyterlab/jupyterlab_pygments) | 0.3.0 | python3_extratools |
@@ -140,6 +142,7 @@
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.15 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.3 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
+| [nbclassic](https://github.com/jupyter/nbclassic) | 1.2.0 | python3_extratools |
 | [nbclient](https://jupyter.org) | 0.10.0 | python3_extratools |
 | [nbconvert](https://jupyter.org) | 7.16.4 | python3_extratools |
 | [nbformat](https://jupyter.org) | 5.10.4 | python3_extratools |
@@ -206,6 +209,8 @@
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.7.4 | python3_scientific |
 | [python-json-logger](http://github.com/madzak/python-json-logger) | 2.0.7 | python3_extratools |
+| [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
+| [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.0 | python3_extratools |
 | [python-multipart](https://github.com/Kludex/python-multipart) | 0.0.19 | python3_extratools |
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.16.1 | python3_scientific |
@@ -233,6 +238,7 @@
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
 | [shapely](https://pypi.org/project/shapely) | 2.0.6 | python3_scientific |
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.0.0 | python3_extratools |
+| [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.2.0 | python3_extratools |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
@@ -254,6 +260,7 @@
 | [tzlocal](https://pypi.org/project/tzlocal) | 5.2 | python3_scientific |
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
+| [ujson](https://github.com/ultrajson/ultrajson) | 5.10.0 | python3_extratools |
 | [uri-template](https://gitlab.linss.com/open-source/python/uri-template) | 1.3.0 | python3_extratools |
 | [uvicorn](https://www.uvicorn.org/) | 0.17.5 | python3_extratools |
 | [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.27 | python3_scientific |
@@ -274,4 +281,4 @@
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 
-*(273 components)*
+*(280 components)*
