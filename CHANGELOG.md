@@ -108,6 +108,8 @@
 - bump dask to 2024.12.1 and dependencies dask-expr and distributed (#789)
 - temporarly remove FLORIS and dependencies, waiting for numpy 2.0 compatibility (#790)
 - upgrade esmf and esmpy from 8.7.0 to 8.8.0 (#791)
+- add jupyter-server-proxy, python-lsp-server and nbclassic (#800)
+- bump cdo from 2.2.2 to 2.5.0 and its python binding to 1.6.1 (#802)
 
 ### Bug Fixes
 
