@@ -37,7 +37,6 @@ jupyterlab-server==2.27.3
 linkify-it-py==2.0.3
 mdit-py-plugins==0.4.1
 mistune==3.0.2
-nbclassic==1.2.0
 nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
