@@ -122,7 +122,7 @@
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
 | [libimagequant](https://pngquant.org/lib/) | 4.3.3 | scientific |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0rc2 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.8 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
@@ -157,7 +157,7 @@
 | [ninja](http://ninja-build.org/) | 1.11.1.3 | python3_scientific |
 | [notebook](https://github.com/jupyter/notebook) | 7.2.2 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
-| [numba](https://numba.pydata.org) | 0.61.0rc2 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.61.0 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.14.1 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.0.2 | python3_scientific |
