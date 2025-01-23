@@ -110,6 +110,7 @@
 - upgrade esmf and esmpy from 8.7.0 to 8.8.0 (#791)
 - add jupyter-server-proxy, python-lsp-server and nbclassic (#800)
 - bump cdo from 2.2.2 to 2.5.0 and its python binding to 1.6.1 (#802)
+- bump llvmlite to 0.44.0 and numba to 0.61.0 (#804)
 
 ### Bug Fixes
 
