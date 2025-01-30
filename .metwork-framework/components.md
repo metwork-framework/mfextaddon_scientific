@@ -73,7 +73,7 @@
 | [Flask](https://pypi.org/project/Flask) | 3.0.0 | python3_scientific |
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
 | [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
-| [flit](https://pypi.org/project/flit) | 3.9.0 | python3_scientific |
+| [flit](https://pypi.org/project/flit) | 3.10.1 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.19.1 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.43.1 | python3_scientific |
 | [fqdn](https://github.com/ypcrts/fqdn) | 1.5.1 | python3_extratools |
