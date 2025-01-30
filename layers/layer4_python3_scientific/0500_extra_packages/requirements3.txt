@@ -32,7 +32,7 @@ dateparser==1.1.8
 descartes==1.1.0
 distributed==2024.12.1
 donfig==0.8.1
-earthkit_meteo==0.1.1
+earthkit_meteo==0.3.0
 eccodes==2.39.1
 ecmwf-api-client==1.6.3
 ecmwf-opendata==0.2.0
@@ -135,7 +135,7 @@ SQLAlchemy==2.0.36
 statsmodels==0.14.2
 tblib==3.0.0
 tenacity==8.2.3
-thermofeel==2.0.0
+thermofeel==2.1.1
 tifffile==2023.9.26
 toolz==0.12.0
 trollimage==1.21.0

@@ -50,7 +50,7 @@
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.15 | python3_extratools |
 | [docutils](https://docutils.sourceforge.io/) | 0.20.1 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1 | python3_scientific |
-| [earthkit-meteo](https://github.com/ecmwf/earthkit-meteo/) | 0.1.1 | python3_scientific |
+| [earthkit-meteo](https://github.com/ecmwf/earthkit-meteo/) | 0.3.0 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.5 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.39.1 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.39.0 | scientific |
@@ -249,7 +249,7 @@
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
 | [tenacity](https://github.com/jd/tenacity) | 8.2.3 | python3_scientific |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
-| [thermofeel](https://github.com/ecmwf-projects/thermofeel) | 2.0.0 | python3_scientific |
+| [thermofeel](https://github.com/ecmwf-projects/thermofeel) | 2.1.1 | python3_scientific |
 | [tifffile](https://www.cgohlke.com) | 2023.9.26 | python3_scientific |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.3.0 | python3_extratools |
 | [tomli_w](https://github.com/hukkin/tomli-w) | 1.0.0 | python3_scientific |
