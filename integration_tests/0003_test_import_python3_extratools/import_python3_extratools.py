@@ -48,6 +48,8 @@ import nbformat
 import nest_asyncio
 import notebook
 import notebook_shim
+import odswriter
+import openpyxl
 import overrides
 import pandocfilters
 import pptx #python-pptx
@@ -76,3 +78,4 @@ import webencodings
 import websocket #websocket-client
 import websockets
 import widgetsnbextension
+import xlsxwriter
