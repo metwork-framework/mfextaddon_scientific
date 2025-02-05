@@ -75,7 +75,7 @@
 | [esmf](http://www.earthsystemmodeling.org) | 8.8.0 | scientific |
 | [esmpy](http://www.earthsystemmodeling.org) | 8.8.0 | python3_scientific |
 | [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 1.1.0 | python3_extratools |
-| [extension-helpers](https://github.com/astropy/extension-helpers) | 1.1.0 | python3_scientific |
+| [extension-helpers](https://github.com/astropy/extension-helpers) | 1.2.0 | python3_scientific |
 | [faicons](https://github.com/rstudio/py-faicons) | 0.2.2 | python3_extratools |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastjsonschema](https://github.com/horejsek/python-fastjsonschema) | 2.20.0 | python3_extratools |
