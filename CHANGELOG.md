@@ -113,6 +113,7 @@
 - bump llvmlite to 0.44.0 and numba to 0.61.0 (#804)
 - bump flit from 3.9.0 to 3.10.1 (#808)
 - upgrade thermofeel to 2.1.1 and earthkit-meteo to 0.3.0 (#810)
+- add earthkit and dependencies (#811)
 
 ### Bug Fixes
 
