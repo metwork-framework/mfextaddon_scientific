@@ -50,7 +50,6 @@ pdbufr
 pyodc
 ffmpy
 -e git+https://gitlab.com/cerfacs/batman.git#egg=ot-batman
-numba
 pyhdf
 pygmt
 pysteps
@@ -92,3 +91,7 @@ odswriter
 apng
 thermofeel
 # pyfdb (earthkit.data[all] dependency) requires fdb5 (see https://github.com/ecmwf/fdb, not provided by Metwork for the time being)
+#temporarly removed (lack of Python 3.13 support)
+llvmlite
+numba
+xclim

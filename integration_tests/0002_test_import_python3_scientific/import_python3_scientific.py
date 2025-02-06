@@ -70,6 +70,8 @@ import findlibs
 import fiona
 import flask
 #import flatten_dict (temporarly removed with floris)
+import flexcache
+import flexparser
 import flit
 #import floris (temporarly removed)
 import folium
