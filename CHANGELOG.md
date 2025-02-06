@@ -114,6 +114,7 @@
 - bump flit from 3.9.0 to 3.10.1 (#808)
 - upgrade thermofeel to 2.1.1 and earthkit-meteo to 0.3.0 (#810)
 - add earthkit and dependencies (#811)
+- bump extension-helpers to 1.2.0 (usage of tomllib rather than tomli) (#813)
 
 ### Bug Fixes
 
