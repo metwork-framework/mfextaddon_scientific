@@ -90,8 +90,8 @@ odswriter
 #apng seems to be not maintained anymore
 apng
 thermofeel
+# pyfdb (earthkit.data[all] dependency) requires fdb5 (see https://github.com/ecmwf/fdb, not provided by Metwork for the time being)
 #temporarly removed (lack of Python 3.13 support)
-llvmlite #temporarly use 0.44.0rc1
-numba #temporarly use  0.61.0rc1
-#xclim (requiring numba)
-#icclim (requiring xclim)
+llvmlite
+numba
+xclim

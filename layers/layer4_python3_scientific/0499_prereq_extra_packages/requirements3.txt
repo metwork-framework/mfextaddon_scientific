@@ -1,7 +1,7 @@
 cppy==1.2.1
 docutils==0.20.1
-extension-helpers==1.1.0
-flit==3.9.0
+extension-helpers==1.2.0
+flit==3.10.1
 pandas==2.2.3
 pkgconfig==1.5.5
 py-cpuinfo==9.0.0

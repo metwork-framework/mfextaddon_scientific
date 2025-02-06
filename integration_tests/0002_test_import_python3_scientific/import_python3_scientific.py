@@ -1,6 +1,8 @@
+import adjustText
 import affine
 import aggdraw
 import apng
+import array_api_compat
 import asciitree
 import astropy
 import astropy_iers_data
@@ -28,7 +30,10 @@ import climetlab
 import cloudpickle
 #import coloredlogs (temporarly removed with floris)
 import configobj
+import conflator
 import contourpy
+import covjson_pydantic
+import covjsonkit
 import cppy
 import cramjam
 import cycler
@@ -39,10 +44,20 @@ import dask.distributed
 import dask_expr
 import datapi
 import dateparser
+import DateTime
 import descartes
 import distributed
+import docstring_parser
 import docutils
 import donfig
+import earthkit.data
+import earthkit.geo
+import earthkit.meteo
+import earthkit.plots
+import earthkit.regrid
+import earthkit.time
+import earthkit.transforms
+import earthkit
 import eccodes
 import ecmwfapi
 import ecmwf.opendata
@@ -69,6 +84,7 @@ import geos
 import graphviz
 import greenlet
 import h5py
+import hda
 import heapdict
 #import humanfriendly (temporarly removed with floris)
 #import icclim (temporarly removed)
@@ -107,10 +123,9 @@ import numba
 import numcodecs
 #import numexpr (temporarly removed with floris)
 import numpy
-import odswriter
 import cv2 #opencv_contrib_python_headless
-import openpyxl
 import openturns
+import orjson
 import palettable
 import pandas
 import partd
@@ -123,6 +138,7 @@ import plotly
 import ply
 import pngquant
 import polars
+import polytope
 import pooch
 import pox
 import ppft
@@ -133,6 +149,8 @@ import pycoast
 import cpuinfo #py-cpuinfo
 import pycurl
 import pydecorate
+# pyfdb requires fdb5 (see https://github.com/ecmwf/fdb, not provided by Metwork for the time being)
+#import pyfdb
 import pyepsg
 import erfa #pyerfa
 import pygmt
@@ -157,6 +175,7 @@ import rechunker
 import referencing
 import regionmask
 import reportlab
+import rich_argparse
 import rpds #rpds-py
 import rtree
 import salem
@@ -187,8 +206,8 @@ import tzlocal
 import versioneer
 import xarray
 import xclim
-import xlsxwriter
 import xxhash
 import xyzservices
 import zarr
 import zict
+import zope
