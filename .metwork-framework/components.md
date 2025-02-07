@@ -283,7 +283,6 @@
 | [ujson](https://github.com/ultrajson/ultrajson) | 5.10.0 | python3_extratools |
 | [uri-template](https://gitlab.linss.com/open-source/python/uri-template) | 1.3.0 | python3_extratools |
 | [uvicorn](https://www.uvicorn.org/) | 0.17.5 | python3_extratools |
-| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.27 | python3_scientific |
 | [versioneer](https://github.com/python-versioneer/python-versioneer) | 0.29 | python3_scientific |
 | [watchfiles](https://github.com/samuelcolvin/watchfiles) | 0.24.0 | python3_extratools |
 | [webcolors](https://github.com/ubernostrum/webcolors) | 24.8.0 | python3_extratools |
@@ -302,4 +301,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(301 components)*
+*(300 components)*
