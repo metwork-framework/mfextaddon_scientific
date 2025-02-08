@@ -115,6 +115,8 @@
 - upgrade thermofeel to 2.1.1 and earthkit-meteo to 0.3.0 (#810)
 - add earthkit and dependencies (#811)
 - bump extension-helpers to 1.2.0 (usage of tomllib rather than tomli) (#813)
+- remove uwsgi_plugin (gcc and python compatibility problems) (#815)
+- enable Metview UI (with Qt5) (#816)
 
 ### Bug Fixes
 
