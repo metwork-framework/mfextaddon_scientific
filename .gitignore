@@ -7,6 +7,10 @@
 /layers/layer*/*_extra_python_packages*/tempolayer*
 /layers/layer*/cache
 
+layers/layer1_scientific/0003_libimagequant/imagequant.pc
+layers/layer1_scientific/0001_cargo_c/.cargo
+
+
 
 doc/_build
 doc/layer_*.md
