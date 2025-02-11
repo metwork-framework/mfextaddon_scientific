@@ -18,6 +18,4 @@ LICENSE=Apache 2.0 : http://www.apache.org/licenses/LICENSE-2.0
 
 all:: $(PREFIX)/bin/magmlx
 $(PREFIX)/bin/magmlx:
-	cd $(SCIENTIFIC_ROOT)/include && ln -s ../../core/include/tiffio.h tiffio.h && ln -s ../../core/include/tiff.h tiff.h && ln -s ../../core/include/tiffvers.h tiffvers.h && ln -s ../../core/include/tiffconf.h tiffconf.h
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" OPTIONS="-DENABLE_GEOTIFF=ON -DENABLE_FORTRAN_C_INTERFACE=ON -DENABLE_METVIEW=ON -DNETCDF_PATH=$(SCIENTIFIC_ROOT) -DPROJ_PATH=$(SCIENTIFIC_ROOT) -DGEOTIFF_PATH=$(SCIENTIFIC_ROOT)" download uncompress configure_cmake3 build_cmake install_cmake
-	cd $(SCIENTIFIC_ROOT)/include && rm tiffio.h tiff.h tiffvers.h tiffconf.h
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXPLICIT_NAME="$(EXPLICIT_NAME)" EXTRACFLAGS="-I$(PREFIX)/../core/include" OPTIONS="-DENABLE_GEOTIFF=ON -DENABLE_FORTRAN_C_INTERFACE=ON -DENABLE_METVIEW=ON -DNETCDF_PATH=$(SCIENTIFIC_ROOT) -DPROJ_PATH=$(SCIENTIFIC_ROOT) -DGEOTIFF_PATH=$(SCIENTIFIC_ROOT)" download uncompress configure_cmake3 build_cmake install_cmake
