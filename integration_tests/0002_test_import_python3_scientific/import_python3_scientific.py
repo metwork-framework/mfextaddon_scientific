@@ -15,6 +15,8 @@ import blinker
 import bokeh
 import boltons
 import bottleneck
+import boto3
+import botocore
 import branca
 import cads_api_client
 import cartopy
@@ -32,6 +34,7 @@ import cloudpickle
 import configobj
 import conflator
 import contourpy
+import copernicusmarine
 import covjson_pydantic
 import covjsonkit
 import cppy
@@ -81,6 +84,7 @@ import geopandas
 import geos
 import graphviz
 import greenlet
+import h5netcdf
 import h5py
 import hda
 import heapdict
@@ -164,6 +168,7 @@ import pyproject_metadata
 import pyresample
 import pyrsistent
 import shapefile #pyshp
+import pystac
 import pysteps
 import pythran
 import pytz_deprecation_shim
@@ -176,8 +181,10 @@ import reportlab
 import rich_argparse
 import rpds #rpds-py
 import rtree
+import s3transfer
 import salem
 import satpy
+import semver
 import skbuild #scikit-build
 import scikit_build_core
 import skimage #scikit-image
