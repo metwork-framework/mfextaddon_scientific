@@ -117,6 +117,7 @@
 - bump extension-helpers to 1.2.0 (usage of tomllib rather than tomli) (#813)
 - remove uwsgi_plugin (gcc and python compatibility problems) (#815)
 - enable Metview UI (with Qt5) (#816)
+- add copernicusmarine and dependencies (#819)
 
 ### Bug Fixes
 
