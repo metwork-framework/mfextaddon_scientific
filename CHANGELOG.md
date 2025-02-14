@@ -118,6 +118,7 @@
 - remove uwsgi_plugin (gcc and python compatibility problems) (#815)
 - enable Metview UI (with Qt5) (#816)
 - add copernicusmarine and dependencies (#819)
+- bump eccodes and its python binding from 2.39.0 to 2.40.0 (#820)
 
 ### Bug Fixes
 
