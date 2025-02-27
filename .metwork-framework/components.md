@@ -104,6 +104,7 @@
 | [gmt](https://www.generic-mapping-tools.org) | 6.4.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 3.1.1 | python3_scientific |
+| [gv](https://github.com/william8000/gv) | 3.7.4.2 | scientific |
 | [h11](https://github.com/python-hyper/h11) | 0.13.0 | python3_extratools |
 | [h5netcdf](https://h5netcdf.org) | 1.5.0 | python3_scientific |
 | [h5py](https://www.h5py.org/) | 3.12.1 | python3_scientific |
@@ -308,4 +309,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(307 components)*
+*(308 components)*
