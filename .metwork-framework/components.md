@@ -97,14 +97,14 @@
 | [fqdn](https://github.com/ypcrts/fqdn) | 1.5.1 | python3_extratools |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.4 | python3_scientific |
-| [GDAL](http://www.gdal.org) | 3.10.0 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 3.10.2 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 1.0.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.4.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 3.1.1 | python3_scientific |
-| [gv](https://github.com/william8000/gv) | 3.7.4.2 | scientific |
+| [gv](https://github.com/william8000/gv) | 3.7.4 | scientific |
 | [h11](https://github.com/python-hyper/h11) | 0.13.0 | python3_extratools |
 | [h5netcdf](https://h5netcdf.org) | 1.5.0 | python3_scientific |
 | [h5py](https://www.h5py.org/) | 3.12.1 | python3_scientific |
