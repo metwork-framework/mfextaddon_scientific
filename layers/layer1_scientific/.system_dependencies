@@ -13,3 +13,4 @@ librsvg-2.so.2()(64bit)@generic
 libQt5Widgets.so.5()(64bit)@generic
 libQt5Gui.so.5()(64bit)@generic
 libQt5Core.so.5()(64bit)@generic
+libXaw3d.so.8()(64bit)@generic
