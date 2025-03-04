@@ -121,6 +121,8 @@
 - bump eccodes and its python binding from 2.39.0 to 2.40.0 (#820)
 - add gv (for interactive Metview) (#821)
 - bump python GDAL from 3.10.0 to 3.10.2 (according to library in scientific_core layer) (#822)
+- bump xclim from 0.54.0 to 0.55.1 (#824)
+- bump flit from 3.10.1 to 3.11.0 (#825)
 
 ### Bug Fixes
 
