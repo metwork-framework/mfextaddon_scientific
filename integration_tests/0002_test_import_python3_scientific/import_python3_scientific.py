@@ -194,7 +194,6 @@ import pyke #scitools-pyke
 import seaborn
 import shapely
 import snuggs
-import sortedcontainers
 import sqlalchemy
 import statsmodels
 import tblib
