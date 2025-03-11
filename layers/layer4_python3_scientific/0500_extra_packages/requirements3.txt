@@ -162,7 +162,6 @@ seaborn==0.13.0
 semver==3.0.4
 Shapely==2.0.6
 snuggs==1.4.7
-sortedcontainers==2.4.0
 SQLAlchemy==2.0.36
 statsmodels==0.14.2
 tblib==3.0.0
