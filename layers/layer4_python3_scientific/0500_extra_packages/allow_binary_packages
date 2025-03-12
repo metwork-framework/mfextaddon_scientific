@@ -1,8 +1,15 @@
 bokeh
+cdo
+conflator
+copernicusmarine
+docstring_parser
+earthkit-plots-default-styles
 ecmwflibs
 flatten-dict
 llvmlite
 openturns
+orjson
 polars
 pyarrow
 pyYAML
+rich

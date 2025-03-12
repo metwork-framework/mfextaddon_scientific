@@ -108,6 +108,22 @@
 - bump dask to 2024.12.1 and dependencies dask-expr and distributed (#789)
 - temporarly remove FLORIS and dependencies, waiting for numpy 2.0 compatibility (#790)
 - upgrade esmf and esmpy from 8.7.0 to 8.8.0 (#791)
+- add jupyter-server-proxy, python-lsp-server and nbclassic (#800)
+- bump cdo from 2.2.2 to 2.5.0 and its python binding to 1.6.1 (#802)
+- bump llvmlite to 0.44.0 and numba to 0.61.0 (#804)
+- bump flit from 3.9.0 to 3.10.1 (#808)
+- upgrade thermofeel to 2.1.1 and earthkit-meteo to 0.3.0 (#810)
+- add earthkit and dependencies (#811)
+- bump extension-helpers to 1.2.0 (usage of tomllib rather than tomli) (#813)
+- remove uwsgi_plugin (gcc and python compatibility problems) (#815)
+- enable Metview UI (with Qt5) (#816)
+- add copernicusmarine and dependencies (#819)
+- bump eccodes and its python binding from 2.39.0 to 2.40.0 (#820)
+- add gv (for interactive Metview) (#821)
+- bump python GDAL from 3.10.0 to 3.10.2 (according to library in scientific_core layer) (#822)
+- bump xclim from 0.54.0 to 0.55.1 (#824)
+- bump flit from 3.10.1 to 3.11.0 (#825)
+- add floris (now compliant with numpy 2.0) and dependencies (#826)
 
 ### Bug Fixes
 

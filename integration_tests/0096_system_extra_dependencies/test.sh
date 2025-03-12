@@ -76,8 +76,8 @@ for layer in *; do
                     continue
                 fi
                 echo "***** ${DEP} *****"
-                echo "=== revert ldd layer ${layer} ==="
-                revert_ldd.sh "${DEP}"
+                echo "=== revert ldd not found ==="
+                revert_ldd_not_found.sh "${DEP}"
                 echo
                 echo
                 RET=1

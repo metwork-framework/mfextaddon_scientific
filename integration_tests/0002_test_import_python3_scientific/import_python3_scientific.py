@@ -1,6 +1,8 @@
+import adjustText
 import affine
 import aggdraw
 import apng
+import array_api_compat
 import asciitree
 import astropy
 import astropy_iers_data
@@ -13,6 +15,8 @@ import blinker
 import bokeh
 import boltons
 import bottleneck
+import boto3
+import botocore
 import branca
 import cads_api_client
 import cartopy
@@ -26,9 +30,13 @@ import click_plugins
 import cligj
 import climetlab
 import cloudpickle
-#import coloredlogs (temporarly removed with floris)
+import coloredlogs
 import configobj
+import conflator
 import contourpy
+import copernicusmarine
+import covjson_pydantic
+import covjsonkit
 import cppy
 import cramjam
 import cycler
@@ -39,10 +47,20 @@ import dask.distributed
 import dask_expr
 import datapi
 import dateparser
+import DateTime
 import descartes
 import distributed
+import docstring_parser
 import docutils
 import donfig
+import earthkit.data
+import earthkit.geo
+import earthkit.meteo
+import earthkit.plots
+import earthkit.regrid
+import earthkit.time
+import earthkit.transforms
+import earthkit
 import eccodes
 import ecmwfapi
 import ecmwf.opendata
@@ -54,11 +72,10 @@ import ffmpy
 import findlibs
 import fiona
 import flask
-#import flatten_dict (temporarly removed with floris)
 import flexcache
 import flexparser
 import flit
-#import floris (temporarly removed)
+import floris
 import folium
 import gast
 import osgeo #gdal
@@ -68,9 +85,11 @@ import geopandas
 import geos
 import graphviz
 import greenlet
+import h5netcdf
 import h5py
+import hda
 import heapdict
-#import humanfriendly (temporarly removed with floris)
+import humanfriendly
 #import icclim (temporarly removed)
 import imageio
 import ipython_genutils
@@ -105,12 +124,11 @@ import networkx
 import ninja
 import numba
 import numcodecs
-#import numexpr (temporarly removed with floris)
+import numexpr
 import numpy
-import odswriter
 import cv2 #opencv_contrib_python_headless
-import openpyxl
 import openturns
+import orjson
 import palettable
 import pandas
 import partd
@@ -123,6 +141,7 @@ import plotly
 import ply
 import pngquant
 import polars
+import polytope
 import pooch
 import pox
 import ppft
@@ -133,6 +152,8 @@ import pycoast
 import cpuinfo #py-cpuinfo
 import pycurl
 import pydecorate
+# pyfdb requires fdb5 (see https://github.com/ecmwf/fdb, not provided by Metwork for the time being)
+#import pyfdb
 import pyepsg
 import erfa #pyerfa
 import pygmt
@@ -148,6 +169,7 @@ import pyproject_metadata
 import pyresample
 import pyrsistent
 import shapefile #pyshp
+import pystac
 import pysteps
 import pythran
 import pytz_deprecation_shim
@@ -157,10 +179,13 @@ import rechunker
 import referencing
 import regionmask
 import reportlab
+import rich_argparse
 import rpds #rpds-py
 import rtree
+import s3transfer
 import salem
 import satpy
+import semver
 import skbuild #scikit-build
 import scikit_build_core
 import skimage #scikit-image
@@ -171,7 +196,6 @@ import pyke #scitools-pyke
 import seaborn
 import shapely
 import snuggs
-import sortedcontainers
 import sqlalchemy
 import statsmodels
 import tblib
@@ -187,8 +211,8 @@ import tzlocal
 import versioneer
 import xarray
 import xclim
-import xlsxwriter
 import xxhash
 import xyzservices
 import zarr
 import zict
+import zope
