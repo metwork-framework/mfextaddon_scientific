@@ -19,6 +19,8 @@
 | [blinker](https://blinker.readthedocs.io) | 1.6.3 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.6.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 23.0.0 | python3_scientific |
+| [boto3](https://github.com/boto/boto3) | 1.36.18 | python3_scientific |
+| [botocore](https://github.com/boto/botocore) | 1.36.18 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.4.2 | python3_scientific |
 | [branca](https://github.com/python-visualization/branca) | 0.6.0 | python3_scientific |
 | [cads-api-client](https://pypi.org/project/cads-api-client) | 1.3.2 | python3_scientific |
@@ -34,10 +36,12 @@
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab/) | 0.24.1 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.0.0 | python3_scientific |
+| [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
 | [comm](https://github.com/ipython/comm) | 0.2.2 | python3_extratools |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
 | [conflator](https://github.com/ecmwf/conflator/) | 0.1.5 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.1 | python3_scientific |
+| [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.0.1 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.5.0 | python3_scientific |
 | [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.1.1 | python3_scientific |
 | [cppy](https://github.com/nucleic/cppy) | 1.2.1 | python3_scientific |
@@ -67,8 +71,8 @@
 | [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 0.3.4.1 | python3_scientific |
 | [earthkit](https://github.com/ecmwf/earthkit/) | 0.9.3 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.5 | scientific |
-| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.39.1 | python3_scientific |
-| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.39.0 | scientific |
+| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.40.0 | python3_scientific |
+| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.40.0 | scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.28.1 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.14 | python3_scientific |
@@ -88,20 +92,23 @@
 | [Flask](https://pypi.org/project/Flask) | 3.0.0 | python3_scientific |
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
 | [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
-| [flit](https://pypi.org/project/flit) | 3.10.1 | python3_scientific |
+| [flit](https://pypi.org/project/flit) | 3.11.0 | python3_scientific |
+| [floris](https://github.com/NREL/floris) | 4.3 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.19.1 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.43.1 | python3_scientific |
 | [fqdn](https://github.com/ypcrts/fqdn) | 1.5.1 | python3_extratools |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.4 | python3_scientific |
-| [GDAL](http://www.gdal.org) | 3.10.0 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 3.10.2 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 1.0.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.4.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 3.1.1 | python3_scientific |
+| [gv](https://github.com/william8000/gv) | 3.7.4 | scientific |
 | [h11](https://github.com/python-hyper/h11) | 0.13.0 | python3_extratools |
+| [h5netcdf](https://h5netcdf.org) | 1.5.0 | python3_scientific |
 | [h5py](https://www.h5py.org/) | 3.12.1 | python3_scientific |
 | [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
 | [hda](https://github.com/ecmwf/hda) | 2.22 | python3_scientific |
@@ -109,6 +116,7 @@
 | [htmltools](https://pypi.org/project/htmltools) | 0.5.3 | python3_extratools |
 | [httpcore](https://www.encode.io/httpcore/) | 1.0.6 | python3_extratools |
 | [httpx](https://github.com/encode/httpx) | 0.27.2 | python3_extratools |
+| [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.36.1 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-21 | scientific |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |
@@ -175,6 +183,7 @@
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
 | [numba](https://numba.pydata.org) | 0.61.0 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.14.1 | python3_scientific |
+| [numexpr](https://github.com/pydata/numexpr) | 2.10.2 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.0.2 | python3_scientific |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
@@ -226,6 +235,7 @@
 | [pyresample](https://github.com/pytroll/pyresample) | 1.27.1 | python3_scientific |
 | [pyrsistent](https://github.com/tobgu/pyrsistent/) | 0.20.0 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
+| [pystac](https://pypi.org/project/pystac) | 1.12.1 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.7.4 | python3_scientific |
 | [python-json-logger](http://github.com/madzak/python-json-logger) | 2.0.7 | python3_extratools |
 | [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
@@ -245,6 +255,7 @@
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.6.0 | python3_scientific |
 | [Rtree](https://pypi.org/project/Rtree) | 1.1.0 | python3_scientific |
+| [s3transfer](https://github.com/boto/s3transfer) | 0.11.2 | python3_scientific |
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.44.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.18.1 | python3_scientific |
@@ -255,13 +266,13 @@
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.11.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.0 | python3_scientific |
+| [semver](https://pypi.org/project/semver) | 3.0.4 | python3_scientific |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
 | [shapely](https://pypi.org/project/shapely) | 2.0.6 | python3_scientific |
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.0.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.2.0 | python3_extratools |
 | [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
-| [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) | 2.4.0 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 1.9.3 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.36 | python3_scientific |
 | [standard-imghdr](https://github.com/youknowone/python-deadlib) | 3.13.0 | python3_scientific |
@@ -284,7 +295,6 @@
 | [ujson](https://github.com/ultrajson/ultrajson) | 5.10.0 | python3_extratools |
 | [uri-template](https://gitlab.linss.com/open-source/python/uri-template) | 1.3.0 | python3_extratools |
 | [uvicorn](https://www.uvicorn.org/) | 0.17.5 | python3_extratools |
-| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.27 | python3_scientific |
 | [versioneer](https://github.com/python-versioneer/python-versioneer) | 0.29 | python3_scientific |
 | [watchfiles](https://github.com/samuelcolvin/watchfiles) | 0.24.0 | python3_extratools |
 | [webcolors](https://github.com/ubernostrum/webcolors) | 24.8.0 | python3_extratools |
@@ -294,7 +304,7 @@
 | [widgetsnbextension](http://jupyter.org) | 4.0.13 | python3_extratools |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2024.11.0 | python3_scientific |
-| [xclim](https://xclim.readthedocs.io/) | 0.54.0 | python3_scientific |
+| [xclim](https://xclim.readthedocs.io/) | 0.55.1 | python3_scientific |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2023.10.0 | python3_scientific |
@@ -303,4 +313,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(302 components)*
+*(312 components)*

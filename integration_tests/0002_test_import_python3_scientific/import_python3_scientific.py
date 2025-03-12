@@ -15,6 +15,8 @@ import blinker
 import bokeh
 import boltons
 import bottleneck
+import boto3
+import botocore
 import branca
 import cads_api_client
 import cartopy
@@ -28,10 +30,11 @@ import click_plugins
 import cligj
 import climetlab
 import cloudpickle
-#import coloredlogs (temporarly removed with floris)
+import coloredlogs
 import configobj
 import conflator
 import contourpy
+import copernicusmarine
 import covjson_pydantic
 import covjsonkit
 import cppy
@@ -69,11 +72,10 @@ import ffmpy
 import findlibs
 import fiona
 import flask
-#import flatten_dict (temporarly removed with floris)
 import flexcache
 import flexparser
 import flit
-#import floris (temporarly removed)
+import floris
 import folium
 import gast
 import osgeo #gdal
@@ -83,10 +85,11 @@ import geopandas
 import geos
 import graphviz
 import greenlet
+import h5netcdf
 import h5py
 import hda
 import heapdict
-#import humanfriendly (temporarly removed with floris)
+import humanfriendly
 #import icclim (temporarly removed)
 import imageio
 import ipython_genutils
@@ -121,7 +124,7 @@ import networkx
 import ninja
 import numba
 import numcodecs
-#import numexpr (temporarly removed with floris)
+import numexpr
 import numpy
 import cv2 #opencv_contrib_python_headless
 import openturns
@@ -166,6 +169,7 @@ import pyproject_metadata
 import pyresample
 import pyrsistent
 import shapefile #pyshp
+import pystac
 import pysteps
 import pythran
 import pytz_deprecation_shim
@@ -178,8 +182,10 @@ import reportlab
 import rich_argparse
 import rpds #rpds-py
 import rtree
+import s3transfer
 import salem
 import satpy
+import semver
 import skbuild #scikit-build
 import scikit_build_core
 import skimage #scikit-image
@@ -190,7 +196,6 @@ import pyke #scitools-pyke
 import seaborn
 import shapely
 import snuggs
-import sortedcontainers
 import sqlalchemy
 import statsmodels
 import tblib
