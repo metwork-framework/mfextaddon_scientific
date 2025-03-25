@@ -146,6 +146,7 @@ import pooch
 import pox
 import ppft
 import google #protobuf
+import puremagic
 import pyarrow
 import pybind11
 import pycoast
