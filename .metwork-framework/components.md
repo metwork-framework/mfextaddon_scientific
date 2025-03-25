@@ -204,7 +204,7 @@
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 5.18.0 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
-| [pngquant](https://github.com/Brightcells/pngquant) | 3.0.2 | python3_scientific |
+| [pngquant](https://github.com/Brightcells/pngquant) | 3.0.3 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 3.0.3 | scientific |
 | [polars](https://www.pola.rs/) | 0.19.12 | python3_scientific |
 | [polytope-client](https://github.com/ecmwf-projects/polytope-client) | 0.7.4 | python3_scientific |
@@ -213,6 +213,7 @@
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.6.7 | python3_scientific |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.0 | python3_extratools |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
+| [puremagic](https://github.com/cdgriffith/puremagic) | 1.28 | python3_scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
 | [pyarrow](https://arrow.apache.org/) | 18.0.0 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.13.6 | python3_scientific |
@@ -312,4 +313,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(311 components)*
+*(312 components)*
