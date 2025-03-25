@@ -204,7 +204,7 @@
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 5.18.0 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
-| [pngquant](https://github.com/Brightcells/pngquant) | 1.0.8 | python3_scientific |
+| [pngquant](https://github.com/Brightcells/pngquant) | 3.0.2 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 3.0.3 | scientific |
 | [polars](https://www.pola.rs/) | 0.19.12 | python3_scientific |
 | [polytope-client](https://github.com/ecmwf-projects/polytope-client) | 0.7.4 | python3_scientific |
