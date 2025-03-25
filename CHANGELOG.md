@@ -124,6 +124,7 @@
 - bump xclim from 0.54.0 to 0.55.1 (#824)
 - bump flit from 3.10.1 to 3.11.0 (#825)
 - add floris (now compliant with numpy 2.0) and dependencies (#826)
+- upgrade numpy from 2.0.2 to 2.1.3 (#830)
 
 ### Bug Fixes
 
