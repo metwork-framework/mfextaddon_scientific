@@ -6,9 +6,9 @@ docstring_parser
 earthkit-plots-default-styles
 ecmwflibs
 flatten-dict
-openturns
 llvmlite
 orjson
+openturns
 polars
 pyarrow
 pyYAML
