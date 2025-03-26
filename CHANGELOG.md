@@ -125,6 +125,9 @@
 - bump flit from 3.10.1 to 3.11.0 (#825)
 - add floris (now compliant with numpy 2.0) and dependencies (#826)
 - upgrade numpy from 2.0.2 to 2.1.3 (#830)
+- bump pngquant from 1.0.8 to 3.0.2 (compatibility Python 3.13) (#831)
+- bump flit from 3.11.0 to 3.12.0 (#833)
+- bump pngquant to 3.0.3 and add dependency puremagic (#834)
 
 ### Bug Fixes
 
