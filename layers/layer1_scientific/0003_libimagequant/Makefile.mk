@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=libimagequant
-export VERSION=4.3.3
+export VERSION=4.3.4
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=675c2f6055dd3139b2e01e4f04938d8b
+export CHECKSUM=b62f17187347ea48daf4c5ef4321823b
 DESCRIPTION=\
 Imagequant library converts RGBA images to palette-based 8-bit indexed images, including alpha component
 WEBSITE=https://pngquant.org/lib/
