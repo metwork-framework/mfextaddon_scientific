@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=spatialindex
-export VERSION=1.9.3
+export VERSION=2.1.0
 export EXTENSION=tar.bz2
 export CHECKTYPE=MD5
-export CHECKSUM=db89182e1ac9cb12a88db958de2797df
+export CHECKSUM=f2514875cf5fdcbc91f37b6a09342e83
 export EXPLICIT_NAME=$(NAME)-src-$(VERSION)
 DESCRIPTION= spatialindex is an extensible framework that supports robust spatial indexing methods
 WEBSITE=https://libspatialindex.org
