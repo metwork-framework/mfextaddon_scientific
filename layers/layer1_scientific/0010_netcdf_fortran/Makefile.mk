@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=netcdf-fortran
-export VERSION=4.6.1
+export VERSION=4.6.2
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=a34fa637abc362776b5165c6e5da324d
+export CHECKSUM=0e46a1f42a888ca2ebdb51a9c8ff70b8
 DESCRIPTION=\
 NETCDF_FORTRAN is the FORTRAN API of NETCDF4
 WEBSITE=http://www.unidata.ucar.edu/software/netcdf/
