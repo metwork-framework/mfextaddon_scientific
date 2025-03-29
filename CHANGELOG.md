@@ -128,6 +128,9 @@
 - bump pngquant from 1.0.8 to 3.0.2 (compatibility Python 3.13) (#831)
 - bump flit from 3.11.0 to 3.12.0 (#833)
 - bump pngquant to 3.0.3 and add dependency puremagic (#834)
+- bump netcdf-fortran from 4.6.1 to 4.6.2 (#836)
+- bump libimagequant from 4.3.3 to 4.3.4 (#837)
+- upgrade spatialindex from 1.9.3 to 2.1.0 (#838)
 
 ### Bug Fixes
 
