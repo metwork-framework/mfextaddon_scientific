@@ -26,7 +26,7 @@
 | [cads-api-client](https://pypi.org/project/cads-api-client) | 1.3.2 | python3_scientific |
 | [Cartopy](https://github.com/SciTools/cartopy) | 0.24.1 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.6.1 | python3_scientific |
-| [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.5.0 | scientific |
+| [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.5.1 | scientific |
 | [cdsapi](https://github.com/ecmwf/cdsapi) | 0.7.5 | python3_scientific |
 | [cf-units](https://pypi.org/project/cf-units) | 3.3.0 | python3_scientific |
 | [cf_xarray](https://cf-xarray.readthedocs.io) | 0.10.0 | python3_scientific |

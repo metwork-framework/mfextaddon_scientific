@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=cdo
-export VERSION=2.5.0
+export VERSION=2.5.1
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=88bb651b9d60cc69668df50181346893
+export CHECKSUM=c761131cb7142abc7f88f807bb4e3653
 DESCRIPTION=\
 CDO is a collection of command line Operators to manipulate and analyse Climate and NWP model Data.\
 Supported data formats are GRIB 1/2, netCDF 3/4, SERVICE, EXTRA and IEG. There are more than 600 \
