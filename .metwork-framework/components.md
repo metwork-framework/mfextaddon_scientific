@@ -73,7 +73,7 @@
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.40.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.40.0 | scientific |
-| [eckit](https://github.com/ecmwf/eckit) | 1.28.1 | scientific |
+| [eckit](https://github.com/ecmwf/eckit) | 1.28.7 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.14 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.8.0 | scientific |
@@ -84,7 +84,7 @@
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastjsonschema](https://github.com/horejsek/python-fastjsonschema) | 2.20.0 | python3_extratools |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
-| [fckit](https://github.com/ecmwf/fckit) | 0.13.1 | scientific |
+| [fckit](https://github.com/ecmwf/fckit) | 0.13.4 | scientific |
 | [FFmpeg](https://ffmpeg.org/) | 6.0 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.1 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.5 | python3_scientific |
