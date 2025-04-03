@@ -70,7 +70,7 @@
 | [earthkit-time](https://github.com/ecmwf/earthkit-time/) | 0.1.7 | python3_scientific |
 | [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 0.3.4.1 | python3_scientific |
 | [earthkit](https://github.com/ecmwf/earthkit/) | 0.9.3 | python3_scientific |
-| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.8.5 | scientific |
+| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.40.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.40.0 | scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.28.1 | scientific |
