@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=nco
-export VERSION=5.2.9
+export VERSION=5.3.3
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=f4b1f97735e5713c036cd4a3fb8f9217
+export CHECKSUM=016253bb3cb5c1786f66b7185fcc0ef5
 DESCRIPTION=\
 The netCDF Operators, NCO, are a suite of programs known as operators. \
 The operators facilitate manipulation and analysis of self-describing\
