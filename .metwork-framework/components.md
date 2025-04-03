@@ -118,7 +118,7 @@
 | [httpx](https://github.com/encode/httpx) | 0.27.2 | python3_extratools |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.36.1 | python3_scientific |
-| [ImageMagick6](http://www.imagemagick.org) | 6.9.13-21 | scientific |
+| [ImageMagick6](http://www.imagemagick.org) | 6.9.13-25 | scientific |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [ipywidgets](http://jupyter.org) | 8.1.5 | python3_extratools |
