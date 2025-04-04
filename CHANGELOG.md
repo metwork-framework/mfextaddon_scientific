@@ -131,6 +131,11 @@
 - bump netcdf-fortran from 4.6.1 to 4.6.2 (#836)
 - bump libimagequant from 4.3.3 to 4.3.4 (#837)
 - upgrade spatialindex from 1.9.3 to 2.1.0 (#838)
+- bump nco from 5.2.9 to 5.3.3 (#839)
+- bump ecbuild from 3.8.5 to 3.9.1 (#840)
+- bump eckit to 1.28.7 and fckit to 0.13.4 (#841)
+- bump ImageMagick6 from 6.9.13.21 to 6.9.13-25 (#842)
+- bump cdo from 2.5.0 to 2.5.1 (#843)
 
 ### Bug Fixes
 
