@@ -173,7 +173,7 @@
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
 | [nco](https://pypi.org/project/nco) | 1.1.2 | python3_scientific |
 | [nco](http://nco.sourceforge.net) | 5.3.3 | scientific |
-| [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.9 | scientific |
+| [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.11 | scientific |
 | [nest_asyncio](https://github.com/erdewit/nest_asyncio) | 1.6.0 | python3_extratools |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.2 | scientific |
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.7.2 | python3_scientific |

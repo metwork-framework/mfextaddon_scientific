@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=ncview
-export VERSION=2.1.9
+export VERSION=2.1.11
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=69011823b616e7c4d4f83fc9596182c7
+export CHECKSUM=946e351ef6f50dab3d0a52092fe131d7
 DESCRIPTION=\
 Ncview is a visual browser for netCDF format files
 WEBSITE=https://cirrus.ucsd.edu/ncview/
