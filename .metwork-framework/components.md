@@ -85,7 +85,7 @@
 | [fastjsonschema](https://github.com/horejsek/python-fastjsonschema) | 2.20.0 | python3_extratools |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.13.4 | scientific |
-| [FFmpeg](https://ffmpeg.org/) | 6.0 | scientific |
+| [FFmpeg](https://ffmpeg.org/) | 7.1.1 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.3.1 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.0.5 | python3_scientific |
 | [fiona](https://pypi.org/project/fiona) | 1.10.1 | python3_scientific |

@@ -1,0 +1,2 @@
+#patch to build against librsvf < 2.52 (https://trac.ffmpeg.org/ticket/10635)
+librsvg.patch
