@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=gmt
-export VERSION=6.4.0
+export VERSION=6.5.0
 export EXTENSION=tar.xz
 export CHECKTYPE=MD5
-export CHECKSUM=7710e9a0d2b76c482394590baec61135
+export CHECKSUM=1070e417ac9fb6cd53b535d60ddad5bf
 DESCRIPTION=\
 GMT is an open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing high-quality illustrations ranging from simple x–y plots via contour maps to artificially illuminated surfaces, 3D perspective views and animations.
 WEBSITE=https://www.generic-mapping-tools.org
@@ -16,7 +16,7 @@ DCW_PATH=$(PREFIX)/share/dcw
 
 all::$(PREFIX)/bin/gmt
 $(PREFIX)/bin/gmt: $(GSHHG_PATH) $(DCW_PATH)
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="-DCMAKE_INSTALL_PREFIX=$(PREFIX) -DGMT_DATA_SERVER=portugal -DGSHHG_ROOT=$(GSHHG_PATH) -DDCW_ROOT=$(DCW_PATH) -DCOPY_GSHHG=FALSE -DCOPY_DCW=FALSE" download uncompress configure_cmake3 build_cmake install_cmake 
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="-DCMAKE_INSTALL_PREFIX=$(PREFIX) -DGEOS_INCLUDE_DIR=$(PREFIX)/../scientific_core/include -DGMT_DATA_SERVER=portugal -DGSHHG_ROOT=$(GSHHG_PATH) -DDCW_ROOT=$(DCW_PATH) -DCOPY_GSHHG=FALSE -DCOPY_DCW=FALSE" download uncompress configure_cmake3 build_cmake install_cmake 
 
 $(GSHHG_PATH):
 	mkdir -p $(GSHHG_PATH)
