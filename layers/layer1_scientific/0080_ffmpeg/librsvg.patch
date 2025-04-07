@@ -1,0 +1,14 @@
+diff -up ffmpeg-7.1.1/libavcodec/librsvgdec.c.orig ffmpeg-7.1.1/libavcodec/librsvgdec.c
+--- ffmpeg-7.1.1/libavcodec/librsvgdec.c.orig	2025-04-07 09:37:52.416001793 +0000
++++ ffmpeg-7.1.1/libavcodec/librsvgdec.c	2025-04-07 09:39:34.808074438 +0000
+@@ -90,8 +90,10 @@ static int librsvg_decode_frame(AVCodecC
+         goto end;
+ 
+     avctx->pix_fmt = AV_PIX_FMT_RGB32;
++#if LIBRSVG_MAJOR_VERSION > 2 || LIBRSVG_MAJOR_VERSION == 2 && LIBRSVG_MINOR_VERSION >= 52
+     viewport.width = dimensions.width;
+     viewport.height = dimensions.height;
++#endif
+ 
+     ret = ff_get_buffer(avctx, frame, 0);
+     if (ret < 0)
