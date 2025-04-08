@@ -155,7 +155,7 @@
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.10.0 | python3_scientific |
 | [mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins) | 0.4.1 | python3_extratools |
-| [meson-python](https://github.com/mesonbuild/meson-python) | 0.15.0 | python3_scientific |
+| [meson-python](https://github.com/mesonbuild/meson-python) | 0.17.1 | python3_scientific |
 | [meson](https://mesonbuild.com) | 1.7.2 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.6.3 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.16.1 | python3_scientific |
