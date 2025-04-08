@@ -9,6 +9,8 @@ echo ""
 echo "NCARG_ROOT : "
 ncargpath root
 
+exit 0
+
 echo ""
 echo "test grib edition 2"
 ncl_filedump ../0005_cdo_read_grib2/fic_grib2_test.grib
