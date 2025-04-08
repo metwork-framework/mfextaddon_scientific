@@ -232,7 +232,7 @@
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.8.0 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.6.4 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.6.1 | python3_scientific |
-| [pyproject-metadata](https://github.com/FFY00/python-pyproject-metadata) | 0.7.1 | python3_scientific |
+| [pyproject-metadata](https://github.com/pypa/pyproject-metadata) | 0.9.1 | python3_scientific |
 | [pyresample](https://github.com/pytroll/pyresample) | 1.27.1 | python3_scientific |
 | [pyrsistent](https://github.com/tobgu/pyrsistent/) | 0.20.0 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
