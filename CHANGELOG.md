@@ -136,6 +136,11 @@
 - bump eckit to 1.28.7 and fckit to 0.13.4 (#841)
 - bump ImageMagick6 from 6.9.13.21 to 6.9.13-25 (#842)
 - bump cdo from 2.5.0 to 2.5.1 (#843)
+- bump FFmpeg from 6.0 to 7.1.1 with patch for librsvg2 < 2.52 (#844)
+- bump gmt from 6.4.0 to 6.5.0 and dcw-gmt from 2.1.1 to 2.2.0 (#845)
+- bump g2clib from 1.6.3 to 2.1.0 (#846)
+- bump GDAL from 3.10.2 to 3.10.3 (#847)
+- bump ncview from 2.1.9 to 2.1.11 (#848)
 
 ### Bug Fixes
 
