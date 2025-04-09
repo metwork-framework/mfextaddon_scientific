@@ -141,6 +141,9 @@
 - bump g2clib from 1.6.3 to 2.1.0 (#846)
 - bump GDAL from 3.10.2 to 3.10.3 (#847)
 - bump ncview from 2.1.9 to 2.1.11 (#848)
+- bump meson from 1.3.1 to 1.7.2 (#851)
+- bump pyproject-metadata from 0.7.1 to 0.9.1 and use meson wheel (#852)
+- bump meson-python from 0.15.0 to 0.17.1 (#853)
 
 ### Bug Fixes
 
