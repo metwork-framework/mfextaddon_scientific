@@ -97,7 +97,7 @@
 | [folium](https://github.com/python-visualization/folium) | 0.19.1 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.43.1 | python3_scientific |
 | [fqdn](https://github.com/ypcrts/fqdn) | 1.5.1 | python3_extratools |
-| [g2clib](https://github.com/NOAA-EMC/NCEPLIBS-g2c) | 2.1.0 | scientific |
+| [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.5.4 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.10.3 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |

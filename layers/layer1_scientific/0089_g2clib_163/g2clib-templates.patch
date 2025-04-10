@@ -1,0 +1,584 @@
+--- g2clib-1.6.2.p1/drstemplates.c	2021-01-07 08:29:37.465502494 +0100
++++ g2clib-1.6.2.p12/drstemplates.c	2021-01-07 09:08:02.491583093 +0100
+@@ -4,6 +4,30 @@
+ #include "grib2.h"
+ #include "drstemplates.h"
+ 
++const struct drstemplate templatesdrs[MAXDRSTEMP] = {
++       // 5.0: Grid point data - Simple Packing
++   { 0, 5, 0, {4,-2,-2,1,1} },
++       // 5.2: Grid point data - Complex Packing
++   { 2, 16, 0, {4,-2,-2,1,1,1,1,4,4,4,1,1,4,1,4,1} },
++       // 5.3: Grid point data - Complex Packing and spatial differencing
++   { 3, 18, 0, {4,-2,-2,1,1,1,1,4,4,4,1,1,4,1,4,1,1,1} },
++       // 5.50: Spectral Data - Simple Packing
++   { 50, 5, 0, {4,-2,-2,1,4} },
++       // 5.51: Spherical Harmonics data - Complex packing 
++   { 51, 10, 0, {4,-2,-2,1,-4,2,2,2,4,1} },
++//     // 5.1: Matrix values at gridpoint - Simple packing
++//   { 1, 15, 1, {4,-2,-2,1,1,1,4,2,2,1,1,1,1,1,1} },
++       // 5.40: Grid point data - JPEG2000 encoding
++   { 40, 7, 0, {4,-2,-2,1,1,1,1} },
++       // 5.41: Grid point data - PNG encoding
++   { 41, 5, 0, {4,-2,-2,1,1} },
++       // 5.40000: Grid point data - JPEG2000 encoding
++   { 40000, 7, 0, {4,-2,-2,1,1,1,1} },
++       // 5.40010: Grid point data - PNG encoding
++   { 40010, 5, 0, {4,-2,-2,1,1} }
++} ;
++
++
+ /*!$$$  SUBPROGRAM DOCUMENTATION BLOCK
+ !                .      .    .                                       .
+ ! SUBPROGRAM:    getdrsindex 
+--- g2clib-1.6.2.p1/drstemplates.h	2021-01-07 08:29:37.465502494 +0100
++++ g2clib-1.6.2.p12/drstemplates.h	2021-01-07 08:39:49.135685961 +0100
+@@ -39,28 +39,8 @@
+           g2int mapdrs[MAXDRSMAPLEN];
+       };
+ 
+-      const struct drstemplate templatesdrs[MAXDRSTEMP] = {
+-             // 5.0: Grid point data - Simple Packing
+-         { 0, 5, 0, {4,-2,-2,1,1} },
+-             // 5.2: Grid point data - Complex Packing
+-         { 2, 16, 0, {4,-2,-2,1,1,1,1,4,4,4,1,1,4,1,4,1} },
+-             // 5.3: Grid point data - Complex Packing and spatial differencing
+-         { 3, 18, 0, {4,-2,-2,1,1,1,1,4,4,4,1,1,4,1,4,1,1,1} },
+-             // 5.50: Spectral Data - Simple Packing
+-         { 50, 5, 0, {4,-2,-2,1,4} },
+-             // 5.51: Spherical Harmonics data - Complex packing 
+-         { 51, 10, 0, {4,-2,-2,1,-4,2,2,2,4,1} },
+-//           // 5.1: Matrix values at gridpoint - Simple packing
+-//         { 1, 15, 1, {4,-2,-2,1,1,1,4,2,2,1,1,1,1,1,1} },
+-             // 5.40: Grid point data - JPEG2000 encoding
+-         { 40, 7, 0, {4,-2,-2,1,1,1,1} },
+-             // 5.41: Grid point data - PNG encoding
+-         { 41, 5, 0, {4,-2,-2,1,1} },
+-             // 5.40000: Grid point data - JPEG2000 encoding
+-         { 40000, 7, 0, {4,-2,-2,1,1,1,1} },
+-             // 5.40010: Grid point data - PNG encoding
+-         { 40010, 5, 0, {4,-2,-2,1,1} }
+-      } ;
++      extern const struct drstemplate templatesdrs[];
+ 
++      g2int getdrsindex(g2int number);
+ 
+ #endif  /*  _drstemplates_H  */
+--- g2clib-1.6.2.p1/gridtemplates.c	2021-01-07 08:39:27.707226307 +0100
++++ g2clib-1.6.2.p12/gridtemplates.c	2021-01-07 09:04:59.257291295 +0100
+@@ -4,6 +4,74 @@
+ #include "grib2.h"
+ #include "gridtemplates.h"
+ 
++const struct gridtemplate templatesgrid[MAXGRIDTEMP] = {
++       // 3.0: Lat/Lon grid
++   { 0, 19, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1} },
++       // 3.1: Rotated Lat/Lon grid
++   { 1, 22, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,4} },
++       // 3.2: Stretched Lat/Lon grid
++   { 2, 22, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,-4} },
++       // 3.3: Stretched & Rotated Lat/Lon grid
++   { 3, 25, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,4,-4,4,-4} },
++// Added GDT 3.4,3.5    (08/05/2013)
++       // 3.4: Variable resolution Latitude/Longitude
++   { 4, 13, 1, {1,1,4,1,4,1,4,4,4,4,4,1,1} },
++       // 3.5: Variable resolution rotate Latitude/Longitude
++   { 5, 16, 1, {1,1,4,1,4,1,4,4,4,4,4,1,1,-4,4,4} },
++       // 3.12: Transverse Mercator
++   {12, 22, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,4,4,1,4,4,-4,-4,-4,-4} },
++       // 3.101: General unstructured grid
++   {101, 4, 0, {1,4,1,-4} },
++       // 3.140: Lambert Azimuthal Equal Area Projection
++   {140, 17, 0, {1,1,4,1,4,1,4,4,4,-4,4,4,4,1,4,4,1} },
++//
++       // 3.10: Mercator
++   {10, 19, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,-4,4,1,4,4,4} },
++       // 3.20: Polar Stereographic Projection
++   {20, 18, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,4,4,4,1,1} },
++       // 3.30: Lambert Conformal
++   {30, 22, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,4,4,4,1,1,-4,-4,-4,4} },
++       // 3.31: Albers equal area
++   {31, 22, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,4,4,4,1,1,-4,-4,-4,4} },
++       // 3.40: Guassian Lat/Lon
++   {40, 19, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1} },
++       // 3.41: Rotated Gaussian Lat/Lon
++   {41, 22, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,4} },
++       // 3.42: Stretched Gaussian Lat/Lon
++   {42, 22, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,-4} },
++       // 3.43: Stretched and Rotated Gaussian Lat/Lon
++   {43, 25, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,4,-4,4,-4} },
++       // 3.50: Spherical Harmonic Coefficients
++   {50, 5, 0, {4,4,4,1,1} },
++       // 3.51: Rotated Spherical Harmonic Coefficients
++   {51, 8, 0, {4,4,4,1,1,-4,4,4} },
++       // 3.52: Stretched Spherical Harmonic Coefficients
++   {52, 8, 0, {4,4,4,1,1,-4,4,-4} },
++       // 3.53: Stretched and Rotated Spherical Harmonic Coefficients
++   {53, 11, 0, {4,4,4,1,1,-4,4,4,-4,4,-4} },
++       // 3.90: Space View Perspective or orthographic
++   {90, 21, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,4,4,4,4,1,4,4,4,4} },
++       // 3.100: Triangular grid based on an icosahedron
++   {100, 11, 0, {1,1,2,1,-4,4,4,1,1,1,4} },
++       // 3.110: Equatorial Azimuthal equidistant
++   {110, 16, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,4,4,1,1} },
++       // 3.120: Azimuth-range projection
++   {120, 7, 1, {4,4,-4,4,4,4,1} },
++       // 3.204: Curvilinear Orthogonal Grid
++   {204, 19, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1} },
++       // 3.32768: Rot Lat/Lon E-grid (Arakawa)
++   {32768, 19, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1} },
++       // 3.32769: Rot Lat/Lon Non-E Staggered grid (Arakawa)
++   {32769, 21, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,4,4} },
++       // 3.1000: Cross Section Grid
++   {1000, 20, 1, {1,1,4,1,4,1,4,4,4,4,-4,4,1,4,4,1,2,1,1,2} },
++       // 3.1100: Hovmoller Diagram Grid
++   {1100, 28, 0, {1,1,4,1,4,1,4,4,4,4,-4,4,1,-4,4,1,4,1,-4,1,1,-4,2,1,1,1,1,1} },
++       // 3.1200: Time Section Grid
++   {1200, 16, 1, {4,1,-4,1,1,-4,2,1,1,1,1,1,2,1,1,2} }
++
++} ;
++
+ /*!$$$  SUBPROGRAM DOCUMENTATION BLOCK
+ !                .      .    .                                       .
+ ! SUBPROGRAM:    getgridindex
+--- g2clib-1.6.2.p1/gridtemplates.h	2021-01-07 08:29:37.464502522 +0100
++++ g2clib-1.6.2.p12/gridtemplates.h	2021-01-07 08:39:49.137685910 +0100
+@@ -49,73 +49,8 @@
+           g2int mapgrid[MAXGRIDMAPLEN];
+       };
+ 
+-      const struct gridtemplate templatesgrid[MAXGRIDTEMP] = {
+-             // 3.0: Lat/Lon grid
+-         { 0, 19, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1} },
+-             // 3.1: Rotated Lat/Lon grid
+-         { 1, 22, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,4} },
+-             // 3.2: Stretched Lat/Lon grid
+-         { 2, 22, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,-4} },
+-             // 3.3: Stretched & Rotated Lat/Lon grid
+-         { 3, 25, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,4,-4,4,-4} },
+-// Added GDT 3.4,3.5    (08/05/2013)
+-             // 3.4: Variable resolution Latitude/Longitude
+-         { 4, 13, 1, {1,1,4,1,4,1,4,4,4,4,4,1,1} },
+-             // 3.5: Variable resolution rotate Latitude/Longitude
+-         { 5, 16, 1, {1,1,4,1,4,1,4,4,4,4,4,1,1,-4,4,4} },
+-             // 3.12: Transverse Mercator
+-         {12, 22, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,4,4,1,4,4,-4,-4,-4,-4} },
+-             // 3.101: General unstructured grid
+-         {101, 4, 0, {1,4,1,-4} },
+-             // 3.140: Lambert Azimuthal Equal Area Projection
+-         {140, 17, 0, {1,1,4,1,4,1,4,4,4,-4,4,4,4,1,4,4,1} },
+-//
+-             // 3.10: Mercator
+-         {10, 19, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,-4,4,1,4,4,4} },
+-             // 3.20: Polar Stereographic Projection
+-         {20, 18, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,4,4,4,1,1} },
+-             // 3.30: Lambert Conformal
+-         {30, 22, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,4,4,4,1,1,-4,-4,-4,4} },
+-             // 3.31: Albers equal area
+-         {31, 22, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,-4,4,4,4,1,1,-4,-4,-4,4} },
+-             // 3.40: Guassian Lat/Lon
+-         {40, 19, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1} },
+-             // 3.41: Rotated Gaussian Lat/Lon
+-         {41, 22, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,4} },
+-             // 3.42: Stretched Gaussian Lat/Lon
+-         {42, 22, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,-4} },
+-             // 3.43: Stretched and Rotated Gaussian Lat/Lon
+-         {43, 25, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,-4,4,4,-4,4,-4} },
+-             // 3.50: Spherical Harmonic Coefficients
+-         {50, 5, 0, {4,4,4,1,1} },
+-             // 3.51: Rotated Spherical Harmonic Coefficients
+-         {51, 8, 0, {4,4,4,1,1,-4,4,4} },
+-             // 3.52: Stretched Spherical Harmonic Coefficients
+-         {52, 8, 0, {4,4,4,1,1,-4,4,-4} },
+-             // 3.53: Stretched and Rotated Spherical Harmonic Coefficients
+-         {53, 11, 0, {4,4,4,1,1,-4,4,4,-4,4,-4} },
+-             // 3.90: Space View Perspective or orthographic
+-         {90, 21, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,4,4,4,4,1,4,4,4,4} },
+-             // 3.100: Triangular grid based on an icosahedron
+-         {100, 11, 0, {1,1,2,1,-4,4,4,1,1,1,4} },
+-             // 3.110: Equatorial Azimuthal equidistant
+-         {110, 16, 0, {1,1,4,1,4,1,4,4,4,-4,4,1,4,4,1,1} },
+-             // 3.120: Azimuth-range projection
+-         {120, 7, 1, {4,4,-4,4,4,4,1} },
+-             // 3.204: Curvilinear Orthogonal Grid
+-         {204, 19, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1} },
+-             // 3.32768: Rot Lat/Lon E-grid (Arakawa)
+-         {32768, 19, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1} },
+-             // 3.32769: Rot Lat/Lon Non-E Staggered grid (Arakawa)
+-         {32769, 21, 0, {1,1,4,1,4,1,4,4,4,4,4,-4,4,1,-4,4,4,4,1,4,4} },
+-             // 3.1000: Cross Section Grid
+-         {1000, 20, 1, {1,1,4,1,4,1,4,4,4,4,-4,4,1,4,4,1,2,1,1,2} },
+-             // 3.1100: Hovmoller Diagram Grid
+-         {1100, 28, 0, {1,1,4,1,4,1,4,4,4,4,-4,4,1,-4,4,1,4,1,-4,1,1,-4,2,1,1,1,1,1} },
+-             // 3.1200: Time Section Grid
+-         {1200, 16, 1, {4,1,-4,1,1,-4,2,1,1,1,1,1,2,1,1,2} }
+-
+-      } ;
++      extern const struct gridtemplate templatesgrid[];
+ 
++      g2int getgridindex(g2int number);
+ 
+ #endif  /*  _gridtemplates_H  */
+--- g2clib-1.6.2.p1/pdstemplates.c	2021-01-07 08:29:37.461502605 +0100
++++ g2clib-1.6.2.p12/pdstemplates.c	2021-01-07 09:10:17.508115802 +0100
+@@ -4,6 +4,178 @@
+ #include "grib2.h"
+ #include "pdstemplates.h"
+ 
++const struct pdstemplate templatespds[MAXPDSTEMP] = {
++       // 4.0: Analysis or Forecast at Horizontal Level/Layer
++       //      at a point in time
++   {0,15,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
++       // 4.1: Individual Ensemble Forecast at Horizontal Level/Layer
++       //      at a point in time
++   {1,18,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
++       // 4.2: Derived Fcst based on whole Ensemble at Horiz Level/Layer
++       //      at a point in time
++   {2,17,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1} },
++       // 4.3: Derived Fcst based on Ensemble cluster over rectangular
++       //      area at Horiz Level/Layer at a point in time
++   {3,31,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,1,1,1,1,-4,-4,4,4,1,-1,4,-1,4} },
++       // 4.4: Derived Fcst based on Ensemble cluster over circular
++       //      area at Horiz Level/Layer at a point in time
++   {4,30,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,1,1,1,1,-4,4,4,1,-1,4,-1,4} },
++       // 4.5: Probablility Forecast at Horiz Level/Layer
++       //      at a point in time
++   {5,22,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,-1,-4,-1,-4} },
++       // 4.6: Percentile Forecast at Horiz Level/Layer
++       //      at a point in time
++   {6,16,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1} },
++       // 4.7: Analysis or Forecast Error at Horizontal Level/Layer
++       //      at a point in time
++   {7,15,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
++       // 4.8: Ave/Accum/etc... at Horiz Level/Layer
++       //      in a time interval
++   {8,29,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.9: Probablility Forecast at Horiz Level/Layer
++       //      in a time interval
++   {9,36,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,-1,-4,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.10: Percentile Forecast at Horiz Level/Layer
++       //       in a time interval
++   {10,30,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.11: Individual Ensemble Forecast at Horizontal Level/Layer
++       //       in a time interval
++   {11,32,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.12: Derived Fcst based on whole Ensemble at Horiz Level/Layer
++       //       in a time interval
++   {12,31,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.13: Derived Fcst based on Ensemble cluster over rectangular
++       //       area at Horiz Level/Layer in a time interval
++   {13,45,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,1,1,1,1,-4,-4,4,4,1,-1,4,-1,4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.14: Derived Fcst based on Ensemble cluster over circular
++       //       area at Horiz Level/Layer in a time interval
++   {14,44,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,1,1,1,1,-4,4,4,1,-1,4,-1,4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.15: Average, accumulation, extreme values or other statistically-processed values over a
++       // spatial area at a horizontal level or in a horizontal layer at a point in time
++   {15,18,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
++       // 4.20: Radar Product
++   {20,19,0, {1,1,1,1,1,-4,4,2,4,2,1,1,1,1,1,2,1,3,2} },
++       // 4.30: Satellite Product
++   {30,5,1, {1,1,1,1,1} },
++       // 4.31: Satellite Product
++   {31,5,1, {1,1,1,1,1} },
++       // 4.40: Analysis or forecast at a horizontal level or in a horizontal layer
++       // at a point in time for atmospheric chemical constituents
++   {40,16,0, {1,1,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
++       // 4.41: Individual ensemble forecast, control and perturbed, at a horizontal level or
++       // in a horizontal layer at a point in time for atmospheric chemical constituents
++   {41,19,0, {1,1,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
++       // 4.42: Average, accumulation, and/or extreme values or other statistically-processed values
++       // at a horizontal level or in a horizontal layer in a continuous or non-continuous
++       // time interval for atmospheric chemical constituents
++   {42,30,1, {1,1,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.43: Individual ensemble forecast, control and perturbed, at a horizontal level
++       // or in a horizontal layer in a continuous or non-continuous
++       // time interval for atmospheric chemical constituents
++   {43,33,1, {1,1,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.254: CCITT IA5 Character String
++   {254,3,0, {1,1,4} },
++       // 4.1000: Cross section of analysis or forecast
++       //         at a point in time
++   {1000,9,0, {1,1,1,1,1,2,1,1,-4} },
++       // 4.1001: Cross section of Ave/Accum/etc... analysis or forecast
++       //         in a time interval
++   {1001,16,0, {1,1,1,1,1,2,1,1,4,4,1,1,1,4,1,4} },
++       // 4.1001: Cross section of Ave/Accum/etc... analysis or forecast
++       //         over latitude or longitude
++   {1002,15,0, {1,1,1,1,1,2,1,1,-4,1,1,1,4,4,2} },
++       // 4.1100: Hovmoller-type grid w/ no averaging or other
++       //         statistical processing
++   {1100,15,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
++       // 4.1100: Hovmoller-type grid with averaging or other
++       //         statistical processing
++   {1101,22,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,4,1,1,1,4,1,4} },
++       // 4.32:Simulate (synthetic) Satellite Product
++   {32,10,1, {1,1,1,1,1,2,1,1,-2,1} },
++       // 4.44: Analysis or forecast at a horizontal level or in a horizontal layer
++       // at a point in time for Aerosol
++   {44,21,0, {1,1,2,1,-1,-4,-1,-4,1,1,1,2,1,1,-2,1,-1,-4,1,-1,-4} },
++       // 4.45: Individual ensemble forecast, control and 
++       // perturbed,  at a horizontal level or in a horizontal layer
++       // at a point in time for Aerosol
++   {45,24,0, {1,1,2,1,-1,-4,-1,-4,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
++       // 4.46: Ave or Accum or Extreme value at level/layer
++       // at horizontal level or in a horizontal in a continuous or
++       // non-continuous time interval for Aerosol
++   {46,35,1, {1,1,2,1,-1,-4,-1,-4,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++       // 4.47: Individual ensemble forecast, control and 
++       // perturbed, at horizontal level or in a horizontal
++       // in a continuous or non-continuous time interval for Aerosol
++   {47,38,1, {1,1,1,2,1,-1,-4,-1,-4,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++
++       //             PDT 4.48
++       // 4.48: Analysis or forecast at a horizontal level or in a horizontal layer
++       // at a point in time for Optical Properties of Aerosol
++   {48,26,0, {1,1,2,1,-1,-4,-1,-4,1,-1,-4,-1,-4,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
++
++       //             VALIDATION --- PDT 4.50
++       // 4.50: Analysis or forecast of multi component parameter or
++       // matrix element at a point in time
++   {50,21,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,4,4,4,4} },
++
++       //             VALIDATION --- PDT 4.52
++       // 4.52: Analysis or forecast of Wave parameters
++       // at the Sea surface at a point in time
++   {52,15,0, {1,1,1,1,1,1,1,1,2,1,1,-4,1,-1,-4} },
++
++       // 4.51: Categorical forecasts at a horizontal level or
++       // in a horizontal layer at a point in time
++   {51,16,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1} },
++
++       // 4.91: Categorical forecasts at a horizontal level or
++       // in a horizontal layer at a point in time
++       // in a continuous or non-continuous time interval
++   {91,36,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,-1,-4,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++// PDT 4.33  (07/29/2013)
++       // 4.33: Individual ensemble forecast, control, perturbed,
++       // at a horizontal level or in a  horizontal layer
++       // at a point in time for simulated (synthetic) Satellite data
++   {33,18,1, {1,1,1,1,1,2,1,1,-4,1,2,2,2,-1,-4,1,1,1} },
++// PDT 4.34  (07/29/2013)
++       // 4.34: Individual ensemble forecast, control, perturbed,
++       // at a horizontal level or in a  horizontal layer,in a continuous or
++       // non-continuous interval for simulated (synthetic) Satellite data
++   {34,32,1, {1,1,1,1,1,2,1,1,-4,1,2,2,2,-1,-4,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++// PDT 4.53  (07/29/2013)
++       // 4.53:  Partitioned parameters at
++       // horizontal level or horizontal layer
++       // at a point in time
++   {53,19,1, {1,1,1,1,4,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
++// PDT 4.54  (07/29/2013)
++       // 4.54: Individual ensemble forecast, control, perturbed,
++       // at a horizontal level or in a  horizontal layer
++       // at a point in time for partitioned parameters
++   {54,22,1, {1,1,1,1,4,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
++// PDT 4.57  (10/07/2015)
++       // 4.57: Analysis or Forecast at a horizontal or in a
++       // horizontal layer at a point in time for
++       // atmospheric chemical constituents based on 
++       // a distribution function
++   {57,7,1, {1,1,2,2,2,2,1} },
++// PDT 4.60  (10/07/2015)
++       // 4.60: Individual ensemble reforecast, control and perturbed,
++       // at a horizontal level or in a horizontal layer
++       // at a point in time
++   {60,24,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1} },
++// PDT 4.61  (10/07/2015)
++       // 4.61: Individual ensemble reforecast, control and perturbed,
++       // at a horizontal level or in a  horizontal layer
++       // in a continuous or non-continuous time interval
++   {61,38,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
++//             VALIDATION --- PDT 4.35
++// PDT 4.35  (10/07/2015)
++       // 4.35: Individual ensemble reforecast, control and perturbed,
++       // at a horizontal level or in a  horizontal layer
++       // in a continuous or non-continuous time interval
++   {35,6,1, {1,1,1,1,1,1} }
++
++} ;
++
+ ///$$$  SUBPROGRAM DOCUMENTATION BLOCK
+ //                .      .    .                                       .
+ // SUBPROGRAM:    getpdsindex
+--- g2clib-1.6.2.p1/pdstemplates.h	2021-01-07 08:29:37.463502550 +0100
++++ g2clib-1.6.2.p12/pdstemplates.h	2021-01-07 08:39:49.139685860 +0100
+@@ -55,176 +55,8 @@
+           g2int mappds[MAXPDSMAPLEN];
+       };
+ 
+-      const struct pdstemplate templatespds[MAXPDSTEMP] = {
+-             // 4.0: Analysis or Forecast at Horizontal Level/Layer
+-             //      at a point in time
+-         {0,15,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
+-             // 4.1: Individual Ensemble Forecast at Horizontal Level/Layer
+-             //      at a point in time
+-         {1,18,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
+-             // 4.2: Derived Fcst based on whole Ensemble at Horiz Level/Layer
+-             //      at a point in time
+-         {2,17,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1} },
+-             // 4.3: Derived Fcst based on Ensemble cluster over rectangular
+-             //      area at Horiz Level/Layer at a point in time
+-         {3,31,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,1,1,1,1,-4,-4,4,4,1,-1,4,-1,4} },
+-             // 4.4: Derived Fcst based on Ensemble cluster over circular
+-             //      area at Horiz Level/Layer at a point in time
+-         {4,30,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,1,1,1,1,-4,4,4,1,-1,4,-1,4} },
+-             // 4.5: Probablility Forecast at Horiz Level/Layer
+-             //      at a point in time
+-         {5,22,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,-1,-4,-1,-4} },
+-             // 4.6: Percentile Forecast at Horiz Level/Layer
+-             //      at a point in time
+-         {6,16,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1} },
+-             // 4.7: Analysis or Forecast Error at Horizontal Level/Layer
+-             //      at a point in time
+-         {7,15,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
+-             // 4.8: Ave/Accum/etc... at Horiz Level/Layer
+-             //      in a time interval
+-         {8,29,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.9: Probablility Forecast at Horiz Level/Layer
+-             //      in a time interval
+-         {9,36,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,-1,-4,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.10: Percentile Forecast at Horiz Level/Layer
+-             //       in a time interval
+-         {10,30,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.11: Individual Ensemble Forecast at Horizontal Level/Layer
+-             //       in a time interval
+-         {11,32,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.12: Derived Fcst based on whole Ensemble at Horiz Level/Layer
+-             //       in a time interval
+-         {12,31,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.13: Derived Fcst based on Ensemble cluster over rectangular
+-             //       area at Horiz Level/Layer in a time interval
+-         {13,45,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,1,1,1,1,-4,-4,4,4,1,-1,4,-1,4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.14: Derived Fcst based on Ensemble cluster over circular
+-             //       area at Horiz Level/Layer in a time interval
+-         {14,44,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,1,1,1,1,-4,4,4,1,-1,4,-1,4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.15: Average, accumulation, extreme values or other statistically-processed values over a
+-             // spatial area at a horizontal level or in a horizontal layer at a point in time
+-         {15,18,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
+-             // 4.20: Radar Product
+-         {20,19,0, {1,1,1,1,1,-4,4,2,4,2,1,1,1,1,1,2,1,3,2} },
+-             // 4.30: Satellite Product
+-         {30,5,1, {1,1,1,1,1} },
+-             // 4.31: Satellite Product
+-         {31,5,1, {1,1,1,1,1} },
+-             // 4.40: Analysis or forecast at a horizontal level or in a horizontal layer
+-             // at a point in time for atmospheric chemical constituents
+-         {40,16,0, {1,1,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
+-             // 4.41: Individual ensemble forecast, control and perturbed, at a horizontal level or
+-             // in a horizontal layer at a point in time for atmospheric chemical constituents
+-         {41,19,0, {1,1,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
+-             // 4.42: Average, accumulation, and/or extreme values or other statistically-processed values
+-             // at a horizontal level or in a horizontal layer in a continuous or non-continuous
+-             // time interval for atmospheric chemical constituents
+-         {42,30,1, {1,1,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.43: Individual ensemble forecast, control and perturbed, at a horizontal level
+-             // or in a horizontal layer in a continuous or non-continuous
+-             // time interval for atmospheric chemical constituents
+-         {43,33,1, {1,1,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.254: CCITT IA5 Character String
+-         {254,3,0, {1,1,4} },
+-             // 4.1000: Cross section of analysis or forecast
+-             //         at a point in time
+-         {1000,9,0, {1,1,1,1,1,2,1,1,-4} },
+-             // 4.1001: Cross section of Ave/Accum/etc... analysis or forecast
+-             //         in a time interval
+-         {1001,16,0, {1,1,1,1,1,2,1,1,4,4,1,1,1,4,1,4} },
+-             // 4.1001: Cross section of Ave/Accum/etc... analysis or forecast
+-             //         over latitude or longitude
+-         {1002,15,0, {1,1,1,1,1,2,1,1,-4,1,1,1,4,4,2} },
+-             // 4.1100: Hovmoller-type grid w/ no averaging or other
+-             //         statistical processing
+-         {1100,15,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
+-             // 4.1100: Hovmoller-type grid with averaging or other
+-             //         statistical processing
+-         {1101,22,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,4,1,1,1,4,1,4} },
+-             // 4.32:Simulate (synthetic) Satellite Product
+-         {32,10,1, {1,1,1,1,1,2,1,1,-2,1} },
+-             // 4.44: Analysis or forecast at a horizontal level or in a horizontal layer
+-             // at a point in time for Aerosol
+-         {44,21,0, {1,1,2,1,-1,-4,-1,-4,1,1,1,2,1,1,-2,1,-1,-4,1,-1,-4} },
+-             // 4.45: Individual ensemble forecast, control and 
+-             // perturbed,  at a horizontal level or in a horizontal layer
+-             // at a point in time for Aerosol
+-         {45,24,0, {1,1,2,1,-1,-4,-1,-4,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
+-             // 4.46: Ave or Accum or Extreme value at level/layer
+-             // at horizontal level or in a horizontal in a continuous or
+-             // non-continuous time interval for Aerosol
+-         {46,35,1, {1,1,2,1,-1,-4,-1,-4,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-             // 4.47: Individual ensemble forecast, control and 
+-             // perturbed, at horizontal level or in a horizontal
+-             // in a continuous or non-continuous time interval for Aerosol
+-         {47,38,1, {1,1,1,2,1,-1,-4,-1,-4,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-
+-             //             PDT 4.48
+-             // 4.48: Analysis or forecast at a horizontal level or in a horizontal layer
+-             // at a point in time for Optical Properties of Aerosol
+-         {48,26,0, {1,1,2,1,-1,-4,-1,-4,1,-1,-4,-1,-4,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
+-
+-             //             VALIDATION --- PDT 4.50
+-             // 4.50: Analysis or forecast of multi component parameter or
+-             // matrix element at a point in time
+-         {50,21,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,4,4,4,4} },
+-
+-             //             VALIDATION --- PDT 4.52
+-             // 4.52: Analysis or forecast of Wave parameters
+-             // at the Sea surface at a point in time
+-         {52,15,0, {1,1,1,1,1,1,1,1,2,1,1,-4,1,-1,-4} },
+-
+-             // 4.51: Categorical forecasts at a horizontal level or
+-             // in a horizontal layer at a point in time
+-         {51,16,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1} },
+-
+-             // 4.91: Categorical forecasts at a horizontal level or
+-             // in a horizontal layer at a point in time
+-             // in a continuous or non-continuous time interval
+-         {91,36,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,-1,-4,-1,-4,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-// PDT 4.33  (07/29/2013)
+-             // 4.33: Individual ensemble forecast, control, perturbed,
+-             // at a horizontal level or in a  horizontal layer
+-             // at a point in time for simulated (synthetic) Satellite data
+-         {33,18,1, {1,1,1,1,1,2,1,1,-4,1,2,2,2,-1,-4,1,1,1} },
+-// PDT 4.34  (07/29/2013)
+-             // 4.34: Individual ensemble forecast, control, perturbed,
+-             // at a horizontal level or in a  horizontal layer,in a continuous or
+-             // non-continuous interval for simulated (synthetic) Satellite data
+-         {34,32,1, {1,1,1,1,1,2,1,1,-4,1,2,2,2,-1,-4,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-// PDT 4.53  (07/29/2013)
+-             // 4.53:  Partitioned parameters at
+-             // horizontal level or horizontal layer
+-             // at a point in time
+-         {53,19,1, {1,1,1,1,4,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4} },
+-// PDT 4.54  (07/29/2013)
+-             // 4.54: Individual ensemble forecast, control, perturbed,
+-             // at a horizontal level or in a  horizontal layer
+-             // at a point in time for partitioned parameters
+-         {54,22,1, {1,1,1,1,4,2,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1} },
+-// PDT 4.57  (10/07/2015)
+-             // 4.57: Analysis or Forecast at a horizontal or in a
+-             // horizontal layer at a point in time for
+-             // atmospheric chemical constituents based on 
+-             // a distribution function
+-         {57,7,1, {1,1,2,2,2,2,1} },
+-// PDT 4.60  (10/07/2015)
+-             // 4.60: Individual ensemble reforecast, control and perturbed,
+-             // at a horizontal level or in a horizontal layer
+-             // at a point in time
+-         {60,24,0, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1} },
+-// PDT 4.61  (10/07/2015)
+-             // 4.61: Individual ensemble reforecast, control and perturbed,
+-             // at a horizontal level or in a  horizontal layer
+-             // in a continuous or non-continuous time interval
+-         {61,38,1, {1,1,1,1,1,2,1,1,-4,1,-1,-4,1,-1,-4,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,4,1,1,1,4,1,4} },
+-//             VALIDATION --- PDT 4.35
+-// PDT 4.35  (10/07/2015)
+-             // 4.35: Individual ensemble reforecast, control and perturbed,
+-             // at a horizontal level or in a  horizontal layer
+-             // in a continuous or non-continuous time interval
+-         {35,6,1, {1,1,1,1,1,1} }
+-
+-      } ;
++      extern const struct pdstemplate templatespds[];
++ 
++      g2int getpdsindex(g2int number);
+ 
+ #endif  /*  _pdstemplates_H  */
