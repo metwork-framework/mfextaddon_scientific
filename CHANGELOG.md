@@ -144,6 +144,7 @@
 - bump meson from 1.3.1 to 1.7.2 (#851)
 - bump pyproject-metadata from 0.7.1 to 0.9.1 and use meson wheel (#852)
 - bump meson-python from 0.15.0 to 0.17.1 (#853)
+- revert: bump g2clib from 1.6.3 to 2.1.0 (for ncl) (#856)
 
 ### Bug Fixes
 
