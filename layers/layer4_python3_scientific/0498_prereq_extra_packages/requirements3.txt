@@ -1,4 +1,4 @@
-beniget==0.4.1
+beniget==0.4.2.post1
 gast==0.5.4
 networkx==3.2.1
 numpy==2.1.3

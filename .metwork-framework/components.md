@@ -14,7 +14,7 @@
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2024.8.26.0.31.57 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 6.1.2 | python3_scientific |
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.4 | python3_extratools |
-| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.1 | python3_scientific |
+| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
 | [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
 | [blinker](https://blinker.readthedocs.io) | 1.6.3 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.6.2 | python3_scientific |
