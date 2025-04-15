@@ -145,6 +145,11 @@
 - bump pyproject-metadata from 0.7.1 to 0.9.1 and use meson wheel (#852)
 - bump meson-python from 0.15.0 to 0.17.1 (#853)
 - revert: bump g2clib from 1.6.3 to 2.1.0 (for ncl) (#856)
+- bump eccodes library and binding python from 2.40.0 to 2.41.0 (#860)
+- bump scikit-build-core from 0.10.7 to 0.11.1 (#861)
+- bump ninja from 1.11.1.3 to 1.11.1.4 (#862)
+- bump beniget from 0.4.1 to 0.4.2.post1 (#863)
+- bump gast to 0.6.0 and pythran to 0.17.0 (#864)
 
 ### Bug Fixes
 
