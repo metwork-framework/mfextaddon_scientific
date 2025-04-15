@@ -18,7 +18,7 @@
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python2_scientific |
 | [cdsapi](https://software.ecmwf.int/stash/projects/CDS/repos/cdsapi) | 0.1.4 | python3_scientific |
 | [cf-units](https://scitools.org.uk/cf-units) | 2.1.1 | python2_scientific |
-| [cf-units](https://github.com/SciTools/cf-units) | 3.0.1.post0 | python3_scientific |
+| [cf-units](https://github.com/SciTools/cf-units) | 3.1.1 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.8.5 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.0.3.4 | python2_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.5.2 | python3_scientific |

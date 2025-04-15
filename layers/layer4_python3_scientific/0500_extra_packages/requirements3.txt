@@ -6,7 +6,7 @@ bokeh==2.4.2
 Cartopy==0.18.0
 cdo==1.5.3
 cdsapi==0.1.4
-cf-units==3.0.1.post0
+cf-units==3.1.1
 cfgrib==0.9.8.5
 cftime==1.5.2
 charset-normalizer==2.0.11
