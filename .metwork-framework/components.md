@@ -44,7 +44,7 @@
 | [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.0.1 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.5.0 | python3_scientific |
 | [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.1.1 | python3_scientific |
-| [cppy](https://github.com/nucleic/cppy) | 1.2.1 | python3_scientific |
+| [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.7.0 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
 | [dask-expr](https://pypi.org/project/dask-expr) | 1.1.21 | python3_scientific |
