@@ -1,5 +1,5 @@
 include ../../../adm/root.mk
-include ../../simple_layer.mk
+include $(MFEXT_HOME)/share/simple_layer.mk
 
 ifeq ($(shell cat /etc/redhat-release | grep -c "release 8"), 1)
 
