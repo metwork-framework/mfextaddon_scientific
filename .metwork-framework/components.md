@@ -177,7 +177,7 @@
 | [nest_asyncio](https://github.com/erdewit/nest_asyncio) | 1.6.0 | python3_extratools |
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.2 | scientific |
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.7.2 | python3_scientific |
-| [networkx](https://networkx.org/) | 3.2.1 | python3_scientific |
+| [networkx](https://networkx.org/) | 3.4.2 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1.4 | python3_scientific |
 | [notebook](https://github.com/jupyter/notebook) | 7.2.2 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
