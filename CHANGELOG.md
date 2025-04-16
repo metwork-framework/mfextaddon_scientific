@@ -1,5 +1,11 @@
 # release_2.0 CHANGELOG
 
+## [Unreleased]
+
+### Bug Fixes
+
+- upgrade cf-units to 3.1.1 (#868)
+
 ## v2.0.8 (2024-03-09)
 
 ### Bug Fixes
