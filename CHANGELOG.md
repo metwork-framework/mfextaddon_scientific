@@ -150,6 +150,9 @@
 - bump ninja from 1.11.1.3 to 1.11.1.4 (#862)
 - bump beniget from 0.4.1 to 0.4.2.post1 (#863)
 - bump gast to 0.6.0 and pythran to 0.17.0 (#864)
+- bump networkx from 3.2.1 to 3.4.2 (#869)
+- bump cppy from 1.2.1 to 1.3.1 (#870)
+- bump docutils from 0.20.1 to 0.21.2 (#871)
 
 ### Bug Fixes
 
