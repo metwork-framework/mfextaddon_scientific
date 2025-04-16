@@ -9,4 +9,4 @@ scitools-pyke==1.1.1
 scipy==1.14.1
 tomli_w==1.2.0
 tzdata==2025.2
-xarray==2024.11.0
+xarray==2025.3.1
