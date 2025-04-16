@@ -288,7 +288,7 @@
 | [toolz](https://github.com/pytoolz/toolz/) | 0.12.0 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.21.0 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.5.1 | python3_scientific |
-| [tzdata](https://github.com/python/tzdata) | 2023.3 | python3_scientific |
+| [tzdata](https://github.com/python/tzdata) | 2025.2 | python3_scientific |
 | [tzlocal](https://pypi.org/project/tzlocal) | 5.2 | python3_scientific |
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
