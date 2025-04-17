@@ -115,6 +115,7 @@ import msgpack
 import multiprocess
 import multiurl
 import munch
+import narwhals
 from nco import Nco
 nco = Nco()
 import netCDF4

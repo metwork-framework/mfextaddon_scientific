@@ -17,7 +17,7 @@
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
 | [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
-| [bokeh](https://bokeh.org) | 3.6.2 | python3_scientific |
+| [bokeh](https://bokeh.org) | 3.7.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 23.0.0 | python3_scientific |
 | [boto3](https://github.com/boto/boto3) | 1.36.18 | python3_scientific |
 | [botocore](https://github.com/boto/botocore) | 1.36.18 | python3_scientific |
@@ -166,6 +166,7 @@
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.15 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.3 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
+| [narwhals](https://github.com/narwhals-dev/narwhals) | 1.35.0 | python3_scientific |
 | [nbclassic](https://github.com/jupyter/nbclassic) | 1.2.0 | python3_extratools |
 | [nbclient](https://jupyter.org) | 0.10.0 | python3_extratools |
 | [nbconvert](https://jupyter.org) | 7.16.4 | python3_extratools |
@@ -313,4 +314,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(312 components)*
+*(313 components)*
