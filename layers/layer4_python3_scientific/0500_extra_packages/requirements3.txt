@@ -7,7 +7,7 @@ array_api_compat==1.11.2
 asciitree==0.3.3
 astropy==7.0.1
 astropy-iers-data==0.2025.4.14.0.37.22
-blinker==1.6.3
+blinker==1.9.0
 bokeh==3.6.2
 boltons==23.0.0
 Bottleneck==1.4.2
