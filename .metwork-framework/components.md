@@ -11,8 +11,8 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [asgiref](https://github.com/django/asgiref/) | 3.5.2 | python3_extratools |
 | [Aspose.Slides](https://products.aspose.com/slides/python-net/) | 24.11.0 | python3_extratools |
-| [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2024.8.26.0.31.57 | python3_scientific |
-| [astropy](https://www.astropy.org/) | 6.1.2 | python3_scientific |
+| [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2025.4.14.0.37.22 | python3_scientific |
+| [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.4 | python3_extratools |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
 | [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
