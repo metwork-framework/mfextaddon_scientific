@@ -2,7 +2,7 @@
 | --- | --- | --- |
 | [adjustText](https://github.com/Phlya/adjustText) | 1.3.0 | python3_scientific |
 | [affine](https://pypi.org/project/affine) | 2.4.0 | python3_scientific |
-| [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.18 | python3_scientific |
+| [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.19 | python3_scientific |
 | [anyio](https://pypi.org/project/anyio) | 3.5.0 | python3_extratools |
 | [apng](https://github.com/eight04/pyAPNG) | 0.3.4 | python3_scientific |
 | [argon2-cffi-bindings](https://github.com/hynek/argon2-cffi-bindings) | 21.2.0 | python3_extratools |
