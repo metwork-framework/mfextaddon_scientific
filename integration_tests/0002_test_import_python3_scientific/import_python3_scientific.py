@@ -18,7 +18,6 @@ import bottleneck
 import boto3
 import botocore
 import branca
-import cads_api_client
 import cartopy
 import cdo
 import cdsapi
