@@ -153,6 +153,10 @@
 - bump networkx from 3.2.1 to 3.4.2 (#869)
 - bump cppy from 1.2.1 to 1.3.1 (#870)
 - bump docutils from 0.20.1 to 0.21.2 (#871)
+- bump tomli_w from 1.0.0 to 1.2.0 (#872)
+- bump tzdata from 2023.3 to 2025.2 (#873)
+- bump xarray from 2024.11.0 to 2025.3.1 (#874)
+- bump cf_xarray from 0.10.0 to 0.10.5 (#875)
 
 ### Bug Fixes
 
