@@ -22,7 +22,7 @@
 | [boto3](https://github.com/boto/boto3) | 1.37.35 | python3_scientific |
 | [botocore](https://github.com/boto/botocore) | 1.37.35 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.4.2 | python3_scientific |
-| [branca](https://github.com/python-visualization/branca) | 0.6.0 | python3_scientific |
+| [branca](https://github.com/python-visualization/branca) | 0.8.1 | python3_scientific |
 | [cads-api-client](https://pypi.org/project/cads-api-client) | 1.3.2 | python3_scientific |
 | [Cartopy](https://github.com/SciTools/cartopy) | 0.24.1 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.6.1 | python3_scientific |
