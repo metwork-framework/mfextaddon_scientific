@@ -7,7 +7,7 @@
 | [apng](https://github.com/eight04/pyAPNG) | 0.3.4 | python3_scientific |
 | [argon2-cffi-bindings](https://github.com/hynek/argon2-cffi-bindings) | 21.2.0 | python3_extratools |
 | [argon2-cffi](https://pypi.org/project/argon2-cffi) | 23.1.0 | python3_extratools |
-| [array_api_compat](https://data-apis.org/array-api-compat/) | 1.10.0 | python3_scientific |
+| [array_api_compat](https://data-apis.org/array-api-compat/) | 1.11.2 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [asgiref](https://github.com/django/asgiref/) | 3.5.2 | python3_extratools |
 | [Aspose.Slides](https://products.aspose.com/slides/python-net/) | 24.11.0 | python3_extratools |
