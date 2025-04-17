@@ -23,7 +23,6 @@
 | [botocore](https://github.com/boto/botocore) | 1.37.35 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.4.2 | python3_scientific |
 | [branca](https://github.com/python-visualization/branca) | 0.8.1 | python3_scientific |
-| [cads-api-client](https://pypi.org/project/cads-api-client) | 1.3.2 | python3_scientific |
 | [Cartopy](https://github.com/SciTools/cartopy) | 0.24.1 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo%7Brbpy%7D) | 1.6.1 | python3_scientific |
 | [cdo](https://code.mpimet.mpg.de/projects/cdo/) | 2.5.1 | scientific |
@@ -314,4 +313,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(313 components)*
+*(312 components)*
