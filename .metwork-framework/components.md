@@ -16,7 +16,7 @@
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.4 | python3_extratools |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
 | [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
-| [blinker](https://blinker.readthedocs.io) | 1.6.3 | python3_scientific |
+| [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.6.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 23.0.0 | python3_scientific |
 | [boto3](https://github.com/boto/boto3) | 1.36.18 | python3_scientific |
