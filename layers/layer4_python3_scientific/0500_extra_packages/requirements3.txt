@@ -24,7 +24,7 @@ cfgrib==0.9.15.0
 click-plugins==1.1.1
 cligj==0.7.2
 -e git+https://github.com/thebaptiste/climetlab.git@0.24.1#egg=climetlab
-cloudpickle==3.0.0
+cloudpickle==3.1.1
 coloredlogs==15.0.1
 configobj==5.0.9
 conflator==0.1.5
