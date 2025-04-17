@@ -19,8 +19,8 @@
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.7.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 25.0.0 | python3_scientific |
-| [boto3](https://github.com/boto/boto3) | 1.36.18 | python3_scientific |
-| [botocore](https://github.com/boto/botocore) | 1.36.18 | python3_scientific |
+| [boto3](https://github.com/boto/boto3) | 1.37.35 | python3_scientific |
+| [botocore](https://github.com/boto/botocore) | 1.37.35 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.4.2 | python3_scientific |
 | [branca](https://github.com/python-visualization/branca) | 0.6.0 | python3_scientific |
 | [cads-api-client](https://pypi.org/project/cads-api-client) | 1.3.2 | python3_scientific |
