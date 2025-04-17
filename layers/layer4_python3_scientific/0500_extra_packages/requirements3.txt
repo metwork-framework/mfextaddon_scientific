@@ -8,7 +8,7 @@ asciitree==0.3.3
 astropy==7.0.1
 astropy-iers-data==0.2025.4.14.0.37.22
 blinker==1.9.0
-bokeh==3.6.2
+bokeh==3.7.2
 boltons==23.0.0
 Bottleneck==1.4.2
 boto3==1.36.18
@@ -99,6 +99,7 @@ msgpack==1.1.0
 multiprocess==0.70.15
 multiurl==0.3.3
 munch==4.0.0
+narwhals==1.35.0
 nco==1.1.2
 netCDF4==1.7.2
 numba==0.61.0
