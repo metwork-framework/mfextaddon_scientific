@@ -18,7 +18,7 @@
 | [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.7.2 | python3_scientific |
-| [boltons](https://github.com/mahmoud/boltons) | 23.0.0 | python3_scientific |
+| [boltons](https://github.com/mahmoud/boltons) | 25.0.0 | python3_scientific |
 | [boto3](https://github.com/boto/boto3) | 1.36.18 | python3_scientific |
 | [botocore](https://github.com/boto/botocore) | 1.36.18 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.4.2 | python3_scientific |

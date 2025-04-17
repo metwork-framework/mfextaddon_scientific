@@ -9,7 +9,7 @@ astropy==7.0.1
 astropy-iers-data==0.2025.4.14.0.37.22
 blinker==1.9.0
 bokeh==3.7.2
-boltons==23.0.0
+boltons==25.0.0
 Bottleneck==1.4.2
 boto3==1.36.18
 botocore==1.36.18
