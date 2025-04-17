@@ -5,8 +5,8 @@ apng==0.3.4
 argparse==1.4.0
 array_api_compat==1.11.2
 asciitree==0.3.3
-astropy==6.1.2
-astropy-iers-data==0.2024.8.26.0.31.57
+astropy==7.0.1
+astropy-iers-data==0.2025.4.14.0.37.22
 blinker==1.6.3
 bokeh==3.6.2
 boltons==23.0.0
