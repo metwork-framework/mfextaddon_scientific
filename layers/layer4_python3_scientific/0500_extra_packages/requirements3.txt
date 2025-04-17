@@ -11,8 +11,8 @@ blinker==1.9.0
 bokeh==3.7.2
 boltons==25.0.0
 Bottleneck==1.4.2
-boto3==1.36.18
-botocore==1.36.18
+boto3==1.37.35
+botocore==1.37.35
 branca==0.6.0
 cads_api_client==1.3.2
 Cartopy==0.24.1
