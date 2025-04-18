@@ -10,7 +10,7 @@ diff -up esmf-8.6.0/src/addon/esmpy/pyproject.toml.orig esmf-8.6.0/src/addon/esm
  ]
 -dynamic = [ "version" ]
 +#dynamic = [ "version" ]
-+version = "8.8.0"
++version = "8.8.1"
 
  [project.optional-dependencies]
  testing = [
