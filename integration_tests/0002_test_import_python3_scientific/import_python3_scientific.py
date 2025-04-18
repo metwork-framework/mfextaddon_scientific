@@ -55,8 +55,11 @@ import distributed
 import docstring_parser
 import docutils
 import donfig
+import earthkit.aggregate
+import earthkit.climate
 import earthkit.data
 import earthkit.geo
+import earthkit.hydro
 import earthkit.meteo
 import earthkit.plots
 import earthkit.regrid
