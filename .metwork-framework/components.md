@@ -73,7 +73,7 @@
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.41.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.41.0 | scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.28.7 | scientific |
-| [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
+| [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.14 | python3_scientific |
 | [ek-aggregate](https://pypi.org/project/ek-aggregate) | 0.1.2 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.8.1 | scientific |
