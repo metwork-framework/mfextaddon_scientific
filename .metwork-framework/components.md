@@ -57,7 +57,7 @@
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.15 | python3_extratools |
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.16 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io) | 0.21.2 | python3_scientific |
-| [donfig](https://github.com/pytroll/donfig) | 0.8.1 | python3_scientific |
+| [donfig](https://github.com/pytroll/donfig) | 0.8.1.post1 | python3_scientific |
 | [earthkit-data](https://github.com/ecmwf/earthkit-data/) | 0.12.1 | python3_scientific |
 | [earthkit-geo](https://github.com/ecmwf/earthkit-geo/) | 0.3.0 | python3_scientific |
 | [earthkit-meteo](https://github.com/ecmwf/earthkit-meteo/) | 0.3.0 | python3_scientific |

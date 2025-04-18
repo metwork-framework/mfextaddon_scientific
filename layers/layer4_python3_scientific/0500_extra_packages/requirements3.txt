@@ -40,7 +40,7 @@ dateparser==1.2.1
 DateTime==5.5
 distributed==2025.3.0
 docstring_parser==0.16
-donfig==0.8.1
+donfig==0.8.1.post1
 earthkit-data==0.12.1
 earthkit-geo==0.3.0
 earthkit-meteo==0.3.0
