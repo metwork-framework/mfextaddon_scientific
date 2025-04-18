@@ -51,7 +51,6 @@ import dask.widgets
 import datapi
 import dateparser
 import DateTime
-import descartes
 import distributed
 import docstring_parser
 import docutils
