@@ -58,21 +58,24 @@
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.16 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io) | 0.21.2 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1.post1 | python3_scientific |
-| [earthkit-data](https://github.com/ecmwf/earthkit-data/) | 0.12.1 | python3_scientific |
+| [earthkit-climate](https://pypi.org/project/earthkit-climate) | 0.1.1 | python3_scientific |
+| [earthkit-data](https://github.com/ecmwf/earthkit-data/) | 0.13.8 | python3_scientific |
 | [earthkit-geo](https://github.com/ecmwf/earthkit-geo/) | 0.3.0 | python3_scientific |
+| [earthkit-hydro](https://pypi.org/project/earthkit-hydro) | 0.1.3 | python3_scientific |
 | [earthkit-meteo](https://github.com/ecmwf/earthkit-meteo/) | 0.3.0 | python3_scientific |
-| [earthkit-plots-default-styles](https://pypi.org/project/earthkit-plots-default-styles) | 0.0.1 | python3_scientific |
-| [earthkit-plots](https://github.com/ecmwf/earthkit-plots/) | 0.2.8 | python3_scientific |
+| [earthkit-plots-default-styles](https://pypi.org/project/earthkit-plots-default-styles) | 0.1.0 | python3_scientific |
+| [earthkit-plots](https://github.com/ecmwf/earthkit-plots/) | 0.3.1 | python3_scientific |
 | [earthkit-regrid](https://github.com/ecmwf/earthkit-regrid/) | 0.4.0 | python3_scientific |
 | [earthkit-time](https://github.com/ecmwf/earthkit-time/) | 0.1.7 | python3_scientific |
-| [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 0.3.4.1 | python3_scientific |
-| [earthkit](https://github.com/ecmwf/earthkit/) | 0.9.3 | python3_scientific |
+| [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 0.4.0 | python3_scientific |
+| [earthkit](https://github.com/ecmwf/earthkit/) | 0.10.2 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.41.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.41.0 | scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.28.7 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.3 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.14 | python3_scientific |
+| [ek-aggregate](https://pypi.org/project/ek-aggregate) | 0.1.2 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.8.1 | scientific |
 | [esmpy](http://www.earthsystemmodeling.org) | 8.8.1 | python3_scientific |
 | [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 1.1.0 | python3_extratools |
@@ -311,4 +314,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(310 components)*
+*(313 components)*
