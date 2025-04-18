@@ -157,6 +157,17 @@
 - bump tzdata from 2023.3 to 2025.2 (#873)
 - bump xarray from 2024.11.0 to 2025.3.1 (#874)
 - bump cf_xarray from 0.10.0 to 0.10.5 (#875)
+- bump aggdraw from 1.3.18 to 1.3.19 (#876)
+- bump array_api_compat from 1.10.0 to 1.11.2 (#877)
+- bump astropy from 6.1.2 to 7.0.1 (#878)
+- bump blinker from 1.6.3 to 1.9.0 (#879)
+- bump bokeh from 3.6.2 to 3.7.2 and add narwhals dependency (#880)
+- bump boltons from 23.0.0 to 25.0.0 (#881)
+- bump boto3 and botocore from 1.36.18 to 1.37.35 (#882)
+- bump branca from 0.6.0 to 0.8.1 (#883)
+- bump cfgrib from 0.9.14.1 to 0.9.15.0 (#885)
+- bump cloudpickle from 3.0.0 to 3.1.1 (#887)
+- bump conflator from 0.1.5 to 0.1.7 (#888)
 
 ### Bug Fixes
 
