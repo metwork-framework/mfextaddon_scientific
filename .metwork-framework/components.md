@@ -53,7 +53,6 @@
 | [debugpy](https://aka.ms/debugpy) | 1.8.7 | python3_extratools |
 | [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | python3_extratools |
 | [deprecation](http://deprecation.readthedocs.io/) | 2.1.0 | python3_extratools |
-| [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | python3_scientific |
 | [distributed](https://distributed.dask.org) | 2025.3.0 | python3_scientific |
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.15 | python3_extratools |
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.16 | python3_scientific |
@@ -312,4 +311,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(311 components)*
+*(310 components)*
