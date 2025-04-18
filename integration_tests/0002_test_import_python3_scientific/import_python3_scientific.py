@@ -40,10 +40,14 @@ import cppy
 import cramjam
 import cycler
 import dask
-import dask.dataframe
 import dask.array
+import dask.bag
+import dask.bytes
+import dask.dataframe
+import dask.diagnostics
 import dask.distributed
-import dask_expr
+import dask.tests
+import dask.widgets
 import datapi
 import dateparser
 import DateTime
