@@ -47,7 +47,7 @@
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.10.0 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2025.3.0 | python3_scientific |
-| [datapi](https://pypi.org/project/datapi) | 0.1.1 | python3_scientific |
+| [datapi](https://pypi.org/project/datapi) | 0.4.0 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.1.8 | python3_scientific |
 | [DateTime](https://github.com/zopefoundation/DateTime) | 5.5 | python3_scientific |
 | [debugpy](https://aka.ms/debugpy) | 1.8.7 | python3_extratools |
