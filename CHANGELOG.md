@@ -168,6 +168,17 @@
 - bump cfgrib from 0.9.14.1 to 0.9.15.0 (#885)
 - bump cloudpickle from 3.0.0 to 3.1.1 (#887)
 - bump conflator from 0.1.5 to 0.1.7 (#888)
+- bump contourpy from 1.3.1 to 1.3.2 (#889)
+- bump covjson-pydantic from 0.5.0 to 0.6.0 (#890)
+- bump covjsonkit from 0.1.1 to 0.1.9 (#891)
+- bump cramjam from 2.7.0 to 2.10.0 (#892)
+- bump dask from 2024.12.1 to 2025.3.0 and remove date-expr (#893)
+- bump datapi from 0.1.1 to 0.4.0 (#894)
+- bump esmf and esmpy from 8.8.0 to 8.8.1 (#895)
+- bump dateparser from 1.1.8 to 1.2.1 (#896)
+- bump donfig from 0.8.1 to 0.8.1.post1 (#899)
+- upgrade all earthkit packages and add earthkit-climate and hydro (#900)
+- bump ecmwf-api-client from 1.6.3 to 1.6.5 (#901)
 
 ### Bug Fixes
 
