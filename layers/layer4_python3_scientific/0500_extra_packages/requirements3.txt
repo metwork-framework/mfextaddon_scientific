@@ -54,7 +54,7 @@ earthkit-transforms==0.4.0
 earthkit==0.10.2
 eccodes==2.41.0
 ecmwf-api-client==1.6.5
-ecmwf-opendata==0.3.14
+ecmwf-opendata==0.3.19
 ek-aggregate==0.1.2
 fasteners==0.19
 fastparquet==2024.11.0
