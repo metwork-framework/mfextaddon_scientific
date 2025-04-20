@@ -179,6 +179,7 @@
 - bump donfig from 0.8.1 to 0.8.1.post1 (#899)
 - upgrade all earthkit packages and add earthkit-climate and hydro (#900)
 - bump ecmwf-api-client from 1.6.3 to 1.6.5 (#901)
+- bump ecmwf-opendata from 0.3.14 to 0.3.19 (#902)
 
 ### Bug Fixes
 
