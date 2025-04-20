@@ -89,7 +89,7 @@
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.5.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.1.1 | python3_scientific |
 | [fiona](https://pypi.org/project/fiona) | 1.10.1 | python3_scientific |
-| [Flask](https://pypi.org/project/Flask) | 3.0.0 | python3_scientific |
+| [Flask](https://pypi.org/project/Flask) | 3.1.0 | python3_scientific |
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
 | [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.12.0 | python3_scientific |
@@ -123,7 +123,7 @@
 | [ipython_genutils](http://ipython.org) | 0.2.0 | python3_scientific |
 | [ipywidgets](http://jupyter.org) | 8.1.5 | python3_extratools |
 | [isoduration](https://github.com/bolsote/isoduration) | 20.11.0 | python3_extratools |
-| [itsdangerous](https://palletsprojects.com/p/itsdangerous/) | 2.1.2 | python3_scientific |
+| [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [json5](https://pypi.org/project/json5) | 0.9.25 | python3_extratools |
 | [jsonpickle](https://jsonpickle.readthedocs.io/) | 3.4.2 | python3_scientific |
