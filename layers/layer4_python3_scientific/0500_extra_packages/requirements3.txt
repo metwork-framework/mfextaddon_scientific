@@ -64,7 +64,7 @@ Fiona==1.10.1
 Flask==3.1.0
 flexcache==0.3
 flexparser==0.4
-FLORIS==4.3
+FLORIS==4.4.1
 folium==0.19.1
 fonttools==4.43.1
 GDAL==3.10.3
