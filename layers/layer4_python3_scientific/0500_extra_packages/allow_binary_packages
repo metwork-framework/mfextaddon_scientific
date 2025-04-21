@@ -7,8 +7,8 @@ earthkit-plots-default-styles
 ecmwflibs
 ffmpy
 flatten-dict
-openturns
 llvmlite
+openturns
 orjson
 polars
 pyarrow
