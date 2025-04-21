@@ -180,6 +180,10 @@
 - upgrade all earthkit packages and add earthkit-climate and hydro (#900)
 - bump ecmwf-api-client from 1.6.3 to 1.6.5 (#901)
 - bump ecmwf-opendata from 0.3.14 to 0.3.19 (#902)
+- bump ffmpy from 0.3.1 to 0.5.0 (#903)
+- bump findlibs from 0.0.5 to 0.1.1 (#904)
+- bump Flask from 3.0.0 to 3.1.0 and itsdangerous to 2.2.0 (#905)
+- bump floris from 4.3.0 to 4.4.1 (#906)
 
 ### Bug Fixes
 
