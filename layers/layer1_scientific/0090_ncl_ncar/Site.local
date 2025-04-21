@@ -6,7 +6,7 @@
 #define SharePath $(PREFIX)/share/ncarg
 
 #define BuildWithF90 TRUE
-#define IncSearch -I$(PREFIX)/include -I$(PREFIX)/../scientific_core/include -I$(PREFIX)/../core/include -I/usr/include/freetype2
+#define IncSearch -I$(PREFIX)/include -I$(PREFIX)/include/g2clib-1.6.3 -I$(PREFIX)/../scientific_core/include -I$(PREFIX)/../core/include -I/usr/include/freetype2
 #define LibSearch -L$(PREFIX)/lib -L$(PREFIX)/../scientific_core/lib -L$(PREFIX)/../core/lib
 
 #define BuildNetCDF4 1
@@ -17,7 +17,7 @@
 #define BuildGDAL 1
 #define GDALlib -L$(PREFIX)/../scientific_core/lib -lgdal -lproj
 #define BuildGRIB2 1
-#define GRIB2lib -L$(PREFIX)/lib -lg2c -ljasper
+#define GRIB2lib -L$(PREFIX)/lib -lg2clib-1.6.3 -ljasper
 #define BuildHDFEOS 0
 #define BuildHDFEOS5 0
 #define BuildTRIANGLE 0

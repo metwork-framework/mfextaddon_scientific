@@ -5,6 +5,7 @@ copernicusmarine
 docstring_parser
 earthkit-plots-default-styles
 ecmwflibs
+ffmpy
 flatten-dict
 llvmlite
 openturns

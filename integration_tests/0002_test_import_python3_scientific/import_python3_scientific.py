@@ -18,7 +18,6 @@ import bottleneck
 import boto3
 import botocore
 import branca
-import cads_api_client
 import cartopy
 import cdo
 import cdsapi
@@ -41,20 +40,26 @@ import cppy
 import cramjam
 import cycler
 import dask
-import dask.dataframe
 import dask.array
+import dask.bag
+import dask.bytes
+import dask.dataframe
+import dask.diagnostics
 import dask.distributed
-import dask_expr
+import dask.tests
+import dask.widgets
 import datapi
 import dateparser
 import DateTime
-import descartes
 import distributed
 import docstring_parser
 import docutils
 import donfig
+import earthkit.aggregate
+import earthkit.climate
 import earthkit.data
 import earthkit.geo
+import earthkit.hydro
 import earthkit.meteo
 import earthkit.plots
 import earthkit.regrid
@@ -117,6 +122,7 @@ import msgpack
 import multiprocess
 import multiurl
 import munch
+import narwhals
 from nco import Nco
 nco = Nco()
 import netCDF4
@@ -146,6 +152,7 @@ import pooch
 import pox
 import ppft
 import google #protobuf
+import puremagic
 import pyarrow
 import pybind11
 import pycoast
