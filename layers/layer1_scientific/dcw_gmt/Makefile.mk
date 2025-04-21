@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=dcw-gmt
-export VERSION=2.1.1
+export VERSION=2.2.0
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=52644de3c3c720b59961d23d805d3497
+export CHECKSUM=7f6dc21dbe8db7ad41035170eb028924
 DESCRIPTION=\
 GSHHG is the Digital Chart of the World Data
 WEBSITE=https://www.generic-mapping-tools.org

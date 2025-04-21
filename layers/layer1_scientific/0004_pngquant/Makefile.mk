@@ -6,7 +6,7 @@ export VERSION=3.0.3
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
 export CHECKSUM=0c92f3f5c5ffb31ca490d7197aff94a0
-export VERSION_LIBIMAGEQUANT=4.3.3
+export VERSION_LIBIMAGEQUANT=4.3.4
 DESCRIPTION=\
 PNGQUANT is a command-line utility and a library for lossy compression of PNG images
 WEBSITE=http://www.pngquant.org/
