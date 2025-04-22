@@ -95,7 +95,7 @@
 | [flit](https://pypi.org/project/flit) | 3.12.0 | python3_scientific |
 | [floris](https://github.com/NREL/floris) | 4.4.1 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.19.5 | python3_scientific |
-| [fonttools](http://github.com/fonttools/fonttools) | 4.43.1 | python3_scientific |
+| [fonttools](http://github.com/fonttools/fonttools) | 4.57.0 | python3_scientific |
 | [fqdn](https://github.com/ypcrts/fqdn) | 1.5.1 | python3_extratools |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.6.0 | python3_scientific |
