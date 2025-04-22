@@ -182,7 +182,7 @@
 | [ninja](http://ninja-build.org/) | 1.11.1.4 | python3_scientific |
 | [notebook](https://github.com/jupyter/notebook) | 7.2.2 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
-| [numba](https://numba.pydata.org) | 0.61.0 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.61.2 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.14.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.10.2 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |

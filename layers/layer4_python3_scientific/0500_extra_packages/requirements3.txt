@@ -102,7 +102,7 @@ munch==4.0.0
 narwhals==1.35.0
 nco==1.1.2
 netCDF4==1.7.2
-numba==0.61.0
+numba==0.61.2
 numcodecs==0.14.1
 numexpr==2.10.2
 numpngw==0.1.4
