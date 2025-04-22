@@ -80,6 +80,7 @@ import flask
 import flit
 import floris
 import folium
+import fontTools
 import gast
 import osgeo #gdal
 import osgeo_utils #gdal
