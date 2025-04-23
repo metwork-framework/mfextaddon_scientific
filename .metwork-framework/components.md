@@ -108,7 +108,7 @@
 | [greenlet](https://greenlet.readthedocs.io/) | 3.2.1 | python3_scientific |
 | [gv](https://github.com/william8000/gv) | 3.7.4 | scientific |
 | [h11](https://github.com/python-hyper/h11) | 0.13.0 | python3_extratools |
-| [h5netcdf](https://h5netcdf.org) | 1.5.0 | python3_scientific |
+| [h5netcdf](https://h5netcdf.org) | 1.6.1 | python3_scientific |
 | [h5py](https://www.h5py.org/) | 3.12.1 | python3_scientific |
 | [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
 | [hda](https://github.com/ecmwf/hda) | 2.22 | python3_scientific |
