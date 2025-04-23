@@ -71,7 +71,7 @@ GDAL==3.10.3
 geographiclib==2.0
 geopandas==1.0.1
 geos==0.2.3
-graphviz==0.20.1
+graphviz==0.20.3
 greenlet==3.1.1
 h5netcdf==1.5.0
 h5py==3.12.1
