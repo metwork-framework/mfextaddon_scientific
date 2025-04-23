@@ -104,7 +104,7 @@
 | [geopandas](https://pypi.org/project/geopandas) | 1.0.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.5.0 | scientific |
-| [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
+| [graphviz](https://github.com/xflr6/graphviz) | 0.20.3 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 3.1.1 | python3_scientific |
 | [gv](https://github.com/william8000/gv) | 3.7.4 | scientific |
 | [h11](https://github.com/python-hyper/h11) | 0.13.0 | python3_extratools |
