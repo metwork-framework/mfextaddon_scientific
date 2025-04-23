@@ -184,6 +184,9 @@
 - bump findlibs from 0.0.5 to 0.1.1 (#904)
 - bump Flask from 3.0.0 to 3.1.0 and itsdangerous to 2.2.0 (#905)
 - bump floris from 4.3.0 to 4.4.1 (#906)
+- bump numba from 0.61.0 to 0.61.2 (compatibility numpy 2.2) (#909)
+- bump folium from 0.19.1 to 0.19.5 (#910)
+- bump fonttools from 4.43.1 to 4.57.0 (#911)
 
 ### Bug Fixes
 
