@@ -187,6 +187,10 @@
 - bump numba from 0.61.0 to 0.61.2 (compatibility numpy 2.2) (#909)
 - bump folium from 0.19.1 to 0.19.5 (#910)
 - bump fonttools from 4.43.1 to 4.57.0 (#911)
+- bump graphviz from 0.20.1 to 0.20.3 (#912)
+- bump greenlet from 3.1.1 to 3.2.1 (#913)
+- bump dask and distributed from 2025.3.0 to 2025.4.0 (#914)
+- bump h5netcdf from 1.5.0 to 1.6.1 (#915)
 
 ### Bug Fixes
 
