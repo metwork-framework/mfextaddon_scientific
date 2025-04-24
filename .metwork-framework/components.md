@@ -120,7 +120,7 @@
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-25 | scientific |
 | [ipykernel](https://ipython.org) | 6.29.5 | python3_extratools |
-| [ipython_genutils](http://ipython.org) | 0.2.0 | python3_scientific |
+| [ipython_genutils](http://ipython.org) | 0.2.0 | python3_extratools |
 | [ipywidgets](http://jupyter.org) | 8.1.5 | python3_extratools |
 | [isoduration](https://github.com/bolsote/isoduration) | 20.11.0 | python3_extratools |
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |

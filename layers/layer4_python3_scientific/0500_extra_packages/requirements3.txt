@@ -79,7 +79,6 @@ hda==2.29
 HeapDict==1.0.1
 humanfriendly==10.0
 imageio==2.37.0
-ipython-genutils==0.2.0
 itsdangerous==2.2.0
 jsmin==3.0.1
 jsonpickle==3.4.2
