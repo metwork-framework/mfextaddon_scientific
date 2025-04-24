@@ -111,7 +111,7 @@
 | [h5netcdf](https://h5netcdf.org) | 1.6.1 | python3_scientific |
 | [h5py](https://www.h5py.org/) | 3.13.0 | python3_scientific |
 | [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
-| [hda](https://github.com/ecmwf/hda) | 2.22 | python3_scientific |
+| [hda](https://github.com/ecmwf/hda) | 2.29 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [htmltools](https://pypi.org/project/htmltools) | 0.5.3 | python3_extratools |
 | [httpcore](https://www.encode.io/httpcore/) | 1.0.6 | python3_extratools |
