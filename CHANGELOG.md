@@ -191,6 +191,9 @@
 - bump greenlet from 3.1.1 to 3.2.1 (#913)
 - bump dask and distributed from 2025.3.0 to 2025.4.0 (#914)
 - bump h5netcdf from 1.5.0 to 1.6.1 (#915)
+- bump h5py from 3.12.1 to 3.13.0 (#916)
+- bump hda from 2.22 to 2.29 (#917)
+- bump imageio from 2.36.1 to 2.37.0 (#918)
 
 ### Bug Fixes
 
