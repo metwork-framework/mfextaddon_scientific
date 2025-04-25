@@ -107,14 +107,14 @@
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.3 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 3.2.1 | python3_scientific |
 | [gv](https://github.com/william8000/gv) | 3.7.4 | scientific |
-| [h11](https://github.com/python-hyper/h11) | 0.13.0 | python3_extratools |
+| [h11](https://github.com/python-hyper/h11) | 0.16.0 | python3_extratools |
 | [h5netcdf](https://h5netcdf.org) | 1.6.1 | python3_scientific |
 | [h5py](https://www.h5py.org/) | 3.13.0 | python3_scientific |
 | [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
 | [hda](https://github.com/ecmwf/hda) | 2.29 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [htmltools](https://pypi.org/project/htmltools) | 0.5.3 | python3_extratools |
-| [httpcore](https://www.encode.io/httpcore/) | 1.0.6 | python3_extratools |
+| [httpcore](https://www.encode.io/httpcore/) | 1.0.9 | python3_extratools |
 | [httpx](https://github.com/encode/httpx) | 0.27.2 | python3_extratools |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
