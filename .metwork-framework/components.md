@@ -70,11 +70,27 @@
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 0.14.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
+<<<<<<< HEAD
 | [gmt](https://www.generic-mapping-tools.org) | 6.4.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.1 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 3.0.1 | python3_scientific |
 | [h5py](https://pypi.org/project/h5py) | 3.10.0 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
+=======
+| [gmt](https://www.generic-mapping-tools.org) | 6.5.0 | scientific |
+| [graphviz](https://github.com/xflr6/graphviz) | 0.20.3 | python3_scientific |
+| [greenlet](https://greenlet.readthedocs.io/) | 3.2.1 | python3_scientific |
+| [gv](https://github.com/william8000/gv) | 3.7.4 | scientific |
+| [h11](https://github.com/python-hyper/h11) | 0.16.0 | python3_extratools |
+| [h5netcdf](https://h5netcdf.org) | 1.6.1 | python3_scientific |
+| [h5py](https://www.h5py.org/) | 3.13.0 | python3_scientific |
+| [hatch-jupyter-builder](https://pypi.org/project/hatch-jupyter-builder) | 0.9.1 | python3_extratools |
+| [hda](https://github.com/ecmwf/hda) | 2.29 | python3_scientific |
+| [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
+| [htmltools](https://pypi.org/project/htmltools) | 0.5.3 | python3_extratools |
+| [httpcore](https://www.encode.io/httpcore/) | 1.0.9 | python3_extratools |
+| [httpx](https://github.com/encode/httpx) | 0.27.2 | python3_extratools |
+>>>>>>> 10cc878 (feat: bump h11 from 0.13.0 to 0.16.0 (fix critical CVE-2025-43859) (#920))
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [icclim](https://github.com/cerfacs-globc/icclim) | 6.5.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.31.5 | python3_scientific |
