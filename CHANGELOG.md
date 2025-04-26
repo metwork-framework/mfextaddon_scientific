@@ -194,6 +194,7 @@
 - bump h5py from 3.12.1 to 3.13.0 (#916)
 - bump hda from 2.22 to 2.29 (#917)
 - bump imageio from 2.36.1 to 2.37.0 (#918)
+- bump h11 from 0.13.0 to 0.16.0 (fix critical CVE-2025-43859) (#920)
 
 ### Bug Fixes
 
