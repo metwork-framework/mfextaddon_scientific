@@ -81,7 +81,7 @@ humanfriendly==10.0
 imageio==2.37.0
 itsdangerous==2.2.0
 jsmin==3.0.1
-jsonpickle==3.4.2
+jsonpickle==4.0.5
 kiwisolver==1.4.5
 lazy-loader==0.4
 llvmlite==0.44.0

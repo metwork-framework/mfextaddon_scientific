@@ -126,7 +126,7 @@
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [json5](https://pypi.org/project/json5) | 0.9.25 | python3_extratools |
-| [jsonpickle](https://jsonpickle.readthedocs.io/) | 3.4.2 | python3_scientific |
+| [jsonpickle](https://jsonpickle.readthedocs.io/) | 4.0.5 | python3_scientific |
 | [jsonpointer](https://github.com/stefankoegl/python-json-pointer) | 3.0.0 | python3_extratools |
 | [jupyter-console](https://jupyter.org) | 6.6.3 | python3_extratools |
 | [jupyter-events](http://jupyter.org) | 0.10.0 | python3_extratools |
