@@ -112,7 +112,7 @@ palettable==3.3.3
 partd==1.4.2
 pathos==0.3.4
 patsy==1.0.1
-pdbufr==0.11.0
+pdbufr==0.12.2
 Pint==0.24.4
 plotly==5.18.0
 pngquant==3.0.3
