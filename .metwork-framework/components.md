@@ -186,7 +186,7 @@
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.1.3 | python3_scientific |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
-| [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.10.0.84 | python3_scientific |
+| [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.2 | python3_extratools |
 | [openturns](http://www.openturns.org) | 1.24 | python3_scientific |
 | [orjson](https://pypi.org/project/orjson) | 3.10.15 | python3_scientific |

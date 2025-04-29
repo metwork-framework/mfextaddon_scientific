@@ -104,7 +104,7 @@ numba==0.61.2
 numcodecs==0.16.0
 numexpr==2.10.2
 numpngw==0.1.4
-opencv-contrib-python-headless==4.10.0.84
+opencv-contrib-python-headless==4.11.0.86
 openturns==1.24
 orjson==3.10.15
 -e git+https://gitlab.com/thebaptiste/batman.git@1.9.3-develop-mf#egg=ot-batman
