@@ -201,7 +201,7 @@
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.12.2 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.24.4 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
-| [plotly](https://plotly.com/python/) | 5.18.0 | python3_scientific |
+| [plotly](https://plotly.com/python/) | 6.0.1 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 3.0.3 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 3.0.3 | scientific |
