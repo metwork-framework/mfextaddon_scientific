@@ -46,14 +46,14 @@
 | [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.10.0 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
-| [dask](https://github.com/dask/dask/) | 2025.4.0 | python3_scientific |
+| [dask](https://github.com/dask/dask/) | 2025.4.1 | python3_scientific |
 | [datapi](https://pypi.org/project/datapi) | 0.4.0 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.2.1 | python3_scientific |
 | [DateTime](https://github.com/zopefoundation/DateTime) | 5.5 | python3_scientific |
 | [debugpy](https://aka.ms/debugpy) | 1.8.7 | python3_extratools |
 | [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | python3_extratools |
 | [deprecation](http://deprecation.readthedocs.io/) | 2.1.0 | python3_extratools |
-| [distributed](https://distributed.dask.org) | 2025.4.0 | python3_scientific |
+| [distributed](https://distributed.dask.org) | 2025.4.1 | python3_scientific |
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.15 | python3_extratools |
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.16 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io) | 0.21.2 | python3_scientific |
