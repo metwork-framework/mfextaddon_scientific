@@ -160,7 +160,6 @@
 | [metview](https://github.com/ecmwf/metview-python) | 1.16.1 | python3_scientific |
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.23.1 | scientific |
 | [mistune](https://pypi.org/project/mistune) | 3.0.2 | python3_extratools |
-| [monotonic](https://github.com/atdt/monotonic) | 1.6 | python3_scientific |
 | [msgpack](https://msgpack.org/) | 1.1.0 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.15 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.3 | python3_scientific |
@@ -313,4 +312,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(312 components)*
+*(311 components)*

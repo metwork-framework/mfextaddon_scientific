@@ -116,7 +116,6 @@ import mesonpy
 import metpy
 import metpy.plots
 import metview
-import monotonic
 import msgpack
 import multiprocess
 import multiurl
