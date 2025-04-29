@@ -164,7 +164,7 @@
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.18 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.5 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
-| [narwhals](https://github.com/narwhals-dev/narwhals) | 1.35.0 | python3_scientific |
+| [narwhals](https://github.com/narwhals-dev/narwhals) | 1.37.0 | python3_scientific |
 | [nbclassic](https://github.com/jupyter/nbclassic) | 1.2.0 | python3_extratools |
 | [nbclient](https://jupyter.org) | 0.10.0 | python3_extratools |
 | [nbconvert](https://jupyter.org) | 7.16.4 | python3_extratools |
