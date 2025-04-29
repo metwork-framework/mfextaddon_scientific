@@ -1,4 +1,3 @@
-deprecation==2.1.0
 hatch-jupyter-builder==0.9.1
 jupyter-builder==0.1.0a3
 jupyter-client==8.6.3
