@@ -197,7 +197,7 @@
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
 | [partd](http://github.com/dask/partd/) | 1.4.2 | python3_scientific |
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.4 | python3_scientific |
-| [patsy](https://github.com/pydata/patsy) | 0.5.6 | python3_scientific |
+| [patsy](https://github.com/pydata/patsy) | 1.0.1 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.11.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.24.4 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
