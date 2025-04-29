@@ -152,7 +152,7 @@
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
-| [matplotlib](https://matplotlib.org) | 3.10.0 | python3_scientific |
+| [matplotlib](https://matplotlib.org) | 3.10.1 | python3_scientific |
 | [mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins) | 0.4.1 | python3_extratools |
 | [meson-python](https://github.com/mesonbuild/meson-python) | 0.17.1 | python3_scientific |
 | [meson](https://mesonbuild.com) | 1.7.2 | python3_scientific |
