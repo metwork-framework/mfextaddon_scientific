@@ -141,7 +141,7 @@
 | [jupyterlab](https://jupyter.org) | 4.2.5 | python3_extratools |
 | [jupyterlab_pygments](https://github.com/jupyterlab/jupyterlab_pygments) | 0.3.0 | python3_extratools |
 | [jupyterlab_server](https://jupyterlab-server.readthedocs.io) | 2.27.3 | python3_extratools |
-| [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.5 | python3_scientific |
+| [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.8 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
 | [libimagequant](https://pngquant.org/lib/) | 4.3.4 | scientific |
 | [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) | 2.0.3 | python3_extratools |
