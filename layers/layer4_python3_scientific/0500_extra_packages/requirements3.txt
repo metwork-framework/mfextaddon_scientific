@@ -106,7 +106,7 @@ numexpr==2.10.2
 numpngw==0.1.4
 opencv-contrib-python-headless==4.11.0.86
 openturns==1.24
-orjson==3.10.15
+orjson==3.10.17
 -e git+https://gitlab.com/thebaptiste/batman.git@1.9.3-develop-mf#egg=ot-batman
 palettable==3.3.3
 partd==1.4.2

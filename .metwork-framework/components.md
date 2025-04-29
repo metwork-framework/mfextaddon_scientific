@@ -189,7 +189,7 @@
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.2 | python3_extratools |
 | [openturns](http://www.openturns.org) | 1.24 | python3_scientific |
-| [orjson](https://pypi.org/project/orjson) | 3.10.15 | python3_scientific |
+| [orjson](https://pypi.org/project/orjson) | 3.10.17 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.3-develop-mf | python3_scientific |
 | [overrides](https://github.com/mkorpela/overrides) | 7.7.0 | python3_extratools |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.3 | python3_scientific |
