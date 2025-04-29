@@ -101,7 +101,7 @@ narwhals==1.37.0
 nco==1.1.2
 netCDF4==1.7.2
 numba==0.61.2
-numcodecs==0.14.1
+numcodecs==0.16.0
 numexpr==2.10.2
 numpngw==0.1.4
 opencv-contrib-python-headless==4.10.0.84
