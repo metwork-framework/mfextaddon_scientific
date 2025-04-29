@@ -196,7 +196,7 @@
 | [pandas](https://pandas.pydata.org) | 2.2.3 | python3_scientific |
 | [pandocfilters](http://github.com/jgm/pandocfilters) | 1.5.1 | python3_extratools |
 | [partd](http://github.com/dask/partd/) | 1.4.2 | python3_scientific |
-| [pathos](https://github.com/uqfoundation/pathos) | 0.3.1 | python3_scientific |
+| [pathos](https://github.com/uqfoundation/pathos) | 0.3.4 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 0.5.6 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.11.0 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.24.4 | python3_scientific |
@@ -208,8 +208,8 @@
 | [polars](https://www.pola.rs/) | 0.19.12 | python3_scientific |
 | [polytope-client](https://github.com/ecmwf-projects/polytope-client) | 0.7.4 | python3_scientific |
 | [pooch](https://github.com/fatiando/pooch) | 1.8.0 | python3_scientific |
-| [pox](https://github.com/uqfoundation/pox) | 0.3.3 | python3_scientific |
-| [ppft](https://github.com/uqfoundation/ppft) | 1.7.6.7 | python3_scientific |
+| [pox](https://github.com/uqfoundation/pox) | 0.3.6 | python3_scientific |
+| [ppft](https://github.com/uqfoundation/ppft) | 1.7.7 | python3_scientific |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.0 | python3_extratools |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
 | [puremagic](https://github.com/cdgriffith/puremagic) | 1.28 | python3_scientific |
