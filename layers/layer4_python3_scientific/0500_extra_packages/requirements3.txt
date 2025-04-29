@@ -101,7 +101,7 @@ narwhals==1.37.0
 nco==1.1.2
 netCDF4==1.7.2
 numba==0.61.2
-numcodecs==0.16.0
+numcodecs==0.15.1
 numexpr==2.10.2
 numpngw==0.1.4
 opencv-contrib-python-headless==4.11.0.86
@@ -177,6 +177,6 @@ xxhash==3.4.1
 xyzservices==2023.10.0
 windrose==1.9.0
 yamale==5.2.1
-zarr==2.16.1
+zarr==2.18.7
 zict==3.0.0
 zope.interface==7.2
