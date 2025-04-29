@@ -161,7 +161,7 @@
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.23.1 | scientific |
 | [mistune](https://pypi.org/project/mistune) | 3.0.2 | python3_extratools |
 | [msgpack](https://msgpack.org/) | 1.1.0 | python3_scientific |
-| [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.15 | python3_scientific |
+| [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.18 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.3 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
 | [narwhals](https://github.com/narwhals-dev/narwhals) | 1.35.0 | python3_scientific |

@@ -94,7 +94,7 @@ matplotlib==3.10.1
 MetPy==1.6.3
 metview==1.16.1
 msgpack==1.1.0
-multiprocess==0.70.15
+multiprocess==0.70.18
 multiurl==0.3.3
 munch==4.0.0
 narwhals==1.35.0
