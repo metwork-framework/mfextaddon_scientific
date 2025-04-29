@@ -181,7 +181,7 @@
 | [notebook](https://github.com/jupyter/notebook) | 7.2.2 | python3_extratools |
 | [notebook_shim](https://pypi.org/project/notebook_shim) | 0.2.4 | python3_extratools |
 | [numba](https://numba.pydata.org) | 0.61.2 | python3_scientific |
-| [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.16.0 | python3_scientific |
+| [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.10.2 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.1.3 | python3_scientific |
@@ -308,7 +308,7 @@
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2023.10.0 | python3_scientific |
 | [yamale](https://github.com/23andMe/Yamale) | 5.2.1 | python3_scientific |
-| [zarr](https://github.com/zarr-developers/zarr-python) | 2.16.1 | python3_scientific |
+| [zarr](https://github.com/zarr-developers/zarr-python) | 2.18.7 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
