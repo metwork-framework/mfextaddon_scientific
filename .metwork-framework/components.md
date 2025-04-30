@@ -265,6 +265,7 @@
 | [scipy](https://scipy.org/) | 1.14.1 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.11.0 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
+| [scores](https://pypi.org/project/scores) | 2.1.0 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.0 | python3_scientific |
 | [semver](https://pypi.org/project/semver) | 3.0.4 | python3_scientific |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
@@ -312,4 +313,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(311 components)*
+*(312 components)*
