@@ -196,6 +196,21 @@
 - bump imageio from 2.36.1 to 2.37.0 (#918)
 - bump h11 from 0.13.0 to 0.16.0 (fix critical CVE-2025-43859) (#920)
 - bump jsonpickle from 3.4.2 to 4.0.5 (#923)
+- bump dask and distributed from 2025.4.0 to 2025.4.1 (#924)
+- bump kiwisolver from 1.4.5 to 1.4.8 (#926)
+- bump matplotlib from 3.10.0 to 3.10.1 (#927)
+- remove monotonic (time.monotonic is in the standard library) (#928)
+- bump multiprocess from 0.70.15 to 0.70.18 (#929)
+- bump multiurl from 0.3.3 to 0.3.5 (#930)
+- bump narwhals from 1.35.0 to 1.37.0 (#931)
+- bump numcodecs from 0.14.1 to 0.16.0 (#932)
+- bump opencv-contrib-python-headless from 4.10.0.84 to 4.11.0.86 (#933)
+- bump orjson from 3.10.15 to 3.10.17 (#934)
+- bump pathos, pox and ppft to 0.3.4, 0.3.6 and 1.7.7 (#935)
+- bump patsy from 0.5.6 to 1.0.1
+- bump pdbufr from 0.11.0 to 0.12.2 (#937)
+- bump plotly from 5.18.0 to 6.0.1 (#938)
+- bump zarr to 2.18.7 and downgrade numcodecs to 0.15.1 (#939)
 
 ### Bug Fixes
 
