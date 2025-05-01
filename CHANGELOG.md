@@ -211,6 +211,8 @@
 - bump pdbufr from 0.11.0 to 0.12.2 (#937)
 - bump plotly from 5.18.0 to 6.0.1 (#938)
 - bump zarr to 2.18.7 and downgrade numcodecs to 0.15.1 (#939)
+- add scores (required by a Metwork user) (#940)
+- build ImageMagick6 with option --with-gslib (#941)
 
 ### Bug Fixes
 
