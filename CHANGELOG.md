@@ -213,6 +213,7 @@
 - bump zarr to 2.18.7 and downgrade numcodecs to 0.15.1 (#939)
 - add scores (required by a Metwork user) (#940)
 - build ImageMagick6 with option --with-gslib (#941)
+- revert "feat: build ImageMagick6 with option --with-gslib" (#942)
 
 ### Bug Fixes
 
