@@ -157,7 +157,7 @@ salem==0.3.11
 satpy==0.44.0
 scikit-image==0.25.0
 scikit-learn==1.5.0
-scitools-iris==3.11.0
+scitools-iris==3.12.1
 scores==2.1.0
 seaborn==0.13.0
 semver==3.0.4
