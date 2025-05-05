@@ -139,7 +139,7 @@ pykdtree==1.4.1
 pyodc==1.6.0
 pyogrio==0.10.0
 pyorbital==1.10.0
-pyoscar==0.6.4
+pyoscar==0.9.0
 pyproj==3.6.1
 pyresample==1.27.1
 pyrsistent==0.20.0
