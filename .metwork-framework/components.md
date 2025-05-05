@@ -214,7 +214,7 @@
 | [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
 | [puremagic](https://github.com/cdgriffith/puremagic) | 1.29 | python3_scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
-| [pyarrow](https://arrow.apache.org/) | 18.0.0 | python3_scientific |
+| [pyarrow](https://arrow.apache.org/) | 20.0.0 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.13.6 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.6.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.2 | python3_scientific |
