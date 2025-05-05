@@ -118,7 +118,7 @@ plotly==6.0.1
 pngquant==3.0.3
 polars==1.29.0
 polytope-client==0.7.4
-pooch==1.8.0
+pooch==1.8.2
 pox==0.3.6
 ppft==1.7.7
 protobuf==3.20.3
