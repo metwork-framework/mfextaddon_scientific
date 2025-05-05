@@ -225,7 +225,7 @@
 | [pygmt](https://www.pygmt.org) | 0.15.0 | python3_scientific |
 | [pygraphviz](https://pygraphviz.github.io) | 1.14 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.11.6 | python3_scientific |
-| [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.3.9 | python3_scientific |
+| [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.4.1 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.3.0 | python3_scientific |
 | [pyogrio](https://pypi.org/project/pyogrio) | 0.10.0 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.8.0 | python3_scientific |
