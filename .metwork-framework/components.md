@@ -230,7 +230,7 @@
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.4.1 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.6.0 | python3_scientific |
 | [pyogrio](https://pypi.org/project/pyogrio) | 0.10.0 | python3_scientific |
-| [pyorbital](https://github.com/pytroll/pyorbital) | 1.8.0 | python3_scientific |
+| [pyorbital](https://pypi.org/project/pyorbital) | 1.10.0 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.6.4 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.6.1 | python3_scientific |
 | [pyproject-metadata](https://github.com/pypa/pyproject-metadata) | 0.9.1 | python3_scientific |
