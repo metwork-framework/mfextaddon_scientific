@@ -207,7 +207,7 @@
 | [pngquant](http://www.pngquant.org/) | 3.0.3 | scientific |
 | [polars](https://www.pola.rs/) | 1.29.0 | python3_scientific |
 | [polytope-client](https://github.com/ecmwf-projects/polytope-client) | 0.7.4 | python3_scientific |
-| [pooch](https://github.com/fatiando/pooch) | 1.8.0 | python3_scientific |
+| [pooch](https://pypi.org/project/pooch) | 1.8.2 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.6 | python3_scientific |
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.7 | python3_scientific |
 | [prometheus_client](https://github.com/prometheus/client_python) | 0.21.0 | python3_extratools |
