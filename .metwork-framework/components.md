@@ -217,7 +217,7 @@
 | [pyarrow](https://arrow.apache.org/) | 20.0.0 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.13.6 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.7.1 | python3_scientific |
-| [pycurl](http://pycurl.io/) | 7.45.2 | python3_scientific |
+| [pycurl](http://pycurl.io/) | 7.45.6 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.4.0 | python3_scientific |
 | [pyepsg](https://github.com/rhattersley/pyepsg) | 0.4.0 | python3_scientific |
 | [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.1.5 | python3_scientific |

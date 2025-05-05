@@ -125,7 +125,7 @@ protobuf==3.20.3
 puremagic==1.29
 pyarrow==20.0.0
 pycoast==1.7.1
-pycurl==7.45.2
+pycurl==7.45.6
 pydecorate==0.4.0
 pyepsg==0.4.0
 pyerfa==2.0.1.5
