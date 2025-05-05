@@ -124,7 +124,7 @@ ppft==1.7.7
 protobuf==3.20.3
 puremagic==1.29
 pyarrow==20.0.0
-pycoast==1.6.1
+pycoast==1.7.1
 pycurl==7.45.2
 pydecorate==0.4.0
 pyepsg==0.4.0
