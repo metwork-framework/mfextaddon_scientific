@@ -221,7 +221,7 @@
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.4.0 | python3_scientific |
 | [pyepsg](https://github.com/rhattersley/pyepsg) | 0.4.0 | python3_scientific |
 | [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.1.5 | python3_scientific |
-| [pyfdb](https://github.com/ecmwf/pyfdb) | 0.1.1 | python3_scientific |
+| [pyfdb](https://github.com/ecmwf/pyfdb) | 0.1.2 | python3_scientific |
 | [pygmt](https://www.pygmt.org) | 0.10.0 | python3_scientific |
 | [pygraphviz](http://pygraphviz.github.io) | 1.11 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.11.6 | python3_scientific |
