@@ -129,7 +129,7 @@ pycurl==7.45.6
 pydecorate==0.4.0
 pyepsg==0.4.0
 pyerfa==2.0.1.5
-pyfdb==0.1.1
+pyfdb==0.1.2
 pygmt==0.10.0
 pygraphviz==1.11
 pyhdf==0.11.6
