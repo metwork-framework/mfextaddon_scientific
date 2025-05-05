@@ -116,7 +116,7 @@ pdbufr==0.12.2
 Pint==0.24.4
 plotly==6.0.1
 pngquant==3.0.3
-polars==0.19.12
+polars==1.29.0
 polytope-client==0.7.4
 pooch==1.8.0
 pox==0.3.6
