@@ -53,6 +53,7 @@ earthkit-time==0.1.7
 earthkit-transforms==0.4.0
 earthkit==0.10.2
 eccodes==2.41.0
+eckitlib==1.29.2
 ecmwf-api-client==1.6.5
 ecmwf-opendata==0.3.19
 ek-aggregate==0.1.2
@@ -104,6 +105,7 @@ numba==0.61.2
 numcodecs==0.15.1
 numexpr==2.10.2
 numpngw==0.1.4
+odclib==1.6.0
 opencv-contrib-python-headless==4.11.0.86
 openturns==1.24
 orjson==3.10.17
@@ -134,7 +136,7 @@ pygmt==0.15.0
 pygraphviz==1.14
 pyhdf==0.11.6
 pykdtree==1.4.1
-pyodc==1.3.0
+pyodc==1.6.0
 pyogrio==0.10.0
 pyorbital==1.8.0
 pyoscar==0.6.4
