@@ -72,6 +72,7 @@
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.41.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.41.0 | scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.28.7 | scientific |
+| [eckitlib](https://pypi.org/project/eckitlib) | 1.29.2 | python3_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
 | [ek-aggregate](https://pypi.org/project/ek-aggregate) | 0.1.2 | python3_scientific |
@@ -185,6 +186,7 @@
 | [numexpr](https://github.com/pydata/numexpr) | 2.10.2 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.1.3 | python3_scientific |
+| [odclib](https://pypi.org/project/odclib) | 1.6.0 | python3_scientific |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openpyxl](https://openpyxl.readthedocs.io) | 3.1.2 | python3_extratools |
@@ -226,7 +228,7 @@
 | [pygraphviz](https://pygraphviz.github.io) | 1.14 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.11.6 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.4.1 | python3_scientific |
-| [pyodc](https://github.com/ecmwf/pyodc) | 1.3.0 | python3_scientific |
+| [pyodc](https://github.com/ecmwf/pyodc) | 1.6.0 | python3_scientific |
 | [pyogrio](https://pypi.org/project/pyogrio) | 0.10.0 | python3_scientific |
 | [pyorbital](https://github.com/pytroll/pyorbital) | 1.8.0 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.6.4 | python3_scientific |
@@ -313,4 +315,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(312 components)*
+*(314 components)*

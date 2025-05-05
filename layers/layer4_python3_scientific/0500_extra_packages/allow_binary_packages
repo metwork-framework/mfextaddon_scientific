@@ -4,11 +4,13 @@ conflator
 copernicusmarine
 docstring_parser
 earthkit-plots-default-styles
+eckitlib
 ecmwflibs
 ffmpy
 flatten-dict
 openturns
 llvmlite
+odclib
 orjson
 polars
 pyarrow
