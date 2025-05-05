@@ -214,6 +214,7 @@
 - add scores (required by a Metwork user) (#940)
 - build ImageMagick6 with option --with-gslib (#941)
 - revert "feat: build ImageMagick6 with option --with-gslib" (#942)
+- bump scitools-iris from 3.11.0 to 3.12.1 (#943)
 
 ### Bug Fixes
 
