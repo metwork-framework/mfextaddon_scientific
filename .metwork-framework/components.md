@@ -238,7 +238,7 @@
 | [pyrsistent](https://github.com/tobgu/pyrsistent/) | 0.20.0 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
 | [pystac](https://pypi.org/project/pystac) | 1.13.0 | python3_scientific |
-| [pysteps](https://pysteps.github.io/) | 1.7.4 | python3_scientific |
+| [pysteps](https://pysteps.github.io/) | 1.17.0 | python3_scientific |
 | [python-json-logger](http://github.com/madzak/python-json-logger) | 2.0.7 | python3_extratools |
 | [python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) | 1.1.2 | python3_extratools |
 | [python-lsp-server](https://github.com/python-lsp/python-lsp-server) | 1.12.0 | python3_extratools |
