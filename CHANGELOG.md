@@ -215,6 +215,21 @@
 - build ImageMagick6 with option --with-gslib (#941)
 - revert "feat: build ImageMagick6 with option --with-gslib" (#942)
 - bump scitools-iris from 3.11.0 to 3.12.1 (#943)
+- bump polars from 0.19.12 to 1.29.0 (#944)
+- bump pooch from 1.8.0 to 1.8.2 (#945)
+- bump puremagic from 1.28 to 1.29 (#946)
+- bump pyarrow from 18.0.0 to 20.0.0 (#947)
+- bump pycoast from 1.6.1 to 1.7.1 (#948)
+- bump pycurl from 7.45.2 to 7.45.6 (#949)
+- bump pyfdb from 0.1.1 to 0.1.2 (#950)
+- bump pygmt from 0.10.0 to 0.15.0 (#951)
+- bump pygraphviz from 1.11 to 1.14 (#952)
+- bump pykdtree from 1.3.9 to 1.4.1 (#953)
+- bump pyodc from 1.3.0 to 1.6.0 (#954)
+- bump eckit from 1.28.7 to 1.29.2 (#955)
+- bump pyorbital from 1.8.0 to 1.10.0 (#956)
+- bump pyoscar from 0.6.4 to 0.9.0 (#957)
+- bump pyproj from 3.6.1 to 3.7.1 (#958)
 
 ### Bug Fixes
 
