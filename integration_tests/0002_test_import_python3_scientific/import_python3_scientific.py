@@ -177,7 +177,6 @@ import shapefile #pyshp
 import pystac
 import pysteps
 import pythran
-import pytz_deprecation_shim
 import pywt #PyWaveLets
 import rasterio
 import rechunker
