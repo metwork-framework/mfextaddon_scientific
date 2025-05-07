@@ -2,6 +2,7 @@ import adjustText
 import affine
 import aggdraw
 import apng
+import arcosparse
 import array_api_compat
 import asciitree
 import astropy
