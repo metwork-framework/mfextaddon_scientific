@@ -5,6 +5,7 @@
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.19 | python3_scientific |
 | [anyio](https://pypi.org/project/anyio) | 3.5.0 | python3_extratools |
 | [apng](https://github.com/eight04/pyAPNG) | 0.3.4 | python3_scientific |
+| [arcosparse](https://pypi.org/project/arcosparse) | 0.4.0 | python3_scientific |
 | [argon2-cffi-bindings](https://github.com/hynek/argon2-cffi-bindings) | 21.2.0 | python3_extratools |
 | [argon2-cffi](https://pypi.org/project/argon2-cffi) | 23.1.0 | python3_extratools |
 | [array_api_compat](https://data-apis.org/array-api-compat/) | 1.11.2 | python3_scientific |
@@ -40,7 +41,7 @@
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
 | [conflator](https://pypi.org/project/conflator) | 0.1.7 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.2 | python3_scientific |
-| [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.0.1 | python3_scientific |
+| [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.1.0 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
 | [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.1.9 | python3_scientific |
 | [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
@@ -314,4 +315,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(313 components)*
+*(314 components)*
