@@ -245,7 +245,7 @@
 | [python-multipart](https://github.com/Kludex/python-multipart) | 0.0.19 | python3_extratools |
 | [python-pptx](https://github.com/scanny/python-pptx) | 1.0.2 | python3_extratools |
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.17.0 | python3_scientific |
-| [PyWavelets](https://github.com/PyWavelets/pywt) | 1.4.1 | python3_scientific |
+| [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 25.1.1 | python3_extratools |
 | [questionary](https://github.com/tmbo/questionary) | 2.1.0 | python3_extratools |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
