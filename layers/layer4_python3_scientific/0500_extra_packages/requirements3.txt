@@ -148,7 +148,7 @@ pystac==1.13.0
 pysteps==1.17.0
 PyWavelets==1.8.0
 rasterio==1.4.3
-rechunker==0.5.2
+rechunker==0.5.4
 regionmask==0.11.0
 reportlab==4.0.6
 rich-argparse==1.6.0

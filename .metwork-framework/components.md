@@ -249,7 +249,7 @@
 | [pyzmq](https://pyzmq.readthedocs.org) | 25.1.1 | python3_extratools |
 | [questionary](https://github.com/tmbo/questionary) | 2.1.0 | python3_extratools |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
-| [rechunker](https://pypi.org/project/rechunker/) | 0.5.2 | python3_scientific |
+| [rechunker](https://pypi.org/project/rechunker/) | 0.5.4 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.11.0 | python3_scientific |
 | [reportlab](https://www.reportlab.com/) | 4.0.6 | python3_scientific |
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
