@@ -230,6 +230,9 @@
 - bump pyorbital from 1.8.0 to 1.10.0 (#956)
 - bump pyoscar from 0.6.4 to 0.9.0 (#957)
 - bump pyproj from 3.6.1 to 3.7.1 (#958)
+- bump pyresample from 1.27.1 to 1.34.0 (#959)
+- bump pystac from 1.12.1 to 1.13.0 (#960)
+- bump pysteps from 1.7.4 to 1.17.0 (#961)
 
 ### Bug Fixes
 
