@@ -255,7 +255,7 @@
 | [reportlab](https://www.reportlab.com/) | 4.4.0 | python3_scientific |
 | [rfc3339_validator](https://github.com/naimetti/rfc3339-validator) | 0.1.4 | python3_extratools |
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
-| [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.6.0 | python3_scientific |
+| [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
 | [Rtree](https://pypi.org/project/Rtree) | 1.1.0 | python3_scientific |
 | [s3transfer](https://github.com/boto/s3transfer) | 0.11.2 | python3_scientific |
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
