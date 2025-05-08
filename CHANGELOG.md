@@ -233,6 +233,12 @@
 - bump pyresample from 1.27.1 to 1.34.0 (#959)
 - bump pystac from 1.12.1 to 1.13.0 (#960)
 - bump pysteps from 1.7.4 to 1.17.0 (#961)
+- bump PyWavelets from 1.4.1 to 1.8.0 (#964)
+- bump rechunker from 0.5.2 to 0.5.4 (#965)
+- bump regionmask from 0.11.0 to 0.13.0 (#966)
+- bump reportlab from 4.0.6 to 4.4.0 (#967)
+- bump copernicusmarine from 2.0.1 to 2.1.0 (#968)
+- bump rich-argparse from 1.6.0 to 1.7.0 (#969)
 
 ### Bug Fixes
 
