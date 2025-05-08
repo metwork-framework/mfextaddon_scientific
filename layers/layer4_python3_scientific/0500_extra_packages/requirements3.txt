@@ -12,8 +12,8 @@ blinker==1.9.0
 bokeh==3.7.2
 boltons==25.0.0
 Bottleneck==1.4.2
-boto3==1.37.35
-botocore==1.37.35
+boto3==1.38.11
+botocore==1.38.11
 branca==0.8.1
 Cartopy==0.24.1
 cdo==1.6.1
@@ -154,7 +154,7 @@ regionmask==0.13.0
 reportlab==4.4.0
 rich-argparse==1.7.0
 rtree==1.4.0
-s3transfer==0.11.2
+s3transfer==0.12.0
 salem==0.3.11
 satpy==0.44.0
 scikit-image==0.25.0
