@@ -20,8 +20,8 @@
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.7.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 25.0.0 | python3_scientific |
-| [boto3](https://github.com/boto/boto3) | 1.37.35 | python3_scientific |
-| [botocore](https://github.com/boto/botocore) | 1.37.35 | python3_scientific |
+| [boto3](https://github.com/boto/boto3) | 1.38.11 | python3_scientific |
+| [botocore](https://github.com/boto/botocore) | 1.38.11 | python3_scientific |
 | [Bottleneck](https://github.com/pydata/bottleneck) | 1.4.2 | python3_scientific |
 | [branca](https://github.com/python-visualization/branca) | 0.8.1 | python3_scientific |
 | [Cartopy](https://github.com/SciTools/cartopy) | 0.24.1 | python3_scientific |
@@ -257,7 +257,7 @@
 | [rfc3986_validator](https://github.com/naimetti/rfc3986-validator) | 0.1.1 | python3_extratools |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
 | [rtree](https://pypi.org/project/rtree) | 1.4.0 | python3_scientific |
-| [s3transfer](https://github.com/boto/s3transfer) | 0.11.2 | python3_scientific |
+| [s3transfer](https://github.com/boto/s3transfer) | 0.12.0 | python3_scientific |
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.44.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.18.1 | python3_scientific |
