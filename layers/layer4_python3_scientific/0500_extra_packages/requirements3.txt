@@ -156,7 +156,7 @@ rich-argparse==1.7.0
 rtree==1.4.0
 s3transfer==0.12.0
 salem==0.3.11
-satpy==0.44.0
+satpy==0.56.0
 scikit-image==0.25.0
 scikit-learn==1.5.0
 scitools-iris==3.12.1
@@ -172,7 +172,7 @@ tenacity==8.2.3
 thermofeel==2.1.1
 tifffile==2023.9.26
 toolz==0.12.0
-trollimage==1.21.0
+trollimage==1.26.0
 trollsift==0.5.1
 tzlocal==5.2
 xclim==0.55.1
