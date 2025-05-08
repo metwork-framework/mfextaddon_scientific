@@ -259,7 +259,7 @@
 | [rtree](https://pypi.org/project/rtree) | 1.4.0 | python3_scientific |
 | [s3transfer](https://github.com/boto/s3transfer) | 0.12.0 | python3_scientific |
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
-| [satpy](https://github.com/pytroll/satpy) | 0.44.0 | python3_scientific |
+| [satpy](https://github.com/pytroll/satpy) | 0.56.0 | python3_scientific |
 | [scikit-build](https://github.com/scikit-build/scikit-build) | 0.18.1 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.25.0 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.5.0 | python3_scientific |
@@ -288,7 +288,7 @@
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.3.0 | python3_extratools |
 | [tomli_w](https://github.com/hukkin/tomli-w) | 1.2.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.12.0 | python3_scientific |
-| [trollimage](https://github.com/pytroll/trollimage) | 1.21.0 | python3_scientific |
+| [trollimage](https://github.com/pytroll/trollimage) | 1.26.0 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.5.1 | python3_scientific |
 | [tzdata](https://github.com/python/tzdata) | 2025.2 | python3_scientific |
 | [tzlocal](https://pypi.org/project/tzlocal) | 5.2 | python3_scientific |
