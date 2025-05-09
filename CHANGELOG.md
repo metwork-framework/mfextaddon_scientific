@@ -239,6 +239,9 @@
 - bump reportlab from 4.0.6 to 4.4.0 (#967)
 - bump copernicusmarine from 2.0.1 to 2.1.0 (#968)
 - bump rich-argparse from 1.6.0 to 1.7.0 (#969)
+- bump rtree from 1.1.0 to 1.4.0 (#970)
+- bump s3transfer from 0.11.2 to 0.12.0 (#971)
+- bump satpy from 0.44.0 to 0.56.0 and trollimage to 1.26.0 (#972)
 
 ### Bug Fixes
 
