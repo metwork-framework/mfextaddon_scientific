@@ -286,7 +286,7 @@
 | [tifffile](https://www.cgohlke.com) | 2025.3.30 | python3_scientific |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.3.0 | python3_extratools |
 | [tomli_w](https://github.com/hukkin/tomli-w) | 1.2.0 | python3_scientific |
-| [toolz](https://github.com/pytoolz/toolz/) | 0.12.0 | python3_scientific |
+| [toolz](https://github.com/pytoolz/toolz/) | 1.0.0 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.26.0 | python3_scientific |
 | [trollsift](https://github.com/pytroll/trollsift) | 0.5.1 | python3_scientific |
 | [tzdata](https://github.com/python/tzdata) | 2025.2 | python3_scientific |
