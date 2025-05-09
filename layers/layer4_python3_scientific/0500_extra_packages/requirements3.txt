@@ -170,7 +170,7 @@ tblib==3.1.0
 tenacity==9.1.2
 thermofeel==2.1.1
 tifffile==2025.3.30
-toolz==0.12.0
+toolz==1.0.0
 trollimage==1.26.0
 trollsift==0.5.1
 tzlocal==5.2
