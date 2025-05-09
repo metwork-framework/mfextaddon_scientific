@@ -2,6 +2,7 @@ import adjustText
 import affine
 import aggdraw
 import apng
+import arcosparse
 import array_api_compat
 import asciitree
 import astropy
@@ -82,6 +83,7 @@ import flexparser
 import flit
 import floris
 import folium
+import fontTools
 import gast
 import osgeo #gdal
 import osgeo_utils #gdal
@@ -117,7 +119,6 @@ import mesonpy
 import metpy
 import metpy.plots
 import metview
-import monotonic
 import msgpack
 import multiprocess
 import multiurl
@@ -179,7 +180,6 @@ import shapefile #pyshp
 import pystac
 import pysteps
 import pythran
-import pytz_deprecation_shim
 import pywt #PyWaveLets
 import rasterio
 import rechunker
@@ -202,7 +202,6 @@ import iris #scitools-iris
 import pyke #scitools-pyke
 import seaborn
 import shapely
-import snuggs
 import sqlalchemy
 import statsmodels
 import tblib
