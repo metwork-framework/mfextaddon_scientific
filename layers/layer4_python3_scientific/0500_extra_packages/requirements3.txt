@@ -165,7 +165,7 @@ seaborn==0.13.2
 semver==3.0.4
 Shapely==2.1.0
 SQLAlchemy==2.0.40
-statsmodels==0.14.2
+statsmodels==0.14.4
 tblib==3.0.0
 tenacity==8.2.3
 thermofeel==2.1.1
