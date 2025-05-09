@@ -200,7 +200,6 @@ import iris #scitools-iris
 import pyke #scitools-pyke
 import seaborn
 import shapely
-import snuggs
 import sqlalchemy
 import statsmodels
 import tblib
