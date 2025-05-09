@@ -276,7 +276,7 @@
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.2.0 | python3_extratools |
 | [spatialindex](https://libspatialindex.org) | 2.1.0 | scientific |
-| [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.36 | python3_scientific |
+| [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.40 | python3_scientific |
 | [starlette](https://github.com/encode/starlette) | 0.41.0 | python3_extratools |
 | [statsmodels](https://www.statsmodels.org/) | 0.14.2 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
