@@ -1,13 +1,16 @@
+arcosparse
 bokeh
 cdo
 conflator
 copernicusmarine
 docstring_parser
 earthkit-plots-default-styles
+eckitlib
 ecmwflibs
 ffmpy
 flatten-dict
 llvmlite
+odclib
 orjson
 openturns
 polars

@@ -5,8 +5,6 @@ import async_lru
 import bleach
 import comm
 import debugpy
-import defusedxml
-import deprecation
 import docstring_to_markdown
 import et_xmlfile
 import faicons
