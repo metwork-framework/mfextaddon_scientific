@@ -278,7 +278,7 @@
 | [spatialindex](https://libspatialindex.org) | 2.1.0 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.40 | python3_scientific |
 | [starlette](https://github.com/encode/starlette) | 0.41.0 | python3_extratools |
-| [statsmodels](https://www.statsmodels.org/) | 0.14.2 | python3_scientific |
+| [statsmodels](https://www.statsmodels.org/) | 0.14.4 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.0.0 | python3_scientific |
 | [tenacity](https://github.com/jd/tenacity) | 8.2.3 | python3_scientific |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
