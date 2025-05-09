@@ -283,7 +283,7 @@
 | [tenacity](https://github.com/jd/tenacity) | 9.1.2 | python3_scientific |
 | [terminado](https://github.com/jupyter/terminado) | 0.18.1 | python3_extratools |
 | [thermofeel](https://github.com/ecmwf-projects/thermofeel) | 2.1.1 | python3_scientific |
-| [tifffile](https://www.cgohlke.com) | 2023.9.26 | python3_scientific |
+| [tifffile](https://www.cgohlke.com) | 2025.3.30 | python3_scientific |
 | [tinycss2](https://www.courtbouillon.org/tinycss2) | 1.3.0 | python3_extratools |
 | [tomli_w](https://github.com/hukkin/tomli-w) | 1.2.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 0.12.0 | python3_scientific |
