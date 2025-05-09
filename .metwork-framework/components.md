@@ -186,7 +186,7 @@
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.10.2 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
-| [numpy](https://numpy.org) | 2.1.3 | python3_scientific |
+| [numpy](https://numpy.org) | 2.2.5 | python3_scientific |
 | [odclib](https://pypi.org/project/odclib) | 1.6.0 | python3_scientific |
 | [odswriter](https://github.com/mmulqueen/odswriter) | 0.4.0 | python3_extratools |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
@@ -277,6 +277,7 @@
 | [sniffio](https://github.com/python-trio/sniffio) | 1.2.0 | python3_extratools |
 | [spatialindex](https://libspatialindex.org) | 2.1.0 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.40 | python3_scientific |
+| [standard-imghdr](https://github.com/youknowone/python-deadlib) | 3.13.0 | python3_scientific |
 | [starlette](https://github.com/encode/starlette) | 0.41.0 | python3_extratools |
 | [statsmodels](https://www.statsmodels.org/) | 0.14.4 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.1.0 | python3_scientific |
@@ -314,4 +315,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(313 components)*
+*(314 components)*
