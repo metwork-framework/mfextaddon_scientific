@@ -290,7 +290,7 @@
 | [trollimage](https://github.com/pytroll/trollimage) | 1.26.0 | python3_scientific |
 | [trollsift](https://pypi.org/project/trollsift) | 0.5.3 | python3_scientific |
 | [tzdata](https://github.com/python/tzdata) | 2025.2 | python3_scientific |
-| [tzlocal](https://pypi.org/project/tzlocal) | 5.2 | python3_scientific |
+| [tzlocal](https://pypi.org/project/tzlocal) | 5.3.1 | python3_scientific |
 | [uc-micro-py](https://github.com/tsutsu3/uc.micro-py) | 1.0.3 | python3_extratools |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
 | [ujson](https://github.com/ultrajson/ultrajson) | 5.10.0 | python3_extratools |
