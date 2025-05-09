@@ -275,7 +275,6 @@
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.0.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.2.0 | python3_extratools |
-| [snuggs](https://github.com/mapbox/snuggs) | 1.4.7 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 2.1.0 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.36 | python3_scientific |
 | [starlette](https://github.com/encode/starlette) | 0.41.0 | python3_extratools |
@@ -315,4 +314,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(314 components)*
+*(313 components)*
