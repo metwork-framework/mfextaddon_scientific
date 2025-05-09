@@ -271,7 +271,7 @@
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.2 | python3_scientific |
 | [semver](https://pypi.org/project/semver) | 3.0.4 | python3_scientific |
 | [Send2Trash](https://github.com/arsenetar/send2trash) | 1.8.3 | python3_extratools |
-| [shapely](https://pypi.org/project/shapely) | 2.0.6 | python3_scientific |
+| [shapely](https://pypi.org/project/shapely) | 2.1.0 | python3_scientific |
 | [shiny](https://github.com/posit-dev/py-shiny) | 1.0.0 | python3_extratools |
 | [simpervisor](https://pypi.org/project/simpervisor) | 1.0.0 | python3_extratools |
 | [sniffio](https://github.com/python-trio/sniffio) | 1.2.0 | python3_extratools |
