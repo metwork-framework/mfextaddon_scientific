@@ -157,7 +157,7 @@ rtree==1.4.0
 s3transfer==0.12.0
 salem==0.3.11
 satpy==0.56.0
-scikit-image==0.25.0
+scikit-image==0.25.2
 scikit-learn==1.5.0
 scitools-iris==3.12.1
 scores==2.1.0
