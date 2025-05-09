@@ -163,7 +163,7 @@ scitools-iris==3.12.1
 scores==2.1.0
 seaborn==0.13.2
 semver==3.0.4
-Shapely==2.0.6
+Shapely==2.1.0
 snuggs==1.4.7
 SQLAlchemy==2.0.36
 statsmodels==0.14.2
