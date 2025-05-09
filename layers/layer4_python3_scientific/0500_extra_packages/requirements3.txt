@@ -172,7 +172,7 @@ thermofeel==2.1.1
 tifffile==2025.3.30
 toolz==1.0.0
 trollimage==1.26.0
-trollsift==0.5.1
+trollsift==0.5.3
 tzlocal==5.2
 xclim==0.55.1
 xxhash==3.4.1
