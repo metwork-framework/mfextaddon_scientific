@@ -307,7 +307,7 @@
 | [xarray](https://xarray.dev/) | 2025.3.1 | python3_scientific |
 | [xclim](https://xclim.readthedocs.io/) | 0.56.0 | python3_scientific |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
-| [xxhash](https://github.com/ifduyue/python-xxhash) | 3.4.1 | python3_scientific |
+| [xxhash](https://github.com/ifduyue/python-xxhash) | 3.5.0 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2023.10.0 | python3_scientific |
 | [yamale](https://github.com/23andMe/Yamale) | 5.2.1 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.18.7 | python3_scientific |
