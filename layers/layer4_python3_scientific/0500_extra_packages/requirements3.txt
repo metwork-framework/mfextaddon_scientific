@@ -175,7 +175,7 @@ trollimage==1.26.0
 trollsift==0.5.3
 tzlocal==5.3.1
 xclim==0.56.0
-xxhash==3.4.1
+xxhash==3.5.0
 xyzservices==2023.10.0
 windrose==1.9.0
 yamale==5.2.1
