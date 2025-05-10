@@ -174,10 +174,10 @@ toolz==1.0.0
 trollimage==1.26.0
 trollsift==0.5.3
 tzlocal==5.3.1
+windrose==1.9.2
 xclim==0.56.0
 xxhash==3.5.0
 xyzservices==2025.4.0
-windrose==1.9.0
 yamale==5.2.1
 zarr==2.18.7
 zict==3.0.0

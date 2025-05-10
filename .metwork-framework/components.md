@@ -303,7 +303,7 @@
 | [websocket-client](https://github.com/websocket-client/websocket-client.git) | 1.8.0 | python3_extratools |
 | [websockets](https://github.com/python-websockets/websockets) | 13.0.1 | python3_extratools |
 | [widgetsnbextension](http://jupyter.org) | 4.0.13 | python3_extratools |
-| [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
+| [windrose](https://github.com/python-windrose/windrose) | 1.9.2 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2025.3.1 | python3_scientific |
 | [xclim](https://xclim.readthedocs.io/) | 0.56.0 | python3_scientific |
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
