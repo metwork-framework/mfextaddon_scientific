@@ -176,7 +176,7 @@ trollsift==0.5.3
 tzlocal==5.3.1
 xclim==0.56.0
 xxhash==3.5.0
-xyzservices==2023.10.0
+xyzservices==2025.4.0
 windrose==1.9.0
 yamale==5.2.1
 zarr==2.18.7
