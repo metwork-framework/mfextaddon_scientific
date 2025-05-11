@@ -309,7 +309,7 @@
 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | 3.1.9 | python3_extratools |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.5.0 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2025.4.0 | python3_scientific |
-| [yamale](https://github.com/23andMe/Yamale) | 5.2.1 | python3_scientific |
+| [yamale](https://github.com/23andMe/Yamale) | 6.0.0 | python3_scientific |
 | [zarr](https://github.com/zarr-developers/zarr-python) | 2.18.7 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
