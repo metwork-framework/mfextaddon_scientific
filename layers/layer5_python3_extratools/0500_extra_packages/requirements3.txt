@@ -1,4 +1,4 @@
-anyio==3.5.0
+anyio==4.9.0
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.5.2
