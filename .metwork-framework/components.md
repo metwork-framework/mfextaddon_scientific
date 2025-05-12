@@ -54,7 +54,7 @@
 | [debugpy](https://aka.ms/debugpy) | 1.8.14 | python3_extratools |
 | [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | python3_extratools |
 | [distributed](https://distributed.dask.org) | 2025.4.1 | python3_scientific |
-| [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.15 | python3_extratools |
+| [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.17 | python3_extratools |
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.16 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io) | 0.21.2 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1.post1 | python3_scientific |
