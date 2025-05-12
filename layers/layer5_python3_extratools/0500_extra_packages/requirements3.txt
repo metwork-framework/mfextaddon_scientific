@@ -3,7 +3,7 @@ argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.8.1
 Aspose.Slides==25.4.0
-async-lru==2.0.4
+async-lru==2.0.5
 bleach==6.1.0
 comm==0.2.2
 debugpy==1.8.7
