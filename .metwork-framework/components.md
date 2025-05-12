@@ -51,7 +51,7 @@
 | [datapi](https://pypi.org/project/datapi) | 0.4.0 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.2.1 | python3_scientific |
 | [DateTime](https://github.com/zopefoundation/DateTime) | 5.5 | python3_scientific |
-| [debugpy](https://aka.ms/debugpy) | 1.8.7 | python3_extratools |
+| [debugpy](https://aka.ms/debugpy) | 1.8.14 | python3_extratools |
 | [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | python3_extratools |
 | [distributed](https://distributed.dask.org) | 2025.4.1 | python3_scientific |
 | [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.15 | python3_extratools |
