@@ -9,7 +9,7 @@ comm==0.2.2
 debugpy==1.8.14
 defusedxml==0.7.1
 docstring-to-markdown==0.17
-et-xmlfile==1.1.0
+et-xmlfile==2.0.0
 faicons==0.2.2
 fastjsonschema==2.20.0
 fqdn==1.5.1
