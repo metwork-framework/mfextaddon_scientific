@@ -3,27 +3,13 @@
 | [adjustText](https://github.com/Phlya/adjustText) | 1.3.0 | python3_scientific |
 | [affine](https://pypi.org/project/affine) | 2.4.0 | python3_scientific |
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.19 | python3_scientific |
-<<<<<<< HEAD
-| [anyio](https://pypi.org/project/anyio) | 3.5.0 | python3_extratools |
-=======
->>>>>>> c5cfeb0 (feat: remove python3_extratools (provided in a dedicated repo) (#1004))
 | [apng](https://github.com/eight04/pyAPNG) | 0.3.4 | python3_scientific |
 | [arcosparse](https://pypi.org/project/arcosparse) | 0.4.0 | python3_scientific |
 | [array_api_compat](https://data-apis.org/array-api-compat/) | 1.11.2 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
-<<<<<<< HEAD
-| [asgiref](https://github.com/django/asgiref/) | 3.5.2 | python3_extratools |
-| [Aspose.Slides](https://products.aspose.com/slides/python-net/) | 24.11.0 | python3_extratools |
-| [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2025.4.14.0.37.22 | python3_scientific |
-| [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
-| [async-lru](https://github.com/aio-libs/async-lru) | 2.0.4 | python3_extratools |
-| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
-| [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
-=======
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2025.4.14.0.37.22 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
->>>>>>> c5cfeb0 (feat: remove python3_extratools (provided in a dedicated repo) (#1004))
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.7.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 25.0.0 | python3_scientific |
@@ -57,14 +43,7 @@
 | [datapi](https://pypi.org/project/datapi) | 0.4.0 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.2.1 | python3_scientific |
 | [DateTime](https://github.com/zopefoundation/DateTime) | 5.5 | python3_scientific |
-<<<<<<< HEAD
-| [debugpy](https://aka.ms/debugpy) | 1.8.7 | python3_extratools |
-| [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | python3_extratools |
 | [distributed](https://distributed.dask.org) | 2025.4.1 | python3_scientific |
-| [docstring-to-markdown](https://pypi.org/project/docstring-to-markdown) | 0.15 | python3_extratools |
-=======
-| [distributed](https://distributed.dask.org) | 2025.4.1 | python3_scientific |
->>>>>>> c5cfeb0 (feat: remove python3_extratools (provided in a dedicated repo) (#1004))
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.16 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io) | 0.21.2 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1.post1 | python3_scientific |
@@ -89,10 +68,6 @@
 | [ek-aggregate](https://pypi.org/project/ek-aggregate) | 0.1.2 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.8.1 | scientific |
 | [esmpy](http://www.earthsystemmodeling.org) | 8.8.1 | python3_scientific |
-<<<<<<< HEAD
-| [et_xmlfile](https://foss.heptapod.net/openpyxl/et_xmlfile) | 1.1.0 | python3_extratools |
-=======
->>>>>>> c5cfeb0 (feat: remove python3_extratools (provided in a dedicated repo) (#1004))
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.2.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
