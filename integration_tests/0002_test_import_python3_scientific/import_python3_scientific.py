@@ -97,7 +97,6 @@ import heapdict
 import humanfriendly
 #import icclim (temporarly removed)
 import imageio
-import ipython_genutils
 import itsdangerous
 import jsmin
 import jsonpickle
