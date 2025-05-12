@@ -5,11 +5,10 @@ provides scientific tools and libraries for use in [MetWork Framework](http://me
 
 ## Provided layers
 
-This add-on provides three layers:
+This add-on provides two layers:
 
 - `scientific@mfext` (common files for next layers, mainly C/C++ libraries/tools)
 - `python3_scientific@mfext` (scientific Python3 tools/libraries)
-- `python3_extratools@mfext` ("extra" interactive Python3 tools/libraries)
 
 ## Provides useful packages
 
@@ -17,4 +16,3 @@ So, to install this add-on, you have to install:
 
 - `metwork-mfext-layer-scientific` package
 - (and/or) `metwork-mfext-layer-python3_scientific` package
-- (and/or) `metwork-mfext-layer-python3_extratools` package

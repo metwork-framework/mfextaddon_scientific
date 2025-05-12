@@ -1,2 +1,0 @@
-ipython-genutils==0.2.0
-nbclassic==1.2.0
