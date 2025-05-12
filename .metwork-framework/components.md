@@ -16,7 +16,7 @@
 | [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
 | [async-lru](https://github.com/aio-libs/async-lru) | 2.0.5 | python3_extratools |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
-| [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
+| [bleach](https://github.com/mozilla/bleach) | 6.2.0 | python3_extratools |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.7.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 25.0.0 | python3_scientific |
