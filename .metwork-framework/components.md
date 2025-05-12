@@ -14,7 +14,7 @@
 | [aspose-slides](https://products.aspose.com/slides/python-net/) | 25.4.0 | python3_extratools |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2025.4.14.0.37.22 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
-| [async-lru](https://github.com/aio-libs/async-lru) | 2.0.4 | python3_extratools |
+| [async-lru](https://github.com/aio-libs/async-lru) | 2.0.5 | python3_extratools |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
 | [bleach](https://github.com/mozilla/bleach) | 6.1.0 | python3_extratools |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
