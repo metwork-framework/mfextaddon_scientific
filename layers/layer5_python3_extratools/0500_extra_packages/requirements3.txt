@@ -1,7 +1,7 @@
 anyio==4.9.0
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
-asgiref==3.5.2
+asgiref==3.8.1
 Aspose.Slides==24.11.0
 async-lru==2.0.4
 bleach==6.1.0
