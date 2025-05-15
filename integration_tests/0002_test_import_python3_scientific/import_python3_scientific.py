@@ -132,7 +132,6 @@ import numexpr
 import numpy
 import cv2 #opencv_contrib_python_headless
 import openturns
-import orjson
 import palettable
 import pandas
 import partd
