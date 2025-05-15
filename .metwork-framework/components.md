@@ -140,7 +140,6 @@
 | [odclib](https://pypi.org/project/odclib) | 1.6.0 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.24 | python3_scientific |
-| [orjson](https://pypi.org/project/orjson) | 3.10.17 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.3-develop-mf | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.3 | python3_scientific |
 | [pandas](https://pandas.pydata.org) | 2.2.3 | python3_scientific |
@@ -232,4 +231,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(231 components)*
+*(230 components)*
