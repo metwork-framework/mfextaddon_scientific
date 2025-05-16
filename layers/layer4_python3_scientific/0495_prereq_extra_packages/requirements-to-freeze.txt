@@ -1,4 +1,3 @@
 scikit-build
-scikit-build-core
 pyproject_metadata
 meson
