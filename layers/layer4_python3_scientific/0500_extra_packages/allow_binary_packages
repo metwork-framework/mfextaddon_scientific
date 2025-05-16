@@ -9,9 +9,9 @@ eckitlib
 ecmwflibs
 ffmpy
 flatten-dict
-openturns
 llvmlite
 odclib
+openturns
 orjson
 polars
 pyarrow
