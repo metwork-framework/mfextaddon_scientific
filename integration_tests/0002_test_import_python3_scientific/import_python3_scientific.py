@@ -190,7 +190,6 @@ import salem
 import satpy
 import semver
 import skbuild #scikit-build
-import scikit_build_core
 import skimage #scikit-image
 import sklearn #scikit-learn
 import scipy
