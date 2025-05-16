@@ -9,10 +9,10 @@ eckitlib
 ecmwflibs
 ffmpy
 flatten-dict
-openturns
 llvmlite
 odclib
 orjson
+openturns
 polars
 pyarrow
 pyYAML
