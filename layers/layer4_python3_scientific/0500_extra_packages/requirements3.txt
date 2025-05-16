@@ -109,7 +109,6 @@ numpngw==0.1.4
 odclib==1.6.0
 opencv-contrib-python-headless==4.11.0.86
 openturns==1.24
-orjson==3.10.17
 -e git+https://gitlab.com/thebaptiste/batman.git@1.9.3-develop-mf#egg=ot-batman
 palettable==3.3.3
 partd==1.4.2
@@ -174,11 +173,11 @@ toolz==1.0.0
 trollimage==1.26.0
 trollsift==0.5.3
 tzlocal==5.3.1
-xclim==0.55.1
-xxhash==3.4.1
-xyzservices==2023.10.0
-windrose==1.9.0
-yamale==5.2.1
+windrose==1.9.2
+xclim==0.56.0
+xxhash==3.5.0
+xyzservices==2025.4.0
+yamale==6.0.0
 zarr==2.18.7
 zict==3.0.0
 zope.interface==7.2

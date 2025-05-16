@@ -99,7 +99,6 @@ import heapdict
 import humanfriendly
 #import icclim (temporarly removed)
 import imageio
-import ipython_genutils
 import itsdangerous
 import jsmin
 import jsonpickle
@@ -135,7 +134,6 @@ import numexpr
 import numpy
 import cv2 #opencv_contrib_python_headless
 import openturns
-import orjson
 import palettable
 import pandas
 import partd
@@ -194,7 +192,6 @@ import salem
 import satpy
 import semver
 import skbuild #scikit-build
-import scikit_build_core
 import skimage #scikit-image
 import sklearn #scikit-learn
 import scipy
