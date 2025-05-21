@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## v2.3.1 (2025-05-21)
+
+### New Features
+
+- bump Flask from 3.1.0 to 3.1.1 (fix CVE-2025-47278) (backport #1016) (#1017)
+
 ## v2.3.0 (2025-05-13)
 
 ### New Features
