@@ -76,7 +76,7 @@
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.5.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.1.1 | python3_scientific |
 | [fiona](https://pypi.org/project/fiona) | 1.10.1 | python3_scientific |
-| [Flask](https://pypi.org/project/Flask) | 3.1.0 | python3_scientific |
+| [Flask](https://pypi.org/project/Flask) | 3.1.1 | python3_scientific |
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
 | [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.12.0 | python3_scientific |
