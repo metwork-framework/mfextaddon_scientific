@@ -136,7 +136,7 @@
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.10.2 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
-| [numpy](https://numpy.org) | 2.2.5 | python3_scientific |
+| [numpy](https://numpy.org) | 2.2.6 | python3_scientific |
 | [odclib](https://pypi.org/project/odclib) | 1.6.0 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.24 | python3_scientific |
