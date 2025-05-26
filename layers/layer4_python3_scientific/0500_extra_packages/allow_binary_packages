@@ -14,6 +14,7 @@ odclib
 orjson
 openturns
 polars
+protobuf
 pyarrow
 pyYAML
 rich
