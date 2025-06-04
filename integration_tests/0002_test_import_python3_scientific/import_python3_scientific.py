@@ -212,6 +212,7 @@ import tzlocal
 import versioneer
 import xarray
 import xclim
+import xsdba
 import xxhash
 import xyzservices
 import zarr

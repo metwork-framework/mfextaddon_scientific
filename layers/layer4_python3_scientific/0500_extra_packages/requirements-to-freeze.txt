@@ -71,7 +71,8 @@ astropy
 #icclim (temporarly removed for Python 3.13 compatibility)
 #tensorflow 2.19.0 requires protbuf < 6
 protobuf<6
-xclim
+#note : xclim.sdba has been split from xclim into xsdba
+xclim[extras]
 Pint
 pyoscar
 fastparquet
