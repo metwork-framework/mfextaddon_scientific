@@ -222,7 +222,8 @@
 | [versioneer](https://github.com/python-versioneer/python-versioneer) | 0.29 | python3_scientific |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.2 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2025.3.1 | python3_scientific |
-| [xclim](https://xclim.readthedocs.io/) | 0.56.0 | python3_scientific |
+| [xclim](https://xclim.readthedocs.io/) | 0.57.0 | python3_scientific |
+| [xsdba](https://xsdba.readthedocs.io/) | 0.4.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.5.0 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2025.4.0 | python3_scientific |
 | [yamale](https://github.com/23andMe/Yamale) | 6.0.0 | python3_scientific |
@@ -230,4 +231,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(229 components)*
+*(230 components)*
