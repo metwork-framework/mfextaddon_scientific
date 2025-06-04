@@ -30,7 +30,7 @@ coloredlogs==15.0.1
 configobj==5.0.9
 conflator==0.1.7
 contourpy==1.3.2
-copernicusmarine==2.1.0
+copernicusmarine==2.1.2
 covjson_pydantic==0.6.0
 covjsonkit==0.1.9
 cramjam==2.10.0
