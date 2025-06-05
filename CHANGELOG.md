@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump floris from 4.4.1 to 4.4.2 (#1026)
+
 ## v2.3.1 (2025-05-21)
 
 ### New Features
