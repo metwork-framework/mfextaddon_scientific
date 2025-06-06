@@ -50,7 +50,6 @@ pdbufr
 pyodc
 ffmpy
 -e git+https://gitlab.com/cerfacs/batman.git#egg=ot-batman
-numba
 pyhdf
 pygmt
 pysteps
@@ -71,8 +70,7 @@ astropy
 #icclim (temporarly removed for Python 3.13 compatibility)
 #tensorflow 2.19.0 requires protbuf < 6
 protobuf<6
-#note : xclim.sdba has been split from xclim into xsdba
-xclim[extras]
+xclim
 Pint
 pyoscar
 fastparquet
