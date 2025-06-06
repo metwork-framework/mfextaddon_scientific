@@ -33,17 +33,17 @@
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
 | [conflator](https://pypi.org/project/conflator) | 0.1.7 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.2 | python3_scientific |
-| [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.1.0 | python3_scientific |
+| [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.1.2 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
 | [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.1.9 | python3_scientific |
 | [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.10.0 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
-| [dask](https://github.com/dask/dask/) | 2025.4.1 | python3_scientific |
+| [dask](https://github.com/dask/dask/) | 2025.5.1 | python3_scientific |
 | [datapi](https://pypi.org/project/datapi) | 0.4.0 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.2.1 | python3_scientific |
 | [DateTime](https://github.com/zopefoundation/DateTime) | 5.5 | python3_scientific |
-| [distributed](https://distributed.dask.org) | 2025.4.1 | python3_scientific |
+| [distributed](https://distributed.dask.org) | 2025.5.1 | python3_scientific |
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.16 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io) | 0.21.2 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1.post1 | python3_scientific |
@@ -80,12 +80,12 @@
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
 | [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.12.0 | python3_scientific |
-| [floris](https://github.com/NREL/floris) | 4.4.1 | python3_scientific |
+| [floris](https://github.com/NREL/floris) | 4.4.2 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.19.5 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.57.0 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.6.0 | python3_scientific |
-| [GDAL](http://www.gdal.org) | 3.10.3 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 3.11.0 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 1.0.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
@@ -222,7 +222,8 @@
 | [versioneer](https://github.com/python-versioneer/python-versioneer) | 0.29 | python3_scientific |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.2 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2025.3.1 | python3_scientific |
-| [xclim](https://xclim.readthedocs.io/) | 0.56.0 | python3_scientific |
+| [xclim](https://xclim.readthedocs.io/) | 0.57.0 | python3_scientific |
+| [xsdba](https://xsdba.readthedocs.io/) | 0.4.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.5.0 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2025.4.0 | python3_scientific |
 | [yamale](https://github.com/23andMe/Yamale) | 6.0.0 | python3_scientific |
@@ -230,4 +231,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(229 components)*
+*(230 components)*
