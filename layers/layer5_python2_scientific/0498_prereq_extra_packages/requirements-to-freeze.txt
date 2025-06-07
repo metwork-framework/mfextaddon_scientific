@@ -1,6 +1,0 @@
-numpy
-Cython
-#default pkgconfig>=1.5.4 (h5py build dependency) is not python2 compliant
-pkgconfig<=1.5.2
-#pytest-runner >= 5.3.0 is not python2 compliant
-pytest-runner<=5.2
