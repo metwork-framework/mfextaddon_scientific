@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### New Features
+
+- remove layer python2_scientific (#1033)
+
 ### Bug Fixes
 
 - upgrade cf-units to 3.1.1 (#868)
