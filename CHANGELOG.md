@@ -11,5 +11,6 @@
 - bump dask and distributed from 2025.4.1 to 2025.5.1 (#1028)
 - bump copernicusmarine from 2.1.0 to 2.1.2 (#1029)
 - bump xclim from 0.56.0 to 0.57.0 and add xsdba 0.4.0 (#1030)
+- bump numexpr from 2.10.2 to 2.11.0 (#1035)
 
 
