@@ -10,4 +10,7 @@ libpangocairo-1.0.so.0()(64bit)@generic
 libgdbm.so.6()(64bit)@generic
 librsvg-2.so.2()(64bit)@generic
 /usr/bin/tcsh@generic
+libQt5Widgets.so.5()(64bit)@generic
+libQt5Gui.so.5()(64bit)@generic
+libQt5Core.so.5()(64bit)@generic
 libXaw3d.so.8()(64bit)@generic
