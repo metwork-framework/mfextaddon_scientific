@@ -35,7 +35,7 @@
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.2 | python3_scientific |
 | [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.1.2 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
-| [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.1.9 | python3_scientific |
+| [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.1.13 | python3_scientific |
 | [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.10.0 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
@@ -142,7 +142,7 @@
 | [openturns](http://www.openturns.org) | 1.24 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.3-develop-mf | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.3 | python3_scientific |
-| [pandas](https://pandas.pydata.org) | 2.2.3 | python3_scientific |
+| [pandas](https://pandas.pydata.org) | 2.3.0 | python3_scientific |
 | [partd](http://github.com/dask/partd/) | 1.4.2 | python3_scientific |
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.4 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 1.0.1 | python3_scientific |
