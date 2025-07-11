@@ -37,8 +37,14 @@ jobs:
 
 
     steps:
+
+      - name: clean workspace
+        run: |
+          rm -rf ${{ github.workspace }}
+          mkdir ${{ github.workspace }}
+
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: ${{ github.event.client_payload.branch || github.ref }}
@@ -158,7 +164,7 @@ jobs:
 
       - name: dispatch mfextaddon_radartools
         if: ${{ github.event_name != 'pull_request' && steps.SetVariables.outputs.skip_dispatch == 'false' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.METWORK_ACCESS_TOKEN }}
           repository: metwork-framework/mfextaddon_radartools
@@ -166,7 +172,7 @@ jobs:
           client-payload: '{"branch": "${{ steps.SetVariables.outputs.branch }}", "os": "${{ steps.SetVariables.outputs.os }}"}'
       - name: dispatch mfextaddon_python3_ia centos8
         if: ${{ github.event_name != 'pull_request' && steps.SetVariables.outputs.skip_dispatch == 'false' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' && steps.SetVariables.outputs.os == 'centos8' }}
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.METWORK_ACCESS_TOKEN }}
           repository: metwork-framework/mfextaddon_python3_ia
@@ -174,18 +180,11 @@ jobs:
           client-payload: '{"branch": "${{ steps.SetVariables.outputs.branch }}", "os": "${{ steps.SetVariables.outputs.os }}"}'
       - name: dispatch mfextaddon_python3_ia centos7
         if: ${{ github.event_name != 'pull_request' && steps.SetVariables.outputs.skip_dispatch == 'false' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' && steps.SetVariables.outputs.os == 'centos6' }}
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.METWORK_ACCESS_TOKEN }}
           repository: metwork-framework/mfextaddon_python3_ia
           event-type: metwork-trigger-${{ steps.SetVariables.outputs.branch }}
           client-payload: '{"branch": "${{ steps.SetVariables.outputs.branch }}", "os": "centos7"}'
 
-
-
-      - name: chown on build outputs
-        if: always()
-        run: |
-          sudo chown -R githubactions:metworkpub .
-          sudo chmod -R 775 .
 
