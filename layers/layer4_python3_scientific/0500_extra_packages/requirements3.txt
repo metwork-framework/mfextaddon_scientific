@@ -150,7 +150,6 @@ PyWavelets==1.8.0
 rasterio==1.4.3
 rechunker==0.5.4
 regionmask==0.13.0
-reportlab==4.4.0
 rich-argparse==1.7.0
 rtree==1.4.0
 s3transfer==0.12.0

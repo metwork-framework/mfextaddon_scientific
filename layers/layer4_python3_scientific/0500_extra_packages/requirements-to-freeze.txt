@@ -56,7 +56,6 @@ pygmt
 pysteps
 distributed
 scikit-image
-reportlab
 #climetlab >= 0.20.1 do not requires ecwmflibs
 climetlab>=0.20.1
 pygraphviz
