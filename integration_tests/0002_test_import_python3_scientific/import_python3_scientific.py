@@ -181,7 +181,6 @@ import rasterio
 import rechunker
 import referencing
 import regionmask
-import reportlab
 import rich_argparse
 import rpds #rpds-py
 import rtree
