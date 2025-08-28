@@ -88,6 +88,7 @@
 | [GDAL](http://www.gdal.org) | 3.11.0 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 1.0.1 | python3_scientific |
+| [geopy](https://github.com/geopy/geopy) | 2.4.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.5.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.3 | python3_scientific |
@@ -230,4 +231,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(229 components)*
+*(230 components)*
