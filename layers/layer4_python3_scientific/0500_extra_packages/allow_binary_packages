@@ -18,3 +18,4 @@ protobuf
 pyarrow
 pyYAML
 rich
+tinydb
