@@ -105,6 +105,7 @@
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [jsonpickle](https://jsonpickle.readthedocs.io/) | 4.0.5 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.8 | python3_scientific |
+| [lark](https://github.com/lark-parser/lark) | 1.1.8 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
 | [libimagequant](https://pngquant.org/lib/) | 4.3.4 | scientific |
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0 | python3_scientific |
@@ -170,6 +171,9 @@
 | [pyepsg](https://github.com/rhattersley/pyepsg) | 0.4.0 | python3_scientific |
 | [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.1.5 | python3_scientific |
 | [pyfdb](https://github.com/ecmwf/pyfdb) | 0.1.2 | python3_scientific |
+| [pygeoapi](https://pygeoapi.io) | 0.21.0 | python3_scientific |
+| [pygeofilter](https://github.com/geopython/pygeofilter) | 0.3.1 | python3_scientific |
+| [pygeoif](https://github.com/cleder/pygeoif/) | 1.5.1 | python3_scientific |
 | [pygmt](https://www.pygmt.org) | 0.15.0 | python3_scientific |
 | [pygraphviz](https://pygraphviz.github.io) | 1.14 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.11.6 | python3_scientific |
@@ -212,6 +216,7 @@
 | [tenacity](https://github.com/jd/tenacity) | 9.1.2 | python3_scientific |
 | [thermofeel](https://github.com/ecmwf-projects/thermofeel) | 2.1.1 | python3_scientific |
 | [tifffile](https://www.cgohlke.com) | 2025.3.30 | python3_scientific |
+| [tinydb](https://github.com/msiemens/tinydb) | 4.8.2 | python3_scientific |
 | [tomli_w](https://github.com/hukkin/tomli-w) | 1.2.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 1.0.0 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.26.0 | python3_scientific |
@@ -231,4 +236,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(230 components)*
+*(235 components)*

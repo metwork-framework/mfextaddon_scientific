@@ -86,6 +86,7 @@ itsdangerous==2.2.0
 jsmin==3.0.1
 jsonpickle==4.0.5
 kiwisolver==1.4.8
+lark==1.1.8
 lazy-loader==0.4
 llvmlite==0.44.0
 lmoments3==1.0.8
@@ -133,6 +134,9 @@ pydecorate==0.4.0
 pyepsg==0.4.0
 pyerfa==2.0.1.5
 pyfdb==0.1.2
+pygeoapi==0.21.0
+pygeofilter==0.3.1
+pygeoif==1.5.1
 pygmt==0.15.0
 pygraphviz==1.14
 pyhdf==0.11.6
@@ -169,6 +173,7 @@ tblib==3.1.0
 tenacity==9.1.2
 thermofeel==2.1.1
 tifffile==2025.3.30
+tinydb==4.8.2
 toolz==1.0.0
 trollimage==1.26.0
 trollsift==0.5.3
