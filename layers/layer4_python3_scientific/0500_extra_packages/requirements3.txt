@@ -124,7 +124,11 @@ polytope-client==0.7.4
 pooch==1.8.2
 pox==0.3.6
 ppft==1.7.7
+<<<<<<< HEAD
 protobuf==3.20.3
+=======
+protobuf==5.29.5
+>>>>>>> 60c3e11 (feat: bump protobuf from 5.29.4 to 5.29.5 (fix high CVE-2025-4565) (#1043))
 puremagic==1.29
 pyarrow==20.0.0
 pycoast==1.7.1
