@@ -160,7 +160,7 @@
 | [pooch](https://pypi.org/project/pooch) | 1.8.2 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.6 | python3_scientific |
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.7 | python3_scientific |
-| [protobuf](https://developers.google.com/protocol-buffers/) | 3.20.3 | python3_scientific |
+| [protobuf](https://developers.google.com/protocol-buffers/) | 5.29.5 | python3_scientific |
 | [puremagic](https://github.com/cdgriffith/puremagic) | 1.29 | python3_scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
 | [pyarrow](https://arrow.apache.org/) | 20.0.0 | python3_scientific |

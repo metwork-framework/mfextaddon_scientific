@@ -150,7 +150,7 @@ import polytope
 import pooch
 import pox
 import ppft
-import google #protobuf
+from google import protobuf #protobuf
 import puremagic
 import pyarrow
 import pybind11
