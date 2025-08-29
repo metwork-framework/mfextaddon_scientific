@@ -13,5 +13,7 @@
 - bump xclim from 0.56.0 to 0.57.0 and add xsdba 0.4.0 (#1030)
 - bump numexpr from 2.10.2 to 2.11.0 (#1035)
 - bump pandas from 2.2.3 to 2.3.0 (#1037)
+- remove reportlab (now provided by layer python3_extratools) (#1040)
+- add geopy (user request) (#1041)
 
 
