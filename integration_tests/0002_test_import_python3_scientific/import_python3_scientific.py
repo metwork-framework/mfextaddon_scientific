@@ -104,6 +104,7 @@ import jsonpickle
 import jsonschema
 import jsonschema_specifications
 import kiwisolver
+import lark
 import lazy_loader
 import llvmlite
 import lmoments3
@@ -161,6 +162,9 @@ import pydecorate
 #import pyfdb
 import pyepsg
 import erfa #pyerfa
+import pygeoapi
+import pygeofilter
+import pygeoif
 import pygmt
 import pygraphviz
 import pyhdf
@@ -203,6 +207,7 @@ import statsmodels
 import tblib
 import tenacity
 import tifffile
+import tinydb
 import tomli_w
 import toolz
 import tornado
