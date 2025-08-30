@@ -1,5 +1,13 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- add geopy (user request) (backport #1041) (#1042)
+- bump protobuf from 5.29.4 to 5.29.5 (fix high CVE-2025-4565) (backport #1043) (#1044)
+- add pygeoapi and dependencies (backport #1045) (#1046)
+
 ## v2.3.2 (2025-07-11)
 
 ### New Features
