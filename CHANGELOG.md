@@ -15,5 +15,7 @@
 - bump pandas from 2.2.3 to 2.3.0 (#1037)
 - remove reportlab (now provided by layer python3_extratools) (#1040)
 - add geopy (user request) (#1041)
+- bump protobuf from 5.29.4 to 5.29.5 (fix high CVE-2025-4565) (#1043)
+- add pygeoapi and dependencies (#1045)
 
 
