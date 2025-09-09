@@ -6,7 +6,7 @@ pandas==2.3.0
 pkgconfig==1.5.5
 py-cpuinfo==9.0.0
 scitools-pyke==1.1.1
-scipy==1.14.1
+scipy==1.15.3
 tomli_w==1.2.0
 tzdata==2025.2
 xarray==2025.3.1
