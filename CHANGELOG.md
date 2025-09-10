@@ -18,5 +18,6 @@
 - bump protobuf from 5.29.4 to 5.29.5 (fix high CVE-2025-4565) (#1043)
 - add pygeoapi and dependencies (#1045)
 - bump numpy from 2.1.3 to 2.2.6 (#1050)
+- bump scipy from 1.14.1 to 1.15.3 (#1051)
 
 
