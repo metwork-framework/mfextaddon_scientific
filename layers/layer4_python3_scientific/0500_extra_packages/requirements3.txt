@@ -106,7 +106,7 @@ narwhals==1.37.0
 nco==1.1.2
 netCDF4==1.7.2
 numba==0.61.2
-numcodecs==0.15.1
+numcodecs==0.16.2
 numexpr==2.11.0
 numpngw==0.1.4
 odclib==1.6.0
