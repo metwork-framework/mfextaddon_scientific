@@ -34,6 +34,7 @@ copernicusmarine==2.1.2
 covjson_pydantic==0.6.0
 covjsonkit==0.1.13
 cramjam==2.10.0
+crc32c==2.7.1
 cycler==0.12.1
 dask==2025.5.1
 datapi==0.4.0
@@ -153,7 +154,6 @@ pystac==1.13.0
 pysteps==1.17.0
 PyWavelets==1.8.0
 rasterio==1.4.3
-rechunker==0.5.4
 regionmask==0.13.0
 rich-argparse==1.7.0
 rtree==1.4.0
@@ -184,6 +184,6 @@ xsdba==0.4.0
 xxhash==3.5.0
 xyzservices==2025.4.0
 yamale==6.0.0
-zarr==2.18.7
+zarr==3.1.2
 zict==3.0.0
 zope.interface==7.2

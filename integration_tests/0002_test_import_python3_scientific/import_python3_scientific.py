@@ -39,6 +39,7 @@ import covjson_pydantic
 import covjsonkit
 import cppy
 import cramjam
+import crc32c
 import cycler
 import dask
 import dask.array
@@ -183,7 +184,7 @@ import pysteps
 import pythran
 import pywt #PyWaveLets
 import rasterio
-import rechunker
+#import rechunker
 import referencing
 import regionmask
 import rich_argparse
