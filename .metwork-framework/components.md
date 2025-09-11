@@ -216,7 +216,7 @@
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.1.0 | python3_scientific |
 | [tenacity](https://github.com/jd/tenacity) | 9.1.2 | python3_scientific |
 | [thermofeel](https://github.com/ecmwf-projects/thermofeel) | 2.1.1 | python3_scientific |
-| [tifffile](https://www.cgohlke.com) | 2025.3.30 | python3_scientific |
+| [tifffile](https://www.cgohlke.com) | 2025.9.9 | python3_scientific |
 | [tinydb](https://github.com/msiemens/tinydb) | 4.8.2 | python3_scientific |
 | [tomli_w](https://github.com/hukkin/tomli-w) | 1.2.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 1.0.0 | python3_scientific |
