@@ -172,7 +172,7 @@ statsmodels==0.14.4
 tblib==3.1.0
 tenacity==9.1.2
 thermofeel==2.1.1
-tifffile==2025.3.30
+tifffile==2025.9.9
 tinydb==4.8.2
 toolz==1.0.0
 trollimage==1.26.0
