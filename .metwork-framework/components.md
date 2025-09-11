@@ -38,6 +38,7 @@
 | [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.1.13 | python3_scientific |
 | [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.10.0 | python3_scientific |
+| [crc32c](https://github.com/ICRAR/crc32c) | 2.7.1 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2025.5.1 | python3_scientific |
 | [datapi](https://pypi.org/project/datapi) | 0.4.0 | python3_scientific |
@@ -192,7 +193,6 @@
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.17.0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
-| [rechunker](https://pypi.org/project/rechunker/) | 0.5.4 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
 | [rtree](https://pypi.org/project/rtree) | 1.4.0 | python3_scientific |
@@ -232,7 +232,7 @@
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.5.0 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2025.4.0 | python3_scientific |
 | [yamale](https://github.com/23andMe/Yamale) | 6.0.0 | python3_scientific |
-| [zarr](https://github.com/zarr-developers/zarr-python) | 2.18.7 | python3_scientific |
+| [zarr](https://github.com/zarr-developers/zarr-python) | 3.1.2 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
