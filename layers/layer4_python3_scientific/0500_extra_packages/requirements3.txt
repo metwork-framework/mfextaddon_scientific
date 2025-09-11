@@ -89,7 +89,7 @@ jsonpickle==4.0.5
 kiwisolver==1.4.8
 lark==1.1.8
 lazy-loader==0.4
-llvmlite==0.44.0
+llvmlite==0.45.0rc2
 lmoments3==1.0.8
 locket==1.0.0
 lru-dict==1.3.0
@@ -105,7 +105,7 @@ munch==4.0.0
 narwhals==1.37.0
 nco==1.1.2
 netCDF4==1.7.2
-numba==0.61.2
+numba==0.62.0rc1
 numcodecs==0.16.2
 numexpr==2.11.0
 numpngw==0.1.4

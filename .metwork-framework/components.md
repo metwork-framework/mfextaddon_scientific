@@ -109,7 +109,7 @@
 | [lark](https://github.com/lark-parser/lark) | 1.1.8 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
 | [libimagequant](https://pngquant.org/lib/) | 4.3.4 | scientific |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.45.0rc2 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.8 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
@@ -135,11 +135,11 @@
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.7.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 3.4.2 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1.4 | python3_scientific |
-| [numba](https://numba.pydata.org) | 0.61.2 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.62.0rc1 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.16.2 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.11.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
-| [numpy](https://numpy.org) | 2.2.6 | python3_scientific |
+| [numpy](https://numpy.org) | 2.3.3 | python3_scientific |
 | [odclib](https://pypi.org/project/odclib) | 1.6.0 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.24 | python3_scientific |
@@ -193,7 +193,6 @@
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.17.0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
-| [rechunker](https://pypi.org/project/rechunker/) | 0.5.4 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
 | [rtree](https://pypi.org/project/rtree) | 1.4.0 | python3_scientific |
@@ -237,4 +236,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(236 components)*
+*(235 components)*
