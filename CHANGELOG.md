@@ -22,5 +22,6 @@
 - bump zarr from 2.18.7 to 3.1.2 (#1053)
 - bump numcodecs from 0.15.1 to 0.16.2 (compatibility zarr 3) (#1054)
 - bump tifffile from 2025.3.30 to 2025.9.9 (compatibility zarr 3) (#1055)
+- bump xarray from 2025.3.1 to 2025.8.0 (#1057)
 
 
