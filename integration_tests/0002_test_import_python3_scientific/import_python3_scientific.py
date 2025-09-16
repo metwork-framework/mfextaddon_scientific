@@ -89,7 +89,6 @@ import osgeo_utils #gdal
 import geographiclib
 import geopandas
 import geopy
-import geos
 import graphviz
 import greenlet
 import h5netcdf
