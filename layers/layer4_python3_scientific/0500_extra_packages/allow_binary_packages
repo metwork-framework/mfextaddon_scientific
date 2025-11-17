@@ -17,4 +17,5 @@ polars
 pyarrow
 pyYAML
 rich
+safetensors
 tinydb
