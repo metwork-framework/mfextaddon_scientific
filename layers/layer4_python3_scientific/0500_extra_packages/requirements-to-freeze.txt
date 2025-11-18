@@ -66,8 +66,7 @@ pyepsg
 statsmodels
 bokeh
 astropy
-#note : icclim 7.0.0 requires xclim>=0.45,<=0.48
-#icclim (temporarly removed for Python 3.13 compatibility)
+icclim
 #tensorflow 2.19.0 requires protbuf < 6
 protobuf<6
 #note : xclim.sdba has been split from xclim into xsdba

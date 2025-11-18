@@ -2,7 +2,7 @@ cppy==1.3.1
 docutils==0.21.2
 extension-helpers==1.2.0
 flit==3.12.0
-pandas==2.3.0
+pandas==2.3.3
 pkgconfig==1.5.5
 py-cpuinfo==9.0.0
 scitools-pyke==1.1.1
