@@ -67,10 +67,18 @@ pyepsg
 statsmodels
 bokeh
 astropy
+<<<<<<< HEAD
 #note : icclim 7.0.0 requires xclim>=0.45,<=0.48
 #icclim (temporarly removed for Python 3.13 compatibility)
 protobuf
 xclim
+=======
+icclim
+#tensorflow 2.19.0 requires protbuf < 6
+protobuf<6
+#note : xclim.sdba has been split from xclim into xsdba
+xclim[extras]
+>>>>>>> 86ad6d2 (feat: add icclim 7.0.4 and update dependencies when required (#1067))
 Pint
 pyoscar
 fastparquet
