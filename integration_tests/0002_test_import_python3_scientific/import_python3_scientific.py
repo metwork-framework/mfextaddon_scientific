@@ -96,7 +96,7 @@ import h5py
 import hda
 import heapdict
 import humanfriendly
-#import icclim (temporarly removed)
+import icclim
 import imageio
 import itsdangerous
 import jsmin
@@ -183,7 +183,7 @@ import pysteps
 import pythran
 import pywt #PyWaveLets
 import rasterio
-#import rechunker
+import rechunker
 import referencing
 import regionmask
 import rich_argparse
