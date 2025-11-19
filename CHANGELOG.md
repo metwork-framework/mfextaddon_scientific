@@ -24,5 +24,7 @@
 - bump tifffile from 2025.3.30 to 2025.9.9 (compatibility zarr 3) (#1055)
 - bump xarray from 2025.3.1 to 2025.8.0 (#1057)
 - remove python package geos (archived) (#1059)
+- bump covjsonkit from 0.1.13 to 0.2.8 (#1065)
+- add icclim 7.0.4 and update dependencies when required (#1067)
 
 
