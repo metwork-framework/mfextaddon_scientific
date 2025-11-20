@@ -189,7 +189,7 @@
 | [pyrsistent](https://github.com/tobgu/pyrsistent/) | 0.20.0 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
 | [pystac](https://pypi.org/project/pystac) | 1.13.0 | python3_scientific |
-| [pysteps](https://pysteps.github.io/) | 1.17.0 | python3_scientific |
+| [pysteps](https://pysteps.github.io/) | 1.18.1 | python3_scientific |
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.17.0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
