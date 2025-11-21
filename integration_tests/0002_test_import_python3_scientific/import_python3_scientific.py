@@ -96,7 +96,7 @@ import h5py
 import hda
 import heapdict
 import humanfriendly
-#import icclim (temporarly removed)
+import icclim
 import imageio
 import itsdangerous
 import jsmin

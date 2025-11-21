@@ -67,8 +67,7 @@ pyepsg
 statsmodels
 bokeh
 astropy
-#note : icclim 7.0.0 requires xclim>=0.45,<=0.48
-#icclim (temporarly removed for Python 3.13 compatibility)
+icclim (temporarly removed for Python 3.13 compatibility)
 protobuf
 xclim
 Pint
