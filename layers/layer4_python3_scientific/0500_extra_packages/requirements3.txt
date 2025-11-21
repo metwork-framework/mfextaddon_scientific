@@ -98,7 +98,6 @@ mapclassify==2.8.1
 matplotlib==3.10.1
 MetPy==1.6.3
 metview==1.16.1
-msgpack==1.1.0
 multiprocess==0.70.18
 multiurl==0.3.5
 munch==4.0.0
