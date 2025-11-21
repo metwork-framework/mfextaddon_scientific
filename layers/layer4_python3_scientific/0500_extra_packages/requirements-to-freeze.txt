@@ -38,7 +38,6 @@ GDAL
 Fiona
 geopandas
 rasterio
-msgpack
 #descartes and mapclassify : optional geopandas dependencies for polygon plotting
 descartes
 mapclassify

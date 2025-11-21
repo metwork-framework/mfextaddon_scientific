@@ -118,7 +118,6 @@ import mesonpy
 import metpy
 import metpy.plots
 import metview
-import msgpack
 import multiprocess
 import multiurl
 import munch
