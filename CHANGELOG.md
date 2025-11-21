@@ -26,5 +26,7 @@
 - remove python package geos (archived) (#1059)
 - bump covjsonkit from 0.1.13 to 0.2.8 (#1065)
 - add icclim 7.0.4 and update dependencies when required (#1067)
+- bump numpy from 2.2.6 to 2.3.3 (#1069)
+- bump pysteps to 1.18.1 (fix pkg_resources depreciation) (#1072)
 
 
