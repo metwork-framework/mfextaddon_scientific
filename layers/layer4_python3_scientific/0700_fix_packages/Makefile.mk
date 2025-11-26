@@ -14,6 +14,6 @@ $(PYTHON3_SITE_PACKAGES)/remove_argparse:
 
 # pytest is a "wrong" dependency of conflator (pytest should never by included as a runtime dependency)
 $(PYTHON3_SITE_PACKAGES)/remove_pytest:
-	cd $(PYTHON3_SITE_PACKAGES) && rm -rf pytest*
-	cd $(PREFIX)/bin && rm -f pytest
+	cd $(PYTHON3_SITE_PACKAGES) && rm -rf pytest* py.py _pytest
+	cd $(PREFIX)/bin && rm -f pytest py.test
 
