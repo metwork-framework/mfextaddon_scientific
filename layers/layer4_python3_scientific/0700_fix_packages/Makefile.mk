@@ -1,19 +1,7 @@
 include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/simple_layer.mk
 
-all:: $(PREFIX)/share/magics $(PYTHON3_SITE_PACKAGES)/remove_argparse $(PYTHON3_SITE_PACKAGES)/remove_pytest
+all:: $(PREFIX)/share/magics
 
 $(PREFIX)/share/magics:
 	cd $(PREFIX)/share && ln -s ../../scientific/share/magics magics
-
-# argparse is a "wrong" dependency of conflator (argparse.py is now included in the Python3 standard library)
-# until argparse is removed from conflator dependencies, we need to remove it after install
-$(PYTHON3_SITE_PACKAGES)/remove_argparse:
-	cd $(PYTHON3_SITE_PACKAGES) && rm -rf argparse* && rm -f $(PREFIX)/share/metwork_packages/argparse.yaml
-
-
-# pytest is a "wrong" dependency of conflator (pytest should never by included as a runtime dependency)
-$(PYTHON3_SITE_PACKAGES)/remove_pytest:
-	cd $(PYTHON3_SITE_PACKAGES) && rm -rf pytest* py.py _pytest
-	cd $(PREFIX)/bin && rm -f pytest py.test
-
