@@ -28,5 +28,6 @@
 - add icclim 7.0.4 and update dependencies when required (#1067)
 - bump numpy from 2.2.6 to 2.3.3 (#1069)
 - bump pysteps to 1.18.1 (fix pkg_resources depreciation) (#1072)
+- bump conflator to 0.1.8 and remove workarounds with previous releases (#1078)
 
 
