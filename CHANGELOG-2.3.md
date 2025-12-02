@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## v2.3.5 (2025-12-01)
+
+### New Features
+
+- bump conflator to 0.1.8 and remove workarounds with previous releases (#1078)
+
 ## v2.3.4 (2025-11-27)
 
 - No interesting change
