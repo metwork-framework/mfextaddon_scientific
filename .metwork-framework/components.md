@@ -92,7 +92,7 @@
 | [geopy](https://github.com/geopy/geopy) | 2.4.1 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.5.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.3 | python3_scientific |
-| [greenlet](https://greenlet.readthedocs.io/) | 3.2.1 | python3_scientific |
+| [greenlet](https://greenlet.readthedocs.io/) | 3.2.4 | python3_scientific |
 | [gv](https://github.com/william8000/gv) | 3.7.4 | scientific |
 | [h5netcdf](https://h5netcdf.org) | 1.6.1 | python3_scientific |
 | [h5py](https://www.h5py.org/) | 3.13.0 | python3_scientific |
