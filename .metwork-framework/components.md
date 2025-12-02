@@ -37,7 +37,7 @@
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
 | [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.2.8 | python3_scientific |
 | [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
-| [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.10.0 | python3_scientific |
+| [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.11.0 | python3_scientific |
 | [crc32c](https://github.com/ICRAR/crc32c) | 2.7.1 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2025.11.0 | python3_scientific |
@@ -63,7 +63,7 @@
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.41.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.41.0 | scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.29.2 | scientific |
-| [eckitlib](https://pypi.org/project/eckitlib) | 1.29.2 | python3_scientific |
+| [eckitlib](https://pypi.org/project/eckitlib) | 1.32.3.6 | python3_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
 | [ek-aggregate](https://pypi.org/project/ek-aggregate) | 0.1.2 | python3_scientific |
@@ -92,7 +92,7 @@
 | [geopy](https://github.com/geopy/geopy) | 2.4.1 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.5.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.3 | python3_scientific |
-| [greenlet](https://greenlet.readthedocs.io/) | 3.2.1 | python3_scientific |
+| [greenlet](https://greenlet.readthedocs.io/) | 3.2.4 | python3_scientific |
 | [gv](https://github.com/william8000/gv) | 3.7.4 | scientific |
 | [h5netcdf](https://h5netcdf.org) | 1.6.1 | python3_scientific |
 | [h5py](https://www.h5py.org/) | 3.13.0 | python3_scientific |
@@ -109,7 +109,7 @@
 | [lark](https://github.com/lark-parser/lark) | 1.1.8 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
 | [libimagequant](https://pngquant.org/lib/) | 4.3.4 | scientific |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.45.1 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.46.0rc1 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.8 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
@@ -134,12 +134,12 @@
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.7.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 3.4.2 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1.4 | python3_scientific |
-| [numba](https://numba.pydata.org) | 0.62.1 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.63.0rc1 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.16.2 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.11.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.3.3 | python3_scientific |
-| [odclib](https://pypi.org/project/odclib) | 1.6.0 | python3_scientific |
+| [odclib](https://pypi.org/project/odclib) | 1.6.2.6 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.24 | python3_scientific |
 | [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.3-develop-mf | python3_scientific |
@@ -163,7 +163,7 @@
 | [protobuf](https://developers.google.com/protocol-buffers/) | 5.29.5 | python3_scientific |
 | [puremagic](https://github.com/cdgriffith/puremagic) | 1.29 | python3_scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
-| [pyarrow](https://arrow.apache.org/) | 20.0.0 | python3_scientific |
+| [pyarrow](https://arrow.apache.org/) | 22.0.0 | python3_scientific |
 | [pybind11](https://github.com/pybind/pybind11) | 2.13.6 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.7.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.6 | python3_scientific |
