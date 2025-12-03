@@ -31,7 +31,7 @@
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.1.1 | python3_scientific |
 | [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
-| [conflator](https://pypi.org/project/conflator) | 0.1.7 | python3_scientific |
+| [conflator](https://pypi.org/project/conflator) | 0.1.8 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.2 | python3_scientific |
 | [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.1.2 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
@@ -116,7 +116,7 @@
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
-| [matplotlib](https://matplotlib.org) | 3.10.1 | python3_scientific |
+| [matplotlib](https://matplotlib.org) | 3.10.7 | python3_scientific |
 | [meson-python](https://github.com/mesonbuild/meson-python) | 0.17.1 | python3_scientific |
 | [meson](https://mesonbuild.com) | 1.7.2 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.6.3 | python3_scientific |
