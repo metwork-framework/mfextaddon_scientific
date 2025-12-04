@@ -34,5 +34,6 @@
 - bump eckitlib to 1.32.3.6 and odclib to 1.6.2.6 (#1086)
 - bump greenlet from 3.2.1 to 3.2.4 (compat Python 3.14) (#1087)
 - bump pyarrow from 20.0.0 to 22.0.0 (compat Python 3.14) (#1088)
+- bump matplotlib from 3.10.1 to 3.10.7 (compat Python 3.14) (#1090)
 
 
