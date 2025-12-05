@@ -238,8 +238,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-<<<<<<< HEAD
-*(235 components)*
-=======
-*(236 components)*
->>>>>>> 33fa046 (feat: bump eccodes and its python binding from 2.41.0 to 2.44.0 (#1091))
+*(237 components)*
