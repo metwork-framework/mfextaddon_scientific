@@ -52,14 +52,9 @@ earthkit-regrid==0.4.0
 earthkit-time==0.1.7
 earthkit-transforms==0.4.0
 earthkit==0.10.2
-<<<<<<< HEAD
-eccodes==2.41.0
-eckitlib==1.29.2
-=======
 eccodes==2.44.0
 eccodeslib==2.43.0
 eckitlib==1.32.3.6
->>>>>>> 33fa046 (feat: bump eccodes and its python binding from 2.41.0 to 2.44.0 (#1091))
 ecmwf-api-client==1.6.5
 ecmwf-opendata==0.3.19
 ek-aggregate==0.1.2
