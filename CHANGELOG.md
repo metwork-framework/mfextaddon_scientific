@@ -37,4 +37,8 @@
 - bump matplotlib from 3.10.1 to 3.10.7 (compat Python 3.14) (#1090)
 - bump eccodes and its python binding from 2.41.0 to 2.44.0 (#1091)
 
+### Bug Fixes
+
+- force usage of libeccodes.so built in layer scientific@mfext (#1093)
+
 
