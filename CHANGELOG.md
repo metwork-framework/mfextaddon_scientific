@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump eccodes and its python binding from 2.41.0 to 2.44.0 (backport #1091) (#1092)
+
 ## v2.3.5 (2025-12-01)
 
 ### New Features
