@@ -61,9 +61,9 @@
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.44.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.44.0 | scientific |
-| [eccodeslib](https://pypi.org/project/eccodeslib) | 2.43.0 | python3_scientific |
+| [eccodeslib](https://pypi.org/project/eccodeslib) | 2.44.1.8 | python3_scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.29.2 | scientific |
-| [eckitlib](https://pypi.org/project/eckitlib) | 1.32.3.6 | python3_scientific |
+| [eckitlib](https://pypi.org/project/eckitlib) | 1.32.4.8 | python3_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
 | [ek-aggregate](https://pypi.org/project/ek-aggregate) | 0.1.2 | python3_scientific |
@@ -73,7 +73,7 @@
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.13.4 | scientific |
-| [fckitlib](https://pypi.org/project/fckitlib) | 0.14.0 | python3_scientific |
+| [fckitlib](https://pypi.org/project/fckitlib) | 0.14.1.8 | python3_scientific |
 | [FFmpeg](https://ffmpeg.org/) | 7.1.1 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.5.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.1.1 | python3_scientific |
