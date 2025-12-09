@@ -63,7 +63,7 @@
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.44.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.44.0 | scientific |
 | [eccodeslib](https://pypi.org/project/eccodeslib) | 2.43.0 | python3_scientific |
-| [eckit](https://github.com/ecmwf/eckit) | 1.29.2 | scientific |
+| [eckit](https://github.com/ecmwf/eckit) | 1.32.3 | scientific |
 | [eckitlib](https://pypi.org/project/eckitlib) | 1.32.3.6 | python3_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
@@ -73,7 +73,7 @@
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.2.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
-| [fckit](https://github.com/ecmwf/fckit) | 0.13.4 | scientific |
+| [fckit](https://github.com/ecmwf/fckit) | 0.14.0 | scientific |
 | [fckitlib](https://pypi.org/project/fckitlib) | 0.14.0 | python3_scientific |
 | [FFmpeg](https://ffmpeg.org/) | 7.1.1 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.5.0 | python3_scientific |
@@ -122,8 +122,8 @@
 | [meson-python](https://github.com/mesonbuild/meson-python) | 0.17.1 | python3_scientific |
 | [meson](https://mesonbuild.com) | 1.7.2 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.6.3 | python3_scientific |
-| [metview](https://github.com/ecmwf/metview-python) | 1.16.1 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.23.1 | scientific |
+| [metview](https://github.com/ecmwf/metview-python) | 1.16.2 | python3_scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.26.1 | scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.18 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.5 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
