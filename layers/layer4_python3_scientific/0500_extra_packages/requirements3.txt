@@ -54,14 +54,14 @@ earthkit-time==0.1.7
 earthkit-transforms==0.4.0
 earthkit==0.10.2
 eccodes==2.44.0
-eccodeslib==2.43.0
-eckitlib==1.32.3.6
+eccodeslib==2.44.1.8
+eckitlib==1.32.4.8
 ecmwf-api-client==1.6.5
 ecmwf-opendata==0.3.19
 ek-aggregate==0.1.2
 fasteners==0.19
 fastparquet==2024.11.0
-fckitlib==0.14.0
+fckitlib==0.14.1.8
 ffmpy==0.5.0
 findlibs==0.1.1
 Fiona==1.10.1
@@ -109,7 +109,7 @@ numba==0.62.1
 numcodecs==0.16.2
 numexpr==2.11.0
 numpngw==0.1.4
-odclib==1.6.2.6
+odclib==1.6.2.8
 opencv-contrib-python-headless==4.11.0.86
 openturns==1.24
 -e git+https://gitlab.com/thebaptiste/batman.git@1.9.3-develop-mf#egg=ot-batman
