@@ -36,6 +36,8 @@
 - bump pyarrow from 20.0.0 to 22.0.0 (compat Python 3.14) (#1088)
 - bump matplotlib from 3.10.1 to 3.10.7 (compat Python 3.14) (#1090)
 - bump eccodes and its python binding from 2.41.0 to 2.44.0 (#1091)
+- bump Metview from 5.23.1 to 5.26.1 and its python binding to 1.16.2
+- bump odclib to 1.6.2.8 and eccodeslib to 2.44.1.8 (#1097)
 
 ### Bug Fixes
 
