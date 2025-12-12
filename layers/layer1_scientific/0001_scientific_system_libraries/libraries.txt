@@ -1,0 +1,2 @@
+/usr/lib64/libcgraph.so.6
+/usr/lib64/libcgraph.so.6.0.0
