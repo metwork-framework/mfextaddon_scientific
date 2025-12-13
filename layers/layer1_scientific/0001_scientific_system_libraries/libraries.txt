@@ -2,3 +2,5 @@
 /usr/lib64/libcgraph.so.6.0.0
 /usr/lib64/libcdt.so.5
 /usr/lib64/libcdt.so.5.0.0
+/usr/lib64/libgvc.so.6
+/usr/lib64/libgvc.so.6.0.0
