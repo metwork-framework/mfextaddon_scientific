@@ -4,3 +4,5 @@
 /usr/lib64/libcdt.so.5.0.0
 /usr/lib64/libgvc.so.6
 /usr/lib64/libgvc.so.6.0.0
+/usr/lib64/libxdot.so.4
+/usr/lib64/libxdot.so.4.0.0
