@@ -57,7 +57,6 @@ import distributed
 import docstring_parser
 import docutils
 import donfig
-import earthkit.aggregate
 import earthkit.climate
 import earthkit.data
 import earthkit.geo
@@ -67,6 +66,8 @@ import earthkit.plots
 import earthkit.regrid
 import earthkit.time
 import earthkit.transforms
+import earthkit.utils
+import earthkit.workflows
 import earthkit
 import eccodes
 import ecmwfapi
@@ -78,6 +79,7 @@ import fastparquet
 import ffmpy
 import findlibs
 import fiona
+import fire
 import flask
 import flit
 import floris
@@ -166,6 +168,8 @@ import pygeofilter
 import pygeoif
 import pygmt
 import pygraphviz
+# pygribjump requires gribjump (see https://github.com/ecmwf/gribjump, not provided by Metwork for the time being)
+#import pygribjump
 import pyhdf
 import pykdtree
 import pyodc
@@ -180,6 +184,7 @@ import shapefile #pyshp
 import pystac
 import pysteps
 import pythran
+import pyvis
 import pywt #PyWaveLets
 import rasterio
 import rechunker
@@ -221,4 +226,5 @@ import xxhash
 import xyzservices
 import zarr
 import zict
+import zmq #zmq, pyzmq
 import zope
