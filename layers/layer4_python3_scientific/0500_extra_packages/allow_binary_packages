@@ -17,6 +17,7 @@ odclib
 orjson
 polars
 pyarrow
+pygribjump
 pyYAML
 rich
 tinydb
