@@ -39,6 +39,7 @@
 - bump Metview from 5.23.1 to 5.26.1 and its python binding to 1.16.2
 - bump odclib to 1.6.2.8 and eccodeslib to 2.44.1.8 (#1097)
 - bump llvmlite to 0.46.0 and numba to 0.63.1 (compat Python 3.14) (#1103)
+- upgrade all earthkit packages to last releases (#1105)
 
 ### Bug Fixes
 
