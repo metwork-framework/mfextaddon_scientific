@@ -139,7 +139,7 @@
 | [networkx](https://networkx.org/) | 3.4.2 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1.4 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.63.1 | python3_scientific |
-| [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.16.2 | python3_scientific |
+| [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.11.0 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.3.3 | python3_scientific |
@@ -199,6 +199,7 @@
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
+| [rechunker](https://pypi.org/project/rechunker/) | 0.5.4 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
 | [rtree](https://pypi.org/project/rtree) | 1.4.0 | python3_scientific |
@@ -221,7 +222,7 @@
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.1.0 | python3_scientific |
 | [tenacity](https://github.com/jd/tenacity) | 9.1.2 | python3_scientific |
 | [thermofeel](https://github.com/ecmwf-projects/thermofeel) | 2.1.1 | python3_scientific |
-| [tifffile](https://www.cgohlke.com) | 2025.9.9 | python3_scientific |
+| [tifffile](https://www.cgohlke.com) | 2025.5.10 | python3_scientific |
 | [tinydb](https://github.com/msiemens/tinydb) | 4.8.2 | python3_scientific |
 | [tomli_w](https://github.com/hukkin/tomli-w) | 1.2.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 1.0.0 | python3_scientific |
@@ -238,9 +239,9 @@
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.5.0 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2025.4.0 | python3_scientific |
 | [yamale](https://github.com/23andMe/Yamale) | 6.0.0 | python3_scientific |
-| [zarr](https://github.com/zarr-developers/zarr-python) | 3.1.2 | python3_scientific |
+| [zarr](https://github.com/zarr-developers/zarr-python) | 2.18.7 | python3_scientific |
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zmq](https://github.com/zeromq/pyzmq) | 0.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(242 components)*
+*(243 components)*
