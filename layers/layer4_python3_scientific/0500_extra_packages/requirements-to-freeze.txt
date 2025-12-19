@@ -91,6 +91,7 @@ apng
 thermofeel
 # pyfdb (earthkit.data[all] dependency) requires fdb5 (see https://github.com/ecmwf/fdb, not provided by Metwork for the time being)
 # pyfgribjump (earthkit.data[all] dependency) requires gribjump (see https://github.com/ecmwf/gribjump, not provided by Metwork for the time being)
+# do not install earthkit because it has earthkit.data[all] as a dependency
 copernicusmarine
 geopy
 pygeoapi
