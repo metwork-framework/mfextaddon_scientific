@@ -40,6 +40,8 @@
 - bump odclib to 1.6.2.8 and eccodeslib to 2.44.1.8 (#1097)
 - bump llvmlite to 0.46.0 and numba to 0.63.1 (compat Python 3.14) (#1103)
 - upgrade all earthkit packages to last releases (#1105)
+- downgrade zarr to 2.18.7 for compatibility with icclim/rechunker (#1106)
+- bump openturns from 1.24 to 1.26 (#1108)
 
 ### Bug Fixes
 
