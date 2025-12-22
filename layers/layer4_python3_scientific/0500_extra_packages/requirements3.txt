@@ -7,6 +7,8 @@ array_api_compat==1.11.2
 asciitree==0.3.3
 astropy==7.0.1
 astropy-iers-data==0.2025.4.14.0.37.22
+basemap==2.0.0
+basemap_data==2.0.0
 blinker==1.9.0
 bokeh==3.7.2
 boltons==25.0.0

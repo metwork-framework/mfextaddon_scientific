@@ -9,6 +9,8 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2025.4.14.0.37.22 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
+| [basemap](https://github.com/matplotlib/basemap) | 2.0.0 | python3_scientific |
+| [basemap_data](https://github.com/matplotlib/basemap) | 2.0.0 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.7.2 | python3_scientific |
@@ -235,4 +237,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(234 components)*
+*(236 components)*

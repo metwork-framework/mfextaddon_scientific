@@ -7,6 +7,8 @@ import array_api_compat
 import asciitree
 import astropy
 import astropy_iers_data
+from mpl_toolkits import basemap #basemap
+from mpl_toolkits import basemap_data #basemap_data
 import batman
 import batman.pod
 import batman.surrogate
