@@ -95,3 +95,4 @@ thermofeel
 copernicusmarine
 geopy
 pygeoapi
+basemap
