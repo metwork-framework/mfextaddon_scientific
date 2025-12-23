@@ -4,7 +4,7 @@
 | [affine](https://pypi.org/project/affine) | 2.4.0 | python3_scientific |
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.19 | python3_scientific |
 | [apng](https://github.com/eight04/pyAPNG) | 0.3.4 | python3_scientific |
-| [arcosparse](https://pypi.org/project/arcosparse) | 0.4.0 | python3_scientific |
+| [arcosparse](https://pypi.org/project/arcosparse) | 0.4.2 | python3_scientific |
 | [array_api_compat](https://data-apis.org/array-api-compat/) | 1.11.2 | python3_scientific |
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2025.4.14.0.37.22 | python3_scientific |
@@ -35,7 +35,7 @@
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
 | [conflator](https://pypi.org/project/conflator) | 0.1.8 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.2 | python3_scientific |
-| [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.1.2 | python3_scientific |
+| [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.2.5 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
 | [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.2.8 | python3_scientific |
 | [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
