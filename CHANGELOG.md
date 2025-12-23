@@ -42,6 +42,9 @@
 - upgrade all earthkit packages to last releases (#1105)
 - downgrade zarr to 2.18.7 for compatibility with icclim/rechunker (#1106)
 - bump openturns from 1.24 to 1.26 (#1108)
+- add basemap and basemap_data 2.0.0 (in mpl_toolkits) (#1109)
+- bump scipy from 1.15.3 to 1.16.3 (#1110)
+- bump GDAL (python binding of gdal) from 3.11.0 to 3.11.5 (#1111)
 
 ### Bug Fixes
 
