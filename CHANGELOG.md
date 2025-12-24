@@ -45,6 +45,8 @@
 - add basemap and basemap_data 2.0.0 (in mpl_toolkits) (#1109)
 - bump scipy from 1.15.3 to 1.16.3 (#1110)
 - bump GDAL (python binding of gdal) from 3.11.0 to 3.11.5 (#1111)
+- bump copernicusmarine from 2.1.2 to 2.2.5 (#1112)
+- bump ImageMagick6 to 6.9.13-36 (fix several CVEs) (#1113)
 
 ### Bug Fixes
 
