@@ -164,8 +164,13 @@ salem==0.3.11
 satpy==0.56.0
 scikit-image==0.25.2
 scikit-learn==1.6.1
+<<<<<<< HEAD
 scitools-iris==3.12.2
 scores==2.1.0
+=======
+scitools-iris==3.12.3
+scores==2.3.0
+>>>>>>> 3dbdf25 (fix: bump scitools-iris from 3.12.2 to 3.12.3 (compat numpy>=1.25) (#1117))
 seaborn==0.13.2
 semver==3.0.4
 Shapely==2.1.0
