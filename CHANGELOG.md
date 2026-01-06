@@ -47,9 +47,12 @@
 - bump GDAL (python binding of gdal) from 3.11.0 to 3.11.5 (#1111)
 - bump copernicusmarine from 2.1.2 to 2.2.5 (#1112)
 - bump ImageMagick6 to 6.9.13-36 (fix several CVEs) (#1113)
+- bump scores from 2.1.0 to 2.3.0 (#1115)
+- bump esmf and esmpy from 8.8.1 to 8.9.0 (#1116)
 
 ### Bug Fixes
 
 - force usage of libeccodes.so built in layer scientific@mfext (#1093)
+- bump scitools-iris from 3.12.2 to 3.12.3 (compat numpy>=1.25) (#1117)
 
 
