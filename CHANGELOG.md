@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump ImageMagick6 to 6.9.13-36 (fix several CVEs) (#1113)
+
 ## v2.3.6 (2025-12-10)
 
 ### New Features
