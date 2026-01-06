@@ -138,7 +138,7 @@
 | [ninja](http://ninja-build.org/) | 1.11.1.4 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.63.1 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
-| [numexpr](https://github.com/pydata/numexpr) | 2.11.0 | python3_scientific |
+| [numexpr](https://github.com/pydata/numexpr) | 2.14.1 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.3.3 | python3_scientific |
 | [odclib](https://pypi.org/project/odclib) | 1.6.2.8 | python3_scientific |
