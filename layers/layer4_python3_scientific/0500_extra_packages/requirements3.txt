@@ -107,7 +107,7 @@ nco==1.1.2
 netCDF4==1.7.2
 numba==0.63.1
 numcodecs==0.15.1
-numexpr==2.11.0
+numexpr==2.14.1
 numpngw==0.1.4
 odclib==1.6.2.8
 opencv-contrib-python-headless==4.11.0.86
