@@ -49,6 +49,7 @@
 - bump ImageMagick6 to 6.9.13-36 (fix several CVEs) (#1113)
 - bump scores from 2.1.0 to 2.3.0 (#1115)
 - bump esmf and esmpy from 8.8.1 to 8.9.0 (#1116)
+- bump numexpr from 2.11.0 to 2.14.1 (#1119)
 
 ### Bug Fixes
 
