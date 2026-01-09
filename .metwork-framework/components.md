@@ -206,7 +206,7 @@
 | [scikit-image](https://scikit-image.org) | 0.25.2 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.6.1 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.14.1 | python3_scientific |
-| [scitools-iris](https://pypi.org/project/scitools-iris) | 3.12.2 | python3_scientific |
+| [scitools-iris](https://pypi.org/project/scitools-iris) | 3.12.3 | python3_scientific |
 | [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [scores](https://pypi.org/project/scores) | 2.1.0 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.2 | python3_scientific |
