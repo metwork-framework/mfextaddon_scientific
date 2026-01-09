@@ -13,7 +13,7 @@
 | [basemap_data](https://github.com/matplotlib/basemap) | 2.0.0 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
-| [bokeh](https://bokeh.org) | 3.7.2 | python3_scientific |
+| [bokeh](https://bokeh.org) | 3.8.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 25.0.0 | python3_scientific |
 | [boto3](https://github.com/boto/boto3) | 1.38.11 | python3_scientific |
 | [botocore](https://github.com/boto/botocore) | 1.38.11 | python3_scientific |
