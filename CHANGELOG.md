@@ -50,6 +50,8 @@
 - bump scores from 2.1.0 to 2.3.0 (#1115)
 - bump esmf and esmpy from 8.8.1 to 8.9.0 (#1116)
 - bump numexpr from 2.11.0 to 2.14.1 (#1119)
+- bump bokeh from 3.7.2 to 3.8.2 (fix moderate CVE-2026-21883)
+- bump numpy from 2.3.3 to 2.3.4 (#1122)
 
 ### Bug Fixes
 
