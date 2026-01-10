@@ -6,6 +6,10 @@
 
 - bump ImageMagick6 to 6.9.13-36 (fix several CVEs) (#1113)
 
+### Bug Fixes
+
+- bump scitools-iris from 3.12.2 to 3.12.3 (compat numpy>=1.25) (backport #1117) (#1118)
+
 ## v2.3.6 (2025-12-10)
 
 ### New Features
