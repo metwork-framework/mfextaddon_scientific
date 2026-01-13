@@ -52,6 +52,7 @@
 - bump numexpr from 2.11.0 to 2.14.1 (#1119)
 - bump bokeh from 3.7.2 to 3.8.2 (fix moderate CVE-2026-21883)
 - bump numpy from 2.3.3 to 2.3.4 (#1122)
+- bump pygeoapi from 0.21.0 to 0.22.0 (#1123)
 
 ### Bug Fixes
 
