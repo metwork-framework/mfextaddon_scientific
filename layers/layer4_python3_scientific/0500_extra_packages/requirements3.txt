@@ -142,7 +142,7 @@ pygraphviz==1.14
 pyhdf==0.11.6
 pykdtree==1.4.1
 pyodc==1.6.0
-pyogrio==0.11.0
+pyogrio==0.12.1
 pyorbital==1.10.0
 pyoscar==0.9.0
 pyproj==3.7.1

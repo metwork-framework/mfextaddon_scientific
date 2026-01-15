@@ -180,7 +180,7 @@
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.11.6 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.4.1 | python3_scientific |
 | [pyodc](https://github.com/ecmwf/pyodc) | 1.6.0 | python3_scientific |
-| [pyogrio](https://pypi.org/project/pyogrio) | 0.11.0 | python3_scientific |
+| [pyogrio](https://pypi.org/project/pyogrio) | 0.12.1 | python3_scientific |
 | [pyorbital](https://pypi.org/project/pyorbital) | 1.10.0 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.9.0 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.7.1 | python3_scientific |
