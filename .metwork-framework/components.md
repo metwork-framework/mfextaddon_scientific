@@ -88,7 +88,7 @@
 | [fonttools](http://github.com/fonttools/fonttools) | 4.61.0 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.6.0 | python3_scientific |
-| [GDAL](http://www.gdal.org) | 3.11.5 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 3.12.1 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 1.0.1 | python3_scientific |
 | [geopy](https://github.com/geopy/geopy) | 2.4.1 | python3_scientific |
