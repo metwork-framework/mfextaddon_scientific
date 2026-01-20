@@ -55,6 +55,7 @@
 - bump pygeoapi from 0.21.0 to 0.22.0 (#1123)
 - bump numpy from 2.3.4 to 2.3.5 (#1124)
 - bump pyogrio from 0.11.0 to 0.12.1 (#1125)
+- bump scitools-iris from 3.12.3 to 3.14.1 (#1126)
 
 ### Bug Fixes
 
