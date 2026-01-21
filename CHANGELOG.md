@@ -56,6 +56,7 @@
 - bump numpy from 2.3.4 to 2.3.5 (#1124)
 - bump pyogrio from 0.11.0 to 0.12.1 (#1125)
 - bump scitools-iris from 3.12.3 to 3.14.1 (#1126)
+- bump GDAL from 3.11.5 to 3.12.1 (#1127)
 
 ### Bug Fixes
 
