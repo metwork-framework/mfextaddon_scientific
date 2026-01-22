@@ -83,7 +83,7 @@
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
 | [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
 | [flit](https://pypi.org/project/flit) | 3.12.0 | python3_scientific |
-| [floris](https://github.com/NREL/floris) | 4.4.2 | python3_scientific |
+| [floris](https://github.com/NREL/floris) | 4.6 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.19.5 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.61.0 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
