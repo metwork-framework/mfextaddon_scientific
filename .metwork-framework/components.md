@@ -68,8 +68,8 @@
 | [eckitlib](https://pypi.org/project/eckitlib) | 1.32.4.8 | python3_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
-| [esmf](http://www.earthsystemmodeling.org) | 8.9.0 | scientific |
-| [esmpy](http://www.earthsystemmodeling.org) | 8.9.0 | python3_scientific |
+| [esmf](http://www.earthsystemmodeling.org) | 8.9.1 | scientific |
+| [esmpy](http://www.earthsystemmodeling.org) | 8.9.1 | python3_scientific |
 | [extension-helpers](https://github.com/astropy/extension-helpers) | 1.2.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |

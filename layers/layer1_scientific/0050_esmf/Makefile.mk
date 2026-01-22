@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=esmf
-export VERSION=8.9.0
+export VERSION=8.9.1
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=e4fa27d720c323db600a42b65d4f20f7
+export CHECKSUM=6c2ce6beef832abb3b10a70c3920ac63
 DESCRIPTION=\
 The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications. Such applications may include a few or dozens of components representing atmospheric, oceanic, terrestrial, or other physical domains, and their constituent processes (dynamical, chemical, biological, etc.).
 WEBSITE=http://www.earthsystemmodeling.org
