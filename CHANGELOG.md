@@ -57,6 +57,9 @@
 - bump pyogrio from 0.11.0 to 0.12.1 (#1125)
 - bump scitools-iris from 3.12.3 to 3.14.1 (#1126)
 - bump GDAL from 3.11.5 to 3.12.1 (#1127)
+- bump floris from 4.4.2 to 4.6 (#1128)
+- bump esmf and esmpy from 8.9.0 to 8.9.1 (#1129)
+- bump covjsonkit from 0.2.8 to 0.2.10 (#1130)
 
 ### Bug Fixes
 
