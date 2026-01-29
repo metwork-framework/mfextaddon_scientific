@@ -35,7 +35,7 @@
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
 | [conflator](https://pypi.org/project/conflator) | 0.1.8 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.2 | python3_scientific |
-| [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.2.5 | python3_scientific |
+| [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.3.0 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
 | [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.2.10 | python3_scientific |
 | [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
