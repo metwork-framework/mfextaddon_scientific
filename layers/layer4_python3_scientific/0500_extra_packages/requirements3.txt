@@ -163,7 +163,7 @@ satpy==0.56.0
 scikit-image==0.25.2
 scikit-learn==1.6.1
 scitools-iris==3.14.1
-scores==2.3.0
+scores==2.4.0
 seaborn==0.13.2
 semver==3.0.4
 Shapely==2.1.0
