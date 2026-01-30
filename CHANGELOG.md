@@ -60,6 +60,8 @@
 - bump floris from 4.4.2 to 4.6 (#1128)
 - bump esmf and esmpy from 8.9.0 to 8.9.1 (#1129)
 - bump covjsonkit from 0.2.8 to 0.2.10 (#1130)
+- bump scores from 2.3.0 to 2.4.0 (#1131)
+- bump copernicusmarine from 2.2.5 to 2.3.0 (#1132)
 
 ### Bug Fixes
 
