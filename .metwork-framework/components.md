@@ -202,7 +202,7 @@
 | [tzdata](https://github.com/python/tzdata) | 2023.3 | python3_scientific |
 | [tzlocal](https://pypi.org/project/tzlocal) | 5.2 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
-| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.24 | python3_scientific |
+| [uwsgi-plugin-python3](https://github.com/unbit/uwsgi) | 2.0.27 | python3_scientific |
 | [versioneer](https://pypi.org/project/versioneer) | 0.29 | python3_scientific |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.0 | python3_scientific |
 | [xarray](https://pypi.org/project/xarray) | 2023.10.1 | python3_scientific |
