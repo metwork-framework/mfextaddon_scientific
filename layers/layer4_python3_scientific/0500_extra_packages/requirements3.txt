@@ -37,11 +37,11 @@ covjsonkit==0.2.10
 cramjam==2.11.0
 crc32c==2.7.1
 cycler==0.12.1
-dask==2025.11.0
+dask==2026.1.1
 datapi==0.4.0
 dateparser==1.2.1
 DateTime==5.5
-distributed==2025.11.0
+distributed==2026.1.1
 docstring_parser==0.16
 donfig==0.8.1.post1
 earthkit-data==0.18.3
