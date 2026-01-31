@@ -62,6 +62,8 @@
 - bump covjsonkit from 0.2.8 to 0.2.10 (#1130)
 - bump scores from 2.3.0 to 2.4.0 (#1131)
 - bump copernicusmarine from 2.2.5 to 2.3.0 (#1132)
+- bump protobuf from 5.29.5 to 6.33.5 (fix high CVE-2026-0994) (#1135)
+- bump dask & distributed to 2026.1.1 (fix moderate CVE-2026-23528) (#1137)
 
 ### Bug Fixes
 
