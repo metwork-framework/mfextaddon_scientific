@@ -89,7 +89,7 @@
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.6.0 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.10.3 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
-| [geopandas](https://pypi.org/project/geopandas) | 1.0.1 | python3_scientific |
+| [geopandas](https://pypi.org/project/geopandas) | 1.1.2 | python3_scientific |
 | [geopy](https://github.com/geopy/geopy) | 2.4.1 | python3_scientific |
 | [geos](https://github.com/grst/geos) | 0.2.3 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.5.0 | scientific |
