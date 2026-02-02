@@ -5,6 +5,8 @@
 ### New Features
 
 - bump ImageMagick6 to 6.9.13-36 (fix several CVEs) (#1113)
+- bump protobuf from 5.29.5 to 6.33.5 (fix high CVE-2026-0994) (backport #1135) (#1136)
+- bump geopandas from 1.0.1 to 1.1.2 (fix high CVE-2025-69662) (#1138)
 
 ### Bug Fixes
 
