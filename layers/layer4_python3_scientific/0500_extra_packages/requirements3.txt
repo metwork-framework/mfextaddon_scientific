@@ -20,7 +20,7 @@ Cartopy==0.24.1
 cdo==1.6.1
 cdsapi==0.7.5
 cftime==1.6.4.post1
-cf-units==3.3.0
+cf-units==3.3.1
 cf-xarray==0.10.9
 cfgrib==0.9.15.0
 click-plugins==1.1.1
