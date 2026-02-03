@@ -1,5 +1,17 @@
 # release_2.3 CHANGELOG
 
+## v2.3.7 (2026-02-02)
+
+### New Features
+
+- bump ImageMagick6 to 6.9.13-36 (fix several CVEs) (#1113)
+- bump protobuf from 5.29.5 to 6.33.5 (fix high CVE-2026-0994) (backport #1135) (#1136)
+- bump geopandas from 1.0.1 to 1.1.2 (fix high CVE-2025-69662) (#1138)
+
+### Bug Fixes
+
+- bump scitools-iris from 3.12.2 to 3.12.3 (compat numpy>=1.25) (backport #1117) (#1118)
+
 ## v2.3.6 (2025-12-10)
 
 ### New Features
