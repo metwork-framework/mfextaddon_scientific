@@ -65,6 +65,8 @@
 - bump protobuf from 5.29.5 to 6.33.5 (fix high CVE-2026-0994) (#1135)
 - bump dask & distributed to 2026.1.1 (fix moderate CVE-2026-23528) (#1137)
 - bump geopandas from 1.0.1 to 1.1.2 (fix high CVE-2025-69662) (#1138)
+- bump cf-units from 3.3.0 to 3.3.1 (#1140)
+- bump ImageMagick6 to 6.9.13-38 (fix 4 moderate CVEs) (#1141)
 
 ### Bug Fixes
 
