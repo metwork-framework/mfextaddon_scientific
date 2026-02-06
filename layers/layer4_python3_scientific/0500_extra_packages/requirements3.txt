@@ -7,7 +7,7 @@ array_api_compat==1.11.2
 asciitree==0.3.3
 astropy==7.0.1
 astropy-iers-data==0.2025.4.14.0.37.22
-basemap==2.0.0
+-e git+https://github.com/thebaptiste/basemap.git@2.0.1#egg=basemap
 basemap_data==2.0.0
 blinker==1.9.0
 bokeh==3.8.2
