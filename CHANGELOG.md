@@ -72,5 +72,6 @@
 
 - force usage of libeccodes.so built in layer scientific@mfext (#1093)
 - bump scitools-iris from 3.12.2 to 3.12.3 (compat numpy>=1.25) (#1117)
+- use basemap fork without upper bound on packaging (#1142)
 
 
