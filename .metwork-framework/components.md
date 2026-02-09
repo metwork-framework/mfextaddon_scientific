@@ -42,11 +42,11 @@
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.11.0 | python3_scientific |
 | [crc32c](https://github.com/ICRAR/crc32c) | 2.7.1 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
-| [dask](https://github.com/dask/dask/) | 2026.1.1 | python3_scientific |
+| [dask](https://github.com/dask/dask/) | 2026.1.2 | python3_scientific |
 | [datapi](https://pypi.org/project/datapi) | 0.4.0 | python3_scientific |
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.2.1 | python3_scientific |
 | [DateTime](https://github.com/zopefoundation/DateTime) | 5.5 | python3_scientific |
-| [distributed](https://distributed.dask.org) | 2026.1.1 | python3_scientific |
+| [distributed](https://distributed.dask.org) | 2026.1.2 | python3_scientific |
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.16 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io) | 0.21.2 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1.post1 | python3_scientific |
