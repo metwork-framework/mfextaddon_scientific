@@ -67,6 +67,8 @@
 - bump geopandas from 1.0.1 to 1.1.2 (fix high CVE-2025-69662) (#1138)
 - bump cf-units from 3.3.0 to 3.3.1 (#1140)
 - bump ImageMagick6 to 6.9.13-38 (fix 4 moderate CVEs) (#1141)
+- bump dask and distributed from 2026.1.1 to 2026.1.2 (#1143)
+- bump scipy from 1.16.3 to 1.17.0 (#1144)
 
 ### Bug Fixes
 
