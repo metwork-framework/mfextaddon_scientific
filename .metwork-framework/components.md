@@ -47,7 +47,7 @@
 | [dateparser](https://github.com/scrapinghub/dateparser) | 1.2.1 | python3_scientific |
 | [DateTime](https://github.com/zopefoundation/DateTime) | 5.5 | python3_scientific |
 | [distributed](https://distributed.dask.org) | 2026.1.2 | python3_scientific |
-| [docstring_parser](https://github.com/rr-/docstring_parser) | 0.16 | python3_scientific |
+| [docstring_parser](https://github.com/rr-/docstring_parser) | 0.17.0 | python3_scientific |
 | [docutils](https://docutils.sourceforge.io) | 0.21.2 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1.post1 | python3_scientific |
 | [earthkit-data](https://github.com/ecmwf/earthkit-data/) | 0.18.3 | python3_scientific |
