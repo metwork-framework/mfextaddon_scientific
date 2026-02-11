@@ -38,13 +38,8 @@ dask==2025.4.1
 datapi==0.4.0
 dateparser==1.2.1
 DateTime==5.5
-<<<<<<< HEAD
 distributed==2025.4.1
-docstring_parser==0.16
-=======
-distributed==2026.1.2
 docstring_parser==0.17
->>>>>>> 958c375 (feat: bump docstring_parser from 0.16 to 0.17.0 (#1145))
 donfig==0.8.1.post1
 earthkit-climate==0.1.1
 earthkit-data==0.13.8
