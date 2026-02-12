@@ -166,7 +166,6 @@
 | [puremagic](https://github.com/cdgriffith/puremagic) | 1.29 | python3_scientific |
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
 | [pyarrow](https://arrow.apache.org/) | 22.0.0 | python3_scientific |
-| [pybind11](https://github.com/pybind/pybind11) | 2.13.6 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.7.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.6 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.4.0 | python3_scientific |
@@ -237,4 +236,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(236 components)*
+*(235 components)*
