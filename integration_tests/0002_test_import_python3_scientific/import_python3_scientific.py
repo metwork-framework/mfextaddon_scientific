@@ -153,7 +153,6 @@ import ppft
 from google import protobuf #protobuf
 import puremagic
 import pyarrow
-import pybind11
 import pycoast
 import cpuinfo #py-cpuinfo
 import pycurl
