@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## v2.3.8 (2026-02-13)
+
+### New Features
+
+- bump docstring_parser from 0.16 to 0.17.0 (backport #1145) (#1146)
+
 ## v2.3.7 (2026-02-02)
 
 ### New Features
