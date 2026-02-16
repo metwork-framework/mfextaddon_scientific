@@ -13,4 +13,4 @@ LICENSE=Apache 2.0 : http://www.apache.org/licenses/LICENSE-2.0
 all:: $(PREFIX)/bin/eckit-version
 
 $(PREFIX)/bin/eckit-version:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) download uncompress configure_cmake3 build_cmake install_cmake
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) OPTIONS="-DCMAKE_INSTALL_PREFIX=$(PREFIX) -DCMAKE_PREFIX_PATH='$(PREFIX);$(PREFIX)/../scientific_core;$(PREFIX)/../core' -DENABLE_PROJ=ON -DENABLE_SSL=ON" download uncompress configure_cmake3 build_cmake install_cmake
