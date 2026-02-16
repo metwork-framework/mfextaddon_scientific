@@ -22,4 +22,4 @@ export ESMF_NETCDF=nc-config
 
 all:: $(ESMF_INSTALL_LIBDIR)/libesmf.so
 $(ESMF_INSTALL_LIBDIR)/libesmf.so:
-	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXTRALDFLAGS="-L$(PREFIX)/lib -L$(PREFIX)/../scientific_core/lib" download uncompress build install
+	$(MAKE) --file=$(MFEXT_HOME)/share/Makefile.standard PREFIX=$(PREFIX) EXTRALDFLAGS="-L$(PREFIX)/lib -L$(PREFIX)/../scientific_core/lib -L$(PREFIX)/../core/lib" download uncompress build install
