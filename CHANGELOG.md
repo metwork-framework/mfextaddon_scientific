@@ -70,6 +70,7 @@
 - bump dask and distributed from 2026.1.1 to 2026.1.2 (#1143)
 - bump scipy from 1.16.3 to 1.17.0 (#1144)
 - bump docstring_parser from 0.16 to 0.17.0 (#1145)
+- use libaec (built in layer core) for other builds (#1149)
 
 ### Bug Fixes
 
