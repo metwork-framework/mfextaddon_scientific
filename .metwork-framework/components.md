@@ -123,7 +123,7 @@
 | [meson](https://mesonbuild.com) | 1.7.2 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.6.3 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.16.2 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.26.1 | scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.26.2 | scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.18 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.5 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
