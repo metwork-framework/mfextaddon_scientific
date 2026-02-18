@@ -60,6 +60,7 @@
 | [earthkit-time](https://github.com/ecmwf/earthkit-time/) | 0.1.7 | python3_scientific |
 | [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 0.5.3.1 | python3_scientific |
 | [earthkit-utils](https://github.com/ecmwf/earthkit-utils/) | 0.1.2 | python3_scientific |
+| [earthkit-workflows](https://pypi.org/project/earthkit-workflows) | 0.7.0 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.45.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.45.0 | scientific |
@@ -79,6 +80,7 @@
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.5.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.1.1 | python3_scientific |
 | [fiona](https://pypi.org/project/fiona) | 1.10.1 | python3_scientific |
+| [fire](https://github.com/google/python-fire) | 0.7.1 | python3_scientific |
 | [Flask](https://pypi.org/project/Flask) | 3.1.1 | python3_scientific |
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
 | [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
@@ -86,6 +88,7 @@
 | [floris](https://github.com/NREL/floris) | 4.6 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.19.5 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.61.0 | python3_scientific |
+| [frozendict](https://github.com/Marco-Sulla/python-frozendict) | 2.4.7 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.6.0 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.12.1 | python3_scientific |
@@ -101,6 +104,7 @@
 | [hda](https://github.com/ecmwf/hda) | 2.29 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
+| [humanize](https://github.com/python-humanize/humanize) | 4.15.0 | python3_scientific |
 | [icclim](https://pypi.org/project/icclim) | 7.0.4 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-38 | scientific |
@@ -141,6 +145,7 @@
 | [numexpr](https://github.com/pydata/numexpr) | 2.14.1 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.3.5 | python3_scientific |
+| [objsize](https://github.com/liran-funaro/objsize) | 0.8.0 | python3_scientific |
 | [odclib](https://pypi.org/project/odclib) | 1.6.2.9 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.26 | python3_scientific |
@@ -190,7 +195,10 @@
 | [pystac](https://pypi.org/project/pystac) | 1.13.0 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.18.1 | python3_scientific |
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.17.0 | python3_scientific |
+| [pyvis](https://github.com/WestHealth/pyvis) | 0.3.1 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
+| [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_scientific |
+| [qubed](https://pypi.org/project/qubed) | 0.3.1 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
 | [rechunker](https://pypi.org/project/rechunker/) | 0.5.4 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
@@ -236,4 +244,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(235 components)*
+*(243 components)*
