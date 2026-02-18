@@ -70,7 +70,7 @@ fire==0.7.1
 Flask==3.1.1
 flexcache==0.3
 flexparser==0.4
-FLORIS==4.6
+FLORIS==4.6.2
 folium==0.19.5
 fonttools==4.61.0
 frozendict==2.4.7
