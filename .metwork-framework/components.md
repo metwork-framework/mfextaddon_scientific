@@ -235,7 +235,7 @@
 | [versioneer](https://github.com/python-versioneer/python-versioneer) | 0.29 | python3_scientific |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.2 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2025.8.0 | python3_scientific |
-| [xclim](https://xclim.readthedocs.io/) | 0.59.1 | python3_scientific |
+| [xclim](https://xclim.readthedocs.io/) | 0.60.0 | python3_scientific |
 | [xsdba](https://xsdba.readthedocs.io/) | 0.4.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.5.0 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2025.4.0 | python3_scientific |
