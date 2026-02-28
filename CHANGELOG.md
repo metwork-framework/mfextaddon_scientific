@@ -75,6 +75,7 @@
 - bump Metview from 5.26.1 to 5.26.2 (#1151)
 - add earthkit-workflows and dependencies (#1152)
 - bump floris from 4.6 to 4.6.2 (#1153)
+- bump xclim from 0.59.1 to 0.60.0 (#1154)
 
 ### Bug Fixes
 
