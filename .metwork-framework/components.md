@@ -102,7 +102,11 @@
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
+<<<<<<< HEAD
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-36 | scientific |
+=======
+| [ImageMagick6](http://www.imagemagick.org) | 6.9.13-40 | scientific |
+>>>>>>> 0640693 (feat: bump ImageMagick6 from 6.9.13-38 to 6.9.13-40 (CVE) (#1157))
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [jsonpickle](https://jsonpickle.readthedocs.io/) | 4.0.5 | python3_scientific |
