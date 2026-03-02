@@ -9,7 +9,7 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2025.4.14.0.37.22 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
-| [basemap](https://github.com/matplotlib/basemap) | 2.0.1 | python3_scientific |
+| [basemap](https://github.com/matplotlib/basemap) | 2.0.2 | python3_scientific |
 | [basemap_data](https://github.com/matplotlib/basemap) | 2.0.0 | python3_scientific |
 | [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
@@ -140,11 +140,11 @@
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.7.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 3.4.2 | python3_scientific |
 | [ninja](http://ninja-build.org/) | 1.11.1.4 | python3_scientific |
-| [numba](https://numba.pydata.org) | 0.63.1 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.64.0 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.14.1 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
-| [numpy](https://numpy.org) | 2.3.5 | python3_scientific |
+| [numpy](https://numpy.org) | 2.4.2 | python3_scientific |
 | [objsize](https://github.com/liran-funaro/objsize) | 0.8.0 | python3_scientific |
 | [odclib](https://pypi.org/project/odclib) | 1.6.2.9 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
