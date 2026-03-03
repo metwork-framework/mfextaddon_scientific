@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump ImageMagick6 from 6.9.13-38 to 6.9.13-40 (CVE) (backport #1157) (#1158)
+
 ## v2.3.8 (2026-02-13)
 
 ### New Features
