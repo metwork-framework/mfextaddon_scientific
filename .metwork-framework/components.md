@@ -105,7 +105,7 @@
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [humanize](https://github.com/python-humanize/humanize) | 4.15.0 | python3_scientific |
-| [icclim](https://pypi.org/project/icclim) | 7.0.4 | python3_scientific |
+| [icclim](https://pypi.org/project/icclim) | 7.0.5 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-40 | scientific |
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
@@ -200,7 +200,6 @@
 | [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_scientific |
 | [qubed](https://pypi.org/project/qubed) | 0.3.1 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
-| [rechunker](https://pypi.org/project/rechunker/) | 0.5.4 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
 | [rtree](https://pypi.org/project/rtree) | 1.4.0 | python3_scientific |
@@ -244,4 +243,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(243 components)*
+*(242 components)*

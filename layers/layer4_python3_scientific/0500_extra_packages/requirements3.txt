@@ -86,7 +86,7 @@ hda==2.29
 HeapDict==1.0.1
 humanfriendly==10.0
 humanize==4.15.0
-icclim==7.0.4
+icclim==7.0.5
 imageio==2.37.0
 itsdangerous==2.2.0
 jsmin==3.0.1
@@ -161,7 +161,6 @@ PyWavelets==1.8.0
 pyzmq==26.4.0
 qubed==0.3.1
 rasterio==1.4.3
-rechunker==0.5.4
 regionmask==0.13.0
 rich-argparse==1.7.0
 rtree==1.4.0
