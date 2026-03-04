@@ -79,6 +79,7 @@
 - bump Flask from 3.1.1 to 3.1.3 (fix low CVE-2026-27205) (#1156)
 - bump ImageMagick6 from 6.9.13-38 to 6.9.13-40 (CVE) (#1157)
 - bump numba from 0.63.1 to 0.64.0 (compatibility numpy 2.4) (#1159)
+- bump numpy from 2.3.5 to 2.4.2 (#1160)
 
 ### Bug Fixes
 
