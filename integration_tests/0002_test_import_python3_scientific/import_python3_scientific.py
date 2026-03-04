@@ -188,7 +188,6 @@ import pywt #PyWaveLets
 import zmq #pyzmq
 import qubed
 import rasterio
-import rechunker
 import referencing
 import regionmask
 import rich_argparse
