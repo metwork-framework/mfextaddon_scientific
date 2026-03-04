@@ -182,7 +182,6 @@ import pysteps
 import pythran
 import pywt #PyWaveLets
 import rasterio
-import rechunker
 import referencing
 import regionmask
 import reportlab
