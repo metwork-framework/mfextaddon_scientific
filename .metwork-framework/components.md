@@ -237,8 +237,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-<<<<<<< HEAD
 *(236 components)*
-=======
-*(242 components)*
->>>>>>> 92c3584 (feat: bump icclim from 7.0.4 to 7.0.5 and remove deprecated rechunker (#1161))
