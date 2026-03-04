@@ -101,11 +101,7 @@
 | [hda](https://github.com/ecmwf/hda) | 2.29 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
-<<<<<<< HEAD
-=======
-| [humanize](https://github.com/python-humanize/humanize) | 4.15.0 | python3_scientific |
 | [icclim](https://pypi.org/project/icclim) | 7.0.5 | python3_scientific |
->>>>>>> 92c3584 (feat: bump icclim from 7.0.4 to 7.0.5 and remove deprecated rechunker (#1161))
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-40 | scientific |
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
