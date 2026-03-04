@@ -1,10 +1,11 @@
 # release_2.3 CHANGELOG
 
-## [Unreleased]
+## v2.3.9 (2026-03-04)
 
 ### New Features
 
 - bump ImageMagick6 from 6.9.13-38 to 6.9.13-40 (CVE) (backport #1157) (#1158)
+- add icclim (previously removed) now compatible with numpy >= 2.1 (#1163)
 
 ## v2.3.8 (2026-02-13)
 
