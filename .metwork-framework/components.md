@@ -101,8 +101,9 @@
 | [hda](https://github.com/ecmwf/hda) | 2.29 | python3_scientific |
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
+| [icclim](https://pypi.org/project/icclim) | 7.0.5 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
-| [ImageMagick6](http://www.imagemagick.org) | 6.9.13-40 | scientific |
+| [ImageMagick6](http://www.imagemagick.org) | 6.9.13-36 | scientific |
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [jsonpickle](https://jsonpickle.readthedocs.io/) | 4.0.5 | python3_scientific |
@@ -193,7 +194,6 @@
 | [pythran](https://github.com/serge-sans-paille/pythran) | 0.17.0 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
-| [rechunker](https://pypi.org/project/rechunker/) | 0.5.4 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
 | [reportlab](https://www.reportlab.com/) | 4.4.0 | python3_scientific |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
