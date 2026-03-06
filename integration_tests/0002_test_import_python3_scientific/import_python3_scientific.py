@@ -118,8 +118,6 @@ import lru #lru_dict
 import Magics
 import mapclassify
 import matplotlib
-import mesonbuild
-import mesonpy
 import metpy
 import metpy.plots
 import metview
@@ -131,7 +129,6 @@ from nco import Nco
 nco = Nco()
 import netCDF4
 import networkx
-import ninja
 import numba
 import numcodecs
 import numexpr
@@ -176,7 +173,6 @@ import pyogrio
 import pyorbital
 import pyoscar
 import pyproj
-import pyproject_metadata
 import pyresample
 import pyrsistent
 import shapefile #pyshp
@@ -197,7 +193,6 @@ import s3transfer
 import salem
 import satpy
 import semver
-import skbuild #scikit-build
 import skimage #scikit-image
 import sklearn #scikit-learn
 import scipy
