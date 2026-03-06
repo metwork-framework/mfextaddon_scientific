@@ -123,8 +123,6 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.10.7 | python3_scientific |
-| [meson-python](https://github.com/mesonbuild/meson-python) | 0.17.1 | python3_scientific |
-| [meson](https://mesonbuild.com) | 1.7.2 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.6.3 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.16.2 | python3_scientific |
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.26.2 | scientific |
@@ -139,7 +137,6 @@
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.2 | scientific |
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.7.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 3.4.2 | python3_scientific |
-| [ninja](http://ninja-build.org/) | 1.11.1.4 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.64.0 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.14.1 | python3_scientific |
@@ -188,7 +185,6 @@
 | [pyorbital](https://pypi.org/project/pyorbital) | 1.10.0 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.9.0 | python3_scientific |
 | [pyproj](https://github.com/pyproj4/pyproj) | 3.7.1 | python3_scientific |
-| [pyproject-metadata](https://github.com/pypa/pyproject-metadata) | 0.9.1 | python3_scientific |
 | [pyresample](https://github.com/pytroll/pyresample) | 1.34.0 | python3_scientific |
 | [pyrsistent](https://github.com/tobgu/pyrsistent/) | 0.20.0 | python3_scientific |
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
@@ -206,7 +202,6 @@
 | [s3transfer](https://github.com/boto/s3transfer) | 0.12.0 | python3_scientific |
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.56.0 | python3_scientific |
-| [scikit-build](https://github.com/scikit-build/scikit-build) | 0.18.1 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.25.2 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.6.1 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.17.0 | python3_scientific |
@@ -243,4 +238,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(242 components)*
+*(237 components)*
