@@ -74,7 +74,7 @@ FLORIS==4.6.2
 folium==0.19.5
 fonttools==4.61.0
 frozendict==2.4.7
-GDAL==3.12.1
+GDAL==3.12.2
 geographiclib==2.0
 geopandas==1.1.2
 geopy==2.4.1
