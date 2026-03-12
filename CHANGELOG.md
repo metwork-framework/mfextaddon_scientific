@@ -83,6 +83,7 @@
 - bump icclim from 7.0.4 to 7.0.5 and remove deprecated rechunker (#1161)
 - remove build packages now provided by layer python3 (meson, ninja...)
 - remove packages now provided by layer python3 (meson, ninja...) (#1165)
+- bump GDAL from 3.12.1 to 3.12.2 (#1178)
 
 ### Bug Fixes
 
