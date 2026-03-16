@@ -110,7 +110,6 @@
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-41 | scientific |
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
-| [jsonpickle](https://jsonpickle.readthedocs.io/) | 4.0.5 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.8 | python3_scientific |
 | [lark](https://github.com/lark-parser/lark) | 1.1.8 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
@@ -240,4 +239,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(239 components)*
+*(237 components)*
