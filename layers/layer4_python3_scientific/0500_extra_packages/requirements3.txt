@@ -69,8 +69,17 @@ flexcache==0.3
 flexparser==0.4
 FLORIS==4.4.2
 folium==0.19.5
+<<<<<<< HEAD
 fonttools==4.57.0
 GDAL==3.10.3
+=======
+fonttools==4.61.0
+frozendict==2.4.7
+GDAL==3.12.2
+geoarrow_c==0.3.1
+geoarrow-pyarrow==0.2.0
+geoarrow-types==0.3.0
+>>>>>>> c178989 (feat: add geoarrow-pyarrow, geoarrow-types and geoarrow-c (#1197))
 geographiclib==2.0
 geopandas==1.1.2
 geopy==2.4.1
