@@ -123,7 +123,7 @@
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.10.7 | python3_scientific |
-| [MetPy](https://github.com/Unidata/MetPy) | 1.6.3 | python3_scientific |
+| [MetPy](https://github.com/Unidata/MetPy) | 1.7.1 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.16.2 | python3_scientific |
 | [Metview](https://www.ecmwf.int/en/computing/software) | 5.26.2 | scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.18 | python3_scientific |
