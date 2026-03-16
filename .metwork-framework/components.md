@@ -159,7 +159,8 @@
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 3.0.3 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 3.0.3 | scientific |
-| [polars](https://www.pola.rs/) | 1.29.0 | python3_scientific |
+| [polars-runtime-32](https://www.pola.rs/) | 1.39.0 | python3_scientific |
+| [polars](https://www.pola.rs/) | 1.39.0 | python3_scientific |
 | [polytope-client](https://github.com/ecmwf-projects/polytope-client) | 0.7.9 | python3_scientific |
 | [pooch](https://pypi.org/project/pooch) | 1.8.2 | python3_scientific |
 | [pox](https://github.com/uqfoundation/pox) | 0.3.6 | python3_scientific |
@@ -238,4 +239,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(237 components)*
+*(238 components)*

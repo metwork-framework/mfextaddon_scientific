@@ -16,6 +16,7 @@ llvmlite
 odclib
 orjson
 polars
+polars-runtime-32
 pyarrow
 pygribjump
 pyYAML
