@@ -187,6 +187,7 @@ import rasterio
 import referencing
 import regionmask
 import rich_argparse
+import rioxarray
 import rpds #rpds-py
 import rtree
 import s3transfer
