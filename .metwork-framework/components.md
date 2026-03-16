@@ -197,6 +197,7 @@
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
 | [reportlab](https://www.reportlab.com/) | 4.4.0 | python3_scientific |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
+| [rioxarray](https://corteva.github.io/rioxarray/) | 0.21.0 | python3_scientific |
 | [rtree](https://pypi.org/project/rtree) | 1.4.0 | python3_scientific |
 | [s3transfer](https://github.com/boto/s3transfer) | 0.12.0 | python3_scientific |
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
@@ -237,4 +238,8 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
+<<<<<<< HEAD
 *(236 components)*
+=======
+*(239 components)*
+>>>>>>> 9b5a640 (feat: add rioxarray (version 0.21.0) (#1194))

@@ -92,4 +92,9 @@ thermofeel
 copernicusmarine
 geopy
 pygeoapi
+<<<<<<< HEAD
 icclim
+=======
+basemap
+rioxarray
+>>>>>>> 9b5a640 (feat: add rioxarray (version 0.21.0) (#1194))
