@@ -64,7 +64,7 @@ fasteners==0.19
 fastparquet==2024.11.0
 fckitlib==0.14.1.9
 ffmpy==0.5.0
-findlibs==0.1.1
+findlibs==0.1.2
 Fiona==1.10.1
 fire==0.7.1
 Flask==3.1.3
