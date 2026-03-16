@@ -97,7 +97,4 @@ geopy
 pygeoapi
 basemap
 rioxarray
-<<<<<<< Updated upstream
-=======
 geoarrow-pyarrow
->>>>>>> Stashed changes
