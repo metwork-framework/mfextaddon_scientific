@@ -92,6 +92,9 @@
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.6.0 | python3_scientific |
 | [GDAL](http://www.gdal.org) | 3.12.2 | python3_scientific |
+| [geoarrow-c](https://geoarrow.org) | 0.3.1 | python3_scientific |
+| [geoarrow-pyarrow](https://geoarrow.org) | 0.2.0 | python3_scientific |
+| [geoarrow-types](https://geoarrow.org) | 0.3.0 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 1.1.2 | python3_scientific |
 | [geopy](https://github.com/geopy/geopy) | 2.4.1 | python3_scientific |
@@ -239,4 +242,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(238 components)*
+*(241 components)*
