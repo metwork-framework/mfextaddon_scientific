@@ -84,6 +84,12 @@
 - remove build packages now provided by layer python3 (meson, ninja...)
 - remove packages now provided by layer python3 (meson, ninja...) (#1165)
 - bump GDAL from 3.12.1 to 3.12.2 (#1178)
+- bump ImageMagick6 to 6.9.13-41 (fix moderate CVE-2026-30883) (#1190)
+- bump findlibs from 0.1.1 to 0.1.2 (#1191)
+- bump MetPy from 1.6.3 to 1.7.1 (#1192)
+- bump polars from 1.29.0 to 1.39.0 (#1193)
+- add rioxarray (version 0.21.0) (#1194)
+- add geoarrow-pyarrow, geoarrow-types and geoarrow-c (#1197)
 
 ### Bug Fixes
 
