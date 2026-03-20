@@ -238,8 +238,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-<<<<<<< HEAD
-*(236 components)*
-=======
-*(239 components)*
->>>>>>> 9b5a640 (feat: add rioxarray (version 0.21.0) (#1194))
+*(237 components)*
