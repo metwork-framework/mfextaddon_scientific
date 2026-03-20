@@ -71,6 +71,9 @@ FLORIS==4.4.2
 folium==0.19.5
 fonttools==4.57.0
 GDAL==3.10.3
+geoarrow_c==0.3.1
+geoarrow-pyarrow==0.2.0
+geoarrow-types==0.3.0
 geographiclib==2.0
 geopandas==1.1.2
 geopy==2.4.1

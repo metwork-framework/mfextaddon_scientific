@@ -94,3 +94,4 @@ geopy
 pygeoapi
 icclim
 rioxarray
+geoarrow-pyarrow
