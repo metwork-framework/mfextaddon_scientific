@@ -93,3 +93,4 @@ copernicusmarine
 geopy
 pygeoapi
 icclim
+rioxarray
