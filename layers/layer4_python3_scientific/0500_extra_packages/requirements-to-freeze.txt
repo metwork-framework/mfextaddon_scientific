@@ -98,3 +98,4 @@ pygeoapi
 basemap
 rioxarray
 geoarrow-pyarrow
+adbc-driver-postgresql
