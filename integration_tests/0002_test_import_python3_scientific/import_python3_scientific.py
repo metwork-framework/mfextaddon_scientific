@@ -1,3 +1,5 @@
+import adbc_driver_manager
+import adbc_driver_postgresql
 import adjustText
 import affine
 import aggdraw

@@ -1,5 +1,7 @@
 | Name | Version | Layer |
 | --- | --- | --- |
+| [adbc-driver-manager](https://arrow.apache.org/adbc/) | 1.10.0 | python3_scientific |
+| [adbc-driver-postgresql](https://arrow.apache.org/adbc/) | 1.10.0 | python3_scientific |
 | [adjustText](https://github.com/Phlya/adjustText) | 1.3.0 | python3_scientific |
 | [affine](https://pypi.org/project/affine) | 2.4.0 | python3_scientific |
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.19 | python3_scientific |
@@ -241,4 +243,8 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
+<<<<<<< HEAD
 *(240 components)*
+=======
+*(243 components)*
+>>>>>>> 9eee2c5 (feat: add adbc-driver-postgresql (#1198))
