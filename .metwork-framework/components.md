@@ -109,6 +109,7 @@
 | [icclim](https://pypi.org/project/icclim) | 7.0.5 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-40 | scientific |
+| [importlib_resources](https://pypi.org/project/importlib_resources) | 6.5.2 | python3_scientific |
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [jsonpickle](https://jsonpickle.readthedocs.io/) | 4.0.5 | python3_scientific |
@@ -243,8 +244,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-<<<<<<< HEAD
-*(240 components)*
-=======
 *(243 components)*
->>>>>>> 9eee2c5 (feat: add adbc-driver-postgresql (#1198))
