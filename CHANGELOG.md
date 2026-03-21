@@ -1,5 +1,12 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- add rioxarray (version 0.21.0) (backport #1194) (#1199)
+- add geoarrow-pyarrow, geoarrow-types and geoarrow-c (backport #1197) (#1200)
+
 ## v2.3.9 (2026-03-04)
 
 ### New Features
