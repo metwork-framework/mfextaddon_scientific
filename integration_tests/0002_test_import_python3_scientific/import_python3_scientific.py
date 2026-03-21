@@ -1,3 +1,5 @@
+import adbc_driver_manager
+import adbc_driver_postgresql
 import adjustText
 import affine
 import aggdraw
@@ -98,6 +100,7 @@ import heapdict
 import humanfriendly
 import icclim
 import imageio
+import importlib_resources
 import itsdangerous
 import jsmin
 import jsonpickle

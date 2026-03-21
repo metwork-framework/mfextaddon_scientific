@@ -95,3 +95,4 @@ pygeoapi
 icclim
 rioxarray
 geoarrow-pyarrow
+adbc-driver-postgresql
