@@ -100,6 +100,7 @@ import heapdict
 import humanfriendly
 import icclim
 import imageio
+import importlib_resources
 import itsdangerous
 import jsmin
 import jsonpickle
