@@ -90,6 +90,7 @@
 - bump polars from 1.29.0 to 1.39.0 (#1193)
 - add rioxarray (version 0.21.0) (#1194)
 - add geoarrow-pyarrow, geoarrow-types and geoarrow-c (#1197)
+- add adbc-driver-postgresql (#1198)
 
 ### Bug Fixes
 
