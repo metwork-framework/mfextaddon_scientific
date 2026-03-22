@@ -6,6 +6,7 @@
 
 - add rioxarray (version 0.21.0) (backport #1194) (#1199)
 - add geoarrow-pyarrow, geoarrow-types and geoarrow-c (backport #1197) (#1200)
+- add adbc-driver-postgresql (backport #1198) (#1201)
 
 ## v2.3.9 (2026-03-04)
 
