@@ -91,6 +91,7 @@
 - add rioxarray (version 0.21.0) (#1194)
 - add geoarrow-pyarrow, geoarrow-types and geoarrow-c (#1197)
 - add adbc-driver-postgresql (#1198)
+- bump ImageMagick6 to 6.9.13-43 (fix several moderate CVEs) (#1202)
 
 ### Bug Fixes
 
