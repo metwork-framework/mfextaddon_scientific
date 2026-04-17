@@ -48,7 +48,6 @@ openturns
 pdbufr
 pyodc
 ffmpy
--e git+https://gitlab.com/cerfacs/batman.git#egg=ot-batman
 numba
 pyhdf
 pygmt

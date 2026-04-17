@@ -1,5 +1,0 @@
-beniget
-gast
-numpy
-pythran
-versioneer
