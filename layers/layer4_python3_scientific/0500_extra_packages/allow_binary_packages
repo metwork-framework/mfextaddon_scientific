@@ -11,3 +11,4 @@ orjson
 polars-runtime-32
 pyarrow
 setuptools-scm-git-archive
+meson
