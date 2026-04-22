@@ -76,6 +76,7 @@ FLORIS==4.6.2
 folium==0.19.5
 fonttools==4.61.0
 frozendict==2.4.7
+gast==0.6.0
 GDAL==3.12.2
 geoarrow_c==0.3.1
 geoarrow-pyarrow==0.2.0
@@ -113,6 +114,7 @@ munch==4.0.0
 narwhals==1.37.0
 nco==1.1.2
 netCDF4==1.7.2
+networkx==3.4.2
 numba==0.64.0
 numcodecs==0.15.1
 numexpr==2.14.1
@@ -121,7 +123,6 @@ objsize==0.8.0
 odclib==1.6.2.9
 opencv-contrib-python-headless==4.11.0.86
 openturns==1.26
--e git+https://gitlab.com/thebaptiste/batman.git@1.9.3-develop-mf#egg=ot-batman
 palettable==3.3.3
 partd==1.4.2
 pathos==0.3.4
@@ -141,7 +142,7 @@ puremagic==1.29
 pyarrow==22.0.0
 pycoast==1.7.1
 pycurl==7.45.6
-pydecorate==0.4.0
+pydecorate==0.5.0
 pyepsg==0.4.0
 pyerfa==2.0.1.5
 pygeoapi==0.22.0
@@ -190,6 +191,7 @@ tinydb==4.8.2
 toolz==1.0.0
 trollimage==1.26.0
 trollsift==0.5.3
+tzdata==2025.2
 tzlocal==5.3.1
 windrose==1.9.2
 xclim==0.60.0

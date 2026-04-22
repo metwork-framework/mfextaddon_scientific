@@ -13,7 +13,6 @@
 | [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
 | [basemap](https://github.com/matplotlib/basemap) | 2.0.2 | python3_scientific |
 | [basemap_data](https://github.com/matplotlib/basemap) | 2.0.0 | python3_scientific |
-| [beniget](https://github.com/serge-sans-paille/beniget/) | 0.4.2.post1 | python3_scientific |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.8.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 25.0.0 | python3_scientific |
@@ -40,7 +39,6 @@
 | [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.3.0 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
 | [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.2.10 | python3_scientific |
-| [cppy](https://github.com/nucleic/cppy) | 1.3.1 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.11.0 | python3_scientific |
 | [crc32c](https://github.com/ICRAR/crc32c) | 2.7.1 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
@@ -50,7 +48,6 @@
 | [DateTime](https://github.com/zopefoundation/DateTime) | 5.5 | python3_scientific |
 | [distributed](https://distributed.dask.org) | 2026.1.2 | python3_scientific |
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.17.0 | python3_scientific |
-| [docutils](https://docutils.sourceforge.io) | 0.21.2 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1.post1 | python3_scientific |
 | [earthkit-data](https://github.com/ecmwf/earthkit-data/) | 0.18.3 | python3_scientific |
 | [earthkit-geo](https://github.com/ecmwf/earthkit-geo/) | 0.4.0 | python3_scientific |
@@ -73,7 +70,6 @@
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.9.1 | scientific |
 | [esmpy](http://www.earthsystemmodeling.org) | 8.9.1 | python3_scientific |
-| [extension-helpers](https://github.com/astropy/extension-helpers) | 1.2.0 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.14.0 | scientific |
@@ -86,7 +82,6 @@
 | [Flask](https://pypi.org/project/Flask) | 3.1.3 | python3_scientific |
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
 | [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
-| [flit](https://pypi.org/project/flit) | 3.12.0 | python3_scientific |
 | [floris](https://github.com/NatLabRockies/floris) | 4.6.2 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.19.5 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.61.0 | python3_scientific |
@@ -150,7 +145,6 @@
 | [odclib](https://pypi.org/project/odclib) | 1.6.2.9 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.26 | python3_scientific |
-| [ot-batman](https://gitlab.com/cerfacs/batman) | 1.9.3-develop-mf | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.3 | python3_scientific |
 | [pandas](https://pandas.pydata.org) | 2.3.3 | python3_scientific |
 | [partd](http://github.com/dask/partd/) | 1.4.2 | python3_scientific |
@@ -158,9 +152,7 @@
 | [patsy](https://github.com/pydata/patsy) | 1.0.1 | python3_scientific |
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.12.2 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.24.4 | python3_scientific |
-| [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
 | [plotly](https://plotly.com/python/) | 6.0.1 | python3_scientific |
-| [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 3.0.3 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 3.0.3 | scientific |
 | [polars-runtime-32](https://www.pola.rs/) | 1.39.0 | python3_scientific |
@@ -171,11 +163,10 @@
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.7 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 6.33.5 | python3_scientific |
 | [puremagic](https://github.com/cdgriffith/puremagic) | 1.29 | python3_scientific |
-| [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
 | [pyarrow](https://arrow.apache.org/) | 22.0.0 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.7.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.6 | python3_scientific |
-| [pydecorate](https://github.com/pytroll/pydecorate) | 0.4.0 | python3_scientific |
+| [pydecorate](https://github.com/pytroll/pydecorate) | 0.5.0 | python3_scientific |
 | [pyepsg](https://github.com/rhattersley/pyepsg) | 0.4.0 | python3_scientific |
 | [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.1.5 | python3_scientific |
 | [pygeoapi](https://pygeoapi.io) | 0.22.0 | python3_scientific |
@@ -195,7 +186,6 @@
 | [pyshp](https://github.com/GeospatialPython/pyshp) | 2.3.1 | python3_scientific |
 | [pystac](https://pypi.org/project/pystac) | 1.13.0 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.18.1 | python3_scientific |
-| [pythran](https://github.com/serge-sans-paille/pythran) | 0.17.0 | python3_scientific |
 | [pyvis](https://github.com/WestHealth/pyvis) | 0.3.1 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_scientific |
@@ -212,7 +202,6 @@
 | [scikit-learn](https://scikit-learn.org) | 1.6.1 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.17.0 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.14.1 | python3_scientific |
-| [scitools-pyke](http://sourceforge.net/projects/pyke) | 1.1.1 | python3_scientific |
 | [scores](https://pypi.org/project/scores) | 2.4.0 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.2 | python3_scientific |
 | [semver](https://pypi.org/project/semver) | 3.0.4 | python3_scientific |
@@ -225,14 +214,12 @@
 | [thermofeel](https://github.com/ecmwf-projects/thermofeel) | 2.1.1 | python3_scientific |
 | [tifffile](https://www.cgohlke.com) | 2025.5.10 | python3_scientific |
 | [tinydb](https://github.com/msiemens/tinydb) | 4.8.2 | python3_scientific |
-| [tomli_w](https://github.com/hukkin/tomli-w) | 1.2.0 | python3_scientific |
 | [toolz](https://github.com/pytoolz/toolz/) | 1.0.0 | python3_scientific |
 | [trollimage](https://github.com/pytroll/trollimage) | 1.26.0 | python3_scientific |
 | [trollsift](https://pypi.org/project/trollsift) | 0.5.3 | python3_scientific |
 | [tzdata](https://github.com/python/tzdata) | 2025.2 | python3_scientific |
 | [tzlocal](https://pypi.org/project/tzlocal) | 5.3.1 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
-| [versioneer](https://github.com/python-versioneer/python-versioneer) | 0.29 | python3_scientific |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.2 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2025.8.0 | python3_scientific |
 | [xclim](https://xclim.readthedocs.io/) | 0.60.0 | python3_scientific |
@@ -244,4 +231,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(243 components)*
+*(230 components)*

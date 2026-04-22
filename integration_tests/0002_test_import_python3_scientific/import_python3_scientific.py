@@ -11,11 +11,7 @@ import astropy
 import astropy_iers_data
 from mpl_toolkits import basemap #basemap
 from mpl_toolkits import basemap_data #basemap_data
-import batman
-import batman.pod
-import batman.surrogate
 import bs4.builder #beautifulsoup4
-import beniget
 import blinker
 import bokeh
 import boltons
@@ -42,7 +38,6 @@ import contourpy
 import copernicusmarine
 import covjson_pydantic
 import covjsonkit
-import cppy
 import cramjam
 import crc32c
 import cycler
@@ -60,7 +55,6 @@ import dateparser
 import DateTime
 import distributed
 import docstring_parser
-import docutils
 import donfig
 import earthkit.data
 import earthkit.geo
@@ -76,7 +70,6 @@ import eccodes
 import ecmwfapi
 import ecmwf.opendata
 import esmpy #ESMF
-import extension_helpers
 import fasteners
 import fastparquet
 import ffmpy
@@ -84,7 +77,6 @@ import findlibs
 import fiona
 import fire
 import flask
-import flit
 import floris
 import folium
 import fontTools
@@ -145,9 +137,7 @@ import pathos
 import patsy
 import pdbufr
 import pint
-import pkgconfig
 import plotly
-import ply
 import pngquant
 import polars
 import polytope
@@ -158,7 +148,6 @@ from google import protobuf #protobuf
 import puremagic
 import pyarrow
 import pycoast
-import cpuinfo #py-cpuinfo
 import pycurl
 import pydecorate
 import pyepsg
@@ -180,7 +169,6 @@ import pyrsistent
 import shapefile #pyshp
 import pystac
 import pysteps
-import pythran
 import pyvis
 import pywt #PyWaveLets
 import zmq #pyzmq
@@ -200,7 +188,6 @@ import skimage #scikit-image
 import sklearn #scikit-learn
 import scipy
 import iris #scitools-iris
-import pyke #scitools-pyke
 import seaborn
 import shapely
 import sqlalchemy
@@ -209,14 +196,12 @@ import tblib
 import tenacity
 import tifffile
 import tinydb
-import tomli_w
 import toolz
 import tornado
 import trollimage
 import trollsift
 import tzdata
 import tzlocal
-import versioneer
 import xarray
 import xclim
 import xsdba
