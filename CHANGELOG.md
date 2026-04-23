@@ -92,6 +92,8 @@
 - add geoarrow-pyarrow, geoarrow-types and geoarrow-c (#1197)
 - add adbc-driver-postgresql (#1198)
 - bump ImageMagick6 to 6.9.13-43 (fix several moderate CVEs) (#1202)
+- remove python build dependencies (we are building isolate now) (#1203)
+- bump ImageMagick6 to 6.9.13-44 (fix 6 moderate CVE) (#1204)
 
 ### Bug Fixes
 
