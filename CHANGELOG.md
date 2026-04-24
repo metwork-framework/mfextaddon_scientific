@@ -94,6 +94,7 @@
 - bump ImageMagick6 to 6.9.13-43 (fix several moderate CVEs) (#1202)
 - remove python build dependencies (we are building isolate now) (#1203)
 - bump ImageMagick6 to 6.9.13-44 (fix 6 moderate CVE) (#1204)
+- bump pydecorate from 0.5.0 to 0.5.1 (fix build problem) (#1205)
 
 ### Bug Fixes
 
