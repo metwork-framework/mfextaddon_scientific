@@ -1,3 +1,5 @@
+import adbc_driver_manager
+import adbc_driver_postgresql
 import adjustText
 import affine
 import aggdraw
@@ -7,11 +9,9 @@ import array_api_compat
 import asciitree
 import astropy
 import astropy_iers_data
-import batman
-import batman.pod
-import batman.surrogate
+from mpl_toolkits import basemap #basemap
+from mpl_toolkits import basemap_data #basemap_data
 import bs4.builder #beautifulsoup4
-import beniget
 import blinker
 import bokeh
 import boltons
@@ -20,6 +20,7 @@ import boto3
 import botocore
 import branca
 import cartopy
+import cascade #earthkit_workflows
 import cdo
 import cdsapi
 import cf_units
@@ -37,7 +38,6 @@ import contourpy
 import copernicusmarine
 import covjson_pydantic
 import covjsonkit
-import cppy
 import cramjam
 import crc32c
 import cycler
@@ -55,10 +55,7 @@ import dateparser
 import DateTime
 import distributed
 import docstring_parser
-import docutils
 import donfig
-import earthkit.aggregate
-import earthkit.climate
 import earthkit.data
 import earthkit.geo
 import earthkit.hydro
@@ -67,22 +64,23 @@ import earthkit.plots
 import earthkit.regrid
 import earthkit.time
 import earthkit.transforms
-import earthkit
+import earthkit.utils
+import earthkit.workflows
 import eccodes
 import ecmwfapi
 import ecmwf.opendata
 import esmpy #ESMF
-import extension_helpers
 import fasteners
 import fastparquet
 import ffmpy
 import findlibs
 import fiona
+import fire
 import flask
-import flit
 import floris
 import folium
 import fontTools
+import frozendict
 import gast
 import osgeo #gdal
 import osgeo_utils #gdal
@@ -96,6 +94,7 @@ import h5py
 import hda
 import heapdict
 import humanfriendly
+import humanize
 import icclim
 import imageio
 import itsdangerous
@@ -113,8 +112,6 @@ import lru #lru_dict
 import Magics
 import mapclassify
 import matplotlib
-import mesonbuild
-import mesonpy
 import metpy
 import metpy.plots
 import metview
@@ -126,11 +123,11 @@ from nco import Nco
 nco = Nco()
 import netCDF4
 import networkx
-import ninja
 import numba
 import numcodecs
 import numexpr
 import numpy
+import objsize
 import cv2 #opencv_contrib_python_headless
 import openturns
 import palettable
@@ -140,9 +137,7 @@ import pathos
 import patsy
 import pdbufr
 import pint
-import pkgconfig
 import plotly
-import ply
 import pngquant
 import polars
 import polytope
@@ -152,13 +147,9 @@ import ppft
 from google import protobuf #protobuf
 import puremagic
 import pyarrow
-import pybind11
 import pycoast
-import cpuinfo #py-cpuinfo
 import pycurl
 import pydecorate
-# pyfdb requires fdb5 (see https://github.com/ecmwf/fdb, not provided by Metwork for the time being)
-#import pyfdb
 import pyepsg
 import erfa #pyerfa
 import pygeoapi
@@ -173,31 +164,30 @@ import pyogrio
 import pyorbital
 import pyoscar
 import pyproj
-import pyproject_metadata
 import pyresample
 import pyrsistent
 import shapefile #pyshp
 import pystac
 import pysteps
-import pythran
+import pyvis
 import pywt #PyWaveLets
+import zmq #pyzmq
+import qubed
 import rasterio
-import rechunker
 import referencing
 import regionmask
 import rich_argparse
+import rioxarray
 import rpds #rpds-py
 import rtree
 import s3transfer
 import salem
 import satpy
 import semver
-import skbuild #scikit-build
 import skimage #scikit-image
 import sklearn #scikit-learn
 import scipy
 import iris #scitools-iris
-import pyke #scitools-pyke
 import seaborn
 import shapely
 import sqlalchemy
@@ -206,14 +196,12 @@ import tblib
 import tenacity
 import tifffile
 import tinydb
-import tomli_w
 import toolz
 import tornado
 import trollimage
 import trollsift
 import tzdata
 import tzlocal
-import versioneer
 import xarray
 import xclim
 import xsdba

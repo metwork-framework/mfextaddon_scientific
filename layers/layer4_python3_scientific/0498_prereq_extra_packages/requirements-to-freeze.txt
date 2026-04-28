@@ -1,6 +1,0 @@
-beniget
-gast
-numpy
-pybind11
-pythran
-versioneer

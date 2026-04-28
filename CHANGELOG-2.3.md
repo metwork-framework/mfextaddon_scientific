@@ -1,5 +1,55 @@
 # release_2.3 CHANGELOG
 
+## v2.3.10 (2026-03-22)
+
+### New Features
+
+- add rioxarray (version 0.21.0) (backport #1194) (#1199)
+- add geoarrow-pyarrow, geoarrow-types and geoarrow-c (backport #1197) (#1200)
+- add adbc-driver-postgresql (backport #1198) (#1201)
+
+## v2.3.9 (2026-03-04)
+
+### New Features
+
+- bump ImageMagick6 from 6.9.13-38 to 6.9.13-40 (CVE) (backport #1157) (#1158)
+- add icclim (previously removed) now compatible with numpy >= 2.1 (#1163)
+
+## v2.3.8 (2026-02-13)
+
+### New Features
+
+- bump docstring_parser from 0.16 to 0.17.0 (backport #1145) (#1146)
+
+## v2.3.7 (2026-02-02)
+
+### New Features
+
+- bump ImageMagick6 to 6.9.13-36 (fix several CVEs) (#1113)
+- bump protobuf from 5.29.5 to 6.33.5 (fix high CVE-2026-0994) (backport #1135) (#1136)
+- bump geopandas from 1.0.1 to 1.1.2 (fix high CVE-2025-69662) (#1138)
+
+### Bug Fixes
+
+- bump scitools-iris from 3.12.2 to 3.12.3 (compat numpy>=1.25) (backport #1117) (#1118)
+
+## v2.3.6 (2025-12-10)
+
+### New Features
+
+- bump eccodes and its python binding from 2.41.0 to 2.44.0 (backport #1091) (#1092)
+- bump eccodeslib, eckitlib and fckit to last releases (#1096)
+
+## v2.3.5 (2025-12-01)
+
+### New Features
+
+- bump conflator to 0.1.8 and remove workarounds with previous releases (#1078)
+
+## v2.3.4 (2025-11-27)
+
+- No interesting change
+
 ## v2.3.3 (2025-08-30)
 
 ### New Features
