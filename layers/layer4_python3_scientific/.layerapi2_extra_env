@@ -4,3 +4,4 @@ ECMWFLIBS_MAGPLUS={MFEXT_HOME}/opt/scientific/lib/libMagPlus.so
 ESMFMKFILE={MFEXT_HOME}/opt/scientific/esmf/lib/esmf.mk
 CLIMETLAB_DO_NOT_INSTALL_ECMWFLIBS=1
 FINDLIBS_DISABLE_PACKAGE=yes
+NUMPY_INCLUDE_PATH={MFEXT_HOME}/opt/python3_scientific/lib/python{PYTHON3_SHORT_VERSION}/site-packages/numpy/_core/include
