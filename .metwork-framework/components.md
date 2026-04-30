@@ -11,8 +11,6 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2025.4.14.0.37.22 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
-| [basemap](https://github.com/matplotlib/basemap) | 2.0.2 | python3_scientific |
-| [basemap_data](https://github.com/matplotlib/basemap) | 2.0.0 | python3_scientific |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.8.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 25.0.0 | python3_scientific |
@@ -202,7 +200,7 @@
 | [scikit-learn](https://scikit-learn.org) | 1.6.1 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.17.0 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.14.1 | python3_scientific |
-| [scores](https://pypi.org/project/scores) | 2.4.0 | python3_scientific |
+| [scores](https://pypi.org/project/scores) | 2.5.0 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.2 | python3_scientific |
 | [semver](https://pypi.org/project/semver) | 3.0.4 | python3_scientific |
 | [shapely](https://pypi.org/project/shapely) | 2.1.0 | python3_scientific |
@@ -231,4 +229,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(230 components)*
+*(228 components)*

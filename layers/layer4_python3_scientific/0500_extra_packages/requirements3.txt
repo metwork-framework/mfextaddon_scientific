@@ -9,8 +9,6 @@ array_api_compat==1.11.2
 asciitree==0.3.3
 astropy==7.0.1
 astropy-iers-data==0.2025.4.14.0.37.22
--e git+https://github.com/thebaptiste/basemap.git@2.0.2#egg=basemap
-basemap_data==2.0.0
 blinker==1.9.0
 bokeh==3.8.2
 boltons==25.0.0
@@ -177,7 +175,7 @@ satpy==0.56.0
 scikit-image==0.25.2
 scikit-learn==1.6.1
 scitools-iris==3.14.1
-scores==2.4.0
+scores==2.5.0
 seaborn==0.13.2
 semver==3.0.4
 Shapely==2.1.0
