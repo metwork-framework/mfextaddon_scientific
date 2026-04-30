@@ -167,7 +167,6 @@ PyWavelets==1.8.0
 pyzmq==26.4.0
 qubed==0.3.1
 rasterio==1.4.3
-rechunker==0.5.4
 regionmask==0.13.0
 rich-argparse==1.7.0
 rioxarray==0.21.0

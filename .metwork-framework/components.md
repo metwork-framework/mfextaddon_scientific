@@ -191,7 +191,6 @@
 | [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_scientific |
 | [qubed](https://pypi.org/project/qubed) | 0.3.1 | python3_scientific |
 | [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
-| [rechunker](https://pypi.org/project/rechunker/) | 0.5.4 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
 | [rioxarray](https://corteva.github.io/rioxarray/) | 0.21.0 | python3_scientific |
@@ -232,4 +231,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(231 components)*
+*(230 components)*
