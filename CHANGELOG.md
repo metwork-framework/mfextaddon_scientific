@@ -96,6 +96,7 @@
 - bump ImageMagick6 to 6.9.13-44 (fix 6 moderate CVE) (#1204)
 - bump pydecorate from 0.5.0 to 0.5.1 (fix build problem) (#1205)
 - bump copernicusmarine from 2.3.0 to 2.4.0 (#1208)
+- bump scores from 2.4.0 to 2.5.0 (compat. Python 3.14) (#1211)
 
 ### Bug Fixes
 
