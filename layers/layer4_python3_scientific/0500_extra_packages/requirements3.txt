@@ -77,7 +77,7 @@ folium==0.19.5
 fonttools==4.61.0
 frozendict==2.4.7
 gast==0.6.0
-GDAL==3.12.2
+GDAL==3.13.0
 geoarrow_c==0.3.1
 geoarrow-pyarrow==0.2.0
 geoarrow-types==0.3.0
