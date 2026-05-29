@@ -38,7 +38,7 @@
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.2 | python3_scientific |
 | [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.4.1 | python3_scientific |
 | [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
-| [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.2.10 | python3_scientific |
+| [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.2.20 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.11.0 | python3_scientific |
 | [crc32c](https://github.com/ICRAR/crc32c) | 2.7.1 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
