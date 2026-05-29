@@ -82,7 +82,7 @@
 | [Flask](https://pypi.org/project/Flask) | 3.1.3 | python3_scientific |
 | [flexcache](https://github.com/hgrecco/flexcache) | 0.3 | python3_scientific |
 | [flexparser](https://github.com/hgrecco/flexparser) | 0.4 | python3_scientific |
-| [floris](https://github.com/NatLabRockies/floris) | 4.6.2 | python3_scientific |
+| [floris](https://github.com/NatLabRockies/floris) | 4.6.4 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.19.5 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.61.0 | python3_scientific |
 | [frozendict](https://github.com/Marco-Sulla/python-frozendict) | 2.4.7 | python3_scientific |
