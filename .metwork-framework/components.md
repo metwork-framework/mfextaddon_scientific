@@ -190,7 +190,7 @@
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_scientific |
 | [qubed](https://pypi.org/project/qubed) | 0.3.1 | python3_scientific |
-| [rasterio](https://github.com/rasterio/rasterio) | 1.4.3 | python3_scientific |
+| [rasterio](https://pypi.org/project/rasterio) | 1.5.0 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
 | [rioxarray](https://corteva.github.io/rioxarray/) | 0.21.0 | python3_scientific |
