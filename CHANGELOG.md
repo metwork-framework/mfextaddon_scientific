@@ -97,6 +97,7 @@
 - bump pydecorate from 0.5.0 to 0.5.1 (fix build problem) (#1205)
 - bump copernicusmarine from 2.3.0 to 2.4.0 (#1208)
 - bump scores from 2.4.0 to 2.5.0 (compat. Python 3.14) (#1211)
+- bump GDAL from 3.12.2 to 3.13.0 (#1213)
 
 ### Bug Fixes
 
