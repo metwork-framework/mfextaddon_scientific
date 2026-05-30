@@ -98,6 +98,10 @@
 - bump copernicusmarine from 2.3.0 to 2.4.0 (#1208)
 - bump scores from 2.4.0 to 2.5.0 (compat. Python 3.14) (#1211)
 - bump GDAL from 3.12.2 to 3.13.0 (#1213)
+- bump rasterio from 1.4.3 to 1.5.0
+- bump copernicusmarine from 2.4.0 to 2.4.1 (#1215)
+- bump covjsonkit from 0.2.10 to 0.2.20 (#1216)
+- bump floris from 4.6.2 to 4.6.4 (#1217)
 
 ### Bug Fixes
 
