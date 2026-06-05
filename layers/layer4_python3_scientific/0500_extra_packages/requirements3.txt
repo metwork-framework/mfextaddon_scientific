@@ -57,14 +57,14 @@ earthkit-time==0.1.7
 earthkit-transforms==0.5.3.1
 earthkit-utils==0.1.2
 earthkit-workflows==0.14.1
-eccodes==2.45.0
-eccodeslib==2.45.1.9
-eckitlib==1.32.4.9
+eccodes==2.47.0
+eccodeslib==2.46.2.19
+eckitlib==2.0.7.19
 ecmwf-api-client==1.6.5
 ecmwf-opendata==0.3.19
 fasteners==0.19
 fastparquet==2024.11.0
-fckitlib==0.14.1.9
+fckitlib==0.14.2.19
 ffmpy==0.5.0
 findlibs==0.1.2
 Fiona==1.10.1
@@ -120,7 +120,7 @@ numcodecs==0.15.1
 numexpr==2.14.1
 numpngw==0.1.4
 objsize==0.8.0
-odclib==1.6.2.9
+odclib==1.6.3.19
 opencv-contrib-python-headless==4.11.0.86
 openturns==1.26
 palettable==3.3.3
