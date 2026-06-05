@@ -200,7 +200,7 @@
 | [satpy](https://github.com/pytroll/satpy) | 0.56.0 | python3_scientific |
 | [scikit-image](https://scikit-image.org) | 0.25.2 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.6.1 | python3_scientific |
-| [scipy](https://scipy.org/) | 1.17.0 | python3_scientific |
+| [scipy](https://scipy.org/) | 1.17.1 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.14.1 | python3_scientific |
 | [scores](https://pypi.org/project/scores) | 2.5.0 | python3_scientific |
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.2 | python3_scientific |
