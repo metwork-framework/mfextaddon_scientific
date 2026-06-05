@@ -59,7 +59,7 @@
 | [earthkit-time](https://github.com/ecmwf/earthkit-time/) | 0.1.7 | python3_scientific |
 | [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 0.5.3.1 | python3_scientific |
 | [earthkit-utils](https://github.com/ecmwf/earthkit-utils/) | 0.1.2 | python3_scientific |
-| [earthkit-workflows](https://pypi.org/project/earthkit-workflows) | 0.7.0 | python3_scientific |
+| [earthkit-workflows](https://pypi.org/project/earthkit-workflows) | 0.14.1 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.45.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.45.0 | scientific |
