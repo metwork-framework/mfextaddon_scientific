@@ -102,6 +102,9 @@
 - bump copernicusmarine from 2.4.0 to 2.4.1 (#1215)
 - bump covjsonkit from 0.2.10 to 0.2.20 (#1216)
 - bump floris from 4.6.2 to 4.6.4 (#1217)
+- bump scipy from 1.17.0 to 1.17.1 (#1218)
+- bump earthkit-workflows from 0.7.0 to 0.14.1 (#1219)
+- bump eccodes and its binding python from 2.45.0 to 2.47.0 (#1220)
 
 ### Bug Fixes
 
