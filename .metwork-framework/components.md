@@ -163,7 +163,7 @@
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.7 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 6.33.5 | python3_scientific |
 | [puremagic](https://github.com/cdgriffith/puremagic) | 1.29 | python3_scientific |
-| [pyarrow](https://arrow.apache.org/) | 22.0.0 | python3_scientific |
+| [pyarrow](https://arrow.apache.org/) | 23.0.1 | python3_scientific |
 | [pycoast](https://pypi.org/project/pycoast) | 1.7.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.6 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.5.1 | python3_scientific |
