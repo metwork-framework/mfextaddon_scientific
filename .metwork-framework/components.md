@@ -171,12 +171,8 @@
 | [ppft](https://github.com/uqfoundation/ppft) | 1.7.7 | python3_scientific |
 | [protobuf](https://developers.google.com/protocol-buffers/) | 6.33.5 | python3_scientific |
 | [puremagic](https://github.com/cdgriffith/puremagic) | 1.29 | python3_scientific |
-<<<<<<< HEAD
 | [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) | 9.0.0 | python3_scientific |
-| [pyarrow](https://arrow.apache.org/) | 20.0.0 | python3_scientific |
-=======
 | [pyarrow](https://arrow.apache.org/) | 23.0.1 | python3_scientific |
->>>>>>> 1afe2d8 (feat: bump pyarrow from 22.0.0 to 23.0.1 (fix high CVE-2026-25087) (#1221))
 | [pycoast](https://pypi.org/project/pycoast) | 1.7.1 | python3_scientific |
 | [pycurl](http://pycurl.io/) | 7.45.6 | python3_scientific |
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.4.0 | python3_scientific |
