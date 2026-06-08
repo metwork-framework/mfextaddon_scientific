@@ -135,11 +135,7 @@ pox==0.3.6
 ppft==1.7.7
 protobuf==6.33.5
 puremagic==1.29
-<<<<<<< HEAD
-pyarrow==20.0.0
-=======
 pyarrow==23.0.1
->>>>>>> 1afe2d8 (feat: bump pyarrow from 22.0.0 to 23.0.1 (fix high CVE-2026-25087) (#1221))
 pycoast==1.7.1
 pycurl==7.45.6
 pydecorate==0.4.0
