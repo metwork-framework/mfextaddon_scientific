@@ -139,7 +139,7 @@ pox==0.3.6
 ppft==1.7.7
 protobuf==6.33.5
 puremagic==1.29
-pyarrow==22.0.0
+pyarrow==23.0.1
 pycoast==1.7.1
 pycurl==7.45.6
 pydecorate==0.5.1
