@@ -105,6 +105,7 @@
 - bump scipy from 1.17.0 to 1.17.1 (#1218)
 - bump earthkit-workflows from 0.7.0 to 0.14.1 (#1219)
 - bump eccodes and its binding python from 2.45.0 to 2.47.0 (#1220)
+- bump pyarrow from 22.0.0 to 23.0.1 (fix high CVE-2026-25087) (#1221)
 
 ### Bug Fixes
 
