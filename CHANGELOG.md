@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump pyarrow from 22.0.0 to 23.0.1 (fix high CVE-2026-25087) (#1221)
+
 ## v2.3.10 (2026-03-22)
 
 ### New Features
