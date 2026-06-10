@@ -93,7 +93,7 @@
 | [geoarrow-pyarrow](https://geoarrow.org) | 0.2.0 | python3_scientific |
 | [geoarrow-types](https://geoarrow.org) | 0.3.0 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
-| [geopandas](https://pypi.org/project/geopandas) | 1.1.2 | python3_scientific |
+| [geopandas](https://pypi.org/project/geopandas) | 1.1.3 | python3_scientific |
 | [geopy](https://github.com/geopy/geopy) | 2.4.1 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.5.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.3 | python3_scientific |
