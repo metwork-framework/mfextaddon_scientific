@@ -105,7 +105,7 @@
 | [HeapDict](http://stutzbachenterprises.com/) | 1.0.1 | python3_scientific |
 | [humanfriendly](https://humanfriendly.readthedocs.io) | 10.0 | python3_scientific |
 | [humanize](https://github.com/python-humanize/humanize) | 4.15.0 | python3_scientific |
-| [icclim](https://pypi.org/project/icclim) | 7.0.5 | python3_scientific |
+| [icclim](https://pypi.org/project/icclim) | 7.1.0 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-44 | scientific |
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
