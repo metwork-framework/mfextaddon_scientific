@@ -169,7 +169,7 @@
 | [pydecorate](https://github.com/pytroll/pydecorate) | 0.5.1 | python3_scientific |
 | [pyepsg](https://github.com/rhattersley/pyepsg) | 0.4.0 | python3_scientific |
 | [pyerfa](https://github.com/liberfa/pyerfa) | 2.0.1.5 | python3_scientific |
-| [pygeoapi](https://pygeoapi.io) | 0.22.0 | python3_scientific |
+| [pygeoapi](https://pygeoapi.io) | 0.23.4 | python3_scientific |
 | [pygeofilter](https://github.com/geopython/pygeofilter) | 0.3.1 | python3_scientific |
 | [pygeoif](https://github.com/cleder/pygeoif/) | 1.5.1 | python3_scientific |
 | [pygmt](https://www.pygmt.org) | 0.15.0 | python3_scientific |
