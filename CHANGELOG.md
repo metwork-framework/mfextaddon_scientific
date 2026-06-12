@@ -108,6 +108,10 @@
 - bump pyarrow from 22.0.0 to 23.0.1 (fix high CVE-2026-25087) (#1221)
 - bump numpy from 2.4.2 to 2.4.6 (#1223)
 - bump geopandas from 1.1.2 to 1.1.3 (compatibility pandas 3.0) (#1224)
+- bump polars from 1.39.0 to 1.41.2 (#1225)
+- bump icclim from 7.0.5 to 7.1.0
+- bump pygeoapi from 0.22.0 to 0.23.4 (#1227)
+- bump dask and distributed from 2026.1.2 to 2026.3.0 (#1228)
 
 ### Bug Fixes
 
