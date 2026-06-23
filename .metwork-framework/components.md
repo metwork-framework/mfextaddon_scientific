@@ -114,7 +114,7 @@
 | [lark](https://github.com/lark-parser/lark) | 1.1.8 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
 | [libimagequant](https://pngquant.org/lib/) | 4.3.4 | scientific |
-| [llvmlite](http://llvmlite.readthedocs.io) | 0.46.0 | python3_scientific |
+| [llvmlite](http://llvmlite.readthedocs.io) | 0.47.0 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.8 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
@@ -136,7 +136,7 @@
 | [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.2 | scientific |
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.7.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 3.4.2 | python3_scientific |
-| [numba](https://numba.pydata.org) | 0.64.0 | python3_scientific |
+| [numba](https://numba.pydata.org) | 0.65.1 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.14.1 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
