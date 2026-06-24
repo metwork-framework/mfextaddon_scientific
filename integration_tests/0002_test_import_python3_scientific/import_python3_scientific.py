@@ -192,7 +192,6 @@ import shapely
 import sqlalchemy
 import statsmodels
 import tblib
-import tenacity
 import tifffile
 import tinydb
 import toolz
