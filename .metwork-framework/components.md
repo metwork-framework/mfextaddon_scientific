@@ -27,6 +27,7 @@
 | [cf_xarray](https://cf-xarray.readthedocs.io) | 0.10.5 | python3_scientific |
 | [cfgrib](https://github.com/ecmwf/cfgrib) | 0.9.15.0 | python3_scientific |
 | [cftime](https://pypi.org/project/cftime) | 1.6.4.post1 | python3_scientific |
+| [choreographer](https://github.com/plotly/choreographer) | 1.0.10 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
 | [climetlab](https://github.com/ecmwf/climetlab/) | 0.24.1 | python3_scientific |
@@ -113,6 +114,7 @@
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [jsonpickle](https://jsonpickle.readthedocs.io/) | 4.0.5 | python3_scientific |
+| [kaleido](https://github.com/plotly/kaleido) | 1.0.0 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.8 | python3_scientific |
 | [lark](https://github.com/lark-parser/lark) | 1.1.8 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
@@ -120,6 +122,7 @@
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.44.0 | python3_scientific |
 | [lmoments3](https://lmoments3.readthedocs.io/en) | 1.0.8 | python3_scientific |
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
+| [logistro](https://github.com/geopozo/logistro) | 1.0.12 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
 | [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
@@ -160,7 +163,7 @@
 | [pdbufr](https://github.com/ecmwf/pdbufr) | 0.12.2 | python3_scientific |
 | [Pint](https://github.com/hgrecco/pint) | 0.24.4 | python3_scientific |
 | [pkgconfig](https://github.com/matze/pkgconfig) | 1.5.5 | python3_scientific |
-| [plotly](https://plotly.com/python/) | 6.0.1 | python3_scientific |
+| [plotly](https://plotly.com/python/) | 6.1.2 | python3_scientific |
 | [ply](http://www.dabeaz.com/ply/) | 3.11 | python3_scientific |
 | [pngquant](https://github.com/Brightcells/pngquant) | 3.0.3 | python3_scientific |
 | [pngquant](http://www.pngquant.org/) | 3.0.3 | scientific |
@@ -218,6 +221,7 @@
 | [seaborn](https://pypi.org/project/seaborn) | 0.13.2 | python3_scientific |
 | [semver](https://pypi.org/project/semver) | 3.0.4 | python3_scientific |
 | [shapely](https://pypi.org/project/shapely) | 2.1.0 | python3_scientific |
+| [simplejson](https://github.com/simplejson/simplejson) | 3.20.2 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 2.1.0 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.40 | python3_scientific |
 | [statsmodels](https://www.statsmodels.org/) | 0.14.4 | python3_scientific |
@@ -244,4 +248,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(243 components)*
+*(247 components)*
