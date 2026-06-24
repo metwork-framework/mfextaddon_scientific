@@ -112,6 +112,8 @@
 - bump icclim from 7.0.5 to 7.1.0
 - bump pygeoapi from 0.22.0 to 0.23.4 (#1227)
 - bump dask and distributed from 2026.1.2 to 2026.3.0 (#1228)
+- bump numba from 0.64.0 to 0.65.1 and llvmlite to 0.47.0 (#1232)
+- bump scitools-iris from 3.14.1 to 3.15.0 (#1233)
 
 ### Bug Fixes
 
