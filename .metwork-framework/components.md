@@ -128,7 +128,6 @@
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.18 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.5 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
-| [narwhals](https://github.com/narwhals-dev/narwhals) | 1.37.0 | python3_scientific |
 | [ncl](https://www.ncl.ucar.edu/) | 6.6.2 | scientific |
 | [nco](https://pypi.org/project/nco) | 1.1.2 | python3_scientific |
 | [nco](http://nco.sourceforge.net) | 5.3.3 | scientific |
@@ -231,4 +230,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(230 components)*
+*(229 components)*
