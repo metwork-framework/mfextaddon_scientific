@@ -111,7 +111,6 @@
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.8 | python3_scientific |
-| [lark](https://github.com/lark-parser/lark) | 1.1.8 | python3_scientific |
 | [lazy_loader](https://pypi.org/project/lazy_loader) | 0.4 | python3_scientific |
 | [libimagequant](https://pngquant.org/lib/) | 4.3.4 | scientific |
 | [llvmlite](http://llvmlite.readthedocs.io) | 0.47.0 | python3_scientific |

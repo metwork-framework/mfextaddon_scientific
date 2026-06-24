@@ -97,7 +97,6 @@ imageio==2.37.0
 itsdangerous==2.2.0
 jsmin==3.0.1
 kiwisolver==1.4.8
-lark==1.1.8
 lazy-loader==0.4
 llvmlite==0.47.0
 lmoments3==1.0.8
