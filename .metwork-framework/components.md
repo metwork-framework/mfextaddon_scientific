@@ -193,7 +193,7 @@
 | [rasterio](https://pypi.org/project/rasterio) | 1.5.0 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
 | [rich-argparse](https://github.com/hamdanal/rich-argparse) | 1.7.0 | python3_scientific |
-| [rioxarray](https://corteva.github.io/rioxarray/) | 0.21.0 | python3_scientific |
+| [rioxarray](https://corteva.github.io/rioxarray/) | 0.22.0 | python3_scientific |
 | [rtree](https://pypi.org/project/rtree) | 1.4.0 | python3_scientific |
 | [s3transfer](https://github.com/boto/s3transfer) | 0.12.0 | python3_scientific |
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
@@ -221,7 +221,7 @@
 | [tzlocal](https://pypi.org/project/tzlocal) | 5.3.1 | python3_scientific |
 | [udunits](http://www.unidata.ucar.edu/software/udunits) | 2.2.28 | scientific |
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.2 | python3_scientific |
-| [xarray](https://xarray.dev/) | 2025.8.0 | python3_scientific |
+| [xarray](https://xarray.dev/) | 2026.4.0 | python3_scientific |
 | [xclim](https://xclim.readthedocs.io/) | 0.60.0 | python3_scientific |
 | [xsdba](https://xsdba.readthedocs.io/) | 0.4.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.5.0 | python3_scientific |
