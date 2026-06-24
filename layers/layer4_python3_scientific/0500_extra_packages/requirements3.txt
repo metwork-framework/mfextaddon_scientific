@@ -183,7 +183,6 @@ Shapely==2.1.0
 SQLAlchemy==2.0.40
 statsmodels==0.14.4
 tblib==3.1.0
-tenacity==9.1.2
 thermofeel==2.1.1
 tifffile==2025.5.10
 tinydb==4.8.2
