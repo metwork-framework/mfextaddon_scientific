@@ -28,7 +28,6 @@ import cf_units
 import cf_xarray
 import cfgrib
 import cftime
-import choreographer
 import click_plugins
 import cligj
 import climetlab
@@ -114,7 +113,6 @@ import lazy_loader
 import llvmlite
 import lmoments3
 import locket
-import logistro
 import lru #lru_dict
 import Magics
 import mapclassify
@@ -207,7 +205,6 @@ import iris #scitools-iris
 import pyke #scitools-pyke
 import seaborn
 import shapely
-import simplejson
 import sqlalchemy
 import statsmodels
 import tblib
