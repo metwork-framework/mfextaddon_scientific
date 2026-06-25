@@ -12,9 +12,10 @@ ecmwflibs
 fckitlib
 ffmpy
 flatten-dict
-openturns
+kaleido
 llvmlite
 odclib
+openturns
 orjson
 polars
 pyarrow
