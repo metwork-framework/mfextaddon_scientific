@@ -88,7 +88,7 @@
 | [frozendict](https://github.com/Marco-Sulla/python-frozendict) | 2.4.7 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.6.0 | python3_scientific |
-| [GDAL](http://www.gdal.org) | 3.13.0 | python3_scientific |
+| [GDAL](http://www.gdal.org) | 3.13.1 | python3_scientific |
 | [geoarrow-c](https://geoarrow.org) | 0.3.1 | python3_scientific |
 | [geoarrow-pyarrow](https://geoarrow.org) | 0.2.0 | python3_scientific |
 | [geoarrow-types](https://geoarrow.org) | 0.3.0 | python3_scientific |
