@@ -142,7 +142,7 @@
 | [objsize](https://github.com/liran-funaro/objsize) | 0.8.0 | python3_scientific |
 | [odclib](https://pypi.org/project/odclib) | 1.6.3.19 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
-| [openturns](http://www.openturns.org) | 1.26 | python3_scientific |
+| [openturns](http://www.openturns.org) | 1.27.post1 | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.3 | python3_scientific |
 | [pandas](https://pandas.pydata.org) | 2.3.3 | python3_scientific |
 | [partd](http://github.com/dask/partd/) | 1.4.2 | python3_scientific |
