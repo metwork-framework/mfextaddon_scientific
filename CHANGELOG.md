@@ -117,6 +117,7 @@
 - bump xarray from 2025.8.0 to 2026.4.0
 - bump ImageMagick6 to 6.9.13-52 (fix moderate CVE-2026-53462)
 - bump GDAL from 3.13.0 to 3.13.1 (compat gdal library 3.13.1)
+- bump openturns from 1.26 to 1.27.post1
 
 ### Bug Fixes
 
