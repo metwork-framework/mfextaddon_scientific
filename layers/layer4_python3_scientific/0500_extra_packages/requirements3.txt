@@ -191,7 +191,7 @@ trollsift==0.5.3
 tzdata==2025.2
 tzlocal==5.3.1
 windrose==1.9.2
-xclim==0.60.0
+xclim==0.61.1
 xsdba==0.4.0
 xxhash==3.5.0
 xyzservices==2025.4.0
