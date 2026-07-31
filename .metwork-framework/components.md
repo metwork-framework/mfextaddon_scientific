@@ -131,7 +131,6 @@
 | [nco](https://pypi.org/project/nco) | 1.1.2 | python3_scientific |
 | [nco](http://nco.sourceforge.net) | 5.3.3 | scientific |
 | [ncview](https://cirrus.ucsd.edu/ncview/) | 2.1.11 | scientific |
-| [netcdf-fortran](http://www.unidata.ucar.edu/software/netcdf/) | 4.6.2 | scientific |
 | [netCDF4](https://pypi.org/project/netCDF4) | 1.7.2 | python3_scientific |
 | [networkx](https://networkx.org/) | 3.4.2 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.65.1 | python3_scientific |
@@ -228,4 +227,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(227 components)*
+*(226 components)*
