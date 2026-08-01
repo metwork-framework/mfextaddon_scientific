@@ -119,6 +119,7 @@
 - bump GDAL from 3.13.0 to 3.13.1 (compat gdal library 3.13.1)
 - bump openturns from 1.26 to 1.27.post1
 - bump xclim from 0.60.0 to 0.61.1 (#1248)
+- remove netcdf-fortran (moved to layer scientific_core) (#1249)
 
 ### Bug Fixes
 
