@@ -98,3 +98,4 @@ basemap
 rioxarray
 geoarrow-pyarrow
 adbc-driver-postgresql
+#covjsonkit (optional dependency of earthkit) removed for compatibility pandas 3.0

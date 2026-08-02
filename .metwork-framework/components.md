@@ -34,11 +34,8 @@
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.1.1 | python3_scientific |
 | [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
-| [conflator](https://pypi.org/project/conflator) | 0.1.8 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.2 | python3_scientific |
 | [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.4.1 | python3_scientific |
-| [covjson-pydantic](https://pypi.org/project/covjson-pydantic) | 0.6.0 | python3_scientific |
-| [covjsonkit](https://github.com/ecmwf/covjsonkit) | 0.2.20 | python3_scientific |
 | [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.11.0 | python3_scientific |
 | [crc32c](https://github.com/ICRAR/crc32c) | 2.7.1 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
@@ -227,4 +224,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(226 components)*
+*(223 components)*
