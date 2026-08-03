@@ -120,6 +120,9 @@
 - bump openturns from 1.26 to 1.27.post1
 - bump xclim from 0.60.0 to 0.61.1 (#1248)
 - remove netcdf-fortran (moved to layer scientific_core) (#1249)
+- bump floris from 4.6.4 to 4.6.6
+- bump scores from 2.5.0 to 2.6.0 (compatibility pandas 3) (#1252)
+- remove covjsonkit and dependencies (compatibility pandas 3.0) (#1253)
 
 ### Bug Fixes
 
