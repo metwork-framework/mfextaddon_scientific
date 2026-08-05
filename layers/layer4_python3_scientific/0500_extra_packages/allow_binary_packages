@@ -1,5 +1,6 @@
 adbc-driver-postgresql
 cdo
+cloudpickle
 eccodeslib
 eckitlib
 ecmwflibs
