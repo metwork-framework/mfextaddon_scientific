@@ -123,6 +123,7 @@
 - bump floris from 4.6.4 to 4.6.6
 - bump scores from 2.5.0 to 2.6.0 (compatibility pandas 3) (#1252)
 - remove covjsonkit and dependencies (compatibility pandas 3.0) (#1253)
+- bump cloudpickle from 3.1.1 to 3.1.2 and use binary wheel
 
 ### Bug Fixes
 
