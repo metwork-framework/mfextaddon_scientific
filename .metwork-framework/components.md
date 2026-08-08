@@ -140,7 +140,7 @@
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.27.post1 | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.3 | python3_scientific |
-| [pandas](https://pandas.pydata.org) | 2.3.3 | python3_scientific |
+| [pandas](https://pandas.pydata.org) | 3.0.5 | python3_scientific |
 | [partd](http://github.com/dask/partd/) | 1.4.2 | python3_scientific |
 | [pathos](https://github.com/uqfoundation/pathos) | 0.3.4 | python3_scientific |
 | [patsy](https://github.com/pydata/patsy) | 1.0.1 | python3_scientific |
