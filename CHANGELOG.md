@@ -125,6 +125,7 @@
 - remove covjsonkit and dependencies (compatibility pandas 3.0) (#1253)
 - bump cloudpickle from 3.1.1 to 3.1.2 and use binary wheel
 - bump dask and distributed from 2026.3.0 to 2026.7.1 (#1256)
+- bump scipy from 1.17.1 to 1.18.0
 
 ### Bug Fixes
 
