@@ -126,6 +126,8 @@
 - bump cloudpickle from 3.1.1 to 3.1.2 and use binary wheel
 - bump dask and distributed from 2026.3.0 to 2026.7.1 (#1256)
 - bump scipy from 1.17.1 to 1.18.0
+- remove basemap (compatibily issues with packaging, numpy...)
+- bump numba/llvmlite from 0.65.1/0.47.0 to 0.66.0/0.48.0 (#1259)
 
 ### Bug Fixes
 
