@@ -96,6 +96,38 @@
 - bump ImageMagick6 to 6.9.13-44 (fix 6 moderate CVE) (#1204)
 - bump pydecorate from 0.5.0 to 0.5.1 (fix build problem) (#1205)
 - bump copernicusmarine from 2.3.0 to 2.4.0 (#1208)
+- bump scores from 2.4.0 to 2.5.0 (compat. Python 3.14) (#1211)
+- bump GDAL from 3.12.2 to 3.13.0 (#1213)
+- bump rasterio from 1.4.3 to 1.5.0
+- bump copernicusmarine from 2.4.0 to 2.4.1 (#1215)
+- bump covjsonkit from 0.2.10 to 0.2.20 (#1216)
+- bump floris from 4.6.2 to 4.6.4 (#1217)
+- bump scipy from 1.17.0 to 1.17.1 (#1218)
+- bump earthkit-workflows from 0.7.0 to 0.14.1 (#1219)
+- bump eccodes and its binding python from 2.45.0 to 2.47.0 (#1220)
+- bump pyarrow from 22.0.0 to 23.0.1 (fix high CVE-2026-25087) (#1221)
+- bump numpy from 2.4.2 to 2.4.6 (#1223)
+- bump geopandas from 1.1.2 to 1.1.3 (compatibility pandas 3.0) (#1224)
+- bump polars from 1.39.0 to 1.41.2 (#1225)
+- bump icclim from 7.0.5 to 7.1.0
+- bump pygeoapi from 0.22.0 to 0.23.4 (#1227)
+- bump dask and distributed from 2026.1.2 to 2026.3.0 (#1228)
+- bump numba from 0.64.0 to 0.65.1 and llvmlite to 0.47.0 (#1232)
+- bump scitools-iris from 3.14.1 to 3.15.0 (#1233)
+- bump xarray from 2025.8.0 to 2026.4.0
+- bump ImageMagick6 to 6.9.13-52 (fix moderate CVE-2026-53462)
+- bump GDAL from 3.13.0 to 3.13.1 (compat gdal library 3.13.1)
+- bump openturns from 1.26 to 1.27.post1
+- bump xclim from 0.60.0 to 0.61.1 (#1248)
+- remove netcdf-fortran (moved to layer scientific_core) (#1249)
+- bump floris from 4.6.4 to 4.6.6
+- bump scores from 2.5.0 to 2.6.0 (compatibility pandas 3) (#1252)
+- remove covjsonkit and dependencies (compatibility pandas 3.0) (#1253)
+- bump cloudpickle from 3.1.1 to 3.1.2 and use binary wheel
+- bump dask and distributed from 2026.3.0 to 2026.7.1 (#1256)
+- bump scipy from 1.17.1 to 1.18.0
+- remove basemap (compatibily issues with packaging, numpy...)
+- bump numba/llvmlite from 0.65.1/0.47.0 to 0.66.0/0.48.0 (#1259)
 
 ### Bug Fixes
 

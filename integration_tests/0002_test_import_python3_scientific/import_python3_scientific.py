@@ -31,11 +31,8 @@ import climetlab
 import cloudpickle
 import coloredlogs
 import configobj
-import conflator
 import contourpy
 import copernicusmarine
-import covjson_pydantic
-import covjsonkit
 import cramjam
 import crc32c
 import cycler
@@ -101,7 +98,6 @@ import jsonpickle
 import jsonschema
 import jsonschema_specifications
 import kiwisolver
-import lark
 import lazy_loader
 import llvmlite
 import lmoments3
@@ -116,7 +112,6 @@ import metview
 import multiprocess
 import multiurl
 import munch
-import narwhals
 from nco import Nco
 nco = Nco()
 import netCDF4
@@ -191,7 +186,6 @@ import shapely
 import sqlalchemy
 import statsmodels
 import tblib
-import tenacity
 import tifffile
 import tinydb
 import toolz
