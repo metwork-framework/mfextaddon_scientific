@@ -128,6 +128,7 @@
 - bump scipy from 1.17.1 to 1.18.0
 - remove basemap (compatibily issues with packaging, numpy...)
 - bump numba/llvmlite from 0.65.1/0.47.0 to 0.66.0/0.48.0 (#1259)
+- bump earthkit-workflows from 0.14.1 to 0.15.6 (#1262)
 
 ### Bug Fixes
 
