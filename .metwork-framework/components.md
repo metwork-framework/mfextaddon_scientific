@@ -130,7 +130,7 @@
 | [networkx](https://networkx.org/) | 3.4.2 | python3_scientific |
 | [numba](https://numba.pydata.org) | 0.66.0 | python3_scientific |
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
-| [numexpr](https://github.com/pydata/numexpr) | 2.14.1 | python3_scientific |
+| [numexpr](https://github.com/pydata/numexpr) | 2.14.2 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.4.6 | python3_scientific |
 | [objsize](https://github.com/liran-funaro/objsize) | 0.8.0 | python3_scientific |

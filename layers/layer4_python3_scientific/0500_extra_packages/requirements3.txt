@@ -110,7 +110,7 @@ netCDF4==1.7.2
 networkx==3.4.2
 numba==0.66.0
 numcodecs==0.15.1
-numexpr==2.14.1
+numexpr==2.14.2
 numpngw==0.1.4
 objsize==0.8.0
 odclib==1.6.3.19
