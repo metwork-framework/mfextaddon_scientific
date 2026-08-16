@@ -130,6 +130,7 @@
 - bump numba/llvmlite from 0.65.1/0.47.0 to 0.66.0/0.48.0 (#1259)
 - bump earthkit-workflows from 0.14.1 to 0.15.6 (#1262)
 - bump xarray from 2026.4.0 to 2026.7.0
+- bump numexpr from 2.14.1 to 2.14.2
 
 ### Bug Fixes
 
