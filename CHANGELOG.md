@@ -131,6 +131,7 @@
 - bump earthkit-workflows from 0.14.1 to 0.15.6 (#1262)
 - bump xarray from 2026.4.0 to 2026.7.0
 - bump numexpr from 2.14.1 to 2.14.2
+- bump GDAL from 3.13.1 to 3.13.2 (#1265)
 
 ### Bug Fixes
 
