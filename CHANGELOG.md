@@ -132,6 +132,8 @@
 - bump xarray from 2026.4.0 to 2026.7.0
 - bump numexpr from 2.14.1 to 2.14.2
 - bump GDAL from 3.13.1 to 3.13.2 (#1265)
+- bump ImageMagick6 from 6.9.13-52 to 6.9.13-54 (#1266)
+- bump polars from 1.41.2 to 1.43.2 (#1267)
 
 ### Bug Fixes
 
