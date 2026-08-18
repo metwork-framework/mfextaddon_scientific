@@ -190,7 +190,7 @@
 | [s3transfer](https://github.com/boto/s3transfer) | 0.12.0 | python3_scientific |
 | [salem](https://salem.readthedocs.io) | 0.3.11 | python3_scientific |
 | [satpy](https://github.com/pytroll/satpy) | 0.56.0 | python3_scientific |
-| [scikit-image](https://scikit-image.org) | 0.25.2 | python3_scientific |
+| [scikit-image](https://scikit-image.org) | 0.26.0 | python3_scientific |
 | [scikit-learn](https://scikit-learn.org) | 1.6.1 | python3_scientific |
 | [scipy](https://scipy.org/) | 1.18.0 | python3_scientific |
 | [scitools-iris](https://pypi.org/project/scitools-iris) | 3.15.0 | python3_scientific |
