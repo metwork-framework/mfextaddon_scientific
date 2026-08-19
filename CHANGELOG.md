@@ -134,6 +134,8 @@
 - bump GDAL from 3.13.1 to 3.13.2 (#1265)
 - bump ImageMagick6 from 6.9.13-52 to 6.9.13-54 (#1266)
 - bump polars from 1.41.2 to 1.43.2 (#1267)
+- bump scikit-image from 0.25.2 to 0.26.0 (#1268)
+- bump pygeoapi from 0.23.4 to 0.24.0 (#1269)
 
 ### Bug Fixes
 
