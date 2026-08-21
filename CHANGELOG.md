@@ -136,6 +136,7 @@
 - bump polars from 1.41.2 to 1.43.2 (#1267)
 - bump scikit-image from 0.25.2 to 0.26.0 (#1268)
 - bump pygeoapi from 0.23.4 to 0.24.0 (#1269)
+- bump icclim from 7.1.0 to 7.1.7 (#1270)
 
 ### Bug Fixes
 
