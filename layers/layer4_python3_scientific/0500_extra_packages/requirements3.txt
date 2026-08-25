@@ -157,7 +157,7 @@ pystac==1.13.0
 pysteps==1.18.1
 pyvis==0.3.1
 PyWavelets==1.8.0
-pyzmq==26.4.0
+pyzmq==27.2.0
 qubed==0.3.1
 rasterio==1.5.0
 regionmask==0.13.0

@@ -180,7 +180,7 @@
 | [pysteps](https://pysteps.github.io/) | 1.18.1 | python3_scientific |
 | [pyvis](https://github.com/WestHealth/pyvis) | 0.3.1 | python3_scientific |
 | [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
-| [pyzmq](https://pyzmq.readthedocs.org) | 26.4.0 | python3_scientific |
+| [pyzmq](https://pyzmq.readthedocs.org) | 27.2.0 | python3_scientific |
 | [qubed](https://pypi.org/project/qubed) | 0.3.1 | python3_scientific |
 | [rasterio](https://pypi.org/project/rasterio) | 1.5.0 | python3_scientific |
 | [regionmask](https://github.com/regionmask/regionmask) | 0.13.0 | python3_scientific |
