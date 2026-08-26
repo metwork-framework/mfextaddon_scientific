@@ -137,6 +137,7 @@
 - bump scikit-image from 0.25.2 to 0.26.0 (#1268)
 - bump pygeoapi from 0.23.4 to 0.24.0 (#1269)
 - bump icclim from 7.1.0 to 7.1.7 (#1270)
+- bump pyzmq from 26.4.0 to 27.2.0 (compat. Cython 3.3.0) (#1271)
 
 ### Bug Fixes
 
