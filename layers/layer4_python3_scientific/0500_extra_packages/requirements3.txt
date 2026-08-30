@@ -70,6 +70,7 @@ flexparser==0.4
 FLORIS==4.6.6
 folium==0.19.5
 fonttools==4.61.0
+formulaic==1.2.2
 frozendict==2.4.7
 gast==0.6.0
 GDAL==3.13.2
@@ -89,6 +90,7 @@ humanfriendly==10.0
 humanize==4.15.0
 icclim==7.1.7
 imageio==2.37.0
+interface-meta==2.0.1
 itsdangerous==2.2.0
 jsmin==3.0.1
 kiwisolver==1.4.8
@@ -175,7 +177,7 @@ seaborn==0.13.2
 semver==3.0.4
 Shapely==2.1.0
 SQLAlchemy==2.0.40
-statsmodels==0.14.4
+statsmodels==0.15.0
 tblib==3.1.0
 thermofeel==2.1.1
 tifffile==2025.5.10
@@ -187,7 +189,7 @@ tzdata==2025.2
 tzlocal==5.3.1
 windrose==1.9.2
 xclim==0.61.1
-xsdba==0.4.0
+xsdba==0.7.0
 xxhash==3.5.0
 xyzservices==2025.4.0
 yamale==6.0.0
