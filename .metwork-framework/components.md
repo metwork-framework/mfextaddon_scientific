@@ -80,6 +80,7 @@
 | [floris](https://github.com/NatLabRockies/floris) | 4.6.6 | python3_scientific |
 | [folium](https://github.com/python-visualization/folium) | 0.19.5 | python3_scientific |
 | [fonttools](http://github.com/fonttools/fonttools) | 4.61.0 | python3_scientific |
+| [formulaic](https://pypi.org/project/formulaic) | 1.2.2 | python3_scientific |
 | [frozendict](https://github.com/Marco-Sulla/python-frozendict) | 2.4.7 | python3_scientific |
 | [g2clib](https://www.ncl.ucar.edu/) | 1.6.3 | scientific |
 | [gast](https://github.com/serge-sans-paille/gast/) | 0.6.0 | python3_scientific |
@@ -103,6 +104,7 @@
 | [icclim](https://pypi.org/project/icclim) | 7.1.7 | python3_scientific |
 | [imageio](https://github.com/imageio/imageio) | 2.37.0 | python3_scientific |
 | [ImageMagick6](http://www.imagemagick.org) | 6.9.13-54 | scientific |
+| [interface_meta](https://github.com/matthewwardrop/interface_meta) | 2.0.1 | python3_scientific |
 | [itsdangerous](https://pypi.org/project/itsdangerous) | 2.2.0 | python3_scientific |
 | [jsmin](https://github.com/tikitu/jsmin/) | 3.0.1 | python3_scientific |
 | [kiwisolver](https://github.com/nucleic/kiwi) | 1.4.8 | python3_scientific |
@@ -200,7 +202,7 @@
 | [shapely](https://pypi.org/project/shapely) | 2.1.0 | python3_scientific |
 | [spatialindex](https://libspatialindex.org) | 2.1.0 | scientific |
 | [SQLAlchemy](https://www.sqlalchemy.org) | 2.0.40 | python3_scientific |
-| [statsmodels](https://www.statsmodels.org/) | 0.14.4 | python3_scientific |
+| [statsmodels](https://www.statsmodels.org) | 0.15.0 | python3_scientific |
 | [tblib](https://github.com/ionelmc/python-tblib) | 3.1.0 | python3_scientific |
 | [thermofeel](https://github.com/ecmwf-projects/thermofeel) | 2.1.1 | python3_scientific |
 | [tifffile](https://www.cgohlke.com) | 2025.5.10 | python3_scientific |
@@ -214,7 +216,7 @@
 | [windrose](https://github.com/python-windrose/windrose) | 1.9.2 | python3_scientific |
 | [xarray](https://xarray.dev/) | 2026.7.0 | python3_scientific |
 | [xclim](https://xclim.readthedocs.io/) | 0.61.1 | python3_scientific |
-| [xsdba](https://xsdba.readthedocs.io/) | 0.4.0 | python3_scientific |
+| [xsdba](https://xsdba.readthedocs.io/) | 0.7.0 | python3_scientific |
 | [xxhash](https://github.com/ifduyue/python-xxhash) | 3.5.0 | python3_scientific |
 | [xyzservices](https://github.com/geopandas/xyzservices) | 2025.4.0 | python3_scientific |
 | [yamale](https://github.com/23andMe/Yamale) | 6.0.0 | python3_scientific |
@@ -222,4 +224,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(221 components)*
+*(223 components)*
