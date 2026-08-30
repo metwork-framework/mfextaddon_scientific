@@ -3,7 +3,7 @@
 | [adbc-driver-manager](https://arrow.apache.org/adbc/) | 1.10.0 | python3_scientific |
 | [adbc-driver-postgresql](https://arrow.apache.org/adbc/) | 1.10.0 | python3_scientific |
 | [adjustText](https://github.com/Phlya/adjustText) | 1.3.0 | python3_scientific |
-| [affine](https://pypi.org/project/affine) | 2.4.0 | python3_scientific |
+| [affine](https://pypi.org/project/affine) | 3.0.1 | python3_scientific |
 | [aggdraw](https://github.com/pytroll/aggdraw) | 1.3.19 | python3_scientific |
 | [apng](https://github.com/eight04/pyAPNG) | 0.3.4 | python3_scientific |
 | [arcosparse](https://pypi.org/project/arcosparse) | 0.5.1 | python3_scientific |
