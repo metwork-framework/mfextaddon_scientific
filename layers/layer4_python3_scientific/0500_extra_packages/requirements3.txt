@@ -1,7 +1,7 @@
 adbc-driver-manager==1.10.0
 adbc-driver-postgresql==1.10.0
 adjustText==1.3.0
-affine==2.4.0
+affine==3.0.1
 aggdraw==1.3.19
 apng==0.3.4
 arcosparse==0.5.1
@@ -9,8 +9,6 @@ array_api_compat==1.11.2
 asciitree==0.3.3
 astropy==7.0.1
 astropy-iers-data==0.2025.4.14.0.37.22
--e git+https://github.com/thebaptiste/basemap.git@2.0.2#egg=basemap
-basemap_data==2.0.0
 blinker==1.9.0
 bokeh==3.8.2
 boltons==25.0.0
@@ -28,7 +26,7 @@ cfgrib==0.9.15.0
 click-plugins==1.1.1
 cligj==0.7.2
 -e git+https://github.com/thebaptiste/climetlab.git@0.24.1#egg=climetlab
-cloudpickle==3.1.1
+cloudpickle==3.1.2
 coloredlogs==15.0.1
 configobj==5.0.9
 contourpy==1.3.2
@@ -36,11 +34,11 @@ copernicusmarine==2.4.1
 cramjam==2.11.0
 crc32c==2.7.1
 cycler==0.12.1
-dask==2026.3.0
+dask==2026.7.1
 datapi==0.4.0
 dateparser==1.2.1
 DateTime==5.5
-distributed==2026.3.0
+distributed==2026.7.1
 docstring_parser==0.17
 donfig==0.8.1.post1
 earthkit-data==0.18.3
@@ -53,7 +51,7 @@ earthkit-regrid==0.5.1
 earthkit-time==0.1.7
 earthkit-transforms==0.5.3.1
 earthkit-utils==0.1.2
-earthkit-workflows==0.14.1
+earthkit-workflows==0.15.6
 eccodes==2.47.0
 eccodeslib==2.46.2.19
 eckitlib==2.0.7.19
@@ -74,7 +72,7 @@ folium==0.19.5
 fonttools==4.61.0
 frozendict==2.4.7
 gast==0.6.0
-GDAL==3.13.1
+GDAL==3.13.2
 geoarrow_c==0.3.1
 geoarrow-pyarrow==0.2.0
 geoarrow-types==0.3.0
@@ -89,13 +87,13 @@ hda==2.29
 HeapDict==1.0.1
 humanfriendly==10.0
 humanize==4.15.0
-icclim==7.1.0
+icclim==7.1.7
 imageio==2.37.0
 itsdangerous==2.2.0
 jsmin==3.0.1
 kiwisolver==1.4.8
 lazy-loader==0.4
-llvmlite==0.47.0
+llvmlite==0.48.0
 lmoments3==1.0.8
 locket==1.0.0
 lru-dict==1.3.0
@@ -110,9 +108,9 @@ munch==4.0.0
 nco==1.1.2
 netCDF4==1.7.2
 networkx==3.4.2
-numba==0.65.1
+numba==0.66.0
 numcodecs==0.15.1
-numexpr==2.14.1
+numexpr==2.14.2
 numpngw==0.1.4
 objsize==0.8.0
 odclib==1.6.3.19
@@ -126,8 +124,8 @@ pdbufr==0.12.2
 Pint==0.24.4
 plotly==6.0.1
 pngquant==3.0.3
-polars==1.41.2
-polars-runtime-32==1.41.2
+polars==1.43.2
+polars-runtime-32==1.43.2
 polytope-client==0.7.9
 pooch==1.8.2
 pox==0.3.6
@@ -140,7 +138,7 @@ pycurl==7.45.6
 pydecorate==0.5.1
 pyepsg==0.4.0
 pyerfa==2.0.1.5
-pygeoapi==0.23.4
+pygeoapi==0.24.0
 pygeofilter==0.3.1
 pygeoif==1.5.1
 pygmt==0.15.0
@@ -159,9 +157,9 @@ pystac==1.13.0
 pysteps==1.18.1
 pyvis==0.3.1
 PyWavelets==1.8.0
-pyzmq==26.4.0
+pyzmq==27.2.0
 qubed==0.3.1
-rasterio==1.5.0
+rasterio==1.5.1
 regionmask==0.13.0
 rich-argparse==1.7.0
 rioxarray==0.22.0
@@ -169,7 +167,7 @@ rtree==1.4.0
 s3transfer==0.12.0
 salem==0.3.11
 satpy==0.56.0
-scikit-image==0.25.2
+scikit-image==0.26.0
 scikit-learn==1.6.1
 scitools-iris==3.15.0
 scores==2.6.0

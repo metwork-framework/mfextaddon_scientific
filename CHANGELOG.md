@@ -120,6 +120,26 @@
 - bump openturns from 1.26 to 1.27.post1
 - bump xclim from 0.60.0 to 0.61.1 (#1248)
 - remove netcdf-fortran (moved to layer scientific_core) (#1249)
+- bump floris from 4.6.4 to 4.6.6
+- bump scores from 2.5.0 to 2.6.0 (compatibility pandas 3) (#1252)
+- remove covjsonkit and dependencies (compatibility pandas 3.0) (#1253)
+- bump cloudpickle from 3.1.1 to 3.1.2 and use binary wheel
+- bump dask and distributed from 2026.3.0 to 2026.7.1 (#1256)
+- bump scipy from 1.17.1 to 1.18.0
+- remove basemap (compatibily issues with packaging, numpy...)
+- bump numba/llvmlite from 0.65.1/0.47.0 to 0.66.0/0.48.0 (#1259)
+- bump earthkit-workflows from 0.14.1 to 0.15.6 (#1262)
+- bump xarray from 2026.4.0 to 2026.7.0
+- bump numexpr from 2.14.1 to 2.14.2
+- bump GDAL from 3.13.1 to 3.13.2 (#1265)
+- bump ImageMagick6 from 6.9.13-52 to 6.9.13-54 (#1266)
+- bump polars from 1.41.2 to 1.43.2 (#1267)
+- bump scikit-image from 0.25.2 to 0.26.0 (#1268)
+- bump pygeoapi from 0.23.4 to 0.24.0 (#1269)
+- bump icclim from 7.1.0 to 7.1.7 (#1270)
+- bump pyzmq from 26.4.0 to 27.2.0 (compat. Cython 3.3.0) (#1271)
+- bump rasterio from 1.5.0 to 1.5.1 (compat. affine >= 3.0) (#1272)
+- bump affine from 2.4.0 to 3.0.1 (#1273)
 
 ### Bug Fixes
 
