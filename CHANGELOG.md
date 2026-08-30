@@ -138,6 +138,8 @@
 - bump pygeoapi from 0.23.4 to 0.24.0 (#1269)
 - bump icclim from 7.1.0 to 7.1.7 (#1270)
 - bump pyzmq from 26.4.0 to 27.2.0 (compat. Cython 3.3.0) (#1271)
+- bump rasterio from 1.5.0 to 1.5.1 (compat. affine >= 3.0) (#1272)
+- bump affine from 2.4.0 to 3.0.1 (#1273)
 
 ### Bug Fixes
 
