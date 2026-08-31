@@ -140,6 +140,10 @@
 - bump pyzmq from 26.4.0 to 27.2.0 (compat. Cython 3.3.0) (#1271)
 - bump rasterio from 1.5.0 to 1.5.1 (compat. affine >= 3.0) (#1272)
 - bump affine from 2.4.0 to 3.0.1 (#1273)
+- bump pandas from 2.3.3 to 3.0.5 (with breaking changes) (#1254)
+- bump numba from 0.66.0 to 0.67.0 (support numpy 2.5) (#1274)
+- bump numpy from 2.4.6 to 2.5.2 (#1275)
+- bump xsdba to 0.7.0 and statsmodels to 0.15.0 (#1276)
 
 ### Bug Fixes
 
