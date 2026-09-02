@@ -144,6 +144,7 @@
 - bump numba from 0.66.0 to 0.67.0 (support numpy 2.5) (#1274)
 - bump numpy from 2.4.6 to 2.5.2 (#1275)
 - bump xsdba to 0.7.0 and statsmodels to 0.15.0 (#1276)
+- bump scitools-iris from 3.15.0 to 3.16.0 (#1277)
 
 ### Bug Fixes
 
