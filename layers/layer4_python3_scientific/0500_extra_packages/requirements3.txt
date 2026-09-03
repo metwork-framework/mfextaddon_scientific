@@ -73,7 +73,7 @@ fonttools==4.61.0
 formulaic==1.2.2
 frozendict==2.4.7
 gast==0.6.0
-GDAL==3.13.2
+GDAL==3.13.3
 geoarrow_c==0.3.1
 geoarrow-pyarrow==0.2.0
 geoarrow-types==0.3.0
