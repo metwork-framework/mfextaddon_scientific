@@ -128,6 +128,23 @@
 - bump scipy from 1.17.1 to 1.18.0
 - remove basemap (compatibily issues with packaging, numpy...)
 - bump numba/llvmlite from 0.65.1/0.47.0 to 0.66.0/0.48.0 (#1259)
+- bump earthkit-workflows from 0.14.1 to 0.15.6 (#1262)
+- bump xarray from 2026.4.0 to 2026.7.0
+- bump numexpr from 2.14.1 to 2.14.2
+- bump GDAL from 3.13.1 to 3.13.2 (#1265)
+- bump ImageMagick6 from 6.9.13-52 to 6.9.13-54 (#1266)
+- bump polars from 1.41.2 to 1.43.2 (#1267)
+- bump scikit-image from 0.25.2 to 0.26.0 (#1268)
+- bump pygeoapi from 0.23.4 to 0.24.0 (#1269)
+- bump icclim from 7.1.0 to 7.1.7 (#1270)
+- bump pyzmq from 26.4.0 to 27.2.0 (compat. Cython 3.3.0) (#1271)
+- bump rasterio from 1.5.0 to 1.5.1 (compat. affine >= 3.0) (#1272)
+- bump affine from 2.4.0 to 3.0.1 (#1273)
+- bump pandas from 2.3.3 to 3.0.5 (with breaking changes) (#1254)
+- bump numba from 0.66.0 to 0.67.0 (support numpy 2.5) (#1274)
+- bump numpy from 2.4.6 to 2.5.2 (#1275)
+- bump xsdba to 0.7.0 and statsmodels to 0.15.0 (#1276)
+- bump scitools-iris from 3.15.0 to 3.16.0 (#1277)
 
 ### Bug Fixes
 
