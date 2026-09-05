@@ -146,6 +146,7 @@
 - bump xsdba to 0.7.0 and statsmodels to 0.15.0 (#1276)
 - bump scitools-iris from 3.15.0 to 3.16.0 (#1277)
 - bump GDAL from 3.13.2 to 3.13.3 (#1279)
+- bump xclim from 0.61.1 to 0.62.0 (#1281)
 
 ### Bug Fixes
 
