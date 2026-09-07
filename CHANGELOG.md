@@ -147,6 +147,7 @@
 - bump scitools-iris from 3.15.0 to 3.16.0 (#1277)
 - bump GDAL from 3.13.2 to 3.13.3 (#1279)
 - bump xclim from 0.61.1 to 0.62.0 (#1281)
+- bump scipy from 1.18.0 to 1.18.1 (#1282)
 
 ### Bug Fixes
 
