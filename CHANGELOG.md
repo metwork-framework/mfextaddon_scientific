@@ -148,6 +148,11 @@
 - bump GDAL from 3.13.2 to 3.13.3 (#1279)
 - bump xclim from 0.61.1 to 0.62.0 (#1281)
 - bump scipy from 1.18.0 to 1.18.1 (#1282)
+- bump polars from 1.43.2 to 1.44.1
+- bump ImageMagick6 from 6.9.13-54 to 6.9.13-56 (#1284)
+- bump icclim from 7.1.7 to 7.1.10 (#1285)
+- bump dask and distributed from 2026.7.1 to 2026.8.0 (#1286)
+- bump eccodes and its binding python from 2.47.0 to 2.48.0 (#1287)
 
 ### Bug Fixes
 
