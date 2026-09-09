@@ -94,7 +94,6 @@ thermofeel
 copernicusmarine
 geopy
 pygeoapi
-basemap
 rioxarray
 geoarrow-pyarrow
 adbc-driver-postgresql
