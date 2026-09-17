@@ -54,7 +54,6 @@
 | [earthkit-time](https://github.com/ecmwf/earthkit-time/) | 0.1.7 | python3_scientific |
 | [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 0.5.3.1 | python3_scientific |
 | [earthkit-utils](https://github.com/ecmwf/earthkit-utils/) | 0.1.2 | python3_scientific |
-| [earthkit-workflows](https://pypi.org/project/earthkit-workflows) | 0.15.6 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.48.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.48.0 | scientific |
@@ -224,4 +223,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(223 components)*
+*(222 components)*

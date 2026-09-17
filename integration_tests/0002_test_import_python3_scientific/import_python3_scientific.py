@@ -60,7 +60,7 @@ import earthkit.regrid
 import earthkit.time
 import earthkit.transforms
 import earthkit.utils
-import earthkit.workflows
+#import earthkit.workflows
 import eccodes
 import ecmwfapi
 import ecmwf.opendata
