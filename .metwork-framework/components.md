@@ -34,7 +34,7 @@
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
 | [contourpy](https://github.com/contourpy/contourpy) | 1.3.2 | python3_scientific |
 | [copernicusmarine](https://pypi.org/project/copernicusmarine) | 2.4.1 | python3_scientific |
-| [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.11.0 | python3_scientific |
+| [cramjam](https://github.com/milesgranger/pyrus-cramjam) | 2.12.1 | python3_scientific |
 | [crc32c](https://github.com/ICRAR/crc32c) | 2.7.1 | python3_scientific |
 | [cycler](https://matplotlib.org/cycler/) | 0.12.1 | python3_scientific |
 | [dask](https://github.com/dask/dask/) | 2026.8.0 | python3_scientific |
