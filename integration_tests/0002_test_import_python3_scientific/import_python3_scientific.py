@@ -72,7 +72,7 @@ import findlibs
 import fiona
 import fire
 import flask
-import floris
+#import floris
 import folium
 import fontTools
 import formulaic
