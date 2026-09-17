@@ -28,7 +28,6 @@
 | [cftime](https://pypi.org/project/cftime) | 1.6.4.post1 | python3_scientific |
 | [click-plugins](https://github.com/click-contrib/click-plugins) | 1.1.1 | python3_scientific |
 | [cligj](https://github.com/mapbox/cligj) | 0.7.2 | python3_scientific |
-| [climetlab](https://github.com/ecmwf/climetlab/) | 0.24.1 | python3_scientific |
 | [cloudpickle](https://github.com/cloudpipe/cloudpickle) | 3.1.2 | python3_scientific |
 | [coloredlogs](https://coloredlogs.readthedocs.io) | 15.0.1 | python3_scientific |
 | [configobj](https://github.com/DiffSK/configobj) | 5.0.9 | python3_scientific |
@@ -57,9 +56,7 @@
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.48.0 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.48.0 | scientific |
-| [eccodeslib](https://pypi.org/project/eccodeslib) | 2.46.2.19 | python3_scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.32.3 | scientific |
-| [eckitlib](https://pypi.org/project/eckitlib) | 2.0.7.19 | python3_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.9.1 | scientific |
@@ -67,7 +64,6 @@
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
 | [fckit](https://github.com/ecmwf/fckit) | 0.14.0 | scientific |
-| [fckitlib](https://pypi.org/project/fckitlib) | 0.14.2.19 | python3_scientific |
 | [FFmpeg](https://ffmpeg.org/) | 7.1.1 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.5.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.1.2 | python3_scientific |
@@ -135,7 +131,6 @@
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
 | [numpy](https://numpy.org) | 2.5.2 | python3_scientific |
 | [objsize](https://github.com/liran-funaro/objsize) | 0.8.0 | python3_scientific |
-| [odclib](https://pypi.org/project/odclib) | 1.6.3.19 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.27.post1 | python3_scientific |
 | [palettable](https://jiffyclub.github.io/palettable/) | 3.3.3 | python3_scientific |
@@ -169,7 +164,6 @@
 | [pygraphviz](https://pygraphviz.github.io) | 1.14 | python3_scientific |
 | [pyhdf](https://github.com/fhs/pyhdf) | 0.11.6 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.4.1 | python3_scientific |
-| [pyodc](https://github.com/ecmwf/pyodc) | 1.6.0 | python3_scientific |
 | [pyogrio](https://pypi.org/project/pyogrio) | 0.12.1 | python3_scientific |
 | [pyorbital](https://pypi.org/project/pyorbital) | 1.10.0 | python3_scientific |
 | [pyoscar](https://github.com/wmo-cop/pyoscar) | 0.9.0 | python3_scientific |
@@ -223,4 +217,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(222 components)*
+*(216 components)*

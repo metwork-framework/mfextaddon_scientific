@@ -25,7 +25,6 @@ cf-xarray==0.10.9
 cfgrib==0.9.15.0
 click-plugins==1.1.1
 cligj==0.7.2
--e git+https://github.com/thebaptiste/climetlab.git@0.24.1#egg=climetlab
 cloudpickle==3.1.2
 coloredlogs==15.0.1
 configobj==5.0.9
@@ -52,13 +51,10 @@ earthkit-time==0.1.7
 earthkit-transforms==0.5.3.1
 earthkit-utils==0.1.2
 eccodes==2.48.0
-eccodeslib==2.46.2.19
-eckitlib==2.0.7.19
 ecmwf-api-client==1.6.5
 ecmwf-opendata==0.3.19
 fasteners==0.19
 fastparquet==2024.11.0
-fckitlib==0.14.2.19
 ffmpy==0.5.0
 findlibs==0.1.2
 Fiona==1.10.1
@@ -114,7 +110,6 @@ numcodecs==0.15.1
 numexpr==2.14.2
 numpngw==0.1.4
 objsize==0.8.0
-odclib==1.6.3.19
 opencv-contrib-python-headless==4.11.0.86
 openturns==1.27.post1
 palettable==3.3.3
@@ -146,7 +141,6 @@ pygmt==0.15.0
 pygraphviz==1.14
 pyhdf==0.11.6
 pykdtree==1.4.1
-pyodc==1.6.0
 pyogrio==0.12.1
 pyorbital==1.10.0
 pyoscar==0.9.0

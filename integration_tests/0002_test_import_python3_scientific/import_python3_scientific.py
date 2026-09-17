@@ -27,7 +27,7 @@ import cfgrib
 import cftime
 import click_plugins
 import cligj
-import climetlab
+#import climetlab
 import cloudpickle
 import coloredlogs
 import configobj
@@ -154,7 +154,7 @@ import pygmt
 import pygraphviz
 import pyhdf
 import pykdtree
-import pyodc
+#import pyodc
 import pyogrio
 import pyorbital
 import pyoscar
