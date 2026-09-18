@@ -4,7 +4,7 @@ import adjustText
 import affine
 import aggdraw
 import apng
-import arcosparse
+#import arcosparse
 import array_api_compat
 import asciitree
 import astropy
@@ -32,7 +32,7 @@ import cloudpickle
 import coloredlogs
 import configobj
 import contourpy
-import copernicusmarine
+#import copernicusmarine
 import cramjam
 import crc32c
 import cycler
@@ -91,7 +91,7 @@ import hda
 import heapdict
 import humanfriendly
 import humanize
-import icclim
+#import icclim
 import imageio
 import interface_meta
 import itsdangerous
@@ -141,7 +141,7 @@ import pox
 import ppft
 from google import protobuf #protobuf
 import puremagic
-import pyarrow
+#import pyarrow
 import pycoast
 import pycurl
 import pydecorate
@@ -167,7 +167,7 @@ import pysteps
 import pyvis
 import pywt #PyWaveLets
 import zmq #pyzmq
-import qubed
+#import qubed
 import rasterio
 import referencing
 import regionmask
@@ -197,7 +197,7 @@ import trollsift
 import tzdata
 import tzlocal
 import xarray
-import xclim
+#import xclim
 import xsdba
 import xxhash
 import xyzservices
