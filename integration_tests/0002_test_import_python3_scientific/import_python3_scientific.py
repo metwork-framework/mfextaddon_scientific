@@ -40,7 +40,7 @@ import dask
 import dask.array
 import dask.bag
 import dask.bytes
-import dask.dataframe
+#import dask.dataframe (requires pyarrow)
 import dask.diagnostics
 import dask.distributed
 import dask.tests
