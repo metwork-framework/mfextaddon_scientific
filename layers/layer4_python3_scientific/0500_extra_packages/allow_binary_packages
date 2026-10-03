@@ -13,3 +13,4 @@ orjson
 polars-runtime-32
 pyarrow
 meson
+pyhdf
