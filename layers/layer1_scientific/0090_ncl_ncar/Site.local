@@ -18,10 +18,11 @@
 #define GDALlib -L$(PREFIX)/../scientific_core/lib -lgdal -lproj
 #define BuildGRIB2 1
 #define GRIB2lib -L$(PREFIX)/lib -lg2clib-1.6.3 -ljasper
+#define BuildHDF4 0
 #define BuildHDFEOS 0
 #define BuildHDFEOS5 0
 #define BuildTRIANGLE 0
-#define HDFlib -L$(PREFIX)/../scientific_core/lib -lmfhdf -ldf -ljpeg -lz
+#define HDFlib -L$(PREFIX)/../scientific_core/lib -lmfhdf -lhdf -ljpeg -lz
 #define HDF5lib -L$(PREFIX)/../scientific_core/lib -lhdf5_hl -lhdf5
 #define BuildUdunits 1
 #define UdUnitslib -L$(PREFIX)/../scientific/lib -ludunits2
