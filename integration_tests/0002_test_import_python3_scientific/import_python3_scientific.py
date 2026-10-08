@@ -18,7 +18,7 @@ import boto3
 import botocore
 import branca
 import cartopy
-import cascade #earthkit_workflows
+#import cascade #earthkit_workflows
 import cdo
 import cdsapi
 import cf_units
@@ -60,7 +60,7 @@ import earthkit.regrid
 import earthkit.time
 import earthkit.transforms
 import earthkit.utils
-import earthkit.workflows
+#import earthkit.workflows
 import eccodes
 import ecmwfapi
 import ecmwf.opendata
