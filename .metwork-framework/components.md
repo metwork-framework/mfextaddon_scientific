@@ -60,7 +60,7 @@
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.48.0 | scientific |
 | [eccodeslib](https://pypi.org/project/eccodeslib) | 2.47.3.21 | python3_scientific |
 | [eckit](https://pypi.org/project/eckit) | 2.1.0.21 | python3_scientific |
-| [eckit](https://github.com/ecmwf/eckit) | 1.32.3 | scientific |
+| [eckit](https://github.com/ecmwf/eckit) | 2.1.0 | scientific |
 | [eckitlib](https://pypi.org/project/eckitlib) | 2.1.0.21 | python3_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
