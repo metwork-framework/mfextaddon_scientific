@@ -18,7 +18,6 @@ import boto3
 import botocore
 import branca
 import cartopy
-#import cascade #earthkit_workflows
 import cdo
 import cdsapi
 import cf_units
@@ -51,16 +50,6 @@ import DateTime
 import distributed
 import docstring_parser
 import donfig
-import earthkit.data
-import earthkit.geo
-import earthkit.hydro
-import earthkit.meteo
-import earthkit.plots
-import earthkit.regrid
-import earthkit.time
-import earthkit.transforms
-import earthkit.utils
-#import earthkit.workflows
 import eccodes
 import ecmwfapi
 import ecmwf.opendata
@@ -204,3 +193,5 @@ import xyzservices
 import zarr
 import zict
 import zope
+import earthkit.transforms
+import earthkit.utils
