@@ -13,6 +13,7 @@
 - bump eckit from 1.32.3 to 2.1.0 (compat. eckit python) (#1290)
 - bump fckit from 0.14.0 to 0.14.4 (compat. eckit 2.1.0)
 - revert : back to eckit 1.32.3 and fckit 0.14.0 (#1292)
+- bump numpy from 2.5.2 to 2.5.4 (#1294)
 
 ### Bug Fixes
 
