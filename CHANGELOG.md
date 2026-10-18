@@ -14,6 +14,7 @@
 - bump fckit from 0.14.0 to 0.14.4 (compat. eckit 2.1.0)
 - revert : back to eckit 1.32.3 and fckit 0.14.0 (#1292)
 - bump numpy from 2.5.2 to 2.5.4 (#1294)
+- bump geopy from 2.4.1 to 2.5.0 (fix moderate CVE-2026-77387) (#1295)
 
 ### Bug Fixes
 
