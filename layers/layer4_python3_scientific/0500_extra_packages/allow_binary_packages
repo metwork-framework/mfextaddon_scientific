@@ -1,7 +1,9 @@
+adbc-driver-manager
 adbc-driver-postgresql
 cdo
 cloudpickle
 eccodeslib
+eckit
 eckitlib
 ecmwflibs
 fckitlib
@@ -12,3 +14,8 @@ orjson
 polars-runtime-32
 pyarrow
 meson
+mirlib
+mir-python
+atlaslib-ecmwf
+pygribjump
+gribjumplib
