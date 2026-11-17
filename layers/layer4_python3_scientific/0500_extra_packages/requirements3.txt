@@ -53,7 +53,7 @@ earthkit-time==0.1.8
 earthkit-transforms==1.0.0
 earthkit-utils==1.0.2
 #earthkit-workflows==0.19.0
-eccodes==2.48.0
+eccodes==2.50.1
 eccodeslib==2.47.3.21
 eckit==2.1.0.21
 eckitlib==2.1.0.21
