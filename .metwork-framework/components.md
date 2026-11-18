@@ -68,7 +68,7 @@
 | [esmpy](http://www.earthsystemmodeling.org) | 8.9.1 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
-| [fckit](https://github.com/ecmwf/fckit) | 0.14.0 | scientific |
+| [fckit](https://github.com/ecmwf/fckit) | 0.14.4 | scientific |
 | [FFmpeg](https://ffmpeg.org/) | 7.1.1 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.5.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.1.2 | python3_scientific |
@@ -120,7 +120,7 @@
 | [matplotlib](https://matplotlib.org) | 3.10.7 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.7.1 | python3_scientific |
 | [metview](https://github.com/ecmwf/metview-python) | 1.16.2 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.26.2 | scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.27.0 | scientific |
 | [mir-python](https://pypi.org/project/mir-python) | 1.29.0.21 | python3_scientific |
 | [mirlib](https://pypi.org/project/mirlib) | 1.29.0.21 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.18 | python3_scientific |
