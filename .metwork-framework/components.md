@@ -56,8 +56,8 @@
 | [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 1.0.0 | python3_scientific |
 | [earthkit-utils](https://github.com/ecmwf/earthkit-utils/) | 1.0.2 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
-| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.48.0 | python3_scientific |
-| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.48.0 | scientific |
+| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.50.1 | python3_scientific |
+| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.50.1 | scientific |
 | [eccodeslib](https://pypi.org/project/eccodeslib) | 2.47.3.21 | python3_scientific |
 | [eckit](https://pypi.org/project/eckit) | 2.1.0.21 | python3_scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.32.3 | scientific |
@@ -115,7 +115,7 @@
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.17.1 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.10.7 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.7.1 | python3_scientific |
