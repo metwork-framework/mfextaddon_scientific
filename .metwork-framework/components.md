@@ -56,8 +56,8 @@
 | [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 1.0.0 | python3_scientific |
 | [earthkit-utils](https://github.com/ecmwf/earthkit-utils/) | 1.0.2 | python3_scientific |
 | [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
-| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.48.0 | python3_scientific |
-| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.48.0 | scientific |
+| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.50.1 | python3_scientific |
+| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.50.1 | scientific |
 | [eccodeslib](https://pypi.org/project/eccodeslib) | 2.47.3.21 | python3_scientific |
 | [eckit](https://pypi.org/project/eckit) | 2.1.0.21 | python3_scientific |
 | [eckit](https://github.com/ecmwf/eckit) | 1.32.3 | scientific |
