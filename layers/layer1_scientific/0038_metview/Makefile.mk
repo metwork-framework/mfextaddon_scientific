@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=Metview
-export VERSION=5.26.2
+export VERSION=5.27.0
 export EXTENSION=tar.gz
 export CHECKTYPE=MD5
-export CHECKSUM=daa38cb1deba901ca0fc2f237702fe72
+export CHECKSUM=af2f7ab6fcd5064971446b16ac4db7fc
 export EXPLICIT_NAME=$(NAME)-$(VERSION)-Source
 DESCRIPTION=\
 Metview is a meteorological workstation application designed to be a complete \
