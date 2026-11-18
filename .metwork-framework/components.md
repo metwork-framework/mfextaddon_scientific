@@ -115,7 +115,7 @@
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.17.1 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.10.7 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.7.1 | python3_scientific |
