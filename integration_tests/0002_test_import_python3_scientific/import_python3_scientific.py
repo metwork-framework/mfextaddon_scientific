@@ -9,7 +9,6 @@ import array_api_compat
 import asciitree
 import astropy
 import astropy_iers_data
-import bs4.builder #beautifulsoup4
 import blinker
 import bokeh
 import boltons
