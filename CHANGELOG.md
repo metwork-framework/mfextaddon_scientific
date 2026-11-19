@@ -165,6 +165,7 @@
 - bump numpy from 2.5.2 to 2.5.4 (#1294)
 - bump geopy from 2.4.1 to 2.5.0 (fix moderate CVE-2026-77387) (#1295)
 - bump numpy from 2.5.4 to 2.5.5 (backport #1298) (#1299)
+- bump eccodes and its python binding from 2.48.0 to 2.50.1
 
 ### Bug Fixes
 
