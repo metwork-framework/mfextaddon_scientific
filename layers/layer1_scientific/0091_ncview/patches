@@ -1,0 +1,2 @@
+#Patch to build against libXaw 1.0.13 (to be removed when building againts libXaw 1.0.15 on rocky 9 or rocky 10)
+xawd-1.0.13.patch
