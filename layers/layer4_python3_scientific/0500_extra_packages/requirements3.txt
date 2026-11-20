@@ -104,7 +104,7 @@ Magics==1.5.8
 mapclassify==2.8.1
 matplotlib==3.10.7
 MetPy==1.7.1
-metview==1.16.2
+metview==1.16.3
 mir-python==1.29.0.21
 mirlib==1.29.0.21
 multiprocess==0.70.18
