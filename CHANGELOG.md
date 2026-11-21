@@ -9,5 +9,7 @@
 - bump Magics from 4.15.5 to 4.17.1
 - bump Metview from 5.26.2 to 5.27.0 and fckit to 0.14.4
 - bump eckit from 1.32.3 to 2.5.0
+- bump ecbuild from 3.9.1 to 3.16.0
+- bump metview (the binding python) from 1.16.2 to 1.16.3
 
 
