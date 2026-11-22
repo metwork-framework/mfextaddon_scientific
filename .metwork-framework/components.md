@@ -55,12 +55,12 @@
 | [earthkit-time](https://github.com/ecmwf/earthkit-time/) | 0.1.8 | python3_scientific |
 | [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 1.0.0 | python3_scientific |
 | [earthkit-utils](https://github.com/ecmwf/earthkit-utils/) | 1.0.2 | python3_scientific |
-| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
+| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.16.0 | scientific |
 | [eccodes](https://github.com/ecmwf/eccodes-python) | 2.50.1 | python3_scientific |
 | [eccodes](https://www.ecmwf.int/en/computing/software) | 2.50.1 | scientific |
 | [eccodeslib](https://pypi.org/project/eccodeslib) | 2.47.3.21 | python3_scientific |
 | [eckit](https://pypi.org/project/eckit) | 2.1.0.21 | python3_scientific |
-| [eckit](https://github.com/ecmwf/eckit) | 1.32.3 | scientific |
+| [eckit](https://github.com/ecmwf/eckit) | 2.5.0 | scientific |
 | [eckitlib](https://pypi.org/project/eckitlib) | 2.1.0.21 | python3_scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
@@ -68,7 +68,7 @@
 | [esmpy](http://www.earthsystemmodeling.org) | 8.9.1 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
-| [fckit](https://github.com/ecmwf/fckit) | 0.14.0 | scientific |
+| [fckit](https://github.com/ecmwf/fckit) | 0.14.4 | scientific |
 | [FFmpeg](https://ffmpeg.org/) | 7.1.1 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.5.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.1.2 | python3_scientific |
@@ -119,8 +119,8 @@
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.10.7 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.7.1 | python3_scientific |
-| [metview](https://github.com/ecmwf/metview-python) | 1.16.2 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.26.2 | scientific |
+| [metview](https://github.com/ecmwf/metview-python) | 1.16.3 | python3_scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.27.0 | scientific |
 | [mir-python](https://pypi.org/project/mir-python) | 1.29.0.21 | python3_scientific |
 | [mirlib](https://pypi.org/project/mirlib) | 1.29.0.21 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.18 | python3_scientific |
