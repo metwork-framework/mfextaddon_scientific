@@ -8,6 +8,7 @@ eckitlib
 ecmwflibs
 fckitlib
 llvmlite
+lxml
 odclib
 openturns
 orjson
