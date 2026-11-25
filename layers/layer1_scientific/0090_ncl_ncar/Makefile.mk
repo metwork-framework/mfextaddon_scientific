@@ -14,8 +14,8 @@ LICENSE=Apache 2.0
 #inspired by ncl.spec in https://download-ib01.fedoraproject.org/pub/epel/9/Everything/source/tree/Packages/n/ncl-6.6.2-24.el9.src.rpm
 
 RPM_OPT_FLAGS=$(shell outside rpm -E %optflags)
-FCOPTIONS=$(RPM_OPT_FLAGS) -fPIC -fno-second-underscore -fno-range-check -fopenmp -fallow-argument-mismatch -fcommon -DH5_USE_110_API
-CCOPTIONS=$(RPM_OPT_FLAGS) -std=c99 -fPIC -fno-strict-aliasing -fopenmp -fcommon -DH5_USE_110_API
+FCOPTIONS=$(RPM_OPT_FLAGS) -Wno-error=implicit-function-declaration -Wno-error=implicit-int -Wno-error=int-conversion -Wno-error=incompatible-pointer-types -fPIC -fno-second-underscore -fno-range-check -fopenmp -fallow-argument-mismatch -fcommon -DH5_USE_110_API
+CCOPTIONS=$(RPM_OPT_FLAGS) -Wno-error=implicit-function-declaration -Wno-error=implicit-int -Wno-error=int-conversion -Wno-error=incompatible-pointer-types -std=c99 -fPIC -fno-strict-aliasing -fopenmp -fcommon -DH5_USE_110_API
 
 all::$(PREFIX)/bin/ncl
 $(PREFIX)/bin/ncl:
