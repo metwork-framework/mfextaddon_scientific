@@ -1,0 +1,12 @@
+diff -up ncl-6.6.2/config/ymake-filter.c.gcc15 ncl-6.6.2/config/ymake-filter.c
+--- ncl-6.6.2/config/ymake-filter.c.gcc15	2019-02-27 16:44:39.000000000 -0700
++++ ncl-6.6.2/config/ymake-filter.c	2025-01-23 20:12:50.133075926 -0700
+@@ -47,7 +47,7 @@ int main()
+ {
+ 	char	*line, *getcppline();
+ 	int	len, lastlen;
+-	int	isacppcomment();
++	int	isacppcomment(char *);
+ 
+ 	lastlen = 0;
+ 

@@ -12,3 +12,5 @@ ncl-5.2.1-secondary.patch
 ncl-proj8.patch
 #from https://github.com/NCAR/ncl/pull/209
 ncl-hdf430.patch
+#ncl-gcc15.patch
+#ncl-nc-set-log-level.patch
