@@ -4,7 +4,6 @@
 
 ### New Features
 
-- bump numpy from 2.5.4 to 2.5.5
 - bump Flask from 3.1.0 to 3.1.1 (fix CVE-2025-47278) (#1016)
 - bump protobuf from 3.20.3 to 5.29.4 with binary build (#1022)
 - bump GDAL from 3.10.3 to 3.11.0 (#1025)
@@ -165,14 +164,23 @@
 - revert : back to eckit 1.32.3 and fckit 0.14.0 (#1292)
 - bump numpy from 2.5.2 to 2.5.4 (#1294)
 - bump geopy from 2.4.1 to 2.5.0 (fix moderate CVE-2026-77387) (#1295)
+- bump numpy from 2.5.4 to 2.5.5
 - bump numpy from 2.5.4 to 2.5.5 (backport #1298) (#1299)
 - bump eccodes and its python binding from 2.48.0 to 2.50.1
+- bump eccodes and its python binding from 2.48.0 to 2.50.1
+- bump Magics from 4.15.5 to 4.17.1
 - bump Magics from 4.15.5 to 4.17.1
 - bump Metview from 5.26.2 to 5.27.0 and fckit to 0.14.4
+- bump Metview from 5.26.2 to 5.27.0 and fckit to 0.14.4
+- bump eckit from 1.32.3 to 2.5.0
 - bump eckit from 1.32.3 to 2.5.0
 - bump ecbuild from 3.9.1 to 3.16.0
+- bump ecbuild from 3.9.1 to 3.16.0
+- bump metview (the binding python) from 1.16.2 to 1.16.3
 - bump metview (the binding python) from 1.16.2 to 1.16.3
 - bump pyhdf from 0.11.6 to 0.11.7 (compatility gcc 14)
+- bump pyhdf from 0.11.6 to 0.11.7 (compatility gcc 14)
+- bump to pyhdf 0.11.7
 - bump PyWavelets from 1.8.0 to 1.10.0
 
 ### Bug Fixes
@@ -181,5 +189,6 @@
 - bump scitools-iris from 3.12.2 to 3.12.3 (compat numpy>=1.25) (#1117)
 - use basemap fork without upper bound on packaging (#1142)
 - add variable EARTHKIT_ECKITLIB_PATH (#1293)
+- add patch to build with gcc 14 against Xawd 1.0.13
 
 
