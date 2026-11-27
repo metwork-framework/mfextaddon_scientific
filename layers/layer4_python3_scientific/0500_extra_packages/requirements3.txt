@@ -4,7 +4,6 @@ adjustText==1.3.0
 affine==3.0.1
 aggdraw==1.3.19
 apng==0.3.4
-arcosparse==0.5.1
 array_api_compat==1.11.2
 asciitree==0.3.3
 astropy==7.0.1
@@ -26,12 +25,10 @@ cf-xarray==0.10.9
 cfgrib==0.9.15.0
 click-plugins==1.1.1
 cligj==0.7.2
--e git+https://github.com/thebaptiste/climetlab.git@0.24.1#egg=climetlab
 cloudpickle==3.1.2
 coloredlogs==15.0.1
 configobj==5.0.9
 contourpy==1.3.2
-copernicusmarine==2.4.1
 cramjam==2.12.1
 crc32c==2.7.1
 cycler==0.12.1
@@ -54,9 +51,6 @@ earthkit-transforms==1.0.0
 earthkit-utils==1.0.2
 #earthkit-workflows==0.19.0
 eccodes==2.50.1
-eccodeslib==2.47.3.21
-eckit==2.1.0.21
-eckitlib==2.1.0.21
 ecmwf-api-client==1.6.5
 ecmwf-opendata==0.3.19
 fasteners==0.19
@@ -68,7 +62,6 @@ fire==0.7.1
 Flask==3.1.3
 flexcache==0.3
 flexparser==0.4
-FLORIS==4.6.6
 folium==0.19.5
 fonttools==4.61.0
 formulaic==1.2.2
@@ -76,7 +69,6 @@ frozendict==2.4.7
 gast==0.6.0
 GDAL==3.13.3
 geoarrow_c==0.3.1
-geoarrow-pyarrow==0.2.0
 geoarrow-types==0.3.0
 geographiclib==2.0
 geopandas==1.1.3
@@ -89,14 +81,13 @@ hda==2.29
 HeapDict==1.0.1
 humanfriendly==10.0
 humanize==4.15.0
-icclim==7.1.10
 imageio==2.37.0
 interface-meta==2.0.1
 itsdangerous==2.2.0
 jsmin==3.0.1
 kiwisolver==1.4.8
 lazy-loader==0.4
-llvmlite==0.49.0
+llvmlite==0.50.0rc3
 lmoments3==1.0.8
 locket==1.0.0
 lru-dict==1.3.0
@@ -113,12 +104,11 @@ munch==4.0.0
 nco==1.1.2
 netCDF4==1.7.2
 networkx==3.4.2
-numba==0.67.0
+numba==0.68.0rc1
 numcodecs==0.15.1
 numexpr==2.14.2
 numpngw==0.1.4
 objsize==0.8.0
-odclib==1.6.3.21
 opencv-contrib-python-headless==4.11.0.86
 openturns==1.27.post1
 palettable==3.3.3
@@ -137,7 +127,6 @@ pox==0.3.6
 ppft==1.7.7
 protobuf==6.33.5
 puremagic==1.29
-pyarrow==23.0.1
 pycoast==1.7.1
 pycurl==7.45.6
 pydecorate==0.5.1
@@ -150,7 +139,6 @@ pygmt==0.15.0
 pygraphviz==1.14
 pyhdf==0.11.7
 pykdtree==1.4.1
-pyodc==1.6.0
 pyogrio==0.12.1
 pyorbital==1.10.0
 pyoscar==0.9.0
@@ -163,7 +151,7 @@ pysteps==1.18.1
 pyvis==0.3.1
 PyWavelets==1.10.0
 pyzmq==27.2.0
-qubed==0.3.1
+qubed==0.4.11
 rasterio==1.5.1
 regionmask==0.13.0
 rich-argparse==1.7.0
@@ -191,7 +179,6 @@ trollsift==0.5.3
 tzdata==2025.2
 tzlocal==5.3.1
 windrose==1.9.2
-xclim==0.62.0
 xsdba==0.7.0
 xxhash==3.5.0
 xyzservices==2025.4.0

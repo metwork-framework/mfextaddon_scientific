@@ -4,7 +4,7 @@ import adjustText
 import affine
 import aggdraw
 import apng
-import arcosparse
+#import arcosparse
 import array_api_compat
 import asciitree
 import astropy
@@ -25,12 +25,12 @@ import cfgrib
 import cftime
 import click_plugins
 import cligj
-import climetlab
+#import climetlab
 import cloudpickle
 import coloredlogs
 import configobj
 import contourpy
-import copernicusmarine
+#import copernicusmarine
 import cramjam
 import crc32c
 import cycler
@@ -38,7 +38,7 @@ import dask
 import dask.array
 import dask.bag
 import dask.bytes
-import dask.dataframe
+#import dask.dataframe (requires pyarrow)
 import dask.diagnostics
 import dask.distributed
 import dask.tests
@@ -60,7 +60,7 @@ import findlibs
 import fiona
 import fire
 import flask
-import floris
+#import floris
 import folium
 import fontTools
 import formulaic
@@ -79,7 +79,7 @@ import hda
 import heapdict
 import humanfriendly
 import humanize
-import icclim
+#import icclim
 import imageio
 import interface_meta
 import itsdangerous
@@ -129,7 +129,7 @@ import pox
 import ppft
 from google import protobuf #protobuf
 import puremagic
-import pyarrow
+#import pyarrow
 import pycoast
 import pycurl
 import pydecorate
@@ -142,7 +142,7 @@ import pygmt
 import pygraphviz
 import pyhdf
 import pykdtree
-import pyodc
+#import pyodc
 import pyogrio
 import pyorbital
 import pyoscar
@@ -155,7 +155,7 @@ import pysteps
 import pyvis
 import pywt #PyWaveLets
 import zmq #pyzmq
-import qubed
+#import qubed
 import rasterio
 import referencing
 import regionmask
@@ -185,7 +185,7 @@ import trollsift
 import tzdata
 import tzlocal
 import xarray
-import xclim
+#import xclim
 import xsdba
 import xxhash
 import xyzservices
