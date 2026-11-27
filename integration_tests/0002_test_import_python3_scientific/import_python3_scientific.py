@@ -192,5 +192,3 @@ import xyzservices
 import zarr
 import zict
 import zope
-import earthkit.transforms
-import earthkit.utils
