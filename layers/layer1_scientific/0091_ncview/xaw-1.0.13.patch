@@ -1,0 +1,26 @@
+diff -up ncview-2.1.11/src/interface/dataedit.c.orig ncview-2.1.11/src/interface/dataedit.c
+--- ncview-2.1.11/src/interface/dataedit.c.orig	2026-11-20 15:26:13.595775897 +0000
++++ ncview-2.1.11/src/interface/dataedit.c	2026-11-20 15:28:33.819924708 +0000
+@@ -209,7 +209,7 @@ XtPointer call_data;
+ 	index = (size_t)list->list_index;
+ 	in_change_dat( index, new_val );
+ 	strcpy( *(list_text+list->list_index), line );
+-	XawListChange( dataedit_list_widget, (_Xconst char **)list_text, 0, 0, True );
++	XawListChange( dataedit_list_widget, list_text, 0, 0, True );
+ 	XawListHighlight( dataedit_list_widget, list->list_index );
+ }
+
+diff -up ncview-2.1.11/src/interface/filesel.c.orig ncview-2.1.11/src/interface/filesel.c
+--- ncview-2.1.11/src/interface/filesel.c.orig	2026-11-20 15:40:55.720712030 +0000
++++ ncview-2.1.11/src/interface/filesel.c	2026-11-20 15:41:57.758777867 +0000
+@@ -240,9 +240,7 @@ fs_double_click(Widget w, XButtonEvent *
+ 		if( ierr != 0 ) 
+ 			fprintf( stderr, "Error when trying to chdir to %s\n", highlited_entry->string );
+ 		fs_get_file_dir_list( &files_and_dirs );
+-		XawListChange( fs_list_widget, 
+-			(_Xconst char **)stringlist_to_Xawlist( files_and_dirs ),
+-			0, 0, False );
++		XawListChange( fs_list_widget, stringlist_to_Xawlist( files_and_dirs ), 0, 0, False );
+ 		XtVaSetValues( fs_pathname_text_widget, 
+ 			XtNstring, fs_cwd(), NULL );
+ 		}

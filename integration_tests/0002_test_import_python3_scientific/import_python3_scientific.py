@@ -9,7 +9,6 @@ import array_api_compat
 import asciitree
 import astropy
 import astropy_iers_data
-import bs4.builder #beautifulsoup4
 import blinker
 import bokeh
 import boltons
@@ -18,7 +17,6 @@ import boto3
 import botocore
 import branca
 import cartopy
-#import cascade #earthkit_workflows
 import cdo
 import cdsapi
 import cf_units
@@ -51,16 +49,6 @@ import DateTime
 import distributed
 import docstring_parser
 import donfig
-import earthkit.data
-import earthkit.geo
-import earthkit.hydro
-import earthkit.meteo
-import earthkit.plots
-import earthkit.regrid
-import earthkit.time
-import earthkit.transforms
-import earthkit.utils
-#import earthkit.workflows
 import eccodes
 import ecmwfapi
 import ecmwf.opendata

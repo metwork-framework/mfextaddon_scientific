@@ -10,6 +10,7 @@
 | [asciitree](http://github.com/mbr/asciitree) | 0.3.3 | python3_scientific |
 | [astropy-iers-data](https://pypi.org/project/astropy-iers-data) | 0.2025.4.14.0.37.22 | python3_scientific |
 | [astropy](https://www.astropy.org/) | 7.0.1 | python3_scientific |
+| [atlaslib-ecmwf](https://pypi.org/project/atlaslib-ecmwf) | 0.46.0.21 | python3_scientific |
 | [blinker](https://pypi.org/project/blinker) | 1.9.0 | python3_scientific |
 | [bokeh](https://bokeh.org) | 3.8.2 | python3_scientific |
 | [boltons](https://github.com/mahmoud/boltons) | 25.0.0 | python3_scientific |
@@ -41,27 +42,27 @@
 | [distributed](https://distributed.dask.org) | 2026.8.0 | python3_scientific |
 | [docstring_parser](https://github.com/rr-/docstring_parser) | 0.17.0 | python3_scientific |
 | [donfig](https://github.com/pytroll/donfig) | 0.8.1.post1 | python3_scientific |
-| [earthkit-data](https://github.com/ecmwf/earthkit-data/) | 0.18.3 | python3_scientific |
-| [earthkit-geo](https://github.com/ecmwf/earthkit-geo/) | 0.4.0 | python3_scientific |
-| [earthkit-hydro](https://pypi.org/project/earthkit-hydro) | 1.1.0 | python3_scientific |
-| [earthkit-meteo](https://github.com/ecmwf/earthkit-meteo/) | 0.5.0 | python3_scientific |
+| [earthkit-data](https://github.com/ecmwf/earthkit-data/) | 1.2.4 | python3_scientific |
+| [earthkit-geo](https://github.com/ecmwf/earthkit-geo/) | 1.1.2 | python3_scientific |
+| [earthkit-hydro](https://pypi.org/project/earthkit-hydro) | 1.4.0 | python3_scientific |
+| [earthkit-meteo](https://github.com/ecmwf/earthkit-meteo/) | 1.2.0 | python3_scientific |
 | [earthkit-plots-default-styles](https://pypi.org/project/earthkit-plots-default-styles) | 0.1.3 | python3_scientific |
-| [earthkit-plots](https://github.com/ecmwf/earthkit-plots/) | 0.5.2 | python3_scientific |
+| [earthkit-plots](https://github.com/ecmwf/earthkit-plots/) | 1.0.4 | python3_scientific |
 | [earthkit-regrid](https://github.com/ecmwf/earthkit-regrid/) | 0.5.1 | python3_scientific |
-| [earthkit-time](https://github.com/ecmwf/earthkit-time/) | 0.1.7 | python3_scientific |
-| [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 0.5.3.1 | python3_scientific |
-| [earthkit-utils](https://github.com/ecmwf/earthkit-utils/) | 0.1.2 | python3_scientific |
-| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.9.1 | scientific |
-| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.48.0 | python3_scientific |
-| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.48.0 | scientific |
-| [eckit](https://github.com/ecmwf/eckit) | 1.32.3 | scientific |
+| [earthkit-time](https://github.com/ecmwf/earthkit-time/) | 0.1.8 | python3_scientific |
+| [earthkit-transforms](https://pypi.org/project/earthkit-transforms) | 1.0.0 | python3_scientific |
+| [earthkit-utils](https://github.com/ecmwf/earthkit-utils/) | 1.0.2 | python3_scientific |
+| [ecbuild](https://github.com/ecmwf/ecbuild) | 3.16.0 | scientific |
+| [eccodes](https://github.com/ecmwf/eccodes-python) | 2.50.1 | python3_scientific |
+| [eccodes](https://www.ecmwf.int/en/computing/software) | 2.50.1 | scientific |
+| [eckit](https://github.com/ecmwf/eckit) | 2.5.0 | scientific |
 | [ecmwf-api-client](https://github.com/ecmwf/ecmwf-api-client) | 1.6.5 | python3_scientific |
 | [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) | 0.3.19 | python3_scientific |
 | [esmf](http://www.earthsystemmodeling.org) | 8.9.1 | scientific |
 | [esmpy](http://www.earthsystemmodeling.org) | 8.9.1 | python3_scientific |
 | [fasteners](https://github.com/harlowja/fasteners) | 0.19 | python3_scientific |
 | [fastparquet](https://github.com/dask/fastparquet/) | 2024.11.0 | python3_scientific |
-| [fckit](https://github.com/ecmwf/fckit) | 0.14.0 | scientific |
+| [fckit](https://github.com/ecmwf/fckit) | 0.14.4 | scientific |
 | [FFmpeg](https://ffmpeg.org/) | 7.1.1 | scientific |
 | [ffmpy](https://github.com/Ch00k/ffmpy) | 0.5.0 | python3_scientific |
 | [findlibs](https://github.com/ecmwf/findlibs) | 0.1.2 | python3_scientific |
@@ -81,7 +82,7 @@
 | [geoarrow-types](https://geoarrow.org) | 0.3.0 | python3_scientific |
 | [geographiclib](https://geographiclib.sourceforge.io/Python/2.0) | 2.0 | python3_scientific |
 | [geopandas](https://pypi.org/project/geopandas) | 1.1.3 | python3_scientific |
-| [geopy](https://github.com/geopy/geopy) | 2.4.1 | python3_scientific |
+| [geopy](https://github.com/geopy/geopy) | 2.5.0 | python3_scientific |
 | [gmt](https://www.generic-mapping-tools.org) | 6.5.0 | scientific |
 | [graphviz](https://github.com/xflr6/graphviz) | 0.20.3 | python3_scientific |
 | [greenlet](https://greenlet.readthedocs.io/) | 3.2.4 | python3_scientific |
@@ -105,12 +106,14 @@
 | [locket](http://github.com/mwilliamson/locket.py) | 1.0.0 | python3_scientific |
 | [lru-dict](https://github.com/amitdev/lru-dict) | 1.3.0 | python3_scientific |
 | [Magics](https://github.com/ecmwf/magics-python) | 1.5.8 | python3_scientific |
-| [Magics](https://www.ecmwf.int/en/computing/software) | 4.15.5 | scientific |
+| [Magics](https://www.ecmwf.int/en/computing/software) | 4.17.1 | scientific |
 | [mapclassify](https://pypi.org/project/mapclassify) | 2.8.1 | python3_scientific |
 | [matplotlib](https://matplotlib.org) | 3.10.7 | python3_scientific |
 | [MetPy](https://github.com/Unidata/MetPy) | 1.7.1 | python3_scientific |
-| [metview](https://github.com/ecmwf/metview-python) | 1.16.2 | python3_scientific |
-| [Metview](https://www.ecmwf.int/en/computing/software) | 5.26.2 | scientific |
+| [metview](https://github.com/ecmwf/metview-python) | 1.16.3 | python3_scientific |
+| [Metview](https://www.ecmwf.int/en/computing/software) | 5.27.0 | scientific |
+| [mir-python](https://pypi.org/project/mir-python) | 1.29.0.21 | python3_scientific |
+| [mirlib](https://pypi.org/project/mirlib) | 1.29.0.21 | python3_scientific |
 | [multiprocess](https://github.com/uqfoundation/multiprocess) | 0.70.18 | python3_scientific |
 | [multiurl](https://github.com/ecmwf/multiurl) | 0.3.5 | python3_scientific |
 | [munch](https://github.com/Infinidat/munch) | 4.0.0 | python3_scientific |
@@ -124,7 +127,7 @@
 | [numcodecs](https://github.com/zarr-developers/numcodecs) | 0.15.1 | python3_scientific |
 | [numexpr](https://github.com/pydata/numexpr) | 2.14.2 | python3_scientific |
 | [numpngw](https://github.com/WarrenWeckesser/numpngw) | 0.1.4 | python3_scientific |
-| [numpy](https://numpy.org) | 2.5.2 | python3_scientific |
+| [numpy](https://numpy.org) | 2.5.5 | python3_scientific |
 | [objsize](https://github.com/liran-funaro/objsize) | 0.8.0 | python3_scientific |
 | [opencv-contrib-python-headless](https://github.com/opencv/opencv-python) | 4.11.0.86 | python3_scientific |
 | [openturns](http://www.openturns.org) | 1.27.post1 | python3_scientific |
@@ -156,7 +159,7 @@
 | [pygeoif](https://github.com/cleder/pygeoif/) | 1.5.1 | python3_scientific |
 | [pygmt](https://www.pygmt.org) | 0.15.0 | python3_scientific |
 | [pygraphviz](https://pygraphviz.github.io) | 1.14 | python3_scientific |
-| [pyhdf](https://github.com/fhs/pyhdf) | 0.11.6 | python3_scientific |
+| [pyhdf](https://github.com/fhs/pyhdf) | 0.11.7 | python3_scientific |
 | [pykdtree](https://github.com/storpipfugl/pykdtree) | 1.4.1 | python3_scientific |
 | [pyogrio](https://pypi.org/project/pyogrio) | 0.12.1 | python3_scientific |
 | [pyorbital](https://pypi.org/project/pyorbital) | 1.10.0 | python3_scientific |
@@ -168,7 +171,7 @@
 | [pystac](https://pypi.org/project/pystac) | 1.13.0 | python3_scientific |
 | [pysteps](https://pysteps.github.io/) | 1.18.1 | python3_scientific |
 | [pyvis](https://github.com/WestHealth/pyvis) | 0.3.1 | python3_scientific |
-| [PyWavelets](https://github.com/PyWavelets/pywt) | 1.8.0 | python3_scientific |
+| [PyWavelets](https://github.com/PyWavelets/pywt) | 1.10.0 | python3_scientific |
 | [pyzmq](https://pyzmq.readthedocs.org) | 27.2.0 | python3_scientific |
 | [qubed](https://pypi.org/project/qubed) | 0.4.11 | python3_scientific |
 | [rasterio](https://pypi.org/project/rasterio) | 1.5.1 | python3_scientific |
@@ -210,4 +213,4 @@
 | [zict](http://zict.readthedocs.io/en/latest/) | 3.0.0 | python3_scientific |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) | 7.2 | python3_scientific |
 
-*(209 components)*
+*(212 components)*

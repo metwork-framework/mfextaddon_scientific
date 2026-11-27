@@ -1,5 +1,11 @@
 # release_2.3 CHANGELOG
 
+## v2.3.12 (2026-10-31)
+
+### New Features
+
+- bump msgpack from 1.2.1 to 1.2.4 (fix high CVE-2026-114613)
+
 ## v2.3.11 (2026-06-25)
 
 ### New Features
