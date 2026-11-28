@@ -182,6 +182,7 @@
 - bump pyhdf from 0.11.6 to 0.11.7 (compatility gcc 14)
 - bump to pyhdf 0.11.7
 - bump PyWavelets from 1.8.0 to 1.10.0
+- bump adbc-driver packages to 1.13.0 (compat. Python 3.15) (backport #1323) (#1324)
 
 ### Bug Fixes
 
